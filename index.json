@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1787754344,
+ "updated": 1787756670,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -372,7 +372,7 @@
    "map": "cache",
    "date": 1787752122,
    "rank": 1,
-   "event": null,
+   "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -396,7 +396,7 @@
    "map": "ancient",
    "date": 1787751154,
    "rank": 1,
-   "event": null,
+   "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -420,7 +420,7 @@
    "map": "anubis",
    "date": 1787743105,
    "rank": 10,
-   "event": null,
+   "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -444,7 +444,7 @@
    "map": "inferno",
    "date": 1787738683,
    "rank": 10,
-   "event": null,
+   "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -612,7 +612,7 @@
    "map": "mirage",
    "date": 1787342085,
    "rank": 1,
-   "event": "esports-world-cup-2026",
+   "event": "iem-katowice-2025",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -636,7 +636,7 @@
    "map": "nuke",
    "date": 1787338879,
    "rank": 1,
-   "event": "esports-world-cup-2026",
+   "event": "iem-katowice-2025",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -948,7 +948,7 @@
    "map": "dust2",
    "date": 1786646183,
    "rank": 2,
-   "event": "esports-world-cup-2026",
+   "event": "pgl-cluj-napoca-2025",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -2028,7 +2028,7 @@
    "map": "anubis",
    "date": 1784911670,
    "rank": 5,
-   "event": "blast-bounty-2026-season-2",
+   "event": "blast-premier-world-final-2024",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -3492,7 +3492,7 @@
    "map": "dust2",
    "date": 1779536774,
    "rank": 2,
-   "event": "cs-asia-championships-2026",
+   "event": "blast-rivals-2025-season-1",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -3924,7 +3924,7 @@
    "map": "nuke",
    "date": 1778871908,
    "rank": 2,
-   "event": "pgl-astana-2026",
+   "event": "blast-rivals-2025-season-2",
    "cache_version": 2,
    "files": {
     "demo": {
