@@ -41,6 +41,20 @@ data is factual information about what happened in a public esports match.
 Nothing here is produced by, endorsed by, or affiliated with Valve, HLTV, or
 any tournament organiser.
 
+## Credits
+
+Team ranks come from Valve's published
+[global standings](https://github.com/ValveSoftware/counter-strike_regional_standings).
+
+Team logos are sourced from [Liquipedia](https://liquipedia.net/counterstrike/),
+whose content is licensed [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+They are bundled with the app rather than requested from Liquipedia at runtime,
+per their [API terms](https://liquipedia.net/api-terms-of-use). Each logo
+remains the trademark of the organisation it represents and is used here only
+to identify the team whose match a row refers to.
+
+Map icons are Counter-Strike game assets and remain the property of Valve.
+
 ## Format
 
 Both asset types are gzipped JSON — deliberately not pickle, which cannot be
