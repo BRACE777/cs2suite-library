@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1787805498,
+ "updated": 1787836118,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -363,6 +363,54 @@
   "alzon": 396
  },
  "demos": [
+  {
+   "stem": "vitality-vs-inner-circle-m2-cache",
+   "teams": [
+    "vitality",
+    "inner-circle"
+   ],
+   "map": "cache",
+   "date": 1787828996,
+   "rank": 5,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-inner-circle-m2-cache.v2.cs2lib",
+     "size": 2128741,
+     "sha256": "014d17fc93a2ab5de1fc741f234b374c2b0e8610905cc4d0c29996a0a141eb76"
+    },
+    "nades": {
+     "name": "vitality-vs-inner-circle-m2-cache.v2.cs2nades",
+     "size": 376595,
+     "sha256": "6c13f534c6add4153e22a591e3d97c8cb3af6cb53e2c9fcb614eba5027c248e8"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-inner-circle-m1-anubis",
+   "teams": [
+    "vitality",
+    "inner-circle"
+   ],
+   "map": "anubis",
+   "date": 1787828330,
+   "rank": 5,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-inner-circle-m1-anubis.v2.cs2lib",
+     "size": 1499979,
+     "sha256": "d86eef7d88729422089c6af9fe07396a5e479349f6691c5cec3548a6d44167b0"
+    },
+    "nades": {
+     "name": "vitality-vs-inner-circle-m1-anubis.v2.cs2nades",
+     "size": 256744,
+     "sha256": "79a1a1a689bac03210f34550c5b7e5613bc833471e4a1d5c825299c61f9343dd"
+    }
+   }
+  },
   {
    "stem": "furia-vs-pain-m2-cache",
    "teams": [
@@ -732,7 +780,7 @@
    "map": "mirage",
    "date": 1787342085,
    "rank": 1,
-   "event": "esports-world-cup-2026",
+   "event": "iem-katowice-2025",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -756,7 +804,7 @@
    "map": "nuke",
    "date": 1787338879,
    "rank": 1,
-   "event": "esports-world-cup-2026",
+   "event": "iem-katowice-2025",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -1068,7 +1116,7 @@
    "map": "dust2",
    "date": 1786646183,
    "rank": 2,
-   "event": "esports-world-cup-2026",
+   "event": "pgl-cluj-napoca-2025",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -2148,7 +2196,7 @@
    "map": "anubis",
    "date": 1784911670,
    "rank": 5,
-   "event": "blast-bounty-2026-season-2",
+   "event": "blast-premier-world-final-2024",
    "cache_version": 2,
    "files": {
     "demo": {
