@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1787840509,
+ "updated": 1787842449,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -363,6 +363,54 @@
   "alzon": 396
  },
  "demos": [
+  {
+   "stem": "mouz-vs-9z-m1-cache",
+   "teams": [
+    "mouz",
+    "9z"
+   ],
+   "map": "cache",
+   "date": 1787838982,
+   "rank": 3,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-9z-m1-cache.v2.cs2lib",
+     "size": 1166560,
+     "sha256": "142f5fd3118a1403488b723702f70850083a5ce9daf1fb284a7e59734c457491"
+    },
+    "nades": {
+     "name": "mouz-vs-9z-m1-cache.v2.cs2nades",
+     "size": 202755,
+     "sha256": "56bb3b73aa788a86a8143b47f9c640fdf479eec3a3ff99ff06130df725d6e636"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-9z-m2-nuke",
+   "teams": [
+    "mouz",
+    "9z"
+   ],
+   "map": "nuke",
+   "date": 1787838979,
+   "rank": 3,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-9z-m2-nuke.v2.cs2lib",
+     "size": 1417807,
+     "sha256": "09c7f71dfe7312e2ef232b3851a740f62e56f437e7623111970217c31f76e29c"
+    },
+    "nades": {
+     "name": "mouz-vs-9z-m2-nuke.v2.cs2nades",
+     "size": 238957,
+     "sha256": "490f115741be64696b0cd452308a87d23fd60b6d04b40a1b240430a53fbd78d2"
+    }
+   }
+  },
   {
    "stem": "vitality-vs-inner-circle-m2-cache",
    "teams": [
