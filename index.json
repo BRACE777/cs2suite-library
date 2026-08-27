@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1787756670,
+ "updated": 1787805498,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -364,6 +364,126 @@
  },
  "demos": [
   {
+   "stem": "furia-vs-pain-m2-cache",
+   "teams": [
+    "furia",
+    "pain"
+   ],
+   "map": "cache",
+   "date": 1787772982,
+   "rank": 8,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-pain-m2-cache.v2.cs2lib",
+     "size": 1511097,
+     "sha256": "3494bffa3f6871f1508db6c35579ec14f5cdd6aa698afed803beba9cb06ef08e"
+    },
+    "nades": {
+     "name": "furia-vs-pain-m2-cache.v2.cs2nades",
+     "size": 266245,
+     "sha256": "db42a9299082219c5fdd4f899850ad7db46ee82a55eddec8f2ad81457e57ce71"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-pain-m1-mirage",
+   "teams": [
+    "furia",
+    "pain"
+   ],
+   "map": "mirage",
+   "date": 1787772423,
+   "rank": 8,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-pain-m1-mirage.v2.cs2lib",
+     "size": 1140941,
+     "sha256": "b581669b43c95b87dc65998a63c0b4b22b4fa9f3bc8ff8c336c70620ccfc8adf"
+    },
+    "nades": {
+     "name": "furia-vs-pain-m1-mirage.v2.cs2nades",
+     "size": 200121,
+     "sha256": "cc26ed0a45679158648c6aa74f4a28ea6665a2d483e33dcc99d199efd09b5331"
+    }
+   }
+  },
+  {
+   "stem": "natus-vincere-vs-m80-m3-inferno",
+   "teams": [
+    "natus-vincere",
+    "m80"
+   ],
+   "map": "inferno",
+   "date": 1787764972,
+   "rank": 6,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-m80-m3-inferno.v2.cs2lib",
+     "size": 1730864,
+     "sha256": "79c06098014e1d631839edebe17df19346ae75873448db4a020c5f5a5b510f93"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-m80-m3-inferno.v2.cs2nades",
+     "size": 302093,
+     "sha256": "569af61405d105447259b4a426bef81e8b6a5b915c0e2a0eacb74e93ebc6b267"
+    }
+   }
+  },
+  {
+   "stem": "natus-vincere-vs-m80-m2-mirage",
+   "teams": [
+    "natus-vincere",
+    "m80"
+   ],
+   "map": "mirage",
+   "date": 1787764508,
+   "rank": 6,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-m80-m2-mirage.v2.cs2lib",
+     "size": 1548571,
+     "sha256": "f4f43a80cf7e595b7ee8b4a2742f5005d9e544573eacdfe714ec2fd861ea0e59"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-m80-m2-mirage.v2.cs2nades",
+     "size": 263977,
+     "sha256": "3dffb6f1787eaed19a428744ecbf5011cb63264c2d8f4bb57574166526581072"
+    }
+   }
+  },
+  {
+   "stem": "natus-vincere-vs-m80-m1-anubis",
+   "teams": [
+    "natus-vincere",
+    "m80"
+   ],
+   "map": "anubis",
+   "date": 1787764503,
+   "rank": 6,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-m80-m1-anubis.v2.cs2lib",
+     "size": 1334633,
+     "sha256": "50cfec2d5404f532972acbe976cf4b4b90f56a2d353baaf352cb8f7f04cb0e26"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-m80-m1-anubis.v2.cs2nades",
+     "size": 230989,
+     "sha256": "b1bd06a9d2453005fd83fafe31a7e92d006c35b7b7fc5d2859ce77e2b66fb75b"
+    }
+   }
+  },
+  {
    "stem": "spirit-vs-dendele-m2-cache",
    "teams": [
     "spirit",
@@ -612,7 +732,7 @@
    "map": "mirage",
    "date": 1787342085,
    "rank": 1,
-   "event": "iem-katowice-2025",
+   "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -636,7 +756,7 @@
    "map": "nuke",
    "date": 1787338879,
    "rank": 1,
-   "event": "iem-katowice-2025",
+   "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -948,7 +1068,7 @@
    "map": "dust2",
    "date": 1786646183,
    "rank": 2,
-   "event": "pgl-cluj-napoca-2025",
+   "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -2028,7 +2148,7 @@
    "map": "anubis",
    "date": 1784911670,
    "rank": 5,
-   "event": "blast-premier-world-final-2024",
+   "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
     "demo": {
