@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1787888296,
+ "updated": 1787930586,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -363,6 +363,150 @@
   "alzon": 396
  },
  "demos": [
+  {
+   "stem": "g2-vs-spirit-m2-cache",
+   "teams": [
+    "g2",
+    "spirit"
+   ],
+   "map": "cache",
+   "date": 1787925385,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-spirit-m2-cache.v2.cs2lib",
+     "size": 1785225,
+     "sha256": "19db40a92cbed19a4d1b7f766e52128c58398f3f5afaeeedfbc73bcfe248ea97"
+    },
+    "nades": {
+     "name": "g2-vs-spirit-m2-cache.v2.cs2nades",
+     "size": 327028,
+     "sha256": "690ac5adcf046b8e8595c5c621508d90d0a8f6f525db38d9810e82f7df7a3c8b"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-spirit-m1-dust2",
+   "teams": [
+    "g2",
+    "spirit"
+   ],
+   "map": "dust2",
+   "date": 1787925378,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-spirit-m1-dust2.v2.cs2lib",
+     "size": 1723771,
+     "sha256": "8653c9d704d753b5ee7962c39eadc879c2c87a7319083ce2c67fe25562c5edaa"
+    },
+    "nades": {
+     "name": "g2-vs-spirit-m1-dust2.v2.cs2nades",
+     "size": 301101,
+     "sha256": "cdf91e7770c4706dc5052c3147332e40dca56e2aa02c9d220d82fb477fec1f98"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-dendele-m2-mirage",
+   "teams": [
+    "aurora",
+    "dendele"
+   ],
+   "map": "mirage",
+   "date": 1787915409,
+   "rank": 10,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-dendele-m2-mirage.v2.cs2lib",
+     "size": 2218618,
+     "sha256": "d9cd69fc36cc562931d207cab9496a4164e49f3b22d1a0c2eaedb255ee3b609e"
+    },
+    "nades": {
+     "name": "aurora-vs-dendele-m2-mirage.v2.cs2nades",
+     "size": 386270,
+     "sha256": "2db13c28c23b778a6c90bee7a305b7e48c776cea8d675112ed50e72e9f9056e0"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-dendele-m1-cache",
+   "teams": [
+    "aurora",
+    "dendele"
+   ],
+   "map": "cache",
+   "date": 1787915397,
+   "rank": 10,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-dendele-m1-cache.v2.cs2lib",
+     "size": 1329462,
+     "sha256": "90e73ac6491a13071f3e9d32f198bec49ed81a1521e0f6d3a4c98843388d536d"
+    },
+    "nades": {
+     "name": "aurora-vs-dendele-m1-cache.v2.cs2nades",
+     "size": 229268,
+     "sha256": "41347f1d06c3807316126faedead491cb49508ffb85ee0aa1843bfeaf0302900"
+    }
+   }
+  },
+  {
+   "stem": "markandlarry-vs-lfo-8-m1-nuke",
+   "teams": [
+    "markandlarry",
+    "lfo-8"
+   ],
+   "map": "nuke",
+   "date": 1787914025,
+   "rank": 295,
+   "event": "esl-challenger-league-season-52-oceania-cup-1",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "markandlarry-vs-lfo-8-m1-nuke.v2.cs2lib",
+     "size": 1459605,
+     "sha256": "b4f2ce99254d9348efccd28172fcf9fd6023af9db87c4b0c89e93e074c90fbde"
+    },
+    "nades": {
+     "name": "markandlarry-vs-lfo-8-m1-nuke.v2.cs2nades",
+     "size": 247904,
+     "sha256": "16dab42d1cdd98deb8c44029c96cc8a759e2a3b99224731f317a13fc916a7cab"
+    }
+   }
+  },
+  {
+   "stem": "markandlarry-vs-lfo-8-m2-mirage",
+   "teams": [
+    "markandlarry",
+    "lfo-8"
+   ],
+   "map": "mirage",
+   "date": 1787914012,
+   "rank": 295,
+   "event": "esl-challenger-league-season-52-oceania-cup-1",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "markandlarry-vs-lfo-8-m2-mirage.v2.cs2lib",
+     "size": 1013514,
+     "sha256": "3c4c55c57e53d358ef208459d7ad4c2605361170d51497a796fd8876cd5f049e"
+    },
+    "nades": {
+     "name": "markandlarry-vs-lfo-8-m2-mirage.v2.cs2nades",
+     "size": 174591,
+     "sha256": "132c5fadc457eeab4f22534533929d0920de4257b816a896e341c1912abda1a9"
+    }
+   }
+  },
   {
    "stem": "falcons-vs-lynn-vision-m3-dust2",
    "teams": [
@@ -948,7 +1092,7 @@
    "map": "mirage",
    "date": 1787342085,
    "rank": 1,
-   "event": "iem-katowice-2025",
+   "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -972,7 +1116,7 @@
    "map": "nuke",
    "date": 1787338879,
    "rank": 1,
-   "event": "iem-katowice-2025",
+   "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -1276,6 +1420,78 @@
    }
   },
   {
+   "stem": "jijiehao-vs-aurora-m2-anubis",
+   "teams": [
+    "jijiehao",
+    "aurora"
+   ],
+   "map": "anubis",
+   "date": 1786818779,
+   "rank": 10,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "jijiehao-vs-aurora-m2-anubis.v2.cs2lib",
+     "size": 1246596,
+     "sha256": "c54bf6d9adad0927d49d12f4798c65ba62cea2d8f681740fec7778123e66914e"
+    },
+    "nades": {
+     "name": "jijiehao-vs-aurora-m2-anubis.v2.cs2nades",
+     "size": 211982,
+     "sha256": "9d6d25c4772c24ff83005aadce05b0b102c7cf929f696a72aaf0dc7e1265eda1"
+    }
+   }
+  },
+  {
+   "stem": "jijiehao-vs-aurora-m1-mirage-p2",
+   "teams": [
+    "jijiehao",
+    "aurora"
+   ],
+   "map": "mirage",
+   "date": 1786815496,
+   "rank": 10,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p2.v2.cs2lib",
+     "size": 843648,
+     "sha256": "dee5c5eca2a771b3cc8a5e68759fd9f1d47d82506892e36137cd04f187bd49a8"
+    },
+    "nades": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p2.v2.cs2nades",
+     "size": 144123,
+     "sha256": "209f07424e149ca62cabb694d5b8f8d8a81320580987febace00ed89dfffc817"
+    }
+   }
+  },
+  {
+   "stem": "jijiehao-vs-aurora-m1-mirage-p1",
+   "teams": [
+    "jijiehao",
+    "aurora"
+   ],
+   "map": "mirage",
+   "date": 1786813956,
+   "rank": 10,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p1.v2.cs2lib",
+     "size": 612145,
+     "sha256": "d71f2b35f91ec9fd3ef62c26b0e3bc9ce65c20bac15012ce3f12d149bc9e7baf"
+    },
+    "nades": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p1.v2.cs2nades",
+     "size": 102926,
+     "sha256": "a3f7e326eea03b911d216576fb0b5fc43d70ed57c24ac9a4d348c8471fd6be4a"
+    }
+   }
+  },
+  {
    "stem": "falcons-vs-astralis-m2-dust2",
    "teams": [
     "falcons",
@@ -1284,7 +1500,7 @@
    "map": "dust2",
    "date": 1786646183,
    "rank": 2,
-   "event": "pgl-cluj-napoca-2025",
+   "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -1420,6 +1636,54 @@
    }
   },
   {
+   "stem": "aurora-vs-m80-m2-inferno-p2",
+   "teams": [
+    "aurora",
+    "m80"
+   ],
+   "map": "inferno",
+   "date": 1786636668,
+   "rank": 10,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-m80-m2-inferno-p2.v2.cs2lib",
+     "size": 799924,
+     "sha256": "26f9ccb31f8a876d163bb3af7931cf830e992356189e71618bd91bfd02f0bf1b"
+    },
+    "nades": {
+     "name": "aurora-vs-m80-m2-inferno-p2.v2.cs2nades",
+     "size": 137519,
+     "sha256": "9af46449bd9e84866cca010ec1e9d28c2d7a6083b02773c7596862a469d7cfaa"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-m80-m2-inferno-p1",
+   "teams": [
+    "aurora",
+    "m80"
+   ],
+   "map": "inferno",
+   "date": 1786635229,
+   "rank": 10,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-m80-m2-inferno-p1.v2.cs2lib",
+     "size": 913822,
+     "sha256": "3273c592b2c23082b150ab23be9df472626edb52c6ecd4b0272c7af0d09bfa22"
+    },
+    "nades": {
+     "name": "aurora-vs-m80-m2-inferno-p1.v2.cs2nades",
+     "size": 160404,
+     "sha256": "2e0478c95d416d5d7bed21c595d22729b49f129a828656ca13cd9ae99d89b807"
+    }
+   }
+  },
+  {
    "stem": "big-vs-g2-m2-ancient",
    "teams": [
     "big",
@@ -1444,6 +1708,30 @@
    }
   },
   {
+   "stem": "aurora-vs-m80-m1-dust2",
+   "teams": [
+    "aurora",
+    "m80"
+   ],
+   "map": "dust2",
+   "date": 1786632471,
+   "rank": 10,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-m80-m1-dust2.v2.cs2lib",
+     "size": 1733359,
+     "sha256": "3afe53cf65dce582b7e8ef62dbff075ac5670d814d564739b4cccc46a50e51bc"
+    },
+    "nades": {
+     "name": "aurora-vs-m80-m1-dust2.v2.cs2nades",
+     "size": 292279,
+     "sha256": "9e8116b7ebd304b9d284b355ded5cca6aee4ee3725d0a991a5f08871d94c4559"
+    }
+   }
+  },
+  {
    "stem": "big-vs-g2-m1-cache",
    "teams": [
     "big",
@@ -1464,6 +1752,222 @@
      "name": "big-vs-g2-m1-cache.v2.cs2nades",
      "size": 243144,
      "sha256": "1a6b91a61ff7e4220f3cb9a25fbb5c08045d880ba5c360d51360cf8b527e9928"
+    }
+   }
+  },
+  {
+   "stem": "gamerlegion-vs-jijiehao-m2-ancient",
+   "teams": [
+    "gamerlegion",
+    "jijiehao"
+   ],
+   "map": "ancient",
+   "date": 1786627457,
+   "rank": 22,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "gamerlegion-vs-jijiehao-m2-ancient.v2.cs2lib",
+     "size": 1437562,
+     "sha256": "5ebb101816509ae358ac905844a8042709063baecf6185ff20325392bdc80a29"
+    },
+    "nades": {
+     "name": "gamerlegion-vs-jijiehao-m2-ancient.v2.cs2nades",
+     "size": 242588,
+     "sha256": "3695373b9b68d0c207003e689b1d6200f5be01f6494225cb62b7de199beed346"
+    }
+   }
+  },
+  {
+   "stem": "gamerlegion-vs-jijiehao-m1-dust2",
+   "teams": [
+    "gamerlegion",
+    "jijiehao"
+   ],
+   "map": "dust2",
+   "date": 1786627438,
+   "rank": 22,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "gamerlegion-vs-jijiehao-m1-dust2.v2.cs2lib",
+     "size": 1259913,
+     "sha256": "f93f3fe61e80c5eae219e1da19ce1b702ce25a5e0bf71b33dd9f60b6ca87a099"
+    },
+    "nades": {
+     "name": "gamerlegion-vs-jijiehao-m1-dust2.v2.cs2nades",
+     "size": 208648,
+     "sha256": "34d631a27ee6b04c48fff71453b96b716fc8093103850b3e7d35aa2ef85b501f"
+    }
+   }
+  },
+  {
+   "stem": "luminosity-vs-spirit-m2-dust2",
+   "teams": [
+    "luminosity",
+    "spirit"
+   ],
+   "map": "dust2",
+   "date": 1786626593,
+   "rank": 1,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "luminosity-vs-spirit-m2-dust2.v2.cs2lib",
+     "size": 2825136,
+     "sha256": "133e38993bb1d7e994c9daa44cebf447909dfd3409aac795cb455331b69b9800"
+    },
+    "nades": {
+     "name": "luminosity-vs-spirit-m2-dust2.v2.cs2nades",
+     "size": 496287,
+     "sha256": "a2254f3dcf8b212248b310475447aff88dca6918ab722868292e36614ca5e811"
+    }
+   }
+  },
+  {
+   "stem": "luminosity-vs-spirit-m1-ancient-p2",
+   "teams": [
+    "luminosity",
+    "spirit"
+   ],
+   "map": "ancient",
+   "date": 1786621113,
+   "rank": 1,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "luminosity-vs-spirit-m1-ancient-p2.v2.cs2lib",
+     "size": 444870,
+     "sha256": "b96844bf1008e46949206202698e8fa6d71de99f33aad4e7b37827c93a36f0fd"
+    },
+    "nades": {
+     "name": "luminosity-vs-spirit-m1-ancient-p2.v2.cs2nades",
+     "size": 80361,
+     "sha256": "18021ceea7c917c65b9a6c7928445057df3cce4925d4243b427fb9e9d54cdbb6"
+    }
+   }
+  },
+  {
+   "stem": "luminosity-vs-spirit-m1-ancient-p1",
+   "teams": [
+    "luminosity",
+    "spirit"
+   ],
+   "map": "ancient",
+   "date": 1786620388,
+   "rank": 1,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "luminosity-vs-spirit-m1-ancient-p1.v2.cs2lib",
+     "size": 835501,
+     "sha256": "0a3486b7f65eac37816d2dc5e627efe36339ef9a2f731a97362983ebd96482fa"
+    },
+    "nades": {
+     "name": "luminosity-vs-spirit-m1-ancient-p1.v2.cs2nades",
+     "size": 152798,
+     "sha256": "72303a4ae47b85467839f397e82b7e643631418282e8a032bab7e235109fb675"
+    }
+   }
+  },
+  {
+   "stem": "falcons-vs-k27-dust2",
+   "teams": [
+    "falcons",
+    "k27"
+   ],
+   "map": "dust2",
+   "date": 1786545350,
+   "rank": 2,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-k27-dust2.v2.cs2lib",
+     "size": 1526515,
+     "sha256": "dee520e6d156cd0c0bd0a582be6266cd7beb954fdf04578ea569a0630407962c"
+    },
+    "nades": {
+     "name": "falcons-vs-k27-dust2.v2.cs2nades",
+     "size": 257678,
+     "sha256": "c7199a21ea020ea90e7461f6a21bed3fd8ad3d71cd85fcef1fb9055b69bbe9eb"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-jijiehao-mirage",
+   "teams": [
+    "spirit",
+    "jijiehao"
+   ],
+   "map": "mirage",
+   "date": 1786534249,
+   "rank": 1,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-jijiehao-mirage.v2.cs2lib",
+     "size": 1807204,
+     "sha256": "9c821428fd9b26b6a3c25642ba09502148f36291157239ac48911112e909f93b"
+    },
+    "nades": {
+     "name": "spirit-vs-jijiehao-mirage.v2.cs2nades",
+     "size": 318104,
+     "sha256": "ac64e4efdbe24954645a4a60ef657d404631bf4e98f520fb391e0efcb1fdc5de"
+    }
+   }
+  },
+  {
+   "stem": "big-vs-aurora-cache",
+   "teams": [
+    "big",
+    "aurora"
+   ],
+   "map": "cache",
+   "date": 1786529719,
+   "rank": 10,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "big-vs-aurora-cache.v2.cs2lib",
+     "size": 1601011,
+     "sha256": "342f725af14c193f142d76af21844d39030411cdc4b863e91d5e9098a4ddeffa"
+    },
+    "nades": {
+     "name": "big-vs-aurora-cache.v2.cs2nades",
+     "size": 283372,
+     "sha256": "c0bfb7dab3560989e8cad9b2127538cd6022c956f3317832cc58fea73435e2d0"
+    }
+   }
+  },
+  {
+   "stem": "luminosity-vs-gamerlegion-nuke",
+   "teams": [
+    "luminosity",
+    "gamerlegion"
+   ],
+   "map": "nuke",
+   "date": 1786528702,
+   "rank": 22,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "luminosity-vs-gamerlegion-nuke.v2.cs2lib",
+     "size": 1055121,
+     "sha256": "cc706ef04ce304de626669e42d26f9c2b47e5d09d08384060446596e7e34aae0"
+    },
+    "nades": {
+     "name": "luminosity-vs-gamerlegion-nuke.v2.cs2nades",
+     "size": 185218,
+     "sha256": "063628bd6bb3659e4135171666b5d9978061e21b3ac2af0b5f40c6ad2b698357"
     }
    }
   },
@@ -2364,7 +2868,7 @@
    "map": "anubis",
    "date": 1784911670,
    "rank": 5,
-   "event": "blast-premier-world-final-2024",
+   "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -3828,7 +4332,7 @@
    "map": "dust2",
    "date": 1779536774,
    "rank": 2,
-   "event": "blast-rivals-2025-season-1",
+   "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -4260,7 +4764,7 @@
    "map": "nuke",
    "date": 1778871908,
    "rank": 2,
-   "event": "blast-rivals-2025-season-2",
+   "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
     "demo": {
@@ -4636,6 +5140,54 @@
    }
   },
   {
+   "stem": "markandlarry-vs-ground-zero-m2-nuke",
+   "teams": [
+    "markandlarry",
+    "ground-zero"
+   ],
+   "map": "nuke",
+   "date": 1777458962,
+   "rank": 103,
+   "event": "esl-challenger-league-season-51-oceania-cup-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "markandlarry-vs-ground-zero-m2-nuke.v2.cs2lib",
+     "size": 1175139,
+     "sha256": "aa1fb7abbca0673b21c840b14a9c13d8cd27a4920dc7db29475af96e190034ea"
+    },
+    "nades": {
+     "name": "markandlarry-vs-ground-zero-m2-nuke.v2.cs2nades",
+     "size": 198941,
+     "sha256": "5112f040940dc8b415091502346af9b4ad6e1764af76226b86c777ab52b3df6f"
+    }
+   }
+  },
+  {
+   "stem": "markandlarry-vs-ground-zero-m1-mirage",
+   "teams": [
+    "markandlarry",
+    "ground-zero"
+   ],
+   "map": "mirage",
+   "date": 1777458954,
+   "rank": 103,
+   "event": "esl-challenger-league-season-51-oceania-cup-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2lib",
+     "size": 1148595,
+     "sha256": "6fbfc9bb2f6af38f1952f916fe08dd83b92f10bcf14c534a4e1ad809435b788a"
+    },
+    "nades": {
+     "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2nades",
+     "size": 196793,
+     "sha256": "580c5064ffafdc7416fcd1a3c54929e3ec6e08b980268c5878580d4f1185ace8"
+    }
+   }
+  },
+  {
    "stem": "flyquest-vs-tyloo-m3-nuke",
    "teams": [
     "flyquest",
@@ -4824,6 +5376,294 @@
      "name": "faze-vs-parivision-m1-mirage.v2.cs2nades",
      "size": 180474,
      "sha256": "c3318a81d542b7e1953947f1f9612360bbfcc594b0486bb266dc842d14e5a480"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-faze-m3-anubis",
+   "teams": [
+    "vitality",
+    "faze"
+   ],
+   "map": "anubis",
+   "date": 1734088002,
+   "rank": 5,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-faze-m3-anubis.v2.cs2lib",
+     "size": 1457690,
+     "sha256": "3224e3446f10043a463acdf2711b28a05714c524423ac083cf9a65f228a9319b"
+    },
+    "nades": {
+     "name": "vitality-vs-faze-m3-anubis.v2.cs2nades",
+     "size": 249572,
+     "sha256": "5e9d985e28e9201f382ca31806298f25a12b3716ac33dd0f7596a2f847bc2395"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-faze-m2-mirage",
+   "teams": [
+    "vitality",
+    "faze"
+   ],
+   "map": "mirage",
+   "date": 1734084636,
+   "rank": 5,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-faze-m2-mirage.v2.cs2lib",
+     "size": 1566392,
+     "sha256": "08e9fc5df36623fd2a95c16d53edc29621b91b0fce2889958abecc445a29ccfd"
+    },
+    "nades": {
+     "name": "vitality-vs-faze-m2-mirage.v2.cs2nades",
+     "size": 275452,
+     "sha256": "9b579e8d51a245d3141cbf5ee7bfb5ab65958a2543f296a2e52c5c65e43301e0"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-faze-m1-nuke",
+   "teams": [
+    "vitality",
+    "faze"
+   ],
+   "map": "nuke",
+   "date": 1734080870,
+   "rank": 5,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-faze-m1-nuke.v2.cs2lib",
+     "size": 1416781,
+     "sha256": "806e65e712d3c14fa1cbd725d78031c3b1a72245af5822ba4646b10e1d057184"
+    },
+    "nades": {
+     "name": "vitality-vs-faze-m1-nuke.v2.cs2nades",
+     "size": 238845,
+     "sha256": "be71a0b72f23a258863f854cdbd39494fe5687a61eb366b5b4a538c2d4e46f4c"
+    }
+   }
+  },
+  {
+   "stem": "faze-vs-furia-m3-mirage",
+   "teams": [
+    "faze",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1733681290,
+   "rank": 8,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-furia-m3-mirage.v2.cs2lib",
+     "size": 1809740,
+     "sha256": "477ad3a4279215d632062bdadef9839acbbe601ee0d4605b32738ecb0c30c582"
+    },
+    "nades": {
+     "name": "faze-vs-furia-m3-mirage.v2.cs2nades",
+     "size": 313895,
+     "sha256": "e760cce920331dbd4729d786a09dbc92b6a0c277d182133380ea1c9c299e36df"
+    }
+   }
+  },
+  {
+   "stem": "faze-vs-furia-m2-dust2",
+   "teams": [
+    "faze",
+    "furia"
+   ],
+   "map": "dust2",
+   "date": 1733677284,
+   "rank": 8,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-furia-m2-dust2.v2.cs2lib",
+     "size": 1857731,
+     "sha256": "45e8a3b2996a649c3c4c3811a1959fb9abd5ba5756ef40c31c848d21002666d0"
+    },
+    "nades": {
+     "name": "faze-vs-furia-m2-dust2.v2.cs2nades",
+     "size": 320277,
+     "sha256": "1a0bd589a55aaf501322067addae3bf02abca5db680a1e722a19912de4bdc602"
+    }
+   }
+  },
+  {
+   "stem": "faze-vs-furia-m1-inferno",
+   "teams": [
+    "faze",
+    "furia"
+   ],
+   "map": "inferno",
+   "date": 1733673324,
+   "rank": 8,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-furia-m1-inferno.v2.cs2lib",
+     "size": 1672731,
+     "sha256": "4c1abd263b1b8afae1dc2d5f8b31302cecebb68d3081f787d6164c2729934344"
+    },
+    "nades": {
+     "name": "faze-vs-furia-m1-inferno.v2.cs2nades",
+     "size": 285841,
+     "sha256": "6454b536a355be98c0acb162e80c255f713ae8765895f713726f2cc2b053f56d"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-heroic-m3-dust2",
+   "teams": [
+    "spirit",
+    "heroic"
+   ],
+   "map": "dust2",
+   "date": 1733566564,
+   "rank": 1,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-heroic-m3-dust2.v2.cs2lib",
+     "size": 1582977,
+     "sha256": "d7bdbcb1b9e79a8ff188f48be1397c35b0091aaf665ddf0b850bb9948a4a53b9"
+    },
+    "nades": {
+     "name": "spirit-vs-heroic-m3-dust2.v2.cs2nades",
+     "size": 269315,
+     "sha256": "8b7f5d3e385eee86644fa7911054b20ed799e4dec607380dd18097f2f0ecc6a7"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-heroic-m2-mirage",
+   "teams": [
+    "spirit",
+    "heroic"
+   ],
+   "map": "mirage",
+   "date": 1733562580,
+   "rank": 1,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-heroic-m2-mirage.v2.cs2lib",
+     "size": 1648295,
+     "sha256": "8622296a383708651ed1fa9d686815f50067fb23aa1a7b02172ce4ef26a6a19a"
+    },
+    "nades": {
+     "name": "spirit-vs-heroic-m2-mirage.v2.cs2nades",
+     "size": 288325,
+     "sha256": "ae0169efd46020616a88353dc46a216d085fb3cd78ba46375563d990a3b3aad3"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-heroic-m1-ancient",
+   "teams": [
+    "spirit",
+    "heroic"
+   ],
+   "map": "ancient",
+   "date": 1733558668,
+   "rank": 1,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-heroic-m1-ancient.v2.cs2lib",
+     "size": 2168275,
+     "sha256": "36445abf6f7a7b3a80daef89216c04c7b8413fbf70b67e1596c2366488930c30"
+    },
+    "nades": {
+     "name": "spirit-vs-heroic-m1-ancient.v2.cs2nades",
+     "size": 388324,
+     "sha256": "d403f85aa4c50626a6496412c2e73a82ea76cf75c25e58768cda0cff947b76d2"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-heroic-m3-ancient",
+   "teams": [
+    "the-mongolz",
+    "heroic"
+   ],
+   "map": "ancient",
+   "date": 1733477682,
+   "rank": 15,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-heroic-m3-ancient.v2.cs2lib",
+     "size": 1459613,
+     "sha256": "807c7ae03ed58b8e32bc917e4088b5f87cf7b55a79a6ca1f43a11bf6704b4fd6"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-heroic-m3-ancient.v2.cs2nades",
+     "size": 254638,
+     "sha256": "0f578e8e6f0764716f89f9aa2fc47822d239d93c22671d5d6d3a97608695c4ad"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-heroic-m2-anubis",
+   "teams": [
+    "the-mongolz",
+    "heroic"
+   ],
+   "map": "anubis",
+   "date": 1733474330,
+   "rank": 15,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-heroic-m2-anubis.v2.cs2lib",
+     "size": 3011005,
+     "sha256": "efcf2d6a3d144e4811e5930bb83fd02d46b2b99c784584240ff093a026f4ecd0"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-heroic-m2-anubis.v2.cs2nades",
+     "size": 527547,
+     "sha256": "70de2030697f806e4205bd0baa640ca16a54eddf7c6b77c2af4f8f25ac1c7777"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-heroic-m1-mirage",
+   "teams": [
+    "the-mongolz",
+    "heroic"
+   ],
+   "map": "mirage",
+   "date": 1733468076,
+   "rank": 15,
+   "event": "perfect-world-shanghai-major-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-heroic-m1-mirage.v2.cs2lib",
+     "size": 1472458,
+     "sha256": "3a3966d00f0b8c28f7453314e5c1e225062da200b5b4fd8bb19632531bc4d662"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-heroic-m1-mirage.v2.cs2nades",
+     "size": 247962,
+     "sha256": "fd083b24c60798b5f79c47b254f118bfa04c4d9be63c38a5512dd47c01e1d8b8"
     }
    }
   }
