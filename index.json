@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1787842449,
+ "updated": 1787888296,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -363,6 +363,126 @@
   "alzon": 396
  },
  "demos": [
+  {
+   "stem": "falcons-vs-lynn-vision-m3-dust2",
+   "teams": [
+    "falcons",
+    "lynn-vision"
+   ],
+   "map": "dust2",
+   "date": 1787861244,
+   "rank": 2,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-lynn-vision-m3-dust2.v2.cs2lib",
+     "size": 1811824,
+     "sha256": "2f055828e53e37b9cab25d67ed9bd86c44872971a16d53970c4ac7a708d22c7c"
+    },
+    "nades": {
+     "name": "falcons-vs-lynn-vision-m3-dust2.v2.cs2nades",
+     "size": 315661,
+     "sha256": "2af8929e34a7d778e7e2f688f0c67f865e894cf123bd1047f21b97c5586f44c0"
+    }
+   }
+  },
+  {
+   "stem": "falcons-vs-lynn-vision-m2-ancient",
+   "teams": [
+    "falcons",
+    "lynn-vision"
+   ],
+   "map": "ancient",
+   "date": 1787859279,
+   "rank": 2,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-lynn-vision-m2-ancient.v2.cs2lib",
+     "size": 1410881,
+     "sha256": "25bde66bf5f83ceed79303e3261425e5936c632476671c179f237f6a752ce07a"
+    },
+    "nades": {
+     "name": "falcons-vs-lynn-vision-m2-ancient.v2.cs2nades",
+     "size": 249209,
+     "sha256": "e2ac4c14a13bccb27d6792213591b930d3f637bbe205d6a5cc0ca9ee7151dfdb"
+    }
+   }
+  },
+  {
+   "stem": "falcons-vs-lynn-vision-m1-inferno",
+   "teams": [
+    "falcons",
+    "lynn-vision"
+   ],
+   "map": "inferno",
+   "date": 1787855282,
+   "rank": 2,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-lynn-vision-m1-inferno.v2.cs2lib",
+     "size": 1319650,
+     "sha256": "74ebfc54ac4cf075b0a7e8a6f25ef039585926a82a9c223abb8a30e94bf17a90"
+    },
+    "nades": {
+     "name": "falcons-vs-lynn-vision-m1-inferno.v2.cs2nades",
+     "size": 227288,
+     "sha256": "142db58b33c252cffe2399bd1ddb67a93a520860edb502830265b2bffa9a1ddb"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-fut-m2-dust2",
+   "teams": [
+    "legacy",
+    "fut"
+   ],
+   "map": "dust2",
+   "date": 1787848576,
+   "rank": 7,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-fut-m2-dust2.v2.cs2lib",
+     "size": 1814652,
+     "sha256": "eb8e1881baee83bf6a5cfe4881fb12bd055ae8b2dad10b570e2270d42a3e95a3"
+    },
+    "nades": {
+     "name": "legacy-vs-fut-m2-dust2.v2.cs2nades",
+     "size": 305808,
+     "sha256": "82fece9731a84ddbaed911f80872a9bb74ed3de7a823bbb845041612c7cc19f2"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-fut-m1-ancient",
+   "teams": [
+    "legacy",
+    "fut"
+   ],
+   "map": "ancient",
+   "date": 1787847495,
+   "rank": 7,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-fut-m1-ancient.v2.cs2lib",
+     "size": 1708563,
+     "sha256": "be68184b99e396167254c8f04ff46c0dfc10c394ff9c752f18656b6558967e40"
+    },
+    "nades": {
+     "name": "legacy-vs-fut-m1-ancient.v2.cs2nades",
+     "size": 296366,
+     "sha256": "982838052bfe726a957efa65c2870a5bdb8d48cc949d06208057750bc3f00af3"
+    }
+   }
+  },
   {
    "stem": "mouz-vs-9z-m1-cache",
    "teams": [
