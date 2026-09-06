@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1788692495,
+ "updated": 1788699245,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -363,6 +363,222 @@
   "alzon": 396
  },
  "demos": [
+  {
+   "stem": "mouz-vs-vitality-m1-dust2",
+   "teams": [
+    "mouz",
+    "vitality"
+   ],
+   "map": "dust2",
+   "date": 1788633872,
+   "rank": 3,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-vitality-m1-dust2.v2.cs2lib",
+     "size": 1892908,
+     "sha256": "2ee13856ff30d0b0d484773e23e6be459e4feee93080be2e63eb6bf697e8e26b"
+    },
+    "nades": {
+     "name": "mouz-vs-vitality-m1-dust2.v2.cs2nades",
+     "size": 322113,
+     "sha256": "3d28d31970cb981ac25294088e3999d29968172d80570c392598ad88164a479f"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-vitality-m2-mirage",
+   "teams": [
+    "mouz",
+    "vitality"
+   ],
+   "map": "mirage",
+   "date": 1788633865,
+   "rank": 3,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-vitality-m2-mirage.v2.cs2lib",
+     "size": 1400790,
+     "sha256": "ffeb1520280914976773c48c4c5e132b8e7b2b93b23690677c1d010b9f8df471"
+    },
+    "nades": {
+     "name": "mouz-vs-vitality-m2-mirage.v2.cs2nades",
+     "size": 243206,
+     "sha256": "e9bc4ea8dc711ccbdcccbd94a04ab09dfece36df194346b7bee0f18b92914b5a"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-falcons-m2-ancient",
+   "teams": [
+    "spirit",
+    "falcons"
+   ],
+   "map": "ancient",
+   "date": 1788624348,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-falcons-m2-ancient.v2.cs2lib",
+     "size": 1925550,
+     "sha256": "8daff3362f6c72744bf55db726b932e98e3444e70841e3816ffb3a074d407c81"
+    },
+    "nades": {
+     "name": "spirit-vs-falcons-m2-ancient.v2.cs2nades",
+     "size": 337872,
+     "sha256": "fd8aa6d179419c95fd30f0cec4d827e63b640c89ca87c4b8619694744c88ef35"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-falcons-m1-nuke",
+   "teams": [
+    "spirit",
+    "falcons"
+   ],
+   "map": "nuke",
+   "date": 1788623566,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-falcons-m1-nuke.v2.cs2lib",
+     "size": 1519316,
+     "sha256": "4695ec81a3e7ab384b1d5931b8d52bafe9f5e2914082838589816a1619c51e0a"
+    },
+    "nades": {
+     "name": "spirit-vs-falcons-m1-nuke.v2.cs2nades",
+     "size": 266744,
+     "sha256": "5784422b73395e2053ef34f6134eb7b403c814a72674d35e2910f8fa34c73830"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-vitality-m3-dust2",
+   "teams": [
+    "furia",
+    "vitality"
+   ],
+   "map": "dust2",
+   "date": 1788551643,
+   "rank": 5,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-vitality-m3-dust2.v2.cs2lib",
+     "size": 1341221,
+     "sha256": "7fd26855222a21a85e6b3ba3c340b2581f6bce6abce3815b417517f3af21b641"
+    },
+    "nades": {
+     "name": "furia-vs-vitality-m3-dust2.v2.cs2nades",
+     "size": 225863,
+     "sha256": "0366f1aac4391bc69810ad34f8a81302958f9589257e4e27f14a777095bb6572"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-vitality-m2-cache",
+   "teams": [
+    "furia",
+    "vitality"
+   ],
+   "map": "cache",
+   "date": 1788549653,
+   "rank": 5,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-vitality-m2-cache.v2.cs2lib",
+     "size": 1821673,
+     "sha256": "9e50b76e9765f234039b415e5715bebf98746435ed7e50454129e60a1dbd33ce"
+    },
+    "nades": {
+     "name": "furia-vs-vitality-m2-cache.v2.cs2nades",
+     "size": 320597,
+     "sha256": "d6c17915b1a8f8ff27779094fd6e9ed117d8c15b3ccdc578b736e057e6b63316"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-vitality-m1-nuke",
+   "teams": [
+    "furia",
+    "vitality"
+   ],
+   "map": "nuke",
+   "date": 1788545372,
+   "rank": 5,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-vitality-m1-nuke.v2.cs2lib",
+     "size": 1189453,
+     "sha256": "567dee939d7fedbc8836064004261119c1fa77e7577034fc2985719fdf6db7b4"
+    },
+    "nades": {
+     "name": "furia-vs-vitality-m1-nuke.v2.cs2nades",
+     "size": 206554,
+     "sha256": "831854f64b671a0ee5b8acabb5190df61d151767f5ed5dc0a9df21a15ae51e4e"
+    }
+   }
+  },
+  {
+   "stem": "falcons-vs-g2-m2-dust2",
+   "teams": [
+    "falcons",
+    "g2"
+   ],
+   "map": "dust2",
+   "date": 1788538001,
+   "rank": 2,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-g2-m2-dust2.v2.cs2lib",
+     "size": 1821950,
+     "sha256": "a91dbd93d817f5ddfdc59174582c7e79924de6989286988ea84e611b4f9be28b"
+    },
+    "nades": {
+     "name": "falcons-vs-g2-m2-dust2.v2.cs2nades",
+     "size": 306114,
+     "sha256": "923f08b65b21bcf41498851eb7889a54bbf8d370ec98ce1efd09263b9375add2"
+    }
+   }
+  },
+  {
+   "stem": "falcons-vs-g2-m1-inferno",
+   "teams": [
+    "falcons",
+    "g2"
+   ],
+   "map": "inferno",
+   "date": 1788534779,
+   "rank": 2,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-g2-m1-inferno.v2.cs2lib",
+     "size": 1584389,
+     "sha256": "45d8fb5d9a28859dbbfe1109debf420b4f672e3583eb5bd521eb889837f44b29"
+    },
+    "nades": {
+     "name": "falcons-vs-g2-m1-inferno.v2.cs2nades",
+     "size": 275809,
+     "sha256": "bc8ef5a31ae9bc0cfb81e4cbd8066cf60d54a9af3543046e924be02dbd4c9011"
+    }
+   }
+  },
   {
    "stem": "fut-vs-vitality-m1-anubis",
    "teams": [
@@ -3276,7 +3492,7 @@
    "map": "mirage",
    "date": 1786541370,
    "rank": 11,
-   "event": null,
+   "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
     "demo": {
