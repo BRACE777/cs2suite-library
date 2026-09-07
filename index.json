@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1788699245,
+ "updated": 1788788418,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -363,6 +363,102 @@
   "alzon": 396
  },
  "demos": [
+  {
+   "stem": "spirit-vs-mouz-m4-nuke",
+   "teams": [
+    "spirit",
+    "mouz"
+   ],
+   "map": "nuke",
+   "date": 1788717927,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-mouz-m4-nuke.v2.cs2lib",
+     "size": 1368390,
+     "sha256": "f4616c885ba06bf76992e52e6880c920f0df2bb404ddcb90f3bac0f8a32e6687"
+    },
+    "nades": {
+     "name": "spirit-vs-mouz-m4-nuke.v2.cs2nades",
+     "size": 240043,
+     "sha256": "b2d7f7579c56b272f008c0ddbef00e039ca8f3917e408850505460fcdc54e376"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-mouz-m3-ancient",
+   "teams": [
+    "spirit",
+    "mouz"
+   ],
+   "map": "ancient",
+   "date": 1788715406,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-mouz-m3-ancient.v2.cs2lib",
+     "size": 1160357,
+     "sha256": "9e67aab7872f8538e202332af027fc5d503affbbea0f02c435a1dbc5dd4ca376"
+    },
+    "nades": {
+     "name": "spirit-vs-mouz-m3-ancient.v2.cs2nades",
+     "size": 205754,
+     "sha256": "6a33aea204f597d35baa3b78c9dd669b56759e4bf7339aa5c3fef3ceacdec442"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-mouz-m2-mirage",
+   "teams": [
+    "spirit",
+    "mouz"
+   ],
+   "map": "mirage",
+   "date": 1788715404,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-mouz-m2-mirage.v2.cs2lib",
+     "size": 1795904,
+     "sha256": "2fdafa9b647192acb4eeadb911d3862430039af1d21e09680d8788b1cb0798ff"
+    },
+    "nades": {
+     "name": "spirit-vs-mouz-m2-mirage.v2.cs2nades",
+     "size": 317841,
+     "sha256": "3d5ee387116709c8198a4d515f9c9119b1b96ebeb607ff0b0032b930a543df6f"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-mouz-m1-dust2",
+   "teams": [
+    "spirit",
+    "mouz"
+   ],
+   "map": "dust2",
+   "date": 1788715402,
+   "rank": 1,
+   "event": "blast-open-porto-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-mouz-m1-dust2.v2.cs2lib",
+     "size": 1687941,
+     "sha256": "7bd5867886781a5491c3be866846f9ef6f7efe74b4eda4e418460aba262c83ef"
+    },
+    "nades": {
+     "name": "spirit-vs-mouz-m1-dust2.v2.cs2nades",
+     "size": 288015,
+     "sha256": "dc661750752481520b5dbcdce2a46ee08c8ebc5dae6648243bd75d291a7c221a"
+    }
+   }
+  },
   {
    "stem": "mouz-vs-vitality-m1-dust2",
    "teams": [
