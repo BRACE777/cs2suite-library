@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1788788418,
+ "updated": 1788861852,
  "ranks": {
   "spirit": 1,
   "falcons": 2,
@@ -384,6 +384,11 @@
      "name": "spirit-vs-mouz-m4-nuke.v2.cs2nades",
      "size": 240043,
      "sha256": "b2d7f7579c56b272f008c0ddbef00e039ca8f3917e408850505460fcdc54e376"
+    },
+    "stats": {
+     "name": "spirit-vs-mouz-m4-nuke.v2.cs2stats",
+     "size": 720,
+     "sha256": "1976f570ba3045dad315352a3c954b95941e7c45404209fc9e69cb632573bdf5"
     }
    }
   },
@@ -408,6 +413,11 @@
      "name": "spirit-vs-mouz-m3-ancient.v2.cs2nades",
      "size": 205754,
      "sha256": "6a33aea204f597d35baa3b78c9dd669b56759e4bf7339aa5c3fef3ceacdec442"
+    },
+    "stats": {
+     "name": "spirit-vs-mouz-m3-ancient.v2.cs2stats",
+     "size": 714,
+     "sha256": "e6ce933b35fb26f8e42db7422f90c93a0b19f18f0f43eaa30c78ebede6bcc629"
     }
    }
   },
@@ -432,6 +442,11 @@
      "name": "spirit-vs-mouz-m2-mirage.v2.cs2nades",
      "size": 317841,
      "sha256": "3d5ee387116709c8198a4d515f9c9119b1b96ebeb607ff0b0032b930a543df6f"
+    },
+    "stats": {
+     "name": "spirit-vs-mouz-m2-mirage.v2.cs2stats",
+     "size": 867,
+     "sha256": "c4f40c9c4f2d2b226c3d4655c1326f23b7d2fdb86e8f55654fe3018fc72f3f5d"
     }
    }
   },
@@ -456,6 +471,11 @@
      "name": "spirit-vs-mouz-m1-dust2.v2.cs2nades",
      "size": 288015,
      "sha256": "dc661750752481520b5dbcdce2a46ee08c8ebc5dae6648243bd75d291a7c221a"
+    },
+    "stats": {
+     "name": "spirit-vs-mouz-m1-dust2.v2.cs2stats",
+     "size": 781,
+     "sha256": "c37154404b2b6a5bd83843b14262f638fba2ea96edc93458fbba24e78cab122e"
     }
    }
   },
@@ -480,6 +500,11 @@
      "name": "mouz-vs-vitality-m1-dust2.v2.cs2nades",
      "size": 322113,
      "sha256": "3d28d31970cb981ac25294088e3999d29968172d80570c392598ad88164a479f"
+    },
+    "stats": {
+     "name": "mouz-vs-vitality-m1-dust2.v2.cs2stats",
+     "size": 859,
+     "sha256": "605f813ee7271d3cb1d870e652e529318cadb89d5e03401ba447cb10ca77fe87"
     }
    }
   },
@@ -504,6 +529,11 @@
      "name": "mouz-vs-vitality-m2-mirage.v2.cs2nades",
      "size": 243206,
      "sha256": "e9bc4ea8dc711ccbdcccbd94a04ab09dfece36df194346b7bee0f18b92914b5a"
+    },
+    "stats": {
+     "name": "mouz-vs-vitality-m2-mirage.v2.cs2stats",
+     "size": 785,
+     "sha256": "5550dea481c9f5a63b8fbadf5cee6e715e5f6c6e82a3be31fadb486b3eb94e6e"
     }
    }
   },
@@ -528,6 +558,11 @@
      "name": "spirit-vs-falcons-m2-ancient.v2.cs2nades",
      "size": 337872,
      "sha256": "fd8aa6d179419c95fd30f0cec4d827e63b640c89ca87c4b8619694744c88ef35"
+    },
+    "stats": {
+     "name": "spirit-vs-falcons-m2-ancient.v2.cs2stats",
+     "size": 886,
+     "sha256": "8f9655955b16f2ce7e780994e038af4d4dc64e495eaef139c09dde0d074c5525"
     }
    }
   },
@@ -552,6 +587,11 @@
      "name": "spirit-vs-falcons-m1-nuke.v2.cs2nades",
      "size": 266744,
      "sha256": "5784422b73395e2053ef34f6134eb7b403c814a72674d35e2910f8fa34c73830"
+    },
+    "stats": {
+     "name": "spirit-vs-falcons-m1-nuke.v2.cs2stats",
+     "size": 779,
+     "sha256": "f1d5f4149fa6a47718c53209957d988ae527c923f842f5459230f6c4347103f4"
     }
    }
   },
@@ -576,6 +616,11 @@
      "name": "furia-vs-vitality-m3-dust2.v2.cs2nades",
      "size": 225863,
      "sha256": "0366f1aac4391bc69810ad34f8a81302958f9589257e4e27f14a777095bb6572"
+    },
+    "stats": {
+     "name": "furia-vs-vitality-m3-dust2.v2.cs2stats",
+     "size": 712,
+     "sha256": "8732d9074546ffe582fc6a51b0cfd8447f34688bf3953c82ea4eb7dc28b111d9"
     }
    }
   },
@@ -600,6 +645,11 @@
      "name": "furia-vs-vitality-m2-cache.v2.cs2nades",
      "size": 320597,
      "sha256": "d6c17915b1a8f8ff27779094fd6e9ed117d8c15b3ccdc578b736e057e6b63316"
+    },
+    "stats": {
+     "name": "furia-vs-vitality-m2-cache.v2.cs2stats",
+     "size": 888,
+     "sha256": "9b0c3896a49fdd642de2f34dceafad60e00207010e31b162bf9683c454904d6c"
     }
    }
   },
@@ -624,6 +674,11 @@
      "name": "furia-vs-vitality-m1-nuke.v2.cs2nades",
      "size": 206554,
      "sha256": "831854f64b671a0ee5b8acabb5190df61d151767f5ed5dc0a9df21a15ae51e4e"
+    },
+    "stats": {
+     "name": "furia-vs-vitality-m1-nuke.v2.cs2stats",
+     "size": 723,
+     "sha256": "bc543b4349bc68da0319b50d027b50b935acaaff6f9236162e1cd4cfaae087fd"
     }
    }
   },
@@ -648,6 +703,11 @@
      "name": "falcons-vs-g2-m2-dust2.v2.cs2nades",
      "size": 306114,
      "sha256": "923f08b65b21bcf41498851eb7889a54bbf8d370ec98ce1efd09263b9375add2"
+    },
+    "stats": {
+     "name": "falcons-vs-g2-m2-dust2.v2.cs2stats",
+     "size": 826,
+     "sha256": "aa562fc491357c9ebd7393b85c24507e24f10ae5ccc585deab584ffc37abc2da"
     }
    }
   },
@@ -672,6 +732,11 @@
      "name": "falcons-vs-g2-m1-inferno.v2.cs2nades",
      "size": 275809,
      "sha256": "bc8ef5a31ae9bc0cfb81e4cbd8066cf60d54a9af3543046e924be02dbd4c9011"
+    },
+    "stats": {
+     "name": "falcons-vs-g2-m1-inferno.v2.cs2stats",
+     "size": 810,
+     "sha256": "9897086c88e9c3d8204dd899428e0a242b1434dc46b868e20804a4cd8114e28b"
     }
    }
   },
@@ -696,6 +761,11 @@
      "name": "fut-vs-vitality-m1-anubis.v2.cs2nades",
      "size": 254345,
      "sha256": "5a4f92f2f22becff511e30d2790f22162e811b0644b3083d0cfc3c4596edf8d0"
+    },
+    "stats": {
+     "name": "fut-vs-vitality-m1-anubis.v2.cs2stats",
+     "size": 761,
+     "sha256": "e55050965d395baf1c944fbcfa22cd7dfa2f79ab8078325ee96416a3e5989261"
     }
    }
   },
@@ -720,6 +790,11 @@
      "name": "fut-vs-vitality-m2-dust2.v2.cs2nades",
      "size": 257291,
      "sha256": "76e4187c38974882c07b1177441a80520b6c6d834a67183199925be5faaa2d6b"
+    },
+    "stats": {
+     "name": "fut-vs-vitality-m2-dust2.v2.cs2stats",
+     "size": 781,
+     "sha256": "72056bbccbc86d8c115e7fd438fb7e89a136ccb67943c95d2a2fcc7e2d7071e3"
     }
    }
   },
@@ -744,6 +819,11 @@
      "name": "mouz-vs-falcons-m3-inferno.v2.cs2nades",
      "size": 211930,
      "sha256": "70590f34ae140d6c7d694d0f4bb8eaced49d993598d57021069bc056a75b8295"
+    },
+    "stats": {
+     "name": "mouz-vs-falcons-m3-inferno.v2.cs2stats",
+     "size": 692,
+     "sha256": "9555ea87eb5e357f04c68af073ce9f0545087b03aeed29133fa50b345547cd36"
     }
    }
   },
@@ -768,6 +848,11 @@
      "name": "mouz-vs-falcons-m1-nuke.v2.cs2nades",
      "size": 208380,
      "sha256": "e3a01e1948771c5537fe88298d1767adf96c7fdd0671c069b03595b3390dc14f"
+    },
+    "stats": {
+     "name": "mouz-vs-falcons-m1-nuke.v2.cs2stats",
+     "size": 722,
+     "sha256": "2363b8cabf3c8481099af434787a339cf0fcc47ea2bcaddc02fa6271d12c84bc"
     }
    }
   },
@@ -792,6 +877,11 @@
      "name": "mouz-vs-falcons-m2-ancient.v2.cs2nades",
      "size": 224669,
      "sha256": "93148ec38853c45207f4412614dabd77af587f9b3df3cbbdcc1c3e36ea7e3913"
+    },
+    "stats": {
+     "name": "mouz-vs-falcons-m2-ancient.v2.cs2stats",
+     "size": 736,
+     "sha256": "15f40f6159f3a44fb496d37f83cf616134253efd7bd99b22542fd7c97c639fce"
     }
    }
   },
@@ -816,6 +906,11 @@
      "name": "g2-vs-aurora-m2-inferno.v2.cs2nades",
      "size": 559102,
      "sha256": "8db4ad0628c04471e50cdfb7d066feba3542b72f904cc7359b63d798e4fbd18b"
+    },
+    "stats": {
+     "name": "g2-vs-aurora-m2-inferno.v2.cs2stats",
+     "size": 1162,
+     "sha256": "4cbd42a972c324e4e97177851754875f1e76870845b2b187edd366f4d313d703"
     }
    }
   },
@@ -840,6 +935,11 @@
      "name": "g2-vs-aurora-m3-mirage.v2.cs2nades",
      "size": 173966,
      "sha256": "9668baa9060bb8380eaabdc6aaef7ba436a902a8dc417ba166dc73ed43731417"
+    },
+    "stats": {
+     "name": "g2-vs-aurora-m3-mirage.v2.cs2stats",
+     "size": 602,
+     "sha256": "af1fa8839bb1c4f85f4e59cb9e8351d5d047ff219ce7bf399b4bc72d54c988ce"
     }
    }
   },
@@ -864,6 +964,11 @@
      "name": "g2-vs-aurora-m1-anubis.v2.cs2nades",
      "size": 279314,
      "sha256": "433c7e61b8b75e6ec0b82e9b38d661d84966cd8f11bf489a4fc6db886bc8e0a2"
+    },
+    "stats": {
+     "name": "g2-vs-aurora-m1-anubis.v2.cs2stats",
+     "size": 777,
+     "sha256": "c117ca70e2f321906e4c32855bef1be259a7ca270db8552f9764ba8519a909c8"
     }
    }
   },
@@ -888,6 +993,11 @@
      "name": "spirit-vs-furia-m1-ancient.v2.cs2nades",
      "size": 321140,
      "sha256": "d94ff189ac95eacf5245f849bc03d3f0a0a52f844435b2f72a7a8c902f681268"
+    },
+    "stats": {
+     "name": "spirit-vs-furia-m1-ancient.v2.cs2stats",
+     "size": 861,
+     "sha256": "d7b50440126a48f3177062c545c1ecb9fa771e719e3e787373342713c923048d"
     }
    }
   },
@@ -912,6 +1022,11 @@
      "name": "spirit-vs-furia-m2-cache.v2.cs2nades",
      "size": 225719,
      "sha256": "7c22b25f920a388dc0a2b69b41e5f81d0a4bc2cff370c328c543526cfb12c6ee"
+    },
+    "stats": {
+     "name": "spirit-vs-furia-m2-cache.v2.cs2stats",
+     "size": 736,
+     "sha256": "0a9dcf83d5eb71cca585725db3c87c0740005e139aeab2cefc6c076d2f1222c2"
     }
    }
   },
@@ -936,6 +1051,11 @@
      "name": "vitality-vs-legacy-m3-dust2.v2.cs2nades",
      "size": 311554,
      "sha256": "760ecf9c17d120be9d93bf0ae56de18e291382ffa0df22f9044f84e080f0dc01"
+    },
+    "stats": {
+     "name": "vitality-vs-legacy-m3-dust2.v2.cs2stats",
+     "size": 812,
+     "sha256": "43969d24ed22bc24ce7fc78dde450b2af1600a91b6f62ad5dd31760abfb4eda1"
     }
    }
   },
@@ -960,6 +1080,11 @@
      "name": "vitality-vs-legacy-m2-mirage.v2.cs2nades",
      "size": 264513,
      "sha256": "6fbb85053271524801973f4a5548807457fba7c650c6542238a20c019b5abe2f"
+    },
+    "stats": {
+     "name": "vitality-vs-legacy-m2-mirage.v2.cs2stats",
+     "size": 803,
+     "sha256": "6368bacaebaf782271f87ccb1a91f9faac372429dec6c598a660549b20bfe18f"
     }
    }
   },
@@ -984,6 +1109,11 @@
      "name": "vitality-vs-legacy-m1-nuke.v2.cs2nades",
      "size": 378098,
      "sha256": "9d3e5817c10930958466c9b4cb83793a7418347597350af9efc7cab921a3fbc6"
+    },
+    "stats": {
+     "name": "vitality-vs-legacy-m1-nuke.v2.cs2stats",
+     "size": 991,
+     "sha256": "9fc87bd58b7faeeefe3f8d1721bd168f71dedb792ad59bee771c144e39f52d6c"
     }
    }
   },
@@ -1008,6 +1138,11 @@
      "name": "inner-circle-vs-fut-m2-nuke.v2.cs2nades",
      "size": 247965,
      "sha256": "ee70ba73c31daf257e2935f2e614d28753b4ebe4b334ec3b343820cb80005cd4"
+    },
+    "stats": {
+     "name": "inner-circle-vs-fut-m2-nuke.v2.cs2stats",
+     "size": 728,
+     "sha256": "9f2d4fc18c54ac3d75c6f216384c0d86b471ad0667cf1129d45e85ce0a04bc06"
     }
    }
   },
@@ -1032,6 +1167,11 @@
      "name": "inner-circle-vs-fut-m1-mirage.v2.cs2nades",
      "size": 279402,
      "sha256": "33a0610527c6c387e2bae2553d188d0f52eb8f163ec29c6b098da777dec34a45"
+    },
+    "stats": {
+     "name": "inner-circle-vs-fut-m1-mirage.v2.cs2stats",
+     "size": 820,
+     "sha256": "6cbf0d1b395d6ecdb9f99f3bd0c66be4629f954a6f1b3411d27fdc6689600700"
     }
    }
   },
@@ -1056,6 +1196,11 @@
      "name": "g2-vs-natus-vincere-m2-inferno.v2.cs2nades",
      "size": 387198,
      "sha256": "0ca4b6b9174c27664fe94df2bbddf26443ab110ea9dc4e61db727796bee39d96"
+    },
+    "stats": {
+     "name": "g2-vs-natus-vincere-m2-inferno.v2.cs2stats",
+     "size": 891,
+     "sha256": "087e86b8ead3317bb147914d5f45e33e500860db805e1ad43c2dc238fe594727"
     }
    }
   },
@@ -1080,6 +1225,11 @@
      "name": "g2-vs-natus-vincere-m1-ancient.v2.cs2nades",
      "size": 254055,
      "sha256": "db305b88598f5601a7189c44f74f6dcec78bc41733196e360e4e372992832d07"
+    },
+    "stats": {
+     "name": "g2-vs-natus-vincere-m1-ancient.v2.cs2stats",
+     "size": 752,
+     "sha256": "ef741ba60121b647c683e9f305e4fffad9644ba7582f1cbfe161c6055430a701"
     }
    }
   },
@@ -1104,6 +1254,11 @@
      "name": "legacy-vs-falcons-m3-dust2.v2.cs2nades",
      "size": 265642,
      "sha256": "42fdc0293992d480a31a1cf90f261603e6982364e03b64c5170b6349a2e32ffd"
+    },
+    "stats": {
+     "name": "legacy-vs-falcons-m3-dust2.v2.cs2stats",
+     "size": 756,
+     "sha256": "9ea748224a060b4a40a0128bbe67fd6407e9b08a9d1e2d7be0dda04018ea047f"
     }
    }
   },
@@ -1128,6 +1283,11 @@
      "name": "legacy-vs-falcons-m2-ancient.v2.cs2nades",
      "size": 300527,
      "sha256": "2838ba8b93003c29e3458e3998d85eb0ac92e3a64a0b99072e2a1dbd1a9b5f84"
+    },
+    "stats": {
+     "name": "legacy-vs-falcons-m2-ancient.v2.cs2stats",
+     "size": 852,
+     "sha256": "83b0942e409a6d052329f9cde3b31f03d2fc41e96014ffa23f9de87e14f95cf1"
     }
    }
   },
@@ -1152,6 +1312,11 @@
      "name": "legacy-vs-falcons-m1-mirage.v2.cs2nades",
      "size": 262925,
      "sha256": "18a62aef4a7b8f89c800bfb9061903e4adf5e8b53a10f4420d7d026fe4c300f1"
+    },
+    "stats": {
+     "name": "legacy-vs-falcons-m1-mirage.v2.cs2stats",
+     "size": 737,
+     "sha256": "7ead3655a99b52bb885f086d1fbe4ea9fb754c88e230d840fca6e37e5150a8ed"
     }
    }
   },
@@ -1176,6 +1341,11 @@
      "name": "fut-vs-lynn-vision-m3-ancient.v2.cs2nades",
      "size": 236643,
      "sha256": "1c42f47b4d49aa32172d08936c06d48042e028a0116ba97f27f8355b399ce209"
+    },
+    "stats": {
+     "name": "fut-vs-lynn-vision-m3-ancient.v2.cs2stats",
+     "size": 805,
+     "sha256": "b904fc20c26e0b66342215231f62fa55b19a2328ac4ddf44967f458c6a8aafaa"
     }
    }
   },
@@ -1200,6 +1370,11 @@
      "name": "fut-vs-lynn-vision-m2-anubis.v2.cs2nades",
      "size": 179182,
      "sha256": "3d9e951e78da3af6e2113e32a52f12d903ae794526b3617cd07e8c6f13b188c6"
+    },
+    "stats": {
+     "name": "fut-vs-lynn-vision-m2-anubis.v2.cs2stats",
+     "size": 677,
+     "sha256": "6c1e0d2b4d14b69769fb085beedee613ac06cb07d64e943de789d70db9d300fc"
     }
    }
   },
@@ -1224,6 +1399,11 @@
      "name": "fut-vs-lynn-vision-m1-dust2.v2.cs2nades",
      "size": 304666,
      "sha256": "57b362d757179c2539226419365214b2b76175c1e9704c070a3e324c769d1060"
+    },
+    "stats": {
+     "name": "fut-vs-lynn-vision-m1-dust2.v2.cs2stats",
+     "size": 854,
+     "sha256": "53d30c56c70a56fc246395dfda4c74c32d907b908fbcbdaec72adef61b3047a0"
     }
    }
   },
@@ -1248,6 +1428,11 @@
      "name": "inner-circle-vs-mouz-m2-mirage.v2.cs2nades",
      "size": 219896,
      "sha256": "b7c93dc59f89167a4d1835d768d0d2103c396f9eddef03c4e9e8590abd35ce70"
+    },
+    "stats": {
+     "name": "inner-circle-vs-mouz-m2-mirage.v2.cs2stats",
+     "size": 728,
+     "sha256": "41eaab27447f81da5bdbd08fd29316f489e1ae1cb332c4fe6d1fa5ec18cd6488"
     }
    }
   },
@@ -1272,6 +1457,11 @@
      "name": "inner-circle-vs-mouz-m1-ancient.v2.cs2nades",
      "size": 213553,
      "sha256": "90715d0b773de5c8a82ea6ccb7b6e0adfae0af38dbb6ca68bdb57088fba4ec4b"
+    },
+    "stats": {
+     "name": "inner-circle-vs-mouz-m1-ancient.v2.cs2stats",
+     "size": 705,
+     "sha256": "b6b15d60623c086aded7a8b88eed6040aa9f65c1b2986388e55b87beb7b4fe61"
     }
    }
   },
@@ -1296,6 +1486,11 @@
      "name": "rooster-vs-markandlarry-m1-dust2.v2.cs2nades",
      "size": 376701,
      "sha256": "c07c832020c0e33726333f758d7c660d1c8ca6a025d8f58886e86ac5eb4f87ef"
+    },
+    "stats": {
+     "name": "rooster-vs-markandlarry-m1-dust2.v2.cs2stats",
+     "size": 1017,
+     "sha256": "cc4a730c2bd3da0bb069be2b5ef577883eaffe59bdb112a62ce1f2c929e9a568"
     }
    }
   },
@@ -1320,6 +1515,11 @@
      "name": "rooster-vs-markandlarry-m2-mirage.v2.cs2nades",
      "size": 277105,
      "sha256": "ab4608589d7bdb394d100edb55d2c844ea403bc384a493fa33ed9c5354b79225"
+    },
+    "stats": {
+     "name": "rooster-vs-markandlarry-m2-mirage.v2.cs2stats",
+     "size": 868,
+     "sha256": "e28be0006ad046874aa9b3ca34159e6623ef12de165272d5089ed4250217ed5a"
     }
    }
   },
@@ -1344,6 +1544,11 @@
      "name": "rooster-vs-markandlarry-m3-inferno.v2.cs2nades",
      "size": 260099,
      "sha256": "8fd00d63fc8151122e3cf7e6a4c58e73dadce4401a8fe8f6074c8ac523683488"
+    },
+    "stats": {
+     "name": "rooster-vs-markandlarry-m3-inferno.v2.cs2stats",
+     "size": 837,
+     "sha256": "439a79d8c83ca95b4c3094d00924f60bebf783895917f547491443ca54b5817f"
     }
    }
   },
@@ -1368,6 +1573,11 @@
      "name": "vitality-vs-9z-m2-nuke.v2.cs2nades",
      "size": 209589,
      "sha256": "af51f6fed05ff1ab77b049213c463fa80c9f8edeb85f8a6e66ff24ac237ace94"
+    },
+    "stats": {
+     "name": "vitality-vs-9z-m2-nuke.v2.cs2stats",
+     "size": 713,
+     "sha256": "42e1767f914a73132f65fdf74b01e9e05aef94039ec6541c71c837b322041434"
     }
    }
   },
@@ -1392,6 +1602,11 @@
      "name": "vitality-vs-9z-m1-dust2.v2.cs2nades",
      "size": 202754,
      "sha256": "d784cdbeb017a57ee7ac1661cf4d1c36afcb7f652dc80ff7fd5587b7b3c3f79b"
+    },
+    "stats": {
+     "name": "vitality-vs-9z-m1-dust2.v2.cs2stats",
+     "size": 642,
+     "sha256": "698b5be800a83036836f0bc562ae78a7c1b918cc4c3f0a86bc4714d7a3e54437"
     }
    }
   },
@@ -1416,6 +1631,11 @@
      "name": "m80-vs-furia-m1-cache.v2.cs2nades",
      "size": 425734,
      "sha256": "34e925b2b984a251028207e124b640179fdeb19ee5b958c5ae57065dcfe43273"
+    },
+    "stats": {
+     "name": "m80-vs-furia-m1-cache.v2.cs2stats",
+     "size": 1002,
+     "sha256": "4bb3e1632e0458ef3a5e0ea00e138a72d9d930f76e7ca289a85edffabf207238"
     }
    }
   },
@@ -1440,6 +1660,11 @@
      "name": "m80-vs-furia-m2-dust2.v2.cs2nades",
      "size": 246499,
      "sha256": "84acbc2235259351d1fe921ce82239718db82df1124a8d61daef6dde724ea0e0"
+    },
+    "stats": {
+     "name": "m80-vs-furia-m2-dust2.v2.cs2stats",
+     "size": 721,
+     "sha256": "733d6943ff2cc5fdcafd2f6be257a5b2e30e5fecac7447c50ff20d39835d5abb"
     }
    }
   },
@@ -1464,6 +1689,11 @@
      "name": "natus-vincere-vs-pain-m2-mirage.v2.cs2nades",
      "size": 306044,
      "sha256": "607aef7fc82b632fac74a8c0668d53a81e14ba50800522ec199df55d089eaafd"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-pain-m2-mirage.v2.cs2stats",
+     "size": 847,
+     "sha256": "61e3c5899443c4060864554ceb6b9510fbcbcde6728810b3a6a418f5a7cfc717"
     }
    }
   },
@@ -1488,6 +1718,11 @@
      "name": "natus-vincere-vs-pain-m1-nuke.v2.cs2nades",
      "size": 280158,
      "sha256": "17c1d4633e7c2953a504bd3b6a5240b89e2937afa5a303a1c84a3ec252e6759e"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-pain-m1-nuke.v2.cs2stats",
+     "size": 809,
+     "sha256": "4247294d62b33040c8e2c1e075066c3925fb8c8f10467a5ae095aef3fa7fdb57"
     }
    }
   },
@@ -1512,6 +1747,11 @@
      "name": "g2-vs-spirit-m2-cache.v2.cs2nades",
      "size": 327028,
      "sha256": "690ac5adcf046b8e8595c5c621508d90d0a8f6f525db38d9810e82f7df7a3c8b"
+    },
+    "stats": {
+     "name": "g2-vs-spirit-m2-cache.v2.cs2stats",
+     "size": 815,
+     "sha256": "4b6808371f1b0b0dd9b40a695073ce5bee8920796a39eedc69222b7f0959a7e1"
     }
    }
   },
@@ -1536,6 +1776,11 @@
      "name": "g2-vs-spirit-m1-dust2.v2.cs2nades",
      "size": 301101,
      "sha256": "cdf91e7770c4706dc5052c3147332e40dca56e2aa02c9d220d82fb477fec1f98"
+    },
+    "stats": {
+     "name": "g2-vs-spirit-m1-dust2.v2.cs2stats",
+     "size": 760,
+     "sha256": "f0893346e2a01bf9b178d95df16f45dfad67416d068ffbff3c229625984993cf"
     }
    }
   },
@@ -1560,6 +1805,11 @@
      "name": "aurora-vs-dendele-m2-mirage.v2.cs2nades",
      "size": 386270,
      "sha256": "2db13c28c23b778a6c90bee7a305b7e48c776cea8d675112ed50e72e9f9056e0"
+    },
+    "stats": {
+     "name": "aurora-vs-dendele-m2-mirage.v2.cs2stats",
+     "size": 971,
+     "sha256": "d3dcf822478560cef5d42892517084bfd383feac84a067a494614bbc49527269"
     }
    }
   },
@@ -1584,6 +1834,11 @@
      "name": "aurora-vs-dendele-m1-cache.v2.cs2nades",
      "size": 229268,
      "sha256": "41347f1d06c3807316126faedead491cb49508ffb85ee0aa1843bfeaf0302900"
+    },
+    "stats": {
+     "name": "aurora-vs-dendele-m1-cache.v2.cs2stats",
+     "size": 767,
+     "sha256": "8c6bb66d9e28e05f60a0a465091ccff0153d489ca1f0c2a1f2e6e2baa3c5e013"
     }
    }
   },
@@ -1608,6 +1863,11 @@
      "name": "markandlarry-vs-lfo-8-m1-nuke.v2.cs2nades",
      "size": 247904,
      "sha256": "16dab42d1cdd98deb8c44029c96cc8a759e2a3b99224731f317a13fc916a7cab"
+    },
+    "stats": {
+     "name": "markandlarry-vs-lfo-8-m1-nuke.v2.cs2stats",
+     "size": 817,
+     "sha256": "e0e2c03b671be8fabdd996d68fe49b498654932682e4a1c597f03d421c20cc4f"
     }
    }
   },
@@ -1632,6 +1892,11 @@
      "name": "markandlarry-vs-lfo-8-m2-mirage.v2.cs2nades",
      "size": 174591,
      "sha256": "132c5fadc457eeab4f22534533929d0920de4257b816a896e341c1912abda1a9"
+    },
+    "stats": {
+     "name": "markandlarry-vs-lfo-8-m2-mirage.v2.cs2stats",
+     "size": 706,
+     "sha256": "1ca935296e52f1614cf9f80e14bafdb8574524181694c67b617d9adf6c1312d2"
     }
    }
   },
@@ -1656,6 +1921,11 @@
      "name": "falcons-vs-lynn-vision-m3-dust2.v2.cs2nades",
      "size": 315661,
      "sha256": "2af8929e34a7d778e7e2f688f0c67f865e894cf123bd1047f21b97c5586f44c0"
+    },
+    "stats": {
+     "name": "falcons-vs-lynn-vision-m3-dust2.v2.cs2stats",
+     "size": 829,
+     "sha256": "4579139a1f931975ecaaa1002e8bc1b649fc8164aef8699f77c18cd337337c95"
     }
    }
   },
@@ -1680,6 +1950,11 @@
      "name": "falcons-vs-lynn-vision-m2-ancient.v2.cs2nades",
      "size": 249209,
      "sha256": "e2ac4c14a13bccb27d6792213591b930d3f637bbe205d6a5cc0ca9ee7151dfdb"
+    },
+    "stats": {
+     "name": "falcons-vs-lynn-vision-m2-ancient.v2.cs2stats",
+     "size": 851,
+     "sha256": "481010c042353c7a3d872b47ad4255fa52127b8498b50fbcae0e2fafd98d157c"
     }
    }
   },
@@ -1704,6 +1979,11 @@
      "name": "falcons-vs-lynn-vision-m1-inferno.v2.cs2nades",
      "size": 227288,
      "sha256": "142db58b33c252cffe2399bd1ddb67a93a520860edb502830265b2bffa9a1ddb"
+    },
+    "stats": {
+     "name": "falcons-vs-lynn-vision-m1-inferno.v2.cs2stats",
+     "size": 729,
+     "sha256": "7b6f685d490b95e389fc24e7e0337457f164a60e07f064706e3e22767c605178"
     }
    }
   },
@@ -1728,6 +2008,11 @@
      "name": "legacy-vs-fut-m2-dust2.v2.cs2nades",
      "size": 305808,
      "sha256": "82fece9731a84ddbaed911f80872a9bb74ed3de7a823bbb845041612c7cc19f2"
+    },
+    "stats": {
+     "name": "legacy-vs-fut-m2-dust2.v2.cs2stats",
+     "size": 884,
+     "sha256": "5b8ebe1fc0cb3d702f3f8adb5cbf868b6d24a6443888352d1e34cbd5301732bd"
     }
    }
   },
@@ -1752,6 +2037,11 @@
      "name": "legacy-vs-fut-m1-ancient.v2.cs2nades",
      "size": 296366,
      "sha256": "982838052bfe726a957efa65c2870a5bdb8d48cc949d06208057750bc3f00af3"
+    },
+    "stats": {
+     "name": "legacy-vs-fut-m1-ancient.v2.cs2stats",
+     "size": 868,
+     "sha256": "ea7637a2bfc1132b41076ee87aed59978bdc34395130ac4daf4616304a50c8f8"
     }
    }
   },
@@ -1776,6 +2066,11 @@
      "name": "mouz-vs-9z-m1-cache.v2.cs2nades",
      "size": 202755,
      "sha256": "56bb3b73aa788a86a8143b47f9c640fdf479eec3a3ff99ff06130df725d6e636"
+    },
+    "stats": {
+     "name": "mouz-vs-9z-m1-cache.v2.cs2stats",
+     "size": 670,
+     "sha256": "14b4b5724b792df326843634ba741d8587f597fd44396640da3c2ad6710bd5ef"
     }
    }
   },
@@ -1800,6 +2095,11 @@
      "name": "mouz-vs-9z-m2-nuke.v2.cs2nades",
      "size": 238957,
      "sha256": "490f115741be64696b0cd452308a87d23fd60b6d04b40a1b240430a53fbd78d2"
+    },
+    "stats": {
+     "name": "mouz-vs-9z-m2-nuke.v2.cs2stats",
+     "size": 755,
+     "sha256": "77794b2632ec72b6fa5853320a7383bbfa88715abeb773cec333d0fb26c2ea24"
     }
    }
   },
@@ -1824,6 +2124,11 @@
      "name": "vitality-vs-inner-circle-m2-cache.v2.cs2nades",
      "size": 376595,
      "sha256": "6c13f534c6add4153e22a591e3d97c8cb3af6cb53e2c9fcb614eba5027c248e8"
+    },
+    "stats": {
+     "name": "vitality-vs-inner-circle-m2-cache.v2.cs2stats",
+     "size": 1020,
+     "sha256": "c371a140b8cd463761bf9f017e9e7bd61ef33e44d5b80a13c1da66bc9b9534ac"
     }
    }
   },
@@ -1848,6 +2153,11 @@
      "name": "vitality-vs-inner-circle-m1-anubis.v2.cs2nades",
      "size": 256744,
      "sha256": "79a1a1a689bac03210f34550c5b7e5613bc833471e4a1d5c825299c61f9343dd"
+    },
+    "stats": {
+     "name": "vitality-vs-inner-circle-m1-anubis.v2.cs2stats",
+     "size": 793,
+     "sha256": "fc4742277804b363f8fe1e7eaf625548e64af981210cd3a085e216604c58a8e6"
     }
    }
   },
@@ -1872,6 +2182,11 @@
      "name": "furia-vs-pain-m2-cache.v2.cs2nades",
      "size": 266245,
      "sha256": "db42a9299082219c5fdd4f899850ad7db46ee82a55eddec8f2ad81457e57ce71"
+    },
+    "stats": {
+     "name": "furia-vs-pain-m2-cache.v2.cs2stats",
+     "size": 741,
+     "sha256": "585b2ca54ee25e2e96f2dc30a3cfbd031473c8daf0ed099665dec0bc8c990ff7"
     }
    }
   },
@@ -1896,6 +2211,11 @@
      "name": "furia-vs-pain-m1-mirage.v2.cs2nades",
      "size": 200121,
      "sha256": "cc26ed0a45679158648c6aa74f4a28ea6665a2d483e33dcc99d199efd09b5331"
+    },
+    "stats": {
+     "name": "furia-vs-pain-m1-mirage.v2.cs2stats",
+     "size": 645,
+     "sha256": "da50cb21c238adfc91912f6855c4443fba39f5ad19e065347f1ebf2bdc3bdb5c"
     }
    }
   },
@@ -1920,6 +2240,11 @@
      "name": "natus-vincere-vs-m80-m3-inferno.v2.cs2nades",
      "size": 302093,
      "sha256": "569af61405d105447259b4a426bef81e8b6a5b915c0e2a0eacb74e93ebc6b267"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-m80-m3-inferno.v2.cs2stats",
+     "size": 774,
+     "sha256": "f5b4d4c268429ea8cf169a38a64c87f708f35345ceadc06a30347f3bebb0c614"
     }
    }
   },
@@ -1944,6 +2269,11 @@
      "name": "natus-vincere-vs-m80-m2-mirage.v2.cs2nades",
      "size": 263977,
      "sha256": "3dffb6f1787eaed19a428744ecbf5011cb63264c2d8f4bb57574166526581072"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-m80-m2-mirage.v2.cs2stats",
+     "size": 756,
+     "sha256": "8c831af2305e5c168ef44f10bba05e7424299c331070ab47fa811bee25c2b087"
     }
    }
   },
@@ -1968,6 +2298,11 @@
      "name": "natus-vincere-vs-m80-m1-anubis.v2.cs2nades",
      "size": 230989,
      "sha256": "b1bd06a9d2453005fd83fafe31a7e92d006c35b7b7fc5d2859ce77e2b66fb75b"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-m80-m1-anubis.v2.cs2stats",
+     "size": 723,
+     "sha256": "57d11a4cb82e898cf15a5dd393225dbe7c3eeca89f6ca447312b5d02c9dd8562"
     }
    }
   },
@@ -1992,6 +2327,11 @@
      "name": "spirit-vs-dendele-m2-cache.v2.cs2nades",
      "size": 255944,
      "sha256": "ed1ab2fb64d451cc3658557802f4413173d970d8188cd546dcefea5ee34e246e"
+    },
+    "stats": {
+     "name": "spirit-vs-dendele-m2-cache.v2.cs2stats",
+     "size": 766,
+     "sha256": "03ae18e8b00c4dc99eec303867ba34e8715cdc4af676907012724aa432d82705"
     }
    }
   },
@@ -2016,6 +2356,11 @@
      "name": "spirit-vs-dendele-m1-ancient.v2.cs2nades",
      "size": 280676,
      "sha256": "51039c05d471ee1296cb45c78a796d72b6508a194f440b7a75975469ece5fe87"
+    },
+    "stats": {
+     "name": "spirit-vs-dendele-m1-ancient.v2.cs2stats",
+     "size": 818,
+     "sha256": "731f74a704fe18e9cd7e062150d799456d39a6f9df278fa9f82d6c97dfbd1241"
     }
    }
   },
@@ -2040,6 +2385,11 @@
      "name": "aurora-vs-g2-m2-anubis.v2.cs2nades",
      "size": 419775,
      "sha256": "ecd096f69a204c7bf211ce9f79162c137c9f109edc6989d321bcd05a159b64dc"
+    },
+    "stats": {
+     "name": "aurora-vs-g2-m2-anubis.v2.cs2stats",
+     "size": 957,
+     "sha256": "06ab943ee95ddf17e96a092206752e8d39644605d5c52ae2ded3662896852c95"
     }
    }
   },
@@ -2064,6 +2414,11 @@
      "name": "aurora-vs-g2-m1-inferno.v2.cs2nades",
      "size": 253228,
      "sha256": "656956d28ad763f4fa673fc7815629f968906487fa9d2c9912408c2a56bc4186"
+    },
+    "stats": {
+     "name": "aurora-vs-g2-m1-inferno.v2.cs2stats",
+     "size": 724,
+     "sha256": "f49ba31c8232f10417dcf4244823c6bb880ed0cfe2c31b439ecb794de2043215"
     }
    }
   },
@@ -2088,6 +2443,11 @@
      "name": "100-thieves-vs-bc-game-m1-inferno.v2.cs2nades",
      "size": 288615,
      "sha256": "969fea9089f3433803f6936712289b8f55cb08b3d424805ba97d4a1cd7313752"
+    },
+    "stats": {
+     "name": "100-thieves-vs-bc-game-m1-inferno.v2.cs2stats",
+     "size": 807,
+     "sha256": "dd71fdb0236e90d0c1b219f7252d52c6cd6fa273f6ca178acbcc3e5d2a2a1aed"
     }
    }
   },
@@ -2112,6 +2472,11 @@
      "name": "bc-game-vs-og-m1-inferno.v2.cs2nades",
      "size": 292025,
      "sha256": "49783e351b6278cdc1bf9891bcae43c0dda24b05adb6c200931975b67ef6bd7d"
+    },
+    "stats": {
+     "name": "bc-game-vs-og-m1-inferno.v2.cs2stats",
+     "size": 820,
+     "sha256": "9554763cb8b911923c0c588d5da49ec54c77cc246695898ba5047dd7e6bc3c70"
     }
    }
   },
@@ -2136,6 +2501,11 @@
      "name": "fut-vs-spirit-m3-ancient.v2.cs2nades",
      "size": 421310,
      "sha256": "ebe6d67400947aa097b9f0f01475b505a14e5b54e7c86e147f5d74d80b2fc375"
+    },
+    "stats": {
+     "name": "fut-vs-spirit-m3-ancient.v2.cs2stats",
+     "size": 1054,
+     "sha256": "9d444ce0f78beaf577f27853eb6495da137e434c61731dbea98c31f14852c16d"
     }
    }
   },
@@ -2160,6 +2530,11 @@
      "name": "fut-vs-spirit-m4-nuke.v2.cs2nades",
      "size": 233273,
      "sha256": "b7c52e81a016f5084920c0928c342c90e91d285b333f80682282f4c27696204c"
+    },
+    "stats": {
+     "name": "fut-vs-spirit-m4-nuke.v2.cs2stats",
+     "size": 741,
+     "sha256": "451a5fd27c1be960608da88946b883618b6b206c47d274ae380c15164b44e052"
     }
    }
   },
@@ -2184,6 +2559,11 @@
      "name": "fut-vs-spirit-m2-anubis.v2.cs2nades",
      "size": 391982,
      "sha256": "d942c6239c9b739100d5b4a6d828aaea98a874c7f67f2679f642b5200c3c755b"
+    },
+    "stats": {
+     "name": "fut-vs-spirit-m2-anubis.v2.cs2stats",
+     "size": 1034,
+     "sha256": "ea1d90642ba05e97cbac20a820d9aef278fa3854dd25daacb681bc1eb90ca18f"
     }
    }
   },
@@ -2208,6 +2588,11 @@
      "name": "fut-vs-spirit-m1-cache.v2.cs2nades",
      "size": 284070,
      "sha256": "b1e94ad75f4863ec87075cb5d44d610cf09107b4fe663d2ad9a2733a20336525"
+    },
+    "stats": {
+     "name": "fut-vs-spirit-m1-cache.v2.cs2stats",
+     "size": 866,
+     "sha256": "5325d750b14e13397c9604edd7f84b669905191c988c21abcdba03a1f92f64f6"
     }
    }
   },
@@ -2232,6 +2617,11 @@
      "name": "vitality-vs-spirit-m3-mirage.v2.cs2nades",
      "size": 226467,
      "sha256": "a4e4a2e90d9d4dad3684397ed5f051ed49d77725edd4e5586778fded6bda6684"
+    },
+    "stats": {
+     "name": "vitality-vs-spirit-m3-mirage.v2.cs2stats",
+     "size": 694,
+     "sha256": "f69d365267a2057c73332bc31e0802ab558bc4eab3dc9538b90ce055f1954739"
     }
    }
   },
@@ -2256,6 +2646,11 @@
      "name": "vitality-vs-spirit-m2-nuke.v2.cs2nades",
      "size": 402339,
      "sha256": "58a865337b30bc138b31cf7f1dee4d0c8c678dd703a7d64cb844b08e478042a3"
+    },
+    "stats": {
+     "name": "vitality-vs-spirit-m2-nuke.v2.cs2stats",
+     "size": 1030,
+     "sha256": "d3dd242ac3ea8e661b5cf840c416a7d68777ad83c9646109bc7c5ba81539f29e"
     }
    }
   },
@@ -2280,6 +2675,11 @@
      "name": "vitality-vs-spirit-m1-anubis.v2.cs2nades",
      "size": 358930,
      "sha256": "10dcbe0b9e667e06f89a3abdeb3d15e11970b0a608831cae436be94194cf149c"
+    },
+    "stats": {
+     "name": "vitality-vs-spirit-m1-anubis.v2.cs2stats",
+     "size": 907,
+     "sha256": "eac7d4040a17ac343f14ded03835790f0b3027c353952a724e44240493cb5665"
     }
    }
   },
@@ -2304,6 +2704,11 @@
      "name": "g2-vs-astralis-m3-inferno.v2.cs2nades",
      "size": 293694,
      "sha256": "187be576f3750e5d09bdfd6f9a775799ffde97483a6dc6f2f6f67b6cc6cab3ad"
+    },
+    "stats": {
+     "name": "g2-vs-astralis-m3-inferno.v2.cs2stats",
+     "size": 792,
+     "sha256": "0766328755b2bb6545ba2f7602efe9ba7f44fe58c37181b30c036b537b789bc3"
     }
    }
   },
@@ -2328,6 +2733,11 @@
      "name": "g2-vs-astralis-m2-dust2.v2.cs2nades",
      "size": 263187,
      "sha256": "1d3966735a98bb220a27bc64df95e002fbf80e748f602c0cfdb724478244e8cb"
+    },
+    "stats": {
+     "name": "g2-vs-astralis-m2-dust2.v2.cs2stats",
+     "size": 772,
+     "sha256": "5acb87080033039889c7ed0ab305e1ba2b012c4d2e114b35b854dcc1e3b50a4f"
     }
    }
   },
@@ -2352,6 +2762,11 @@
      "name": "g2-vs-astralis-m1-ancient.v2.cs2nades",
      "size": 245455,
      "sha256": "e0e9d463fc6c0333abd1280150e27e18e94c4be25f13012b8d4aa7b3af9c3866"
+    },
+    "stats": {
+     "name": "g2-vs-astralis-m1-ancient.v2.cs2stats",
+     "size": 755,
+     "sha256": "ab655fe9a30f9529e5b9b8b3caf4f495fe6139d01c7046e527c43af9d39087e0"
     }
    }
   },
@@ -2376,6 +2791,11 @@
      "name": "legacy-vs-mibr-m2-inferno.v2.cs2nades",
      "size": 303405,
      "sha256": "db452e71c18a35ab63096a6e40f1006339c7ff92759ad9d556e65cc748b9b4a8"
+    },
+    "stats": {
+     "name": "legacy-vs-mibr-m2-inferno.v2.cs2stats",
+     "size": 802,
+     "sha256": "0adc5acd37d57a8c850a5f6bed9003465a77c3dca8cc735c7fb3a263cff58d1e"
     }
    }
   },
@@ -2400,6 +2820,11 @@
      "name": "astralis-vs-ninjas-in-pyjamas-m3-cache.v2.cs2nades",
      "size": 268886,
      "sha256": "a146a3929b109d324bd6dd5f4ee9830d05f41fedb0b4ff98d12bdd71825565dc"
+    },
+    "stats": {
+     "name": "astralis-vs-ninjas-in-pyjamas-m3-cache.v2.cs2stats",
+     "size": 811,
+     "sha256": "068517b15778c68c6981c96fe6a65585c82acf2058ad260a1281c9b6ae0091a5"
     }
    }
   },
@@ -2424,6 +2849,11 @@
      "name": "legacy-vs-mibr-m1-nuke.v2.cs2nades",
      "size": 262518,
      "sha256": "6682066f63ee4afed16f63541e72e4b9eba043300fc914c1e38e3d1a3c8ac5e7"
+    },
+    "stats": {
+     "name": "legacy-vs-mibr-m1-nuke.v2.cs2stats",
+     "size": 868,
+     "sha256": "6b1f2872f147287ed42697539a1e1dfc92b2183447a8f98510e839912fd95169"
     }
    }
   },
@@ -2448,6 +2878,11 @@
      "name": "astralis-vs-ninjas-in-pyjamas-m2-inferno.v2.cs2nades",
      "size": 316020,
      "sha256": "0d6a59b5e5be1420b46733932ec21dfe3f8a58b19cd8f72c1ca141fc94d9d276"
+    },
+    "stats": {
+     "name": "astralis-vs-ninjas-in-pyjamas-m2-inferno.v2.cs2stats",
+     "size": 899,
+     "sha256": "08a6cf743ddfed10f03a77f099a4c7ec5388fbb7122ae19b2d9d32d7e2b7aa61"
     }
    }
   },
@@ -2472,6 +2907,11 @@
      "name": "astralis-vs-ninjas-in-pyjamas-m1-nuke.v2.cs2nades",
      "size": 190896,
      "sha256": "e42413a9981acb4d15065746e534fbbbe648ccb9df189ff0eb1fce70ae9d0003"
+    },
+    "stats": {
+     "name": "astralis-vs-ninjas-in-pyjamas-m1-nuke.v2.cs2stats",
+     "size": 693,
+     "sha256": "b6e475b77b3771e598ff14334540afff6732b424f4b943527b6f941b882b33c6"
     }
    }
   },
@@ -2496,6 +2936,11 @@
      "name": "mouz-vs-parivision-m2-inferno.v2.cs2nades",
      "size": 388203,
      "sha256": "685695371438e3c826d0aed8bef6e4591f263772d1882c70d5bc0827ad443aa3"
+    },
+    "stats": {
+     "name": "mouz-vs-parivision-m2-inferno.v2.cs2stats",
+     "size": 889,
+     "sha256": "5a15b51b8cdd9dc509c7a5b8d8421502dcc308f41a7ffe256c1dbeb2bee644f8"
     }
    }
   },
@@ -2520,6 +2965,11 @@
      "name": "mouz-vs-parivision-m1-dust2.v2.cs2nades",
      "size": 265557,
      "sha256": "fe43c0502b59357688346a5d56a8e4393e664011100aa85f3e2b6fdae801fc44"
+    },
+    "stats": {
+     "name": "mouz-vs-parivision-m1-dust2.v2.cs2stats",
+     "size": 699,
+     "sha256": "dc75f410d6b0ae27d510c1db5b5dc61e5c1f805a917e7337efce589e21b73c8b"
     }
    }
   },
@@ -2544,6 +2994,11 @@
      "name": "lynn-vision-vs-vitality-m2-inferno.v2.cs2nades",
      "size": 218482,
      "sha256": "f3e1905cd840ae084191105b5d8e9d0e69e034afd18e8bce5232193c75204e46"
+    },
+    "stats": {
+     "name": "lynn-vision-vs-vitality-m2-inferno.v2.cs2stats",
+     "size": 763,
+     "sha256": "60355f8c1ead06269ac6bbddaf21dfe4a73d434b723227b8fc1e8609f52d005c"
     }
    }
   },
@@ -2568,6 +3023,11 @@
      "name": "lynn-vision-vs-vitality-m1-dust2.v2.cs2nades",
      "size": 174180,
      "sha256": "328246caf82d0c026937ce1a0c0c3d0eef581fb53895f62eb4aea40274b74ac9"
+    },
+    "stats": {
+     "name": "lynn-vision-vs-vitality-m1-dust2.v2.cs2stats",
+     "size": 662,
+     "sha256": "7befabffff11c655a617286a263a7eb61d86d4e849a122a101d45ac38724dce3"
     }
    }
   },
@@ -2592,6 +3052,11 @@
      "name": "spirit-vs-big-m3-mirage.v2.cs2nades",
      "size": 266938,
      "sha256": "7004041019309ee5eb4b5b80fb19b759bb1456a3f4ebe19e2f2998c5e0f67bd3"
+    },
+    "stats": {
+     "name": "spirit-vs-big-m3-mirage.v2.cs2stats",
+     "size": 779,
+     "sha256": "dd666c39b909623cc6d2f49abd1fcab62bbd6184391b07d3718d07b292c99671"
     }
    }
   },
@@ -2616,6 +3081,11 @@
      "name": "spirit-vs-big-m2-dust2.v2.cs2nades",
      "size": 342307,
      "sha256": "422ad9886262f6b8b5af9a59fd2a0e454f0692290ccab620689bed5008920a4f"
+    },
+    "stats": {
+     "name": "spirit-vs-big-m2-dust2.v2.cs2stats",
+     "size": 863,
+     "sha256": "99b7f0c80d0e2fcf6ba4eac766db3a6dadafa94e0e83033edf28e85b8e7705a4"
     }
    }
   },
@@ -2640,6 +3110,11 @@
      "name": "spirit-vs-big-m1-cache.v2.cs2nades",
      "size": 313906,
      "sha256": "5ce73807089c96d5a607f36822a4304f6f47d47e9854e76f493f30798a8e30fa"
+    },
+    "stats": {
+     "name": "spirit-vs-big-m1-cache.v2.cs2stats",
+     "size": 825,
+     "sha256": "1f75871afd56a9984f655637a1db9d888aca988d5a741639c717c5f7fbfe9373"
     }
    }
   },
@@ -2664,6 +3139,11 @@
      "name": "jijiehao-vs-aurora-m2-anubis.v2.cs2nades",
      "size": 211982,
      "sha256": "9d6d25c4772c24ff83005aadce05b0b102c7cf929f696a72aaf0dc7e1265eda1"
+    },
+    "stats": {
+     "name": "jijiehao-vs-aurora-m2-anubis.v2.cs2stats",
+     "size": 706,
+     "sha256": "8a6f20c475dce93afb1c5a433330a0814d47f56f79db592e5ab03c84695d3424"
     }
    }
   },
@@ -2688,6 +3168,11 @@
      "name": "jijiehao-vs-aurora-m1-mirage-p2.v2.cs2nades",
      "size": 144123,
      "sha256": "209f07424e149ca62cabb694d5b8f8d8a81320580987febace00ed89dfffc817"
+    },
+    "stats": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p2.v2.cs2stats",
+     "size": 556,
+     "sha256": "eabda4ae3b1b0013bc75e6dd85d3950615b1ed2ca1a32d5ccc5271379a03394d"
     }
    }
   },
@@ -2712,6 +3197,11 @@
      "name": "jijiehao-vs-aurora-m1-mirage-p1.v2.cs2nades",
      "size": 102926,
      "sha256": "a3f7e326eea03b911d216576fb0b5fc43d70ed57c24ac9a4d348c8471fd6be4a"
+    },
+    "stats": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p1.v2.cs2stats",
+     "size": 468,
+     "sha256": "19a8a719b6daab760fd356ffa93b554955457801bf35b46b8f1970fd16434ed6"
     }
    }
   },
@@ -2736,6 +3226,11 @@
      "name": "k27-vs-mibr-m2-nuke.v2.cs2nades",
      "size": 198521,
      "sha256": "c787a431c849c5af27463880b8687b429a0cf35d77dc2d05bebe4b3be9baf8d0"
+    },
+    "stats": {
+     "name": "k27-vs-mibr-m2-nuke.v2.cs2stats",
+     "size": 726,
+     "sha256": "af0e24a3d9faaa3a2c00d1964adcbdfbfa1ea2026274d21e90752f348b867b72"
     }
    }
   },
@@ -2760,6 +3255,11 @@
      "name": "parivision-vs-100-thieves-m2-dust2.v2.cs2nades",
      "size": 271953,
      "sha256": "e8f7aa9fa2670433fef099c44f50c0842bd9878387ee426dfd30f00e5d12fc43"
+    },
+    "stats": {
+     "name": "parivision-vs-100-thieves-m2-dust2.v2.cs2stats",
+     "size": 734,
+     "sha256": "e0ffae64bd4ea611e4e1abed37b9dfa8dff2fe034f97069b2efb52642d62bac2"
     }
    }
   },
@@ -2784,6 +3284,11 @@
      "name": "k27-vs-mibr-m1-cache.v2.cs2nades",
      "size": 286821,
      "sha256": "5e303d84852b88c6c154d319ee4edab756c1c3ed2e64f151065f0c3ce6b28c0a"
+    },
+    "stats": {
+     "name": "k27-vs-mibr-m1-cache.v2.cs2stats",
+     "size": 823,
+     "sha256": "5816668a76a94d615f6da20c9eabd77672437e80ab4245d7e584d9ea9726353c"
     }
    }
   },
@@ -2808,6 +3313,11 @@
      "name": "parivision-vs-100-thieves-m1-anubis.v2.cs2nades",
      "size": 252341,
      "sha256": "f1d32233dc9ac45a3c26425c7fb6b26213e9089c7b1638279d97493f63c1c0f0"
+    },
+    "stats": {
+     "name": "parivision-vs-100-thieves-m1-anubis.v2.cs2stats",
+     "size": 745,
+     "sha256": "353b2b20f2fb9504bc8a31b43b3ea7ccbc453910c7356b8ccc076a5fc36f2574"
     }
    }
   },
@@ -2832,6 +3342,11 @@
      "name": "b8-vs-vitality-m3-dust2.v2.cs2nades",
      "size": 243843,
      "sha256": "b940a46b2700b51b11abec7482f56080355c9b0eb4bd632f60eb78d64ae892a5"
+    },
+    "stats": {
+     "name": "b8-vs-vitality-m3-dust2.v2.cs2stats",
+     "size": 720,
+     "sha256": "a4b5e8e8a0680c4d22d8e45f3d1676a1591f123a85d79d32092be76fe7ff542c"
     }
    }
   },
@@ -2856,6 +3371,11 @@
      "name": "fut-vs-mouz-m3-mirage.v2.cs2nades",
      "size": 285623,
      "sha256": "af45f7e1e6216447e4b5becd91a450507839e0c754746192df3941da58044a61"
+    },
+    "stats": {
+     "name": "fut-vs-mouz-m3-mirage.v2.cs2stats",
+     "size": 869,
+     "sha256": "0f281f10f1531bc4df4af958f5117a60ea3bb6787370c7dce1af149155a0d649"
     }
    }
   },
@@ -2880,6 +3400,11 @@
      "name": "b8-vs-vitality-m2-inferno.v2.cs2nades",
      "size": 327630,
      "sha256": "5e1100ecb7d46eba69526a1ef2e669591d162df0dc171e2d10254642fe0a6dc3"
+    },
+    "stats": {
+     "name": "b8-vs-vitality-m2-inferno.v2.cs2stats",
+     "size": 911,
+     "sha256": "673149d608a37c8196a644bbdaf3c095be58a6d76cba98434632474ae799466e"
     }
    }
   },
@@ -2904,6 +3429,11 @@
      "name": "fut-vs-mouz-m2-nuke.v2.cs2nades",
      "size": 336014,
      "sha256": "8cf0c5a442f2f94c0b10e935fff1db05c66749a877ec49fe96706e87b453d113"
+    },
+    "stats": {
+     "name": "fut-vs-mouz-m2-nuke.v2.cs2stats",
+     "size": 964,
+     "sha256": "ff0a983f32cc3f823480f771e97ec528ff2ed1f99f7de5d03fa41f67c8a22e7a"
     }
    }
   },
@@ -2928,6 +3458,11 @@
      "name": "b8-vs-vitality-m1-mirage.v2.cs2nades",
      "size": 392929,
      "sha256": "9a3640fd113c3715164ccba40f2855a7315c7ebaba1061568ed42f7a7e6cdfe6"
+    },
+    "stats": {
+     "name": "b8-vs-vitality-m1-mirage.v2.cs2stats",
+     "size": 963,
+     "sha256": "649d03903ca9a552535acb04b0d6bef297ed2cf1ac33098e2bd8e7f3016244d2"
     }
    }
   },
@@ -2952,6 +3487,11 @@
      "name": "fut-vs-mouz-m1-ancient.v2.cs2nades",
      "size": 250391,
      "sha256": "2e0cd21a51c01bcaefd26f4d342b05b686c0c4f4022779907800ea0aac71c67e"
+    },
+    "stats": {
+     "name": "fut-vs-mouz-m1-ancient.v2.cs2stats",
+     "size": 781,
+     "sha256": "04f756ca0cfd1233ddfda7421325d556b52502ed447f13b37c59532fd34458d7"
     }
    }
   },
@@ -2976,6 +3516,11 @@
      "name": "tyloo-vs-lynn-vision-m2-inferno.v2.cs2nades",
      "size": 224369,
      "sha256": "915a3b102fd9fdf720acf14d3d78907fad0e5e75343340c1070b83a32b9694ed"
+    },
+    "stats": {
+     "name": "tyloo-vs-lynn-vision-m2-inferno.v2.cs2stats",
+     "size": 731,
+     "sha256": "715caae80506ad0e990efe8534ba88b85b29bbf2821680b12e1086f1bc566215"
     }
    }
   },
@@ -3000,6 +3545,11 @@
      "name": "tyloo-vs-lynn-vision-m1-nuke.v2.cs2nades",
      "size": 247855,
      "sha256": "c4d35fc11e812117775ab79416434c195f1d53091238e3066b1ca8593ef4a5c4"
+    },
+    "stats": {
+     "name": "tyloo-vs-lynn-vision-m1-nuke.v2.cs2stats",
+     "size": 787,
+     "sha256": "e6e9ac60f52afe32ce2444b86b3706b3647c475cbfecb9d0e43c40714ecee589"
     }
    }
   },
@@ -3024,6 +3574,11 @@
      "name": "falcons-vs-astralis-m2-dust2.v2.cs2nades",
      "size": 347327,
      "sha256": "35839e944c95ed0fc525653ad93c9ad3f5d41542f1d61e2a9cfaa96598eada05"
+    },
+    "stats": {
+     "name": "falcons-vs-astralis-m2-dust2.v2.cs2stats",
+     "size": 857,
+     "sha256": "d0a4cf6d01272fcdd7c0e2c7018c81eaddd1f015e180785fa7043482c770051d"
     }
    }
   },
@@ -3048,6 +3603,11 @@
      "name": "legacy-vs-faze-m2-mirage.v2.cs2nades",
      "size": 266745,
      "sha256": "67e606b416f54375e67409b20675d4962261c4191edd3fa0d3b23103297ea7f2"
+    },
+    "stats": {
+     "name": "legacy-vs-faze-m2-mirage.v2.cs2stats",
+     "size": 796,
+     "sha256": "c745d4eca05d737daa9999953eb58125e18fb84009623f8c0cd4ab5c786f7fee"
     }
    }
   },
@@ -3072,6 +3632,11 @@
      "name": "legacy-vs-faze-m1-cache.v2.cs2nades",
      "size": 234940,
      "sha256": "0e5e7a8e076abaae55f0e1e1ebe955d87d4cb3ef0be7b5dcfa9d0c3446598743"
+    },
+    "stats": {
+     "name": "legacy-vs-faze-m1-cache.v2.cs2stats",
+     "size": 754,
+     "sha256": "322b16f6686b2bc6d08470909ca3ea0389e81b99af46e7bc51b15f6d1149285d"
     }
    }
   },
@@ -3096,6 +3661,11 @@
      "name": "falcons-vs-astralis-m1-ancient-p2.v2.cs2nades",
      "size": 233015,
      "sha256": "8f5b8a9f0ea6bdb2219d5edb9b26b19a936c17bb7a6183f1bca21b5b715aea7e"
+    },
+    "stats": {
+     "name": "falcons-vs-astralis-m1-ancient-p2.v2.cs2stats",
+     "size": 723,
+     "sha256": "00b958137c76e51917df41125ed36e398f9f9206af1c27f1e9b1a40ae2968a46"
     }
    }
   },
@@ -3120,6 +3690,11 @@
      "name": "falcons-vs-astralis-m1-ancient-p1.v2.cs2nades",
      "size": 28304,
      "sha256": "aae9f51dafadc32552c9ac53ed2f43d0d2d5ce495c6d5d686db55fe914f49a96"
+    },
+    "stats": {
+     "name": "falcons-vs-astralis-m1-ancient-p1.v2.cs2stats",
+     "size": 312,
+     "sha256": "3f6db2e85c7a4e61daba4e9c19caec05999db10c69c5b2a48f682d8fedbb8b76"
     }
    }
   },
@@ -3144,6 +3719,11 @@
      "name": "big-vs-g2-m3-inferno.v2.cs2nades",
      "size": 194463,
      "sha256": "e4b588b1d4eb7b9c4da1bc113e3dfe11255ef617c461f9fdf06d9a539f6d1498"
+    },
+    "stats": {
+     "name": "big-vs-g2-m3-inferno.v2.cs2stats",
+     "size": 642,
+     "sha256": "3246bbad426c0b0802756dab829bf9b34ab120e907361885fe561211b1b93adf"
     }
    }
   },
@@ -3168,6 +3748,11 @@
      "name": "aurora-vs-m80-m2-inferno-p2.v2.cs2nades",
      "size": 137519,
      "sha256": "9af46449bd9e84866cca010ec1e9d28c2d7a6083b02773c7596862a469d7cfaa"
+    },
+    "stats": {
+     "name": "aurora-vs-m80-m2-inferno-p2.v2.cs2stats",
+     "size": 565,
+     "sha256": "fbadca8ecc9ff4f50d755f3ae8245699a16491949f24b6b0b100009e0aa1e705"
     }
    }
   },
@@ -3192,6 +3777,11 @@
      "name": "aurora-vs-m80-m2-inferno-p1.v2.cs2nades",
      "size": 160404,
      "sha256": "2e0478c95d416d5d7bed21c595d22729b49f129a828656ca13cd9ae99d89b807"
+    },
+    "stats": {
+     "name": "aurora-vs-m80-m2-inferno-p1.v2.cs2stats",
+     "size": 547,
+     "sha256": "6e93ec29959823d94b7a345a658614d49ba0959a9cc4351c9f4a1498773a0e88"
     }
    }
   },
@@ -3216,6 +3806,11 @@
      "name": "big-vs-g2-m2-ancient.v2.cs2nades",
      "size": 377194,
      "sha256": "9073f3b25a7882ea1aeff7e805318d7c16e730f3f076408012d3ce67ed9a1b52"
+    },
+    "stats": {
+     "name": "big-vs-g2-m2-ancient.v2.cs2stats",
+     "size": 1010,
+     "sha256": "03506f5a0061c8a27d22c22bd2a429e1e2fb0212100c46b4e2fd30ead188a7f3"
     }
    }
   },
@@ -3240,6 +3835,11 @@
      "name": "aurora-vs-m80-m1-dust2.v2.cs2nades",
      "size": 292279,
      "sha256": "9e8116b7ebd304b9d284b355ded5cca6aee4ee3725d0a991a5f08871d94c4559"
+    },
+    "stats": {
+     "name": "aurora-vs-m80-m1-dust2.v2.cs2stats",
+     "size": 830,
+     "sha256": "79c07adbd1dc86b00eac17015f91e35db6222b6481bc4053a034a8be6bb87c8b"
     }
    }
   },
@@ -3264,6 +3864,11 @@
      "name": "big-vs-g2-m1-cache.v2.cs2nades",
      "size": 243144,
      "sha256": "1a6b91a61ff7e4220f3cb9a25fbb5c08045d880ba5c360d51360cf8b527e9928"
+    },
+    "stats": {
+     "name": "big-vs-g2-m1-cache.v2.cs2stats",
+     "size": 719,
+     "sha256": "154c7b57f624c5b3ea373c7782b2beb328613714284b00ada4d082f290d1376b"
     }
    }
   },
@@ -3288,6 +3893,11 @@
      "name": "gamerlegion-vs-jijiehao-m2-ancient.v2.cs2nades",
      "size": 242588,
      "sha256": "3695373b9b68d0c207003e689b1d6200f5be01f6494225cb62b7de199beed346"
+    },
+    "stats": {
+     "name": "gamerlegion-vs-jijiehao-m2-ancient.v2.cs2stats",
+     "size": 832,
+     "sha256": "970f0b9c78c0843ac1dd8762e0898a03db70c07faf19457d95042c2951e9ee04"
     }
    }
   },
@@ -3312,6 +3922,11 @@
      "name": "gamerlegion-vs-jijiehao-m1-dust2.v2.cs2nades",
      "size": 208648,
      "sha256": "34d631a27ee6b04c48fff71453b96b716fc8093103850b3e7d35aa2ef85b501f"
+    },
+    "stats": {
+     "name": "gamerlegion-vs-jijiehao-m1-dust2.v2.cs2stats",
+     "size": 686,
+     "sha256": "3f79ee86b0c894990e21cf99c43a3b6ce4ce8d2ccae6ee58bedb53ad9c5aa470"
     }
    }
   },
@@ -3336,6 +3951,11 @@
      "name": "luminosity-vs-spirit-m2-dust2.v2.cs2nades",
      "size": 496287,
      "sha256": "a2254f3dcf8b212248b310475447aff88dca6918ab722868292e36614ca5e811"
+    },
+    "stats": {
+     "name": "luminosity-vs-spirit-m2-dust2.v2.cs2stats",
+     "size": 1132,
+     "sha256": "4d4707a09a60ec5f8ff924d110f492abffbf19bff2bb4aa53b9942700e4d4a4b"
     }
    }
   },
@@ -3360,6 +3980,11 @@
      "name": "luminosity-vs-spirit-m1-ancient-p2.v2.cs2nades",
      "size": 80361,
      "sha256": "18021ceea7c917c65b9a6c7928445057df3cce4925d4243b427fb9e9d54cdbb6"
+    },
+    "stats": {
+     "name": "luminosity-vs-spirit-m1-ancient-p2.v2.cs2stats",
+     "size": 407,
+     "sha256": "3342a31f1e2dd27b78e0b4c2a99852a863c555bd4019eb7901248d81c1e3a072"
     }
    }
   },
@@ -3384,6 +4009,11 @@
      "name": "luminosity-vs-spirit-m1-ancient-p1.v2.cs2nades",
      "size": 152798,
      "sha256": "72303a4ae47b85467839f397e82b7e643631418282e8a032bab7e235109fb675"
+    },
+    "stats": {
+     "name": "luminosity-vs-spirit-m1-ancient-p1.v2.cs2stats",
+     "size": 554,
+     "sha256": "98ae0087fe9a51b545ba4adcb20863ddcc2f6e8326448c219ae6631589d70d92"
     }
    }
   },
@@ -3408,6 +4038,11 @@
      "name": "lynn-vision-vs-mouz-dust2.v2.cs2nades",
      "size": 296988,
      "sha256": "a69ce178e0e5c087fe15b8cc541d462665745448952cf02461339dbbea734bb2"
+    },
+    "stats": {
+     "name": "lynn-vision-vs-mouz-dust2.v2.cs2stats",
+     "size": 818,
+     "sha256": "765ed35634e78552c183b0d8c0e829db278adfd85fd08716ef5a31aa8c9cd379"
     }
    }
   },
@@ -3432,6 +4067,11 @@
      "name": "vitality-vs-100-thieves-nuke.v2.cs2nades",
      "size": 191026,
      "sha256": "e3906907fe8fd3b41c61d9c786b5ab6889f0933a1443160bb534874c4fe582ed"
+    },
+    "stats": {
+     "name": "vitality-vs-100-thieves-nuke.v2.cs2stats",
+     "size": 717,
+     "sha256": "c3b8750e379b8010a843bc5717b28d2c01aadc79e7c72aeb96577be9f5093fff"
     }
    }
   },
@@ -3456,6 +4096,11 @@
      "name": "natus-vincere-vs-3dmax-inferno.v2.cs2nades",
      "size": 324722,
      "sha256": "503d3652c98a05dcdec6a3f09b7bfde1f96ad57933df1e889f9bcaf72cdfb8e3"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-3dmax-inferno.v2.cs2stats",
+     "size": 858,
+     "sha256": "b8272a293e3a657aa4ff7ce53fb68ead5298b12359b8e15469034f78cef5f47f"
     }
    }
   },
@@ -3480,6 +4125,11 @@
      "name": "mibr-vs-astralis-inferno.v2.cs2nades",
      "size": 290732,
      "sha256": "0eaebeee110cf2d67cc236fa7954f64a880851131512917a29270a1e582ef6b7"
+    },
+    "stats": {
+     "name": "mibr-vs-astralis-inferno.v2.cs2stats",
+     "size": 773,
+     "sha256": "de31327674289e804a2845ee46a968c9028a49cd0c226fe4a5d8d63c6162e03f"
     }
    }
   },
@@ -3504,6 +4154,11 @@
      "name": "parivision-vs-b8-cache.v2.cs2nades",
      "size": 335853,
      "sha256": "9fcf616c26d719b49f379e9d0efa503e7880e1b7853a646328bfe5c9481f9657"
+    },
+    "stats": {
+     "name": "parivision-vs-b8-cache.v2.cs2stats",
+     "size": 855,
+     "sha256": "285a4a5b06ac369ad617519a12be42ed3d9b05dfca3ad93942cf8123d12d6598"
     }
    }
   },
@@ -3528,6 +4183,11 @@
      "name": "betboom-vs-faze-nuke.v2.cs2nades",
      "size": 302846,
      "sha256": "1d0b05922f86e2479514b4837b98a5741f4aa46a48e7ad1f8d41864e9732e3d5"
+    },
+    "stats": {
+     "name": "betboom-vs-faze-nuke.v2.cs2stats",
+     "size": 867,
+     "sha256": "2f248164b4adc105d7af2ed3d3cc0b3965376a306d34909382f8cf0ff5b43f2d"
     }
    }
   },
@@ -3552,6 +4212,11 @@
      "name": "falcons-vs-k27-dust2.v2.cs2nades",
      "size": 257678,
      "sha256": "c7199a21ea020ea90e7461f6a21bed3fd8ad3d71cd85fcef1fb9055b69bbe9eb"
+    },
+    "stats": {
+     "name": "falcons-vs-k27-dust2.v2.cs2stats",
+     "size": 758,
+     "sha256": "28266d1dd555844711a5bd73fbf10a6f447248eede81df89c4cea7bf72b587be"
     }
    }
   },
@@ -3576,6 +4241,11 @@
      "name": "ninjas-in-pyjamas-vs-legacy-cache.v2.cs2nades",
      "size": 216965,
      "sha256": "33d1bdad02063115a78768e72c7fb1beedb3d24c2a8d4889af2fc9f32b5d31aa"
+    },
+    "stats": {
+     "name": "ninjas-in-pyjamas-vs-legacy-cache.v2.cs2stats",
+     "size": 763,
+     "sha256": "b7827632c0d6c48b9536d70d88cb2c65b2dfe3a79a4cc7d6699f5b986d997db6"
     }
    }
   },
@@ -3600,6 +4270,11 @@
      "name": "g2-vs-m80-mirage.v2.cs2nades",
      "size": 306918,
      "sha256": "b1346e33bbbfc1423482c77175a44deabbe504e4a9fa35e1831049bd48fe64ce"
+    },
+    "stats": {
+     "name": "g2-vs-m80-mirage.v2.cs2stats",
+     "size": 852,
+     "sha256": "482be490e71f9314a1f8e0c5048b44ace993a278770afe290b8c47c947d9aebe"
     }
    }
   },
@@ -3624,6 +4299,11 @@
      "name": "spirit-vs-jijiehao-mirage.v2.cs2nades",
      "size": 318104,
      "sha256": "ac64e4efdbe24954645a4a60ef657d404631bf4e98f520fb391e0efcb1fdc5de"
+    },
+    "stats": {
+     "name": "spirit-vs-jijiehao-mirage.v2.cs2stats",
+     "size": 832,
+     "sha256": "b8badd986a4b8839c13c288a3f46733cdc64c67c96f3ca4bdc4802bbba4479f2"
     }
    }
   },
@@ -3648,6 +4328,11 @@
      "name": "fut-vs-tyloo-mirage.v2.cs2nades",
      "size": 297180,
      "sha256": "61fd02e0200aebbba07667c9fb9775aabc1ee8ffa954d83fe067ac221d74c88c"
+    },
+    "stats": {
+     "name": "fut-vs-tyloo-mirage.v2.cs2stats",
+     "size": 838,
+     "sha256": "9f58fda825b649a57db697a5d8369d592a8cdc31eab332c47bf6a848dffb2579"
     }
    }
   },
@@ -3672,6 +4357,11 @@
      "name": "big-vs-aurora-cache.v2.cs2nades",
      "size": 283372,
      "sha256": "c0bfb7dab3560989e8cad9b2127538cd6022c956f3317832cc58fea73435e2d0"
+    },
+    "stats": {
+     "name": "big-vs-aurora-cache.v2.cs2stats",
+     "size": 824,
+     "sha256": "c10cb25507470682c96deaa0025205cc123403e1d4509968b7952714611c5eef"
     }
    }
   },
@@ -3696,6 +4386,11 @@
      "name": "luminosity-vs-gamerlegion-nuke.v2.cs2nades",
      "size": 185218,
      "sha256": "063628bd6bb3659e4135171666b5d9978061e21b3ac2af0b5f40c6ad2b698357"
+    },
+    "stats": {
+     "name": "luminosity-vs-gamerlegion-nuke.v2.cs2stats",
+     "size": 672,
+     "sha256": "28d8794aecddabfbb533772d2949b9b92b615b7c247df430e2e1d09f55634a27"
     }
    }
   },
@@ -3720,6 +4415,11 @@
      "name": "100-thieves-vs-bc-game-m2-nuke.v2.cs2nades",
      "size": 331729,
      "sha256": "6bbca9e0be441736e091fb79b863827c057184866a336d957369ba640cae517b"
+    },
+    "stats": {
+     "name": "100-thieves-vs-bc-game-m2-nuke.v2.cs2stats",
+     "size": 965,
+     "sha256": "e1aafc708e0fde778d96eabdf91578b0fd71b1ab353853bf687ad488c1a1cb43"
     }
    }
   },
@@ -3744,6 +4444,11 @@
      "name": "100-thieves-vs-bc-game-m3-anubis.v2.cs2nades",
      "size": 330219,
      "sha256": "e827cf3c69706c38c448050eac7535b4aebb3a2f3ef0b408cdea7434f617a800"
+    },
+    "stats": {
+     "name": "100-thieves-vs-bc-game-m3-anubis.v2.cs2stats",
+     "size": 944,
+     "sha256": "36432cb4e9c0336c2d218539ede57571146c80b49678235745856b35e8684775"
     }
    }
   },
@@ -3768,6 +4473,11 @@
      "name": "bc-game-vs-og-m2-cache.v2.cs2nades",
      "size": 271290,
      "sha256": "d468949e6f0c45fea4891fab434a8945314f39d1761bd5af90bc31e10ffb675a"
+    },
+    "stats": {
+     "name": "bc-game-vs-og-m2-cache.v2.cs2stats",
+     "size": 825,
+     "sha256": "d937690b47df29112e6dc3720f81b277eb8a5daaba936534c19cc1d44a53788d"
     }
    }
   },
@@ -3792,6 +4502,11 @@
      "name": "echo-vs-og-m2-nuke.v2.cs2nades",
      "size": 230135,
      "sha256": "0eb37030124163399d66c2a0f914a26af38329412dad03752223f8c31cdeeef5"
+    },
+    "stats": {
+     "name": "echo-vs-og-m2-nuke.v2.cs2stats",
+     "size": 776,
+     "sha256": "347d4573623b7194580f822e7a7eee7467bd27328d8eb3dda2e6531fea04f011"
     }
    }
   },
@@ -3816,6 +4531,11 @@
      "name": "echo-vs-og-m3-mirage.v2.cs2nades",
      "size": 247452,
      "sha256": "c057c4b1db0b085fee7b89bcc5d672854ed8fbb4a28629669182037d347bb192"
+    },
+    "stats": {
+     "name": "echo-vs-og-m3-mirage.v2.cs2stats",
+     "size": 759,
+     "sha256": "87c6dcfc46d211de55607ba18f16edcebfba8e5cad8075f1ca60905bf91c4609"
     }
    }
   },
@@ -3840,6 +4560,11 @@
      "name": "echo-vs-og-m1-cache.v2.cs2nades",
      "size": 244153,
      "sha256": "8b833d97397fe41b1da629194852004efddc606955842d26a93f43c6a0984596"
+    },
+    "stats": {
+     "name": "echo-vs-og-m1-cache.v2.cs2stats",
+     "size": 755,
+     "sha256": "70dbab982255dbc1ed04ef5c07e308892b07588f2b7eac01280a8b2f6b22ddfd"
     }
    }
   },
@@ -3864,6 +4589,11 @@
      "name": "acend-vs-nrg-m3-mirage.v2.cs2nades",
      "size": 289245,
      "sha256": "7ad56ce74ecdaa09e450e3fe05fd8811f0ac45dfb2add33975d7bc519945fd0f"
+    },
+    "stats": {
+     "name": "acend-vs-nrg-m3-mirage.v2.cs2stats",
+     "size": 824,
+     "sha256": "98b617b9964a9679bdd115c357209c386e35bab067cac6e6955aa78f6f29c988"
     }
    }
   },
@@ -3888,6 +4618,11 @@
      "name": "acend-vs-nrg-m2-inferno.v2.cs2nades",
      "size": 325834,
      "sha256": "a929ecaa7d3d3c964078d1d3bb5f997edf2015ea674ee5daa80393ce31fa5d80"
+    },
+    "stats": {
+     "name": "acend-vs-nrg-m2-inferno.v2.cs2stats",
+     "size": 907,
+     "sha256": "b19ee33baf47642e7d118a21471d90eac4db80a996e0a11dc04539ae0a9b4100"
     }
    }
   },
@@ -3912,6 +4647,11 @@
      "name": "acend-vs-nrg-m1-cache.v2.cs2nades",
      "size": 196380,
      "sha256": "8242a1fc5fb914a86ce0d5ee27bca91b652b25de54ede91e517dbfa7d7940b72"
+    },
+    "stats": {
+     "name": "acend-vs-nrg-m1-cache.v2.cs2stats",
+     "size": 653,
+     "sha256": "f70e5223ac419415d298c031705a7223cc50df5ff562fe74101bec20ac846243"
     }
    }
   },
@@ -3936,6 +4676,11 @@
      "name": "liquid-vs-metizport-m2-inferno.v2.cs2nades",
      "size": 287265,
      "sha256": "268818120880a8e2c3cdf5a77ab794cc7d12f7730b33d372bcb81be315ce9084"
+    },
+    "stats": {
+     "name": "liquid-vs-metizport-m2-inferno.v2.cs2stats",
+     "size": 882,
+     "sha256": "48567016d9e21fc809002172738cfb5d0f757109007d33fcd7291e951e699448"
     }
    }
   },
@@ -3960,6 +4705,11 @@
      "name": "liquid-vs-metizport-m1-cache.v2.cs2nades",
      "size": 285684,
      "sha256": "117dec74a762017e51ccee7e6d7f7a18800c5550903ab3a8b7166ad6dee66d94"
+    },
+    "stats": {
+     "name": "liquid-vs-metizport-m1-cache.v2.cs2stats",
+     "size": 844,
+     "sha256": "26efcd27c6cd00cc8f309d0e709edc7fdc1510b6cadc74cafa61367f2b0e97c9"
     }
    }
   },
@@ -3984,6 +4734,11 @@
      "name": "1win-vs-bc-game-m2-dust2.v2.cs2nades",
      "size": 250188,
      "sha256": "1232d4d3c2ab7e07db9e39ec2fd8734ca5574c941069a9c7e7f2f61be92e8296"
+    },
+    "stats": {
+     "name": "1win-vs-bc-game-m2-dust2.v2.cs2stats",
+     "size": 723,
+     "sha256": "bab462e38d5ea86038fee10f68b1403eb3f29e7230a5725d449ab8e9272f79cb"
     }
    }
   },
@@ -4008,6 +4763,11 @@
      "name": "1win-vs-bc-game-m1-cache.v2.cs2nades",
      "size": 259319,
      "sha256": "6841859845b6e7031c93fe208d5aa5253d29bd89a9ba3587cfc8ec5c60d3d5b1"
+    },
+    "stats": {
+     "name": "1win-vs-bc-game-m1-cache.v2.cs2stats",
+     "size": 755,
+     "sha256": "3c89e9488863daa9966443dcf758a229c8fc394e3514d7f7097da1ac723127e8"
     }
    }
   },
@@ -4032,6 +4792,11 @@
      "name": "abyssal-vs-arcade-m2-inferno.v2.cs2nades",
      "size": 435235,
      "sha256": "e1f4ea59247832deee9a4b1d5082fba137b4f7f94728aebd65e139ea06ae725d"
+    },
+    "stats": {
+     "name": "abyssal-vs-arcade-m2-inferno.v2.cs2stats",
+     "size": 1060,
+     "sha256": "a0c128e2f8ff15165ab776057a8c1a6e4ca810b05ad06c933835b5f41129d9e4"
     }
    }
   },
@@ -4056,6 +4821,11 @@
      "name": "abyssal-vs-arcade-m1-mirage.v2.cs2nades",
      "size": 227117,
      "sha256": "35fa0db996a2d1b5f6e8f5b8822646fd55f90eb1a4f77a89217f5908e88fa437"
+    },
+    "stats": {
+     "name": "abyssal-vs-arcade-m1-mirage.v2.cs2stats",
+     "size": 739,
+     "sha256": "5ed9796acd01ba5b7efa2315223d416cf7c01b611c18366214bf7eddc46fe3ce"
     }
    }
   },
@@ -4080,6 +4850,11 @@
      "name": "saw-vs-eac-m2-cache.v2.cs2nades",
      "size": 436718,
      "sha256": "1720d8197bc3b25cdb49cf6f4c9d3002f6ac67d500ccfe283eb99c01fa0348d7"
+    },
+    "stats": {
+     "name": "saw-vs-eac-m2-cache.v2.cs2stats",
+     "size": 1143,
+     "sha256": "4ee96c17820ccb61735d35f88ad9b6715e997e01434cd73d28efd475d0417460"
     }
    }
   },
@@ -4104,6 +4879,11 @@
      "name": "saw-vs-eac-m1-inferno.v2.cs2nades",
      "size": 326956,
      "sha256": "293533a099959b5b302e3d86b7c3a8ff3e1626ce110d5a7d8679b004fbdaf43e"
+    },
+    "stats": {
+     "name": "saw-vs-eac-m1-inferno.v2.cs2stats",
+     "size": 887,
+     "sha256": "885504292457c61c05f6fadd1b3ac53bff17dab68642e75c0edb0565176fb230"
     }
    }
   },
@@ -4128,6 +4908,11 @@
      "name": "betclic-vs-liquid-m3-nuke.v2.cs2nades",
      "size": 231842,
      "sha256": "79bb461886a4aca34de65dc6b8a0100e3663a4da09d65e3dcf0d8bbe75f0011b"
+    },
+    "stats": {
+     "name": "betclic-vs-liquid-m3-nuke.v2.cs2stats",
+     "size": 776,
+     "sha256": "cc5242e257108292f3109c7c8223b74db75a4f4ffae5405d9ea871733a48d525"
     }
    }
   },
@@ -4152,6 +4937,11 @@
      "name": "betclic-vs-liquid-m2-anubis.v2.cs2nades",
      "size": 279788,
      "sha256": "f920483a86e628c8e78fc5026f37fb03342e89eef6b52f51e7e007dee9071714"
+    },
+    "stats": {
+     "name": "betclic-vs-liquid-m2-anubis.v2.cs2stats",
+     "size": 835,
+     "sha256": "3cbf55d7c652e163250bdc0274203d6da01356affc9baddf961c5e5df5d6a508"
     }
    }
   },
@@ -4176,6 +4966,11 @@
      "name": "betclic-vs-liquid-m1-cache.v2.cs2nades",
      "size": 284057,
      "sha256": "f7093fe9f408b34dfc6564e86112ff550114e88cb6cfd54307df2a4d64a08868"
+    },
+    "stats": {
+     "name": "betclic-vs-liquid-m1-cache.v2.cs2stats",
+     "size": 886,
+     "sha256": "977c51ad3f25481921b2b13bdd4ce7c325dfb78390c05f9713d4ee29f1db50a1"
     }
    }
   },
@@ -4200,6 +4995,11 @@
      "name": "liquid-vs-9ine-m2-anubis.v2.cs2nades",
      "size": 246285,
      "sha256": "f1744708578ac6e0a15970ad3624758562feebec38d3b92f1911520addea79a8"
+    },
+    "stats": {
+     "name": "liquid-vs-9ine-m2-anubis.v2.cs2stats",
+     "size": 763,
+     "sha256": "61084833465d35e6757e28b48167ad3ffdd1f8ca667b9ff65b98c8b7c8c5fbe4"
     }
    }
   },
@@ -4224,6 +5024,11 @@
      "name": "liquid-vs-9ine-m1-cache.v2.cs2nades",
      "size": 212872,
      "sha256": "49e2884e080634e7c80318a44fb166371996e8ceb07e67742e4b110553924b5e"
+    },
+    "stats": {
+     "name": "liquid-vs-9ine-m1-cache.v2.cs2stats",
+     "size": 700,
+     "sha256": "ef0e79f2cb14b249fe7b7d37780ac15a47b024a782534089726b6409091bdf4b"
     }
    }
   },
@@ -4248,6 +5053,11 @@
      "name": "faze-vs-spirit-m3-anubis.v2.cs2nades",
      "size": 358742,
      "sha256": "7561ad0d659811f0a69e6e7ba2c85e0644ec0af50ef2d84c9f72250a3353fd57"
+    },
+    "stats": {
+     "name": "faze-vs-spirit-m3-anubis.v2.cs2stats",
+     "size": 867,
+     "sha256": "c39ff1dd4e38b0a3e427f1bdb571ef82dde2ad2a5ba6154a1118b1ca5eb510e9"
     }
    }
   },
@@ -4272,6 +5082,11 @@
      "name": "faze-vs-spirit-m2-cache.v2.cs2nades",
      "size": 284605,
      "sha256": "43f9d3e2216a186a3c9905384f341eb2767d142345792df6e7a6083d50aa0ec5"
+    },
+    "stats": {
+     "name": "faze-vs-spirit-m2-cache.v2.cs2stats",
+     "size": 823,
+     "sha256": "ae8c8c678d6409f6a5b065e1ad40ef8fc60fc56a896c09234dcd92716f9c3bfc"
     }
    }
   },
@@ -4296,6 +5111,11 @@
      "name": "faze-vs-spirit-m1-dust2.v2.cs2nades",
      "size": 258875,
      "sha256": "704d4f309689a2e3216e39c3bcd4a3558bb5ad1dcf11c9fced402cb5ffebeb52"
+    },
+    "stats": {
+     "name": "faze-vs-spirit-m1-dust2.v2.cs2stats",
+     "size": 733,
+     "sha256": "e411cf36f495536bc9499ce52ae8c98ee4c2747f514234066c0bb984b81487f2"
     }
    }
   },
@@ -4320,6 +5140,11 @@
      "name": "rounds-vs-bc-game-cache.v2.cs2nades",
      "size": 208042,
      "sha256": "ef3ef516e81c90d2220a2026473d70eb0759573c6396df6f5dfa01ce4d0e900e"
+    },
+    "stats": {
+     "name": "rounds-vs-bc-game-cache.v2.cs2stats",
+     "size": 705,
+     "sha256": "b9afe47bb5305935ca19906958c399ea98439e1666b5a7b418d6241199515a7a"
     }
    }
   },
@@ -4344,6 +5169,11 @@
      "name": "hotu-vs-aurora-m1-cache.v2.cs2nades",
      "size": 275017,
      "sha256": "a5c8e6202a4496edca0eddcb72b26d04cd0aaf8028781cc01bc391a03f9d964e"
+    },
+    "stats": {
+     "name": "hotu-vs-aurora-m1-cache.v2.cs2stats",
+     "size": 869,
+     "sha256": "57c3c672ea735c8fdd74645bd120050831fe51d26f2decac9b428ed8ade3b6a4"
     }
    }
   },
@@ -4368,6 +5198,11 @@
      "name": "hotu-vs-aurora-m3-mirage.v2.cs2nades",
      "size": 282489,
      "sha256": "fa9827fd33fcad99feaef70a1d6429d9dea2d166f1a65fdba6ca21880dbce962"
+    },
+    "stats": {
+     "name": "hotu-vs-aurora-m3-mirage.v2.cs2stats",
+     "size": 814,
+     "sha256": "9854bb8928bc1359627db0142df5b95bac94083bc88cc80fa6a65451dda376a6"
     }
    }
   },
@@ -4392,6 +5227,11 @@
      "name": "hotu-vs-aurora-m2-anubis.v2.cs2nades",
      "size": 318711,
      "sha256": "0cac09c28f88a497f4d05360b9f407adf6b26cb46e1e3455935059e42afeefbc"
+    },
+    "stats": {
+     "name": "hotu-vs-aurora-m2-anubis.v2.cs2stats",
+     "size": 828,
+     "sha256": "0cd4268e09e71dace6e201b412345c45a2f76f1e6e6d5d59b154b8a6cde67e98"
     }
    }
   },
@@ -4416,6 +5256,11 @@
      "name": "dendele-vs-faze-m3-cache.v2.cs2nades",
      "size": 283530,
      "sha256": "9747a655f6d7595e8c439fd39264bea62dbfcdd8eac56dd202030418ca06f6e3"
+    },
+    "stats": {
+     "name": "dendele-vs-faze-m3-cache.v2.cs2stats",
+     "size": 770,
+     "sha256": "a95f39e81cf627e81eaa35e99ea0498bb244c2869b5ed1787ba82ea1b2625bdf"
     }
    }
   },
@@ -4440,6 +5285,11 @@
      "name": "dendele-vs-faze-m2-mirage.v2.cs2nades",
      "size": 323092,
      "sha256": "e6d084df349bb20d28a31af9bb2881a62aeab43f5065f87298c455ab956c3627"
+    },
+    "stats": {
+     "name": "dendele-vs-faze-m2-mirage.v2.cs2stats",
+     "size": 825,
+     "sha256": "a879a012b250b83fd481bd872067aa815cf20d8be8b386596b47a0dcf564ec44"
     }
    }
   },
@@ -4464,6 +5314,11 @@
      "name": "dendele-vs-faze-m1-nuke.v2.cs2nades",
      "size": 173711,
      "sha256": "7d5f425f20d62af96797b9a4a872d6f7f944d4593ce0acf4276b7bc2b8d5d877"
+    },
+    "stats": {
+     "name": "dendele-vs-faze-m1-nuke.v2.cs2stats",
+     "size": 647,
+     "sha256": "3ca274e542a6a7388bdff1fd1ccac9fc0389464d204cf6964e7aaf1b7502661c"
     }
    }
   },
@@ -4488,6 +5343,11 @@
      "name": "dendele-vs-furia-m3-cache.v2.cs2nades",
      "size": 401898,
      "sha256": "8a4b988b6f1f9e75aa4ee7d19806ace3e95c4e2775d1dad7847431e2b4616ad9"
+    },
+    "stats": {
+     "name": "dendele-vs-furia-m3-cache.v2.cs2stats",
+     "size": 1004,
+     "sha256": "0a6a2bbd07de4b8f7c947430866f922570d9ea6f88d0deaed167791bc1739f40"
     }
    }
   },
@@ -4512,6 +5372,11 @@
      "name": "dendele-vs-furia-m2-mirage.v2.cs2nades",
      "size": 266609,
      "sha256": "1bbcc253edb5e5935d4e3168e5046159e8d8665af2d0e24c91fd1fea4956555f"
+    },
+    "stats": {
+     "name": "dendele-vs-furia-m2-mirage.v2.cs2stats",
+     "size": 770,
+     "sha256": "a58870a0aa7a068ab209b36f72ed9abd86e3fa382f0593a5b77162e923af1811"
     }
    }
   },
@@ -4536,6 +5401,11 @@
      "name": "dendele-vs-furia-m1-anubis-p1.v2.cs2nades",
      "size": 246865,
      "sha256": "751add0c2df5627d1a776e2e629251d7dbef0dc37518a6615fcc05d2c2a2d51e"
+    },
+    "stats": {
+     "name": "dendele-vs-furia-m1-anubis-p1.v2.cs2stats",
+     "size": 724,
+     "sha256": "f858946f6741f432007c6248ec8f72f75b50a8a19142fa48b6b5606e0ed1f4da"
     }
    }
   },
@@ -4560,6 +5430,11 @@
      "name": "dendele-vs-furia-m1-anubis-p2.v2.cs2nades",
      "size": 17934,
      "sha256": "50f2f1fb615e702b781d8bcb9beb21a06f0b2f28d1727a2097798267798af762"
+    },
+    "stats": {
+     "name": "dendele-vs-furia-m1-anubis-p2.v2.cs2stats",
+     "size": 299,
+     "sha256": "6e159d85ae31aeba5af3305d30c73bd3311ee895a8b19a80242c78346fe294c5"
     }
    }
   },
@@ -4584,6 +5459,11 @@
      "name": "liquid-vs-vitality-m2-nuke.v2.cs2nades",
      "size": 260982,
      "sha256": "e84d35803e864b45b7262b84ffeb36d21ee4e409debfab3a8ba80570f469e7f1"
+    },
+    "stats": {
+     "name": "liquid-vs-vitality-m2-nuke.v2.cs2stats",
+     "size": 817,
+     "sha256": "dd96f28db448811003a3ac481eebedecd76ea995dd5733610773a59faa94173a"
     }
    }
   },
@@ -4608,6 +5488,11 @@
      "name": "liquid-vs-vitality-m1-anubis.v2.cs2nades",
      "size": 313464,
      "sha256": "dfc2af93541bd0a2e4fb7710d2ce36c95c52f322a5b5308f6ecfe35521c9a9dc"
+    },
+    "stats": {
+     "name": "liquid-vs-vitality-m1-anubis.v2.cs2stats",
+     "size": 860,
+     "sha256": "e5764be2c07806143bcf099f1847ae7b84d97c29171e7dc37e7251c72b7c5b71"
     }
    }
   },
@@ -4632,6 +5517,11 @@
      "name": "heroic-vs-the-mongolz-m3-dust2.v2.cs2nades",
      "size": 543394,
      "sha256": "3af9552926ae7709d960dd6582ce404b3fa7ba21288dcad7e9d09d8ae0c66457"
+    },
+    "stats": {
+     "name": "heroic-vs-the-mongolz-m3-dust2.v2.cs2stats",
+     "size": 1126,
+     "sha256": "21dd9623b9990abcfb0d97b372258f2a288be6a13b59fa4daa7f294eafb711b2"
     }
    }
   },
@@ -4656,6 +5546,11 @@
      "name": "heroic-vs-the-mongolz-m2-cache.v2.cs2nades",
      "size": 270092,
      "sha256": "44f48ea20501eda6ff3b9570fee68829bdcdd961dae19afc7f950099d625f1ee"
+    },
+    "stats": {
+     "name": "heroic-vs-the-mongolz-m2-cache.v2.cs2stats",
+     "size": 823,
+     "sha256": "799f5f5005126ff0c2adb3ae46b6269be941fbd6d3ad4dcacd17ea4976661b27"
     }
    }
   },
@@ -4680,6 +5575,11 @@
      "name": "heroic-vs-the-mongolz-m1-nuke.v2.cs2nades",
      "size": 197980,
      "sha256": "5277e2b742f9481ed0c6c7a70420fc40af292e3622150465f031133574367614"
+    },
+    "stats": {
+     "name": "heroic-vs-the-mongolz-m1-nuke.v2.cs2stats",
+     "size": 702,
+     "sha256": "8af995a56b582af734017beb66e352f61d82da2967b21b8bf7c986e23e74644a"
     }
    }
   },
@@ -4704,6 +5604,11 @@
      "name": "fokus-vs-aurora-m3-dust2.v2.cs2nades",
      "size": 215053,
      "sha256": "70ff523911e812e2c554fd84a9e47300d7152c8ebdc157b6d310b6928e6e6911"
+    },
+    "stats": {
+     "name": "fokus-vs-aurora-m3-dust2.v2.cs2stats",
+     "size": 692,
+     "sha256": "6bf2a8789dfbf64c53fb3c305e8b4186b9bf94cc50c67a7b42b1a94ef91097dd"
     }
    }
   },
@@ -4728,6 +5633,11 @@
      "name": "fokus-vs-aurora-m2-nuke.v2.cs2nades",
      "size": 248376,
      "sha256": "562ea58344ee9ce639a1c761177fcb9a8e98de9312704bbe323664aff21301b3"
+    },
+    "stats": {
+     "name": "fokus-vs-aurora-m2-nuke.v2.cs2stats",
+     "size": 784,
+     "sha256": "ce2dff1a0e2057dd943a55a91675ccf63f80b3d05f1f4d4ba8f4a50e51be40e9"
     }
    }
   },
@@ -4752,6 +5662,11 @@
      "name": "fokus-vs-aurora-m1-cache.v2.cs2nades",
      "size": 314555,
      "sha256": "2cba111c26c12a4c761fe6ecbed48dad8489702ada12efe42c184bd1141cf4ff"
+    },
+    "stats": {
+     "name": "fokus-vs-aurora-m1-cache.v2.cs2stats",
+     "size": 861,
+     "sha256": "02faf1b8cc90811e77c23aee249aa751cc6c091f086d83fd2362bbedb76ed9a1"
     }
    }
   },
@@ -4776,6 +5691,11 @@
      "name": "3dmax-vs-gentle-mates-m3-nuke.v2.cs2nades",
      "size": 243073,
      "sha256": "9fbf0c6e3f1ed3173910a14d41f280b27609bf571c3e3d3f35faa7b6c6ed110c"
+    },
+    "stats": {
+     "name": "3dmax-vs-gentle-mates-m3-nuke.v2.cs2stats",
+     "size": 754,
+     "sha256": "a748947774695396ebd17310f1de0fe3c814ac95405a7c9fa47ab6a6b059b963"
     }
    }
   },
@@ -4800,6 +5720,11 @@
      "name": "3dmax-vs-gentle-mates-m2-cache.v2.cs2nades",
      "size": 200378,
      "sha256": "ca61f251c79c97710919590b621e18807c9ef7dbe7523b57f26b9ee64144e741"
+    },
+    "stats": {
+     "name": "3dmax-vs-gentle-mates-m2-cache.v2.cs2stats",
+     "size": 722,
+     "sha256": "6bdf7b21811cf5b957700913c0366dcea416acd393a92983bc23084fc4dc6893"
     }
    }
   },
@@ -4824,6 +5749,11 @@
      "name": "3dmax-vs-gentle-mates-m1-inferno.v2.cs2nades",
      "size": 288631,
      "sha256": "436e63538b6548a4acaf1b54d1ca49f7a05122b1b43c9d2cdd6e1c1381cad2bf"
+    },
+    "stats": {
+     "name": "3dmax-vs-gentle-mates-m1-inferno.v2.cs2stats",
+     "size": 822,
+     "sha256": "311dfb1bad5fe7a0c51b98bbe0acb66ba2399874f5e29f4d638d977ea7876bcf"
     }
    }
   },
@@ -4848,6 +5778,11 @@
      "name": "nemesis-vs-astralis-m3-cache.v2.cs2nades",
      "size": 259640,
      "sha256": "68d9eec2ab6d9b611af0de9b6a612de7d5ef2790bb5cdb55f0ed388553c98f78"
+    },
+    "stats": {
+     "name": "nemesis-vs-astralis-m3-cache.v2.cs2stats",
+     "size": 786,
+     "sha256": "876e4fbc502f45ca50be4c77c5d37c3885941279a64ee909c4282f5fdf2bb5f7"
     }
    }
   },
@@ -4872,6 +5807,11 @@
      "name": "nemesis-vs-astralis-m2-ancient.v2.cs2nades",
      "size": 313823,
      "sha256": "154c7c5d816e42d32730772b154ed09435696a963086d4f22535584a04e6d466"
+    },
+    "stats": {
+     "name": "nemesis-vs-astralis-m2-ancient.v2.cs2stats",
+     "size": 847,
+     "sha256": "5826a786b7e97120019142530871d9c701474d80d90e3b6c0a96d47883969d68"
     }
    }
   },
@@ -4896,6 +5836,11 @@
      "name": "nemesis-vs-astralis-m1-nuke.v2.cs2nades",
      "size": 331146,
      "sha256": "d02fc067afcc689b342c063182dd6635c804af0caef6499d15cc85c56f59f26a"
+    },
+    "stats": {
+     "name": "nemesis-vs-astralis-m1-nuke.v2.cs2stats",
+     "size": 864,
+     "sha256": "6ae0a0742b134cfd7fdea7973a62f57be5e6ca57e68dd7e5d346f2b8d2768d99"
     }
    }
   },
@@ -4920,6 +5865,11 @@
      "name": "parivision-vs-faze-m3-ancient.v2.cs2nades",
      "size": 568671,
      "sha256": "3edd923086f363a2a1373867377f58f4a734fae7e09c53c1beffa8809728363a"
+    },
+    "stats": {
+     "name": "parivision-vs-faze-m3-ancient.v2.cs2stats",
+     "size": 1184,
+     "sha256": "00887f8328eaab5091a8354cf8a3787ed4eb0811b98aba234edf85f3bde50a6c"
     }
    }
   },
@@ -4944,6 +5894,11 @@
      "name": "parivision-vs-faze-m2-dust2.v2.cs2nades",
      "size": 599531,
      "sha256": "cadf9f947adf7f80f93a047de675dfe4aa7e5e6e5ca49a532252e6566fea91b8"
+    },
+    "stats": {
+     "name": "parivision-vs-faze-m2-dust2.v2.cs2stats",
+     "size": 1149,
+     "sha256": "afd6f2bd3502fc5c3f8af920ca632d6c46958a1095e564f5a1bc42d2a44f779a"
     }
    }
   },
@@ -4968,6 +5923,11 @@
      "name": "parivision-vs-faze-m1-cache.v2.cs2nades",
      "size": 335419,
      "sha256": "836d813e910f303f275b5f01be3e42be617d0ae4818efc6dd8bb8ec0595010b5"
+    },
+    "stats": {
+     "name": "parivision-vs-faze-m1-cache.v2.cs2stats",
+     "size": 812,
+     "sha256": "8d98ff6b4293c8279ee93269c7ff47f64e3c99331cf17a32efd4bf3388b84954"
     }
    }
   },
@@ -4992,6 +5952,11 @@
      "name": "sharks-vs-bestia-m3-ancient.v2.cs2nades",
      "size": 189014,
      "sha256": "4e7035126dbc15aeb3f80f16abdd0ae641f7975b7b2cc84cfe02f4d1bec0b874"
+    },
+    "stats": {
+     "name": "sharks-vs-bestia-m3-ancient.v2.cs2stats",
+     "size": 688,
+     "sha256": "8ec730d5b8cadf765a0e2d86e1762e1640f2bc41a4d301e8cf199d801bbcb90d"
     }
    }
   },
@@ -5016,6 +5981,11 @@
      "name": "sharks-vs-bestia-m2-cache.v2.cs2nades",
      "size": 231489,
      "sha256": "b2a5949f4373ec4b9dfb70479529265868304894c9040623071187fb46929730"
+    },
+    "stats": {
+     "name": "sharks-vs-bestia-m2-cache.v2.cs2stats",
+     "size": 820,
+     "sha256": "b48b13046799ca63c5e4c12781ac829f99480179ee08d412ce91986f756236f0"
     }
    }
   },
@@ -5040,6 +6010,11 @@
      "name": "sharks-vs-bestia-m1-mirage.v2.cs2nades",
      "size": 329655,
      "sha256": "1d8297ac35448395c44b7e8540101f9370531084eabb0d130f725bf1d6fa0775"
+    },
+    "stats": {
+     "name": "sharks-vs-bestia-m1-mirage.v2.cs2stats",
+     "size": 857,
+     "sha256": "afef58ac47fd5cca19a755a415d42532b989f568b5ed3e801a691be907dd62dd"
     }
    }
   },
@@ -5064,6 +6039,11 @@
      "name": "faze-vs-betboom-m2-ancient.v2.cs2nades",
      "size": 218973,
      "sha256": "66a65ebbc0a60b10c771e1e0cbb3015fa82c20cac4060ed185dd937215911d4e"
+    },
+    "stats": {
+     "name": "faze-vs-betboom-m2-ancient.v2.cs2stats",
+     "size": 751,
+     "sha256": "7aea9a5fe47b39dfba3bfc403cf953c10730c15fba8e01a75daa69a40a3a157d"
     }
    }
   },
@@ -5088,6 +6068,11 @@
      "name": "faze-vs-betboom-m1-cache.v2.cs2nades",
      "size": 166084,
      "sha256": "fca53dba8ca2e0425f11f5e85ccc464f5d2d136f21eefeee19eca4952edeb4a9"
+    },
+    "stats": {
+     "name": "faze-vs-betboom-m1-cache.v2.cs2stats",
+     "size": 648,
+     "sha256": "21e4783f2ea36f42de085001fb00cf155e175866462d86c5784e7014683bb302"
     }
    }
   },
@@ -5112,6 +6097,11 @@
      "name": "parivision-vs-big-m3-ancient.v2.cs2nades",
      "size": 285228,
      "sha256": "e7620d1568bedd633a0c8824a969110c25171d189d8f37e7b53f5f610cd900c6"
+    },
+    "stats": {
+     "name": "parivision-vs-big-m3-ancient.v2.cs2stats",
+     "size": 816,
+     "sha256": "df906f354e9e45f778eabc7c53d29c8974e264a1da2fe7db881c8a4f385bbdb9"
     }
    }
   },
@@ -5136,6 +6126,11 @@
      "name": "parivision-vs-big-m2-mirage.v2.cs2nades",
      "size": 261590,
      "sha256": "35e19dada5def99613399f0e6a77990cb8356fd108839b9429264f3afd6373f3"
+    },
+    "stats": {
+     "name": "parivision-vs-big-m2-mirage.v2.cs2stats",
+     "size": 722,
+     "sha256": "7c72342ed20ce65f6f979ea4e58d67fb2edd62968ed50300fba72deacb8a56b4"
     }
    }
   },
@@ -5160,6 +6155,11 @@
      "name": "parivision-vs-big-m1-cache.v2.cs2nades",
      "size": 515696,
      "sha256": "2d4b1000d5b8f59b02c680defb5ecb26bbc0b5d7f1286cfb17d91463acd304fe"
+    },
+    "stats": {
+     "name": "parivision-vs-big-m1-cache.v2.cs2stats",
+     "size": 1113,
+     "sha256": "c75b1758b523fb3cc02ac7c2a702b2cc59c9ce6841cd440262b13c55a13fa002"
     }
    }
   },
@@ -5184,6 +6184,11 @@
      "name": "tyloo-vs-9z-m3-inferno.v2.cs2nades",
      "size": 273303,
      "sha256": "99535f297f3fa5a467ecb04a0cadaabcea8a580acb4bd123745ce7d46e73fd17"
+    },
+    "stats": {
+     "name": "tyloo-vs-9z-m3-inferno.v2.cs2stats",
+     "size": 734,
+     "sha256": "f6a71215c9f8a02d320c44c4870df0d716488b9a26c1494d684e59b4fa0736ab"
     }
    }
   },
@@ -5208,6 +6213,11 @@
      "name": "tyloo-vs-9z-m2-mirage.v2.cs2nades",
      "size": 260254,
      "sha256": "c681a6cff046339b8221d3e5a633f1852798de2f4102e5f7e01c2fdbf4564da6"
+    },
+    "stats": {
+     "name": "tyloo-vs-9z-m2-mirage.v2.cs2stats",
+     "size": 761,
+     "sha256": "8cc1946f1f167a459819327753d3364f359a43bcc8f6144d5e3ea16843e3766e"
     }
    }
   },
@@ -5232,6 +6242,11 @@
      "name": "tyloo-vs-9z-m1-nuke.v2.cs2nades",
      "size": 264833,
      "sha256": "a6a3ea758e6d1490885cdda6fff9a3c955b512ccf7bc21b58f970a61006a1188"
+    },
+    "stats": {
+     "name": "tyloo-vs-9z-m1-nuke.v2.cs2stats",
+     "size": 793,
+     "sha256": "19441683a363c21afeae1b52b7bfb7357a8445a0ce22ee33c9457f94bdb1d5c6"
     }
    }
   },
@@ -5256,6 +6271,11 @@
      "name": "eyeballers-vs-faze-m3-cache.v2.cs2nades",
      "size": 212147,
      "sha256": "b9a5e970717df673fd00a6dc5b0e3493de5f3232914f9bb913a4044ccba51aab"
+    },
+    "stats": {
+     "name": "eyeballers-vs-faze-m3-cache.v2.cs2stats",
+     "size": 701,
+     "sha256": "87a1336fc655698a32a59a1718f1b8ac35574397ed04b3b46a34e0a770907790"
     }
    }
   },
@@ -5280,6 +6300,11 @@
      "name": "eyeballers-vs-faze-m2-mirage.v2.cs2nades",
      "size": 379097,
      "sha256": "e7063dfd8558cda4afdc2b3a6a3485485e85a4b644da099cdaad286d1bdabc30"
+    },
+    "stats": {
+     "name": "eyeballers-vs-faze-m2-mirage.v2.cs2stats",
+     "size": 1026,
+     "sha256": "6f0ccb8658d3fd0314a8758f838766927b8cc80c2aa46eae44302d5be46c2ffd"
     }
    }
   },
@@ -5304,6 +6329,11 @@
      "name": "eyeballers-vs-faze-m1-ancient.v2.cs2nades",
      "size": 632655,
      "sha256": "5230a8dc425ef5ee4f99a0c67f97f8c0f84562150882aa3b9d66454d19b5240b"
+    },
+    "stats": {
+     "name": "eyeballers-vs-faze-m1-ancient.v2.cs2stats",
+     "size": 1346,
+     "sha256": "6a8f6a8beddc0352062705089510d90379f38bd4192210e1e100b723a6ef7a6a"
     }
    }
   },
@@ -5328,6 +6358,11 @@
      "name": "eyeballers-vs-tyloo-m2-cache.v2.cs2nades",
      "size": 237955,
      "sha256": "a12e01de62204efe837e73035e406ad0796e613ed189c3e7094efa7b125943a4"
+    },
+    "stats": {
+     "name": "eyeballers-vs-tyloo-m2-cache.v2.cs2stats",
+     "size": 774,
+     "sha256": "cd2f985536a68d0b1154cc33c7ace11660024e11e053a6c11d506049863458cc"
     }
    }
   },
@@ -5352,6 +6387,11 @@
      "name": "eyeballers-vs-tyloo-m1-nuke.v2.cs2nades",
      "size": 245683,
      "sha256": "74d94220b2d2802815dc7b85a06a7f8c3b1e86a5bfd9630cdf63e2404cd7da21"
+    },
+    "stats": {
+     "name": "eyeballers-vs-tyloo-m1-nuke.v2.cs2stats",
+     "size": 753,
+     "sha256": "6a2b6c70432cc99b43c9ae8a8d98cfe2fe2dac061b36adc741b2748b75fc6e59"
     }
    }
   },
@@ -5376,6 +6416,11 @@
      "name": "natus-vincere-vs-falcons-m3-anubis-p2.v2.cs2nades",
      "size": 133585,
      "sha256": "849efbb935d573240663b2ee5de9a2fd41556aa5a518df4898e20e2ed6141d0a"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-falcons-m3-anubis-p2.v2.cs2stats",
+     "size": 494,
+     "sha256": "5583b11dfec013e613c3fa0e4da2db6f5cdec2d9438bec1f70b730f10fc1fdc9"
     }
    }
   },
@@ -5400,6 +6445,11 @@
      "name": "natus-vincere-vs-falcons-m3-anubis-p1.v2.cs2nades",
      "size": 396256,
      "sha256": "3bffe562e83f745857766c3e3a5f659a0257a73de3e5d324e6df3286634f1668"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-falcons-m3-anubis-p1.v2.cs2stats",
+     "size": 975,
+     "sha256": "7c5dc9d80a27abf432b8ec762ae99ffbc4bd39dca6bd5dae0f6ee93480e8ac3a"
     }
    }
   },
@@ -5424,6 +6474,11 @@
      "name": "natus-vincere-vs-falcons-m2-mirage.v2.cs2nades",
      "size": 269518,
      "sha256": "dd669283168e5922b64f0f32555e33bd66b97946c599774c64e322910ed19be4"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-falcons-m2-mirage.v2.cs2stats",
+     "size": 805,
+     "sha256": "4dbe297f72ec9c63884f16d8b24fce992c87b9baa06bbb358b3bbeb723bf8e2b"
     }
    }
   },
@@ -5448,6 +6503,11 @@
      "name": "natus-vincere-vs-falcons-m1-dust2.v2.cs2nades",
      "size": 235047,
      "sha256": "51a5ee7fd8cde0f46d0c8eb26e2c7b1356b6e59ec682031527a59ff293f73721"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-falcons-m1-dust2.v2.cs2stats",
+     "size": 678,
+     "sha256": "e5a828113e8786043f3ae42835b61c8b237a136aaab3385da1ae0faa8d90b6c8"
     }
    }
   },
@@ -5472,6 +6532,11 @@
      "name": "natus-vincere-vs-spirit-m2-anubis.v2.cs2nades",
      "size": 305599,
      "sha256": "a7c85f71ff2e378180418190b518cca6aac90f984633062cb57ca31b6b71ebd6"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-spirit-m2-anubis.v2.cs2stats",
+     "size": 820,
+     "sha256": "57026e091160e5a8e73abc7a19d23a8890cdb249c98e0a61d8a6d2384c10873d"
     }
    }
   },
@@ -5496,6 +6561,11 @@
      "name": "natus-vincere-vs-spirit-m1-dust2.v2.cs2nades",
      "size": 206294,
      "sha256": "2d2fd7e1cfba8200ba4b5951c2ae9d23c402db2650a9c05555da9942633bfdfe"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-spirit-m1-dust2.v2.cs2stats",
+     "size": 646,
+     "sha256": "a51b26c9d803a033e921819a42bd692e9a2d5daf292593a5ed3c4e400d3331a7"
     }
    }
   },
@@ -5520,6 +6590,11 @@
      "name": "tyloo-vs-9z-m2-inferno.v2.cs2nades",
      "size": 279226,
      "sha256": "77319bb67717375410059ce4cf3254445220edf11f03dac6eeead62bb466e3e9"
+    },
+    "stats": {
+     "name": "tyloo-vs-9z-m2-inferno.v2.cs2stats",
+     "size": 759,
+     "sha256": "48914f5b2cc7a08a809e0a3ddef5e298a1ebdccf68f6af9abefd9d6d66e1e29b"
     }
    }
   },
@@ -5544,6 +6619,11 @@
      "name": "tyloo-vs-9z-m1-overpass.v2.cs2nades",
      "size": 337097,
      "sha256": "f754f214fe555001fc578a51e5eff380cc9594b052eed7a143d801a8156c5cb2"
+    },
+    "stats": {
+     "name": "tyloo-vs-9z-m1-overpass.v2.cs2stats",
+     "size": 855,
+     "sha256": "a47b3cfa7b13df39a1085b581cf0852c921a16b2068d83dc73c7738561cbfc09"
     }
    }
   },
@@ -5568,6 +6648,11 @@
      "name": "flyquest-vs-pain-m2-anubis.v2.cs2nades",
      "size": 324702,
      "sha256": "402e5dfe0eae8b979fb4fd4dc4cf6519d518d5515b964a415bd571e4627a10af"
+    },
+    "stats": {
+     "name": "flyquest-vs-pain-m2-anubis.v2.cs2stats",
+     "size": 868,
+     "sha256": "1f77d800fc420975c80f96157d0c84e84de231163408f2dbd70b3451b993fc42"
     }
    }
   },
@@ -5592,6 +6677,11 @@
      "name": "flyquest-vs-pain-m1-nuke.v2.cs2nades",
      "size": 260278,
      "sha256": "8d4716c800d3c278bb9a44ef263600785f07ed0170c8d2d11ba937867ebc68ac"
+    },
+    "stats": {
+     "name": "flyquest-vs-pain-m1-nuke.v2.cs2stats",
+     "size": 777,
+     "sha256": "a236ee06e0ebcfe89c58eecb8f6c2e1fd98c700288634844231456ae962fb714"
     }
    }
   },
@@ -5616,6 +6706,11 @@
      "name": "astralis-vs-tyloo-nuke.v2.cs2nades",
      "size": 212297,
      "sha256": "0bbe7177a0bcb1ab508607d49c27e269cae75ab62238491eac1f0b28caea61c4"
+    },
+    "stats": {
+     "name": "astralis-vs-tyloo-nuke.v2.cs2stats",
+     "size": 734,
+     "sha256": "be91e90cb0e6eafa18396713ac5e7fd022fa8e55dc9138799a914e40b78f86a4"
     }
    }
   },
@@ -5640,6 +6735,11 @@
      "name": "liquid-vs-flyquest-m2-inferno.v2.cs2nades",
      "size": 274040,
      "sha256": "aa3712d92e1b93b2cd2285e9654fb182f95538aee85f46c96cb2e17520ee0126"
+    },
+    "stats": {
+     "name": "liquid-vs-flyquest-m2-inferno.v2.cs2stats",
+     "size": 793,
+     "sha256": "a0fe0c40d9b9dd8bd56d32c37f494d16ff28a13f35c8194932b97cee52f7ef40"
     }
    }
   },
@@ -5664,6 +6764,11 @@
      "name": "liquid-vs-flyquest-m1-anubis.v2.cs2nades",
      "size": 182914,
      "sha256": "112d7002d0858d29df53de8973c0f62a1b177702353542592356afb354e494b5"
+    },
+    "stats": {
+     "name": "liquid-vs-flyquest-m1-anubis.v2.cs2stats",
+     "size": 655,
+     "sha256": "c54745591fc6754dadf6a7c7da6781188ae923c21769a90a3a2d5b995a2db56f"
     }
    }
   },
@@ -5688,6 +6793,11 @@
      "name": "tyloo-vs-sharks-m3-anubis.v2.cs2nades",
      "size": 294795,
      "sha256": "c6205ae111a70ba12eb9ff513dcb1438b1064f722d328fdceb00943aa3968cea"
+    },
+    "stats": {
+     "name": "tyloo-vs-sharks-m3-anubis.v2.cs2stats",
+     "size": 841,
+     "sha256": "994fa032918f46e13366a89295d5e1857a3794cec6249dbdee9648b6a0abd9c4"
     }
    }
   },
@@ -5712,6 +6822,11 @@
      "name": "thunder-downunder-vs-flyquest-m2-inferno.v2.cs2nades",
      "size": 217203,
      "sha256": "c4fe41fecb1fe5ac4e097819d868ce7a1b500b17235d4c8acbd497a02bb133cd"
+    },
+    "stats": {
+     "name": "thunder-downunder-vs-flyquest-m2-inferno.v2.cs2stats",
+     "size": 699,
+     "sha256": "812c48f6f1d53ca3066ced5578c4d90c060b975fc073c37c4f0b696446b7b321"
     }
    }
   },
@@ -5736,6 +6851,11 @@
      "name": "tyloo-vs-sharks-m2-inferno.v2.cs2nades",
      "size": 240712,
      "sha256": "0dc6d825943b5d853d685a04295af7ca182a4c04e67dd211b9ae2b629c2ab003"
+    },
+    "stats": {
+     "name": "tyloo-vs-sharks-m2-inferno.v2.cs2stats",
+     "size": 719,
+     "sha256": "2ad26bf716f98a546f29eef1d41825d1a7a2e3e7345b5a41f6ee7da365ae2e1c"
     }
    }
   },
@@ -5760,6 +6880,11 @@
      "name": "thunder-downunder-vs-flyquest-m1-anubis.v2.cs2nades",
      "size": 295623,
      "sha256": "c3da341d66d18e5b25651de6a044c3987cb8e24003f57537bd331af51b4d7368"
+    },
+    "stats": {
+     "name": "thunder-downunder-vs-flyquest-m1-anubis.v2.cs2stats",
+     "size": 887,
+     "sha256": "686ddeb01bcc1610fb4d57e67fdc687f371aee248166e12eb14482ea9bbd225a"
     }
    }
   },
@@ -5784,6 +6909,11 @@
      "name": "tyloo-vs-sharks-m1-nuke.v2.cs2nades",
      "size": 227663,
      "sha256": "d31da8167081f17c497ed7b4119bc630d45098b86a88c4ff6ffbc569d1fa5eea"
+    },
+    "stats": {
+     "name": "tyloo-vs-sharks-m1-nuke.v2.cs2stats",
+     "size": 760,
+     "sha256": "2301063f772866658ee6d78ef4112c09d61723d60f261c8d14bfe0a3b5454de0"
     }
    }
   },
@@ -5808,6 +6938,11 @@
      "name": "nrg-vs-flyquest-mirage.v2.cs2nades",
      "size": 295170,
      "sha256": "fe3adf57b0444de4c9f6b521fba6a2a2a1fed4cbbfb1c442034fdfa0a64bca58"
+    },
+    "stats": {
+     "name": "nrg-vs-flyquest-mirage.v2.cs2stats",
+     "size": 857,
+     "sha256": "5481ed7feddb387d52ab91805ea8da0fb8a972491739a506a36a3adb7aab9f16"
     }
    }
   },
@@ -5832,6 +6967,11 @@
      "name": "betboom-vs-liquid-dust2.v2.cs2nades",
      "size": 271591,
      "sha256": "8621504c6737fbad55d627f49244d5efa274fbf2f4671072d7514948ad5de617"
+    },
+    "stats": {
+     "name": "betboom-vs-liquid-dust2.v2.cs2stats",
+     "size": 821,
+     "sha256": "0449d8adf4968ffa4688fd784b251931a77c6758f19fe21d43f4ef0309a3c675"
     }
    }
   },
@@ -5856,6 +6996,11 @@
      "name": "mibr-vs-tyloo-nuke.v2.cs2nades",
      "size": 345981,
      "sha256": "f9be60e22ecb46d0869b8da9b5199d2a754ca44241bbb65e107655d7eb5c197d"
+    },
+    "stats": {
+     "name": "mibr-vs-tyloo-nuke.v2.cs2stats",
+     "size": 960,
+     "sha256": "f8c9aa4b67a45c04aaf570181210941bbea5d21dacc95c3ba3007fae0387c0fe"
     }
    }
   },
@@ -5880,6 +7025,11 @@
      "name": "ninjas-in-pyjamas-vs-faze-m2-nuke.v2.cs2nades",
      "size": 293317,
      "sha256": "b8a8d89f32197da4d9781283312c868b5715b842a28bb18973f20273879de40c"
+    },
+    "stats": {
+     "name": "ninjas-in-pyjamas-vs-faze-m2-nuke.v2.cs2stats",
+     "size": 850,
+     "sha256": "b9150a2b24fffb8f802dd455f0cd1b22aea2e9a84ef5f96a55c2926147090c45"
     }
    }
   },
@@ -5904,6 +7054,11 @@
      "name": "ninjas-in-pyjamas-vs-faze-m1-ancient.v2.cs2nades",
      "size": 315568,
      "sha256": "12df4177fbc235623a6855391a5cd5ea81eb6940478d73e6f1750d8afddc3850"
+    },
+    "stats": {
+     "name": "ninjas-in-pyjamas-vs-faze-m1-ancient.v2.cs2stats",
+     "size": 919,
+     "sha256": "f4fa3f640558f8c5cbbc6737ac4259c45d499ccfcaba1fe8490e9f0c9b0372ff"
     }
    }
   },
@@ -5928,6 +7083,11 @@
      "name": "tyloo-vs-semperfi-m3-nuke.v2.cs2nades",
      "size": 216168,
      "sha256": "469fde758cf5ae449f7a5f7624b54599a6031bf783c7dc9fff9318f96b6e6875"
+    },
+    "stats": {
+     "name": "tyloo-vs-semperfi-m3-nuke.v2.cs2stats",
+     "size": 824,
+     "sha256": "d8b72e3f0eb66ce8ef7d514bd1901176ec4b71fafab08b604905aa8b40637308"
     }
    }
   },
@@ -5952,6 +7112,11 @@
      "name": "tyloo-vs-semperfi-m2-mirage.v2.cs2nades",
      "size": 229006,
      "sha256": "293a296a5ea154ffbabd6ce76407340dc0e020ee32285366512e626896168c3a"
+    },
+    "stats": {
+     "name": "tyloo-vs-semperfi-m2-mirage.v2.cs2stats",
+     "size": 798,
+     "sha256": "846c7490af730dc5ccdf6231461dfd546f2e7deb3db9211bd67cc1a019764db4"
     }
    }
   },
@@ -5976,6 +7141,11 @@
      "name": "tyloo-vs-semperfi-m1-inferno.v2.cs2nades",
      "size": 277124,
      "sha256": "038b2af91ffa2155348b71853d3fb5382d4928b03ee22032776a839f8e373c67"
+    },
+    "stats": {
+     "name": "tyloo-vs-semperfi-m1-inferno.v2.cs2stats",
+     "size": 877,
+     "sha256": "06caf5f5507e19fd8bebfe4bf1bf35886041b23739f0481b5b3564a222178835"
     }
    }
   },
@@ -6000,6 +7170,11 @@
      "name": "faze-vs-alliance-m2-nuke.v2.cs2nades",
      "size": 240867,
      "sha256": "726129d290a088e3a285c371e5f5a2aaf4d5d3c4c1e4d649fa22c537fd1f6b91"
+    },
+    "stats": {
+     "name": "faze-vs-alliance-m2-nuke.v2.cs2stats",
+     "size": 726,
+     "sha256": "9ba9bf27e69c506af62dc63a39ac5cdee0ff434873385362bcb181a4cc0d8aaa"
     }
    }
   },
@@ -6024,6 +7199,11 @@
      "name": "faze-vs-alliance-m1-anubis.v2.cs2nades",
      "size": 279145,
      "sha256": "e5f303563f645bcbd435293001ef2fabbb3ed7f6d0aa3cabd30e429bf9768804"
+    },
+    "stats": {
+     "name": "faze-vs-alliance-m1-anubis.v2.cs2stats",
+     "size": 815,
+     "sha256": "aaba374e689529c7eab7bed1a144778b69f6e45294fa182d61a2a7de8404ddf2"
     }
    }
   },
@@ -6048,6 +7228,11 @@
      "name": "falcons-vs-mouz-m3-nuke.v2.cs2nades",
      "size": 272288,
      "sha256": "25196626089f505fb7179955c5af2fc70c521a4d47b34e465b1423d6de8d9ffe"
+    },
+    "stats": {
+     "name": "falcons-vs-mouz-m3-nuke.v2.cs2stats",
+     "size": 822,
+     "sha256": "5bd2f8e82b901a0678feb734276baa4ed95471aec6466ddcd0a8420d62fb3274"
     }
    }
   },
@@ -6072,6 +7257,11 @@
      "name": "falcons-vs-mouz-m2-dust2.v2.cs2nades",
      "size": 303925,
      "sha256": "82f466a904f0915dbb622779a16d79f297ef341af6e1b9fcfc8b16dc0b9af15e"
+    },
+    "stats": {
+     "name": "falcons-vs-mouz-m2-dust2.v2.cs2stats",
+     "size": 765,
+     "sha256": "2814b4f0a98fe0a17f3fa5d920cdc1c268fbe9c90128df03f522199d95f57d45"
     }
    }
   },
@@ -6096,6 +7286,11 @@
      "name": "falcons-vs-mouz-m1-mirage.v2.cs2nades",
      "size": 256958,
      "sha256": "e3bab123577eef76f1b8b575ff82e5f66bc7859bdae4bd6767f21b34553eb567"
+    },
+    "stats": {
+     "name": "falcons-vs-mouz-m1-mirage.v2.cs2stats",
+     "size": 774,
+     "sha256": "52fe6458bc7f7bb6eedaf3145e9d42c12b52277b494ccce9375434b7493c5236"
     }
    }
   },
@@ -6120,6 +7315,11 @@
      "name": "mibr-vs-b8-m3-ancient.v2.cs2nades",
      "size": 184229,
      "sha256": "279bbf4009769e17f3c477fb8e2cb402b44063b0511173e3698f4963ad299818"
+    },
+    "stats": {
+     "name": "mibr-vs-b8-m3-ancient.v2.cs2stats",
+     "size": 642,
+     "sha256": "fc7349c58d61af4973c227df4b50f484643ad48c8bf905f3d948ca791a8453c5"
     }
    }
   },
@@ -6144,6 +7344,11 @@
      "name": "mibr-vs-b8-m2-mirage.v2.cs2nades",
      "size": 292764,
      "sha256": "828a49518b74f1234add92f9d07b1b5f093eb763741d1c660c3e668e72ddd173"
+    },
+    "stats": {
+     "name": "mibr-vs-b8-m2-mirage.v2.cs2stats",
+     "size": 856,
+     "sha256": "e4f1192f42ce30f752dbeaf535ee7de8ae3a0c50d8ecb9db9e32a391cf150c31"
     }
    }
   },
@@ -6168,6 +7373,11 @@
      "name": "mibr-vs-b8-m1-inferno.v2.cs2nades",
      "size": 184988,
      "sha256": "d6391055b0e0526ee68784aef2c568fc0f63bcc2cb9bfa533e188c1d5f6a76b6"
+    },
+    "stats": {
+     "name": "mibr-vs-b8-m1-inferno.v2.cs2stats",
+     "size": 614,
+     "sha256": "a6cf6747ab996674bda490991cc9076f9938170cb5f3c4f9228813a15ffe89db"
     }
    }
   },
@@ -6192,6 +7402,11 @@
      "name": "legacy-vs-tyloo-m2-ancient.v2.cs2nades",
      "size": 376664,
      "sha256": "2cab4cf406f68459d780df9abd9979052809996e53651d9fe9e2b9e6884af3be"
+    },
+    "stats": {
+     "name": "legacy-vs-tyloo-m2-ancient.v2.cs2stats",
+     "size": 994,
+     "sha256": "4ad516a7ca4191c087a2d7a980193bbb6a394af7eaefe91f70c3926974ed69ca"
     }
    }
   },
@@ -6216,6 +7431,11 @@
      "name": "falcons-vs-m80-m2-ancient.v2.cs2nades",
      "size": 327404,
      "sha256": "2adbdc8c7f6b7fc30b32a740e905950829297f881f71eafe842068ffff5bcf81"
+    },
+    "stats": {
+     "name": "falcons-vs-m80-m2-ancient.v2.cs2stats",
+     "size": 894,
+     "sha256": "102bc45a6dd7da5d3f872d07ab4d079a0799240ec7cf7795a048d4aad05d43de"
     }
    }
   },
@@ -6240,6 +7460,11 @@
      "name": "legacy-vs-tyloo-m1-overpass.v2.cs2nades",
      "size": 518320,
      "sha256": "e1e381c23f164d51e6b433c1905b2361c93637d72016d090cd4fda30bf02026c"
+    },
+    "stats": {
+     "name": "legacy-vs-tyloo-m1-overpass.v2.cs2stats",
+     "size": 1146,
+     "sha256": "a8d077b6f3d27fef6784264cffc380bea32594d07c96e1b350d0bd9d01ae6f66"
     }
    }
   },
@@ -6264,6 +7489,11 @@
      "name": "falcons-vs-m80-m1-inferno.v2.cs2nades",
      "size": 509024,
      "sha256": "b42814322bb064e1e9db5e08ee1610b8598cd0236cc8e1dfad399a40647818e8"
+    },
+    "stats": {
+     "name": "falcons-vs-m80-m1-inferno.v2.cs2stats",
+     "size": 1163,
+     "sha256": "fe3921a706370bd1e41776c165e79e3b630b82ae447e106b19fd40d72ea2bb60"
     }
    }
   },
@@ -6288,6 +7518,11 @@
      "name": "falcons-vs-bc-game-dust2.v2.cs2nades",
      "size": 371526,
      "sha256": "20d696b6acc1191f1f16f2ff13e1c1c4c7b4760f601c662d06600abdf9aaf260"
+    },
+    "stats": {
+     "name": "falcons-vs-bc-game-dust2.v2.cs2stats",
+     "size": 854,
+     "sha256": "cf4bfe8de0774587ecabdb7f039cf0289d705c819e4a85316817bd9c9ec3ca75"
     }
    }
   },
@@ -6312,6 +7547,11 @@
      "name": "mouz-vs-tyloo-inferno.v2.cs2nades",
      "size": 308076,
      "sha256": "89e55bf722babbf8c4ffacb11177d1fd57a03a2a44cb0522178104f779914171"
+    },
+    "stats": {
+     "name": "mouz-vs-tyloo-inferno.v2.cs2stats",
+     "size": 797,
+     "sha256": "f828f3c28f0dd73d527c1079d1f57b93f33c6656c21b422831077bd0cf76732e"
     }
    }
   },
@@ -6336,6 +7576,11 @@
      "name": "spirit-vs-falcons-m3-ancient.v2.cs2nades",
      "size": 308971,
      "sha256": "e71269d1898128f696922da413ad5008f41dd5431d734db9df407b1a7123ccca"
+    },
+    "stats": {
+     "name": "spirit-vs-falcons-m3-ancient.v2.cs2stats",
+     "size": 882,
+     "sha256": "ef301a7d0e405074ed62d269c4211e2ae89c32a47eaca4e4137ca6bf34b27979"
     }
    }
   },
@@ -6360,6 +7605,11 @@
      "name": "spirit-vs-falcons-m1-dust2.v2.cs2nades",
      "size": 402687,
      "sha256": "4c2dc128212e1793992fb8f7d2e5ea13efa12960c0d43e3e5ae03a74db491d1f"
+    },
+    "stats": {
+     "name": "spirit-vs-falcons-m1-dust2.v2.cs2stats",
+     "size": 979,
+     "sha256": "c9b9be58b8a17bfe13d020125aad2f8712f0250c014a4341f27ec8aaa99b1bc9"
     }
    }
   },
@@ -6384,6 +7634,11 @@
      "name": "spirit-vs-falcons-m2-mirage.v2.cs2nades",
      "size": 257915,
      "sha256": "94f5406a52484c3487f87788f71c62b4cdaabb7052e0ed7795d144e923118295"
+    },
+    "stats": {
+     "name": "spirit-vs-falcons-m2-mirage.v2.cs2stats",
+     "size": 783,
+     "sha256": "512c17d9e379f92f8e8f502d72ef1a56741123bc170cc32a4512fe12084517a7"
     }
    }
   },
@@ -6408,6 +7663,11 @@
      "name": "natus-vincere-vs-vitality-m3-inferno.v2.cs2nades",
      "size": 247352,
      "sha256": "11ea955862440ca5a83da2e18fde39ad7723fb854b85a93daa49be7b1c6df1c9"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-vitality-m3-inferno.v2.cs2stats",
+     "size": 717,
+     "sha256": "f429266e5efa6132d405eac974e149c62b76ea1ff540936dd5a8115e62d70cbf"
     }
    }
   },
@@ -6432,6 +7692,11 @@
      "name": "natus-vincere-vs-vitality-m2-anubis.v2.cs2nades",
      "size": 379721,
      "sha256": "5c2b37daa493536e4ffe0c3c691e32d309dbea64c72545c4a86c5d3a75e2343f"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-vitality-m2-anubis.v2.cs2stats",
+     "size": 904,
+     "sha256": "1dba35eabf72414ec6ed471fa682d0e690e6dd3ab589727c19c4faec58a522d5"
     }
    }
   },
@@ -6456,6 +7721,11 @@
      "name": "natus-vincere-vs-vitality-m1-dust2.v2.cs2nades",
      "size": 313109,
      "sha256": "e4a2d069cd402a24197128aab0f51f37259296e2c265133bcf867986f9c32afd"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-vitality-m1-dust2.v2.cs2stats",
+     "size": 883,
+     "sha256": "73766d1f5a7b4e3c00bd7c8d201c4be685267edfa9696083986c6e6ba4b42674"
     }
    }
   },
@@ -6480,6 +7750,11 @@
      "name": "furia-vs-falcons-m3-dust2.v2.cs2nades",
      "size": 546645,
      "sha256": "424eaca42e19fd73946443bbe4af4dfa3c6c9c2cbe166ff30127532ff55b3162"
+    },
+    "stats": {
+     "name": "furia-vs-falcons-m3-dust2.v2.cs2stats",
+     "size": 1178,
+     "sha256": "7752b2314433dfde6ddc223e71f81b3ea0578923a53280b5832cc0201428d950"
     }
    }
   },
@@ -6504,6 +7779,11 @@
      "name": "furia-vs-falcons-m2-nuke.v2.cs2nades",
      "size": 593400,
      "sha256": "9ef91ee606a552748c31118dca2c8ffe62b8f759888f861b498b7d763122679a"
+    },
+    "stats": {
+     "name": "furia-vs-falcons-m2-nuke.v2.cs2stats",
+     "size": 1307,
+     "sha256": "08bac97c789a154400f49caab8373ca92fb5fb14247ef1269a54d93850f18994"
     }
    }
   },
@@ -6528,6 +7808,11 @@
      "name": "furia-vs-falcons-m1-mirage.v2.cs2nades",
      "size": 303784,
      "sha256": "25bb0d7705a53f240dd0f7c7941e6b0adb755e6964baa080fe559c7c1a99eef4"
+    },
+    "stats": {
+     "name": "furia-vs-falcons-m1-mirage.v2.cs2stats",
+     "size": 821,
+     "sha256": "92cc2b07dbd8d7070ac1a5fa3ddaf84bcd117fe22ccea20c96daefa735e6e78c"
     }
    }
   },
@@ -6552,6 +7837,11 @@
      "name": "the-mongolz-vs-falcons-m3-mirage.v2.cs2nades",
      "size": 359502,
      "sha256": "0a9181bb35be93ea86e6e9f2514d2d2cf63653a500e9f9c57ac756d8a79ddfc0"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-falcons-m3-mirage.v2.cs2stats",
+     "size": 976,
+     "sha256": "51d94ec42367eb2c409c8460102a893b663ef51d51dd9610ad5ba8abd4a027c6"
     }
    }
   },
@@ -6576,6 +7866,11 @@
      "name": "the-mongolz-vs-falcons-m2-inferno.v2.cs2nades",
      "size": 315394,
      "sha256": "3a4b40aa4ccbd9d4a0e23f65f248c8d8bb6643a8aa46a09d6bb8ead2c182de35"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-falcons-m2-inferno.v2.cs2stats",
+     "size": 893,
+     "sha256": "9b6b66b84935b7ba7b1e5e884f2337c4e2847aa70e0382df33388518c1bd735a"
     }
    }
   },
@@ -6600,6 +7895,11 @@
      "name": "the-mongolz-vs-falcons-m1-dust2.v2.cs2nades",
      "size": 285474,
      "sha256": "d8b8dd0c23974629cf86d4d037808bbe6e22758c92324643895696421d5ca537"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-falcons-m1-dust2.v2.cs2stats",
+     "size": 824,
+     "sha256": "5fb51ea2eb5b5e2e3d3888ee0897722126cb78f40b5150a354b9f76b1ff122b9"
     }
    }
   },
@@ -6624,6 +7924,11 @@
      "name": "natus-vincere-vs-passion-ua-m2-mirage.v2.cs2nades",
      "size": 210862,
      "sha256": "6c2757e71df25942cf4ee27184d494355903c426beccb035013caa83c367f49a"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-passion-ua-m2-mirage.v2.cs2stats",
+     "size": 729,
+     "sha256": "0e955f9ae61762b4abb101fbefe3afa2458648bb151071a22c3d09d552ebc850"
     }
    }
   },
@@ -6648,6 +7953,11 @@
      "name": "natus-vincere-vs-passion-ua-m1-anubis.v2.cs2nades",
      "size": 382275,
      "sha256": "ed03b0921f83485f54e559a37325a4b98fd0eb3828327f5d5c42afc520be85a9"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-passion-ua-m1-anubis.v2.cs2stats",
+     "size": 1043,
+     "sha256": "cf68d3819b53919d30e9629fdcb4fee712a76d6c33505ab29800e64af2227ae8"
     }
    }
   },
@@ -6672,6 +7982,11 @@
      "name": "mouz-vs-9z-m3-ancient.v2.cs2nades",
      "size": 265803,
      "sha256": "b7ffffb50248352e314c8bd73c9bbcde03a7b8aad36d08877af8005312ee89eb"
+    },
+    "stats": {
+     "name": "mouz-vs-9z-m3-ancient.v2.cs2stats",
+     "size": 825,
+     "sha256": "e37a95aae6c94c1fbf6c90bf606f76e0452adae9ebae9811686131acc68f0f99"
     }
    }
   },
@@ -6696,6 +8011,11 @@
      "name": "mouz-vs-9z-m1-nuke.v2.cs2nades",
      "size": 263249,
      "sha256": "2f62ba4818ce979471bf3ae644ed6469b86556032a41545d7697f4b90592791a"
+    },
+    "stats": {
+     "name": "mouz-vs-9z-m1-nuke.v2.cs2stats",
+     "size": 836,
+     "sha256": "28c6e43773c8b2b3dcab14b2ef6cae3361f2496084c35504b510cf3bba8dbf71"
     }
    }
   },
@@ -6720,6 +8040,11 @@
      "name": "mouz-vs-9z-m2-inferno.v2.cs2nades",
      "size": 263889,
      "sha256": "a7d828e18bddf58e8c7203aac4cf83f2949cc1b12668959d41fb9dffaa541e97"
+    },
+    "stats": {
+     "name": "mouz-vs-9z-m2-inferno.v2.cs2stats",
+     "size": 724,
+     "sha256": "eb53348d2907226f1b1e0ea4fd90f5476bb4bee852fc37a8c423a82a1bc7c032"
     }
    }
   },
@@ -6744,6 +8069,11 @@
      "name": "tyloo-vs-nexvoid-m3-overpass.v2.cs2nades",
      "size": 304160,
      "sha256": "f49968464982333db5d5cfb26992ce39bb5b3738c04c56ab313da98f95e3dd52"
+    },
+    "stats": {
+     "name": "tyloo-vs-nexvoid-m3-overpass.v2.cs2stats",
+     "size": 810,
+     "sha256": "5c19442dadc9be97efbfefcf41a4fc3ac0e8da92ba852e13610e312635c4a9d2"
     }
    }
   },
@@ -6768,6 +8098,11 @@
      "name": "tyloo-vs-nexvoid-m2-inferno.v2.cs2nades",
      "size": 344618,
      "sha256": "aa7db080484c377e107cbfe531271c9943873167b9b5e7771b4b734d282a6354"
+    },
+    "stats": {
+     "name": "tyloo-vs-nexvoid-m2-inferno.v2.cs2stats",
+     "size": 911,
+     "sha256": "858834b74a9f16230a72d3948de1519a1ffe5b89b0e5ef33cf66b071e35958e4"
     }
    }
   },
@@ -6792,6 +8127,11 @@
      "name": "tyloo-vs-nexvoid-m1-ancient.v2.cs2nades",
      "size": 290491,
      "sha256": "12c9df89606bcb80090687f0fce5c92b4d47b3b4c476864e109348a51c1c1628"
+    },
+    "stats": {
+     "name": "tyloo-vs-nexvoid-m1-ancient.v2.cs2stats",
+     "size": 852,
+     "sha256": "e51348ff08f7d1077b6eacb5908ecd8b0d2e6a37afe4e0936e341bb1c7dcab4d"
     }
    }
   },
@@ -6816,6 +8156,11 @@
      "name": "rare-atom-vs-tyloo-m3-mirage.v2.cs2nades",
      "size": 179596,
      "sha256": "7c95b43d6487ab1e1853d502411e511568405aa2b53838b332908e5b6ba0b51a"
+    },
+    "stats": {
+     "name": "rare-atom-vs-tyloo-m3-mirage.v2.cs2stats",
+     "size": 665,
+     "sha256": "09f1295264036f862a7553ff9bcaf21926cb2085396bc006f0b61926f5d7b656"
     }
    }
   },
@@ -6840,6 +8185,11 @@
      "name": "rare-atom-vs-tyloo-m1-ancient.v2.cs2nades",
      "size": 245206,
      "sha256": "0d204035b1cd48c5a05389f028bd401925eb7efa00788ca6c569545277ebb0c2"
+    },
+    "stats": {
+     "name": "rare-atom-vs-tyloo-m1-ancient.v2.cs2stats",
+     "size": 753,
+     "sha256": "7d998c5283a337e185bda118ec18c657678e9930596af687e299356973af5998"
     }
    }
   },
@@ -6864,6 +8214,11 @@
      "name": "rare-atom-vs-tyloo-m2-overpass.v2.cs2nades",
      "size": 243471,
      "sha256": "70aea923c844f479cc8ef484a5afe88c9789603f6c231c58069eef966e308ef3"
+    },
+    "stats": {
+     "name": "rare-atom-vs-tyloo-m2-overpass.v2.cs2stats",
+     "size": 674,
+     "sha256": "808367a7b74debcef659bc2d11e1b396ec44fe21e5eb9cbe94ad88f90cb0f30a"
     }
    }
   },
@@ -6888,6 +8243,11 @@
      "name": "markandlarry-vs-ground-zero-m2-nuke.v2.cs2nades",
      "size": 198941,
      "sha256": "5112f040940dc8b415091502346af9b4ad6e1764af76226b86c777ab52b3df6f"
+    },
+    "stats": {
+     "name": "markandlarry-vs-ground-zero-m2-nuke.v2.cs2stats",
+     "size": 726,
+     "sha256": "a24c0b4fdeaaa2e6333aa58418052243338f92fd0a6a85310d0d7968b173bb18"
     }
    }
   },
@@ -6912,6 +8272,11 @@
      "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2nades",
      "size": 196793,
      "sha256": "580c5064ffafdc7416fcd1a3c54929e3ec6e08b980268c5878580d4f1185ace8"
+    },
+    "stats": {
+     "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2stats",
+     "size": 709,
+     "sha256": "e421cd8fb1866f08f8d5cd43167b389235ffbc5772867e032ba35f0f1bd24568"
     }
    }
   },
@@ -6936,6 +8301,11 @@
      "name": "flyquest-vs-tyloo-m3-nuke.v2.cs2nades",
      "size": 255376,
      "sha256": "dff9cb9da6c4c8e2da84dc9cf80f478f253df96010e2cd8ce6a2899d7ee356dd"
+    },
+    "stats": {
+     "name": "flyquest-vs-tyloo-m3-nuke.v2.cs2stats",
+     "size": 784,
+     "sha256": "d7d7db86a1b6a76eb49be1bf0a39959ea9661ada51138cee29fa48a51c180e89"
     }
    }
   },
@@ -6960,6 +8330,11 @@
      "name": "flyquest-vs-tyloo-m2-anubis.v2.cs2nades",
      "size": 276932,
      "sha256": "ee63ef5a6ba725ae1284981e0e8c44a653e87cc97ab4901416e6444ca173e7da"
+    },
+    "stats": {
+     "name": "flyquest-vs-tyloo-m2-anubis.v2.cs2stats",
+     "size": 823,
+     "sha256": "3cb48a9f314ab024f3beb8115287db867bb38f937a33d1c0d193611ddd9197e4"
     }
    }
   },
@@ -6984,6 +8359,11 @@
      "name": "flyquest-vs-tyloo-m1-mirage.v2.cs2nades",
      "size": 200092,
      "sha256": "ee63248c741ceda716cb4bcceb982a1a997eb43e697adb7e2222877a62b45a90"
+    },
+    "stats": {
+     "name": "flyquest-vs-tyloo-m1-mirage.v2.cs2stats",
+     "size": 661,
+     "sha256": "5be3a5fe10ce272dbd21a5fb787b3a0843826038df08080794a42992c76f96b3"
     }
    }
   },
@@ -7008,6 +8388,11 @@
      "name": "tyloo-vs-semperfi-m2-inferno.v2.cs2nades",
      "size": 313399,
      "sha256": "23fcee5adc96ac336722071b0d18d29dba551d4900aaeea3407e96ff2b98705b"
+    },
+    "stats": {
+     "name": "tyloo-vs-semperfi-m2-inferno.v2.cs2stats",
+     "size": 822,
+     "sha256": "eef82fd4cee1ee4f48eb2407f27138f9f7b2ed073cc438c74db8a9a254e456d4"
     }
    }
   },
@@ -7032,6 +8417,11 @@
      "name": "tyloo-vs-semperfi-m1-ancient.v2.cs2nades",
      "size": 292294,
      "sha256": "16c77c47104bdac792c9291752c5e3d4114d8701b4b14f02c6a618962a2f5682"
+    },
+    "stats": {
+     "name": "tyloo-vs-semperfi-m1-ancient.v2.cs2stats",
+     "size": 911,
+     "sha256": "596d0a3cd94c486b1449200ff3e9dde366714934649f0bcb51eff4f860f62db3"
     }
    }
   },
@@ -7056,6 +8446,11 @@
      "name": "faze-vs-parivision-m3-inferno.v2.cs2nades",
      "size": 333752,
      "sha256": "3431923ea41aab6c434e45a6f5367b80d3cad5e5eeb34f1d8fd414ffb4f97827"
+    },
+    "stats": {
+     "name": "faze-vs-parivision-m3-inferno.v2.cs2stats",
+     "size": 862,
+     "sha256": "d1ea58e4efcb2661f16d4af000bf80c076fc5275a5d39ac1d707ca5ef3c49236"
     }
    }
   },
@@ -7080,6 +8475,11 @@
      "name": "faze-vs-parivision-m2-ancient.v2.cs2nades",
      "size": 314398,
      "sha256": "6927290379ebcc8d02f32c90327d3732a38664ca86dc03f7dca7514f1dc73637"
+    },
+    "stats": {
+     "name": "faze-vs-parivision-m2-ancient.v2.cs2stats",
+     "size": 907,
+     "sha256": "3cdfd2f846698a992faf15b0d12fcc70e07f7716c54681b9613408a8bf0bed2a"
     }
    }
   },
@@ -7104,6 +8504,11 @@
      "name": "faze-vs-parivision-m1-mirage.v2.cs2nades",
      "size": 180474,
      "sha256": "c3318a81d542b7e1953947f1f9612360bbfcc594b0486bb266dc842d14e5a480"
+    },
+    "stats": {
+     "name": "faze-vs-parivision-m1-mirage.v2.cs2stats",
+     "size": 654,
+     "sha256": "c4ad877ed7b0dad484ce79751ca9478564c5441df35c399f6db3569b0e03a10f"
     }
    }
   },
@@ -7128,6 +8533,11 @@
      "name": "vitality-vs-faze-m3-anubis.v2.cs2nades",
      "size": 249572,
      "sha256": "5e9d985e28e9201f382ca31806298f25a12b3716ac33dd0f7596a2f847bc2395"
+    },
+    "stats": {
+     "name": "vitality-vs-faze-m3-anubis.v2.cs2stats",
+     "size": 780,
+     "sha256": "b91072d5dc59e325f6fe0d705809d7a35855bf3a8fd993367ef0c469470896c9"
     }
    }
   },
@@ -7152,6 +8562,11 @@
      "name": "vitality-vs-faze-m2-mirage.v2.cs2nades",
      "size": 275452,
      "sha256": "9b579e8d51a245d3141cbf5ee7bfb5ab65958a2543f296a2e52c5c65e43301e0"
+    },
+    "stats": {
+     "name": "vitality-vs-faze-m2-mirage.v2.cs2stats",
+     "size": 775,
+     "sha256": "b59679663e98308970a7a7a293a58ae8b8cb0cf9d74f7a81de0b61dad5ff6ab8"
     }
    }
   },
@@ -7176,6 +8591,11 @@
      "name": "vitality-vs-faze-m1-nuke.v2.cs2nades",
      "size": 238845,
      "sha256": "be71a0b72f23a258863f854cdbd39494fe5687a61eb366b5b4a538c2d4e46f4c"
+    },
+    "stats": {
+     "name": "vitality-vs-faze-m1-nuke.v2.cs2stats",
+     "size": 731,
+     "sha256": "c680f39824f9c8a948c9305c994353dbf4c0091800f1a720437ed3a73bdc7c5c"
     }
    }
   },
@@ -7200,6 +8620,11 @@
      "name": "faze-vs-furia-m3-mirage.v2.cs2nades",
      "size": 313895,
      "sha256": "e760cce920331dbd4729d786a09dbc92b6a0c277d182133380ea1c9c299e36df"
+    },
+    "stats": {
+     "name": "faze-vs-furia-m3-mirage.v2.cs2stats",
+     "size": 827,
+     "sha256": "f2e80aff361d8c47d222030dcaa814bea73c18f806305d5d223a5cb1e9feaed5"
     }
    }
   },
@@ -7224,6 +8649,11 @@
      "name": "faze-vs-furia-m2-dust2.v2.cs2nades",
      "size": 320277,
      "sha256": "1a0bd589a55aaf501322067addae3bf02abca5db680a1e722a19912de4bdc602"
+    },
+    "stats": {
+     "name": "faze-vs-furia-m2-dust2.v2.cs2stats",
+     "size": 815,
+     "sha256": "c16e120b32a23851c9a3dcbfd6c8cdf25ee6385b10c35db056600a3d021dc914"
     }
    }
   },
@@ -7248,6 +8678,11 @@
      "name": "faze-vs-furia-m1-inferno.v2.cs2nades",
      "size": 285841,
      "sha256": "6454b536a355be98c0acb162e80c255f713ae8765895f713726f2cc2b053f56d"
+    },
+    "stats": {
+     "name": "faze-vs-furia-m1-inferno.v2.cs2stats",
+     "size": 760,
+     "sha256": "b71b4350693e12a0a10f77f03027d736c8a25964b29ae9ff990924f9fa62cbcf"
     }
    }
   },
@@ -7272,6 +8707,11 @@
      "name": "spirit-vs-heroic-m3-dust2.v2.cs2nades",
      "size": 269315,
      "sha256": "8b7f5d3e385eee86644fa7911054b20ed799e4dec607380dd18097f2f0ecc6a7"
+    },
+    "stats": {
+     "name": "spirit-vs-heroic-m3-dust2.v2.cs2stats",
+     "size": 776,
+     "sha256": "4073f1a97e8ecc2ebd63fe355a6fb12b9e33aa711c318db56937111068bd5a67"
     }
    }
   },
@@ -7296,6 +8736,11 @@
      "name": "spirit-vs-heroic-m2-mirage.v2.cs2nades",
      "size": 288325,
      "sha256": "ae0169efd46020616a88353dc46a216d085fb3cd78ba46375563d990a3b3aad3"
+    },
+    "stats": {
+     "name": "spirit-vs-heroic-m2-mirage.v2.cs2stats",
+     "size": 851,
+     "sha256": "12f6dde2020765544347d76e2c3d47a243f64366d68b7749b72c905db92044db"
     }
    }
   },
@@ -7320,6 +8765,11 @@
      "name": "spirit-vs-heroic-m1-ancient.v2.cs2nades",
      "size": 388324,
      "sha256": "d403f85aa4c50626a6496412c2e73a82ea76cf75c25e58768cda0cff947b76d2"
+    },
+    "stats": {
+     "name": "spirit-vs-heroic-m1-ancient.v2.cs2stats",
+     "size": 1037,
+     "sha256": "adc887dfbea62b664e50ed049ac8017912177561a6d41563bb21d2174d73836e"
     }
    }
   },
@@ -7344,6 +8794,11 @@
      "name": "the-mongolz-vs-heroic-m3-ancient.v2.cs2nades",
      "size": 254638,
      "sha256": "0f578e8e6f0764716f89f9aa2fc47822d239d93c22671d5d6d3a97608695c4ad"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-heroic-m3-ancient.v2.cs2stats",
+     "size": 775,
+     "sha256": "c0e693eb940cf45eb3faaef01288df21e3b7245acb51de3a86597da867e01a17"
     }
    }
   },
@@ -7368,6 +8823,11 @@
      "name": "the-mongolz-vs-heroic-m2-anubis.v2.cs2nades",
      "size": 527547,
      "sha256": "70de2030697f806e4205bd0baa640ca16a54eddf7c6b77c2af4f8f25ac1c7777"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-heroic-m2-anubis.v2.cs2stats",
+     "size": 1202,
+     "sha256": "6183847a173fbec6ed6fedefb25685b01b74f72ef95d9fe74ca9987a13f59280"
     }
    }
   },
@@ -7392,6 +8852,11 @@
      "name": "the-mongolz-vs-heroic-m1-mirage.v2.cs2nades",
      "size": 247962,
      "sha256": "fd083b24c60798b5f79c47b254f118bfa04c4d9be63c38a5512dd47c01e1d8b8"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-heroic-m1-mirage.v2.cs2stats",
+     "size": 783,
+     "sha256": "02f6ce93e30376688b331869b22fa445bafbf1dbc086047ce1e32aba0e7935b6"
     }
    }
   }
