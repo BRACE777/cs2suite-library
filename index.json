@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1788952668,
+ "updated": 1788956991,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -584,18 +584,18 @@
    "files": {
     "demo": {
      "name": "parivision-vs-tyloo-m1-inferno.v2.cs2lib",
-     "size": 2199771,
-     "sha256": "60a9bf0bb357e16b8cae664b0ad1f4d29d7a11cbe0b49769a6f34f05b3bf6d16"
+     "size": 2171180,
+     "sha256": "a3ee170e0676359720ecdf68e8c2c30fa2090e35154c63326c3793e5e2c9ca97"
     },
     "nades": {
      "name": "parivision-vs-tyloo-m1-inferno.v2.cs2nades",
-     "size": 381698,
-     "sha256": "99dba1f9dad70bfa03d27daac7274d1be1a59fdf631b165bbabd7b2e009d8cab"
+     "size": 377097,
+     "sha256": "71e7a4749743533e7b370899a3283b6ef96730ca33d3b86de44f069d1ccae9d8"
     },
     "stats": {
      "name": "parivision-vs-tyloo-m1-inferno.v2.cs2stats",
-     "size": 950,
-     "sha256": "ea91b7173d042af53cd4c6bc04ca109de6bea72327bb8f0e84cb3d795df89d4f"
+     "size": 915,
+     "sha256": "7eb126c18b2bb963a36efda1165658ce3116d645e4ac95a00410d9d0ac9a7f5c"
     }
    }
   },
@@ -700,18 +700,18 @@
    "files": {
     "demo": {
      "name": "spirit-vs-mouz-m3-ancient.v2.cs2lib",
-     "size": 1160357,
-     "sha256": "9e67aab7872f8538e202332af027fc5d503affbbea0f02c435a1dbc5dd4ca376"
+     "size": 1145469,
+     "sha256": "89eabb5a451dbc18c9e541d9fed6618e555115889a2dcb787658ca598929b82c"
     },
     "nades": {
      "name": "spirit-vs-mouz-m3-ancient.v2.cs2nades",
-     "size": 205754,
-     "sha256": "6a33aea204f597d35baa3b78c9dd669b56759e4bf7339aa5c3fef3ceacdec442"
+     "size": 203233,
+     "sha256": "b2e08fcb49675b83246ee8ad05dc3e9e3f23a79d1944428e7e628e207f55b7f3"
     },
     "stats": {
      "name": "spirit-vs-mouz-m3-ancient.v2.cs2stats",
-     "size": 714,
-     "sha256": "e6ce933b35fb26f8e42db7422f90c93a0b19f18f0f43eaa30c78ebede6bcc629"
+     "size": 680,
+     "sha256": "5c808b3f620318bd298f7dbb4bf0528f9ce8954f0fdad3aaa8a539e3dcb095dd"
     }
    }
   },
@@ -1019,18 +1019,18 @@
    "files": {
     "demo": {
      "name": "falcons-vs-g2-m1-inferno.v2.cs2lib",
-     "size": 1584389,
-     "sha256": "45d8fb5d9a28859dbbfe1109debf420b4f672e3583eb5bd521eb889837f44b29"
+     "size": 1535980,
+     "sha256": "9072383b019ce48cfaa5fa437c68e4702c7fe8d25c1fae4474f9dfecc45c2ad0"
     },
     "nades": {
      "name": "falcons-vs-g2-m1-inferno.v2.cs2nades",
-     "size": 275809,
-     "sha256": "bc8ef5a31ae9bc0cfb81e4cbd8066cf60d54a9af3543046e924be02dbd4c9011"
+     "size": 269159,
+     "sha256": "eb5b22bbc6903a7d9dbe29f5f29dcc7911fdc20fefe5b08b11a32ca913ba702c"
     },
     "stats": {
      "name": "falcons-vs-g2-m1-inferno.v2.cs2stats",
-     "size": 810,
-     "sha256": "9897086c88e9c3d8204dd899428e0a242b1434dc46b868e20804a4cd8114e28b"
+     "size": 755,
+     "sha256": "bd7d0c149ad32c8ffb1763e91cdefc3b3169b1e85120bdb97f7b99a53283cab0"
     }
    }
   },
@@ -1773,18 +1773,18 @@
    "files": {
     "demo": {
      "name": "rooster-vs-markandlarry-m1-dust2.v2.cs2lib",
-     "size": 2274998,
-     "sha256": "20eaf278c4cc0276742d868f557ab88f77f8e828c12d996280bad625cd6c64e2"
+     "size": 2200552,
+     "sha256": "8d1739c2bbb6ef7009466e022b382b3458ad3b477baf359dbbbf528b76f810f9"
     },
     "nades": {
      "name": "rooster-vs-markandlarry-m1-dust2.v2.cs2nades",
-     "size": 376701,
-     "sha256": "c07c832020c0e33726333f758d7c660d1c8ca6a025d8f58886e86ac5eb4f87ef"
+     "size": 360800,
+     "sha256": "3b0518eb7ceaaeb00bb4baa5a0c82115099600f1cba60617fd895fdef3e29b27"
     },
     "stats": {
      "name": "rooster-vs-markandlarry-m1-dust2.v2.cs2stats",
-     "size": 1017,
-     "sha256": "cc4a730c2bd3da0bb069be2b5ef577883eaffe59bdb112a62ce1f2c929e9a568"
+     "size": 990,
+     "sha256": "6cc42257bcea4697d3260cf1d4983a5b0e4777b329fec54a3bf77a92dca09d2e"
     }
    }
   },
@@ -4731,18 +4731,18 @@
    "files": {
     "demo": {
      "name": "100-thieves-vs-bc-game-m3-anubis.v2.cs2lib",
-     "size": 1948931,
-     "sha256": "c1203bfb46b333692b18ff9789f745dcd32a93346be6d49d02136b4d2fbcc085"
+     "size": 1843400,
+     "sha256": "9a4862c7053105b5a2063664748b21bdbd6f4748955984ca8b500e90b83661fe"
     },
     "nades": {
      "name": "100-thieves-vs-bc-game-m3-anubis.v2.cs2nades",
-     "size": 330219,
-     "sha256": "e827cf3c69706c38c448050eac7535b4aebb3a2f3ef0b408cdea7434f617a800"
+     "size": 310454,
+     "sha256": "37706c118af39c23bc1411e0b009eb9b2a9f9600cb12332fbc41527a93bf7149"
     },
     "stats": {
      "name": "100-thieves-vs-bc-game-m3-anubis.v2.cs2stats",
-     "size": 944,
-     "sha256": "36432cb4e9c0336c2d218539ede57571146c80b49678235745856b35e8684775"
+     "size": 889,
+     "sha256": "df31e980b3ce4d539042d5fabdf609f2ff094a58cc922d2bf7555da24c90b5d4"
     }
    }
   },
@@ -4847,18 +4847,18 @@
    "files": {
     "demo": {
      "name": "echo-vs-og-m1-cache.v2.cs2lib",
-     "size": 1394717,
-     "sha256": "71003b8544944f1d85485143d5d132f47e82194133a869da7796d214732fc1ec"
+     "size": 1283258,
+     "sha256": "4cfd3e1a843196298e87b054e120cfb57b7d7d05ea06aadd8e189566db4afc99"
     },
     "nades": {
      "name": "echo-vs-og-m1-cache.v2.cs2nades",
-     "size": 244153,
-     "sha256": "8b833d97397fe41b1da629194852004efddc606955842d26a93f43c6a0984596"
+     "size": 223440,
+     "sha256": "f44b3f1d9969721a2cef6d4b44368313322cea0d00898ba40866df64ba03293d"
     },
     "stats": {
      "name": "echo-vs-og-m1-cache.v2.cs2stats",
-     "size": 755,
-     "sha256": "70dbab982255dbc1ed04ef5c07e308892b07588f2b7eac01280a8b2f6b22ddfd"
+     "size": 710,
+     "sha256": "0215b97a40f42896cbd2a8e7d485233991a9e60156958e471b31fc8843957711"
     }
    }
   },
@@ -5079,18 +5079,18 @@
    "files": {
     "demo": {
      "name": "abyssal-vs-arcade-m2-inferno.v2.cs2lib",
-     "size": 2479095,
-     "sha256": "b37cdf450c8f270c6c6cef9d5f78afa91c72910c5077f00e060f56f107ac21ce"
+     "size": 2416915,
+     "sha256": "65348206247b1d99b286d39faf24ece5496eb04c45bbfe341119eb8ea23298ec"
     },
     "nades": {
      "name": "abyssal-vs-arcade-m2-inferno.v2.cs2nades",
-     "size": 435235,
-     "sha256": "e1f4ea59247832deee9a4b1d5082fba137b4f7f94728aebd65e139ea06ae725d"
+     "size": 421902,
+     "sha256": "9319d2730cae071b499b5ff402321b6201a4df61124642a1e24001b6549d589e"
     },
     "stats": {
      "name": "abyssal-vs-arcade-m2-inferno.v2.cs2stats",
-     "size": 1060,
-     "sha256": "a0c128e2f8ff15165ab776057a8c1a6e4ca810b05ad06c933835b5f41129d9e4"
+     "size": 1040,
+     "sha256": "b672bf3fe84980f7730cf3c30144f2e3e9f38647be1f83e4f78174652109460f"
     }
    }
   },
@@ -6616,18 +6616,18 @@
    "files": {
     "demo": {
      "name": "eyeballers-vs-faze-m1-ancient.v2.cs2lib",
-     "size": 3540481,
-     "sha256": "a30bf0c532d962de788b29b6d59bd188d8d777c31b0c1cc87120640348417e7f"
+     "size": 3500168,
+     "sha256": "da1c7cde8fc641a7807206cb2f5cd267a5144317640625c51ba9dcfa81742b04"
     },
     "nades": {
      "name": "eyeballers-vs-faze-m1-ancient.v2.cs2nades",
-     "size": 632655,
-     "sha256": "5230a8dc425ef5ee4f99a0c67f97f8c0f84562150882aa3b9d66454d19b5240b"
+     "size": 625398,
+     "sha256": "8b556957a2ca78f378747200961646b36db8762aee5807c47542ae35415a3a36"
     },
     "stats": {
      "name": "eyeballers-vs-faze-m1-ancient.v2.cs2stats",
-     "size": 1346,
-     "sha256": "6a8f6a8beddc0352062705089510d90379f38bd4192210e1e100b723a6ef7a6a"
+     "size": 1327,
+     "sha256": "032077beaa1af1f4949c462d6114d70235823f96fbb506e3f56785cb6fe9f5cc"
     }
    }
   },
@@ -7370,18 +7370,18 @@
    "files": {
     "demo": {
      "name": "tyloo-vs-semperfi-m3-nuke.v2.cs2lib",
-     "size": 1245191,
-     "sha256": "24606a6df9b53e1cd4055b3158ffe36e461bf27ac6ef8d74cbb6d9d9676c6df8"
+     "size": 1204620,
+     "sha256": "11b0c90016322efb133242c38ce9b352d3db6606296c04351da92e6bf418c3c9"
     },
     "nades": {
      "name": "tyloo-vs-semperfi-m3-nuke.v2.cs2nades",
-     "size": 216168,
-     "sha256": "469fde758cf5ae449f7a5f7624b54599a6031bf783c7dc9fff9318f96b6e6875"
+     "size": 206981,
+     "sha256": "e12f8f763d4ba590dff470945f1c8aa29a9343a3c1053698f2a288f300aaaae7"
     },
     "stats": {
      "name": "tyloo-vs-semperfi-m3-nuke.v2.cs2stats",
-     "size": 824,
-     "sha256": "d8b72e3f0eb66ce8ef7d514bd1901176ec4b71fafab08b604905aa8b40637308"
+     "size": 801,
+     "sha256": "3eac9f4f231eccd6dafb3c5ec5b502b8b793ef2556314d7b2e9e0b1f4a58ab76"
     }
    }
   },
@@ -7631,18 +7631,18 @@
    "files": {
     "demo": {
      "name": "mibr-vs-b8-m2-mirage.v2.cs2lib",
-     "size": 1715060,
-     "sha256": "59ef4a8f7be23e0243f1024270929aad7666d4e880f69e12d6c4a1dc670562a6"
+     "size": 1629272,
+     "sha256": "f1cfe4227d18c28d24711cff2ae5e15a15d51ba1f818c5e2dff54447243f6643"
     },
     "nades": {
      "name": "mibr-vs-b8-m2-mirage.v2.cs2nades",
-     "size": 292764,
-     "sha256": "828a49518b74f1234add92f9d07b1b5f093eb763741d1c660c3e668e72ddd173"
+     "size": 277526,
+     "sha256": "c1ebd02880c22021595071a976239479bf30a3a37683e951c9ae0ea88a0018be"
     },
     "stats": {
      "name": "mibr-vs-b8-m2-mirage.v2.cs2stats",
-     "size": 856,
-     "sha256": "e4f1192f42ce30f752dbeaf535ee7de8ae3a0c50d8ecb9db9e32a391cf150c31"
+     "size": 831,
+     "sha256": "4916dc2e7380709ffa538090f6ceabcf2c01e6dadd9135dd37e80f14bfea0217"
     }
    }
   },
@@ -8559,18 +8559,18 @@
    "files": {
     "demo": {
      "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2lib",
-     "size": 1148595,
-     "sha256": "6fbfc9bb2f6af38f1952f916fe08dd83b92f10bcf14c534a4e1ad809435b788a"
+     "size": 1067829,
+     "sha256": "d19fd40a01b060f220fef4957707ac563d4770a4e236513b11ec544802781fec"
     },
     "nades": {
      "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2nades",
-     "size": 196793,
-     "sha256": "580c5064ffafdc7416fcd1a3c54929e3ec6e08b980268c5878580d4f1185ace8"
+     "size": 180599,
+     "sha256": "bc450d79230d9e362778b3e14a3aa14a6ef0c62b5da0dd5a1de86dddde03a34a"
     },
     "stats": {
      "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2stats",
-     "size": 709,
-     "sha256": "e421cd8fb1866f08f8d5cd43167b389235ffbc5772867e032ba35f0f1bd24568"
+     "size": 673,
+     "sha256": "1224c14bbf10c983e7ed7e8e67c8ab82422588bf88b360841eb31a9390061e57"
     }
    }
   },
@@ -8704,18 +8704,18 @@
    "files": {
     "demo": {
      "name": "tyloo-vs-semperfi-m1-ancient.v2.cs2lib",
-     "size": 1636095,
-     "sha256": "42f46a216ddb7dddde46e9f3a04a46fc3c1bfc69ced11d087125742a598df9dd"
+     "size": 1601980,
+     "sha256": "aa68255e5d172839ded5a9d5c7aa6c75f49fe19b0bd7434a1258b97fed0268fd"
     },
     "nades": {
      "name": "tyloo-vs-semperfi-m1-ancient.v2.cs2nades",
-     "size": 292294,
-     "sha256": "16c77c47104bdac792c9291752c5e3d4114d8701b4b14f02c6a618962a2f5682"
+     "size": 286405,
+     "sha256": "7de3ec1e08bf007d5e79700fe110e475fc3bb1b0d9669862141220fee5454f2d"
     },
     "stats": {
      "name": "tyloo-vs-semperfi-m1-ancient.v2.cs2stats",
-     "size": 911,
-     "sha256": "596d0a3cd94c486b1449200ff3e9dde366714934649f0bcb51eff4f860f62db3"
+     "size": 881,
+     "sha256": "8fccf2faf7cbea61ad085925ea63affcbabfceb9ffb0bc4bb1909d9d1715aaea"
     }
    }
   },
