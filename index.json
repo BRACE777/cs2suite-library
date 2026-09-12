@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1788959430,
+ "updated": 1789209371,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -38,15 +38,15 @@
   "dendele": 34,
   "3dmax": 35,
   "eyeballers": 36,
-  "bc-game": 37,
-  "k27": 38,
+  "k27": 37,
+  "bc-game": 38,
   "lynn-vision": 39,
   "virtus-pro": 40,
   "m80": 41,
   "pain": 42,
   "nuclear-tigeres": 43,
-  "nemesis": 44,
-  "luminosity": 45,
+  "luminosity": 44,
+  "nemesis": 45,
   "acend": 46,
   "infinite": 47,
   "sashi": 48,
@@ -59,21 +59,21 @@
   "omega": 55,
   "jam": 56,
   "inox-division": 57,
-  "depo": 58,
-  "sinners": 59,
+  "sinners": 58,
+  "depo": 59,
   "color": 60,
   "iberian-soul": 61,
   "metizport": 62,
   "phantom": 63,
-  "imperial": 64,
-  "ex-ruby": 65,
-  "ruby": 65,
-  "eternal-fire": 66,
-  "ww": 67,
-  "sportsbetexpert": 68,
-  "genone": 69,
-  "9ine": 70,
-  "butterfly": 71,
+  "ww": 64,
+  "imperial": 65,
+  "ex-ruby": 66,
+  "ruby": 66,
+  "eternal-fire": 67,
+  "genone": 68,
+  "sportsbetexpert": 69,
+  "butterfly": 70,
+  "9ine": 71,
   "fluxo": 72,
   "astral": 73,
   "brute": 74,
@@ -81,292 +81,1241 @@
   "ex-zero-tenacity": 76,
   "zero-tenacity": 76,
   "thunder-downunder": 77,
-  "basement-boys": 78,
-  "cybershoke": 79,
-  "novaq": 80,
-  "quazar": 81,
-  "eac": 82,
-  "og": 83,
-  "upgrade": 84,
-  "galorys": 85,
-  "bestia": 86,
+  "cybershoke": 78,
+  "novaq": 79,
+  "quazar": 80,
+  "eac": 81,
+  "og": 82,
+  "upgrade": 83,
+  "galorys": 84,
+  "bestia": 85,
+  "basement-boys": 86,
   "lag": 87,
   "bushido-wildcats": 88,
   "bet-m": 89,
   "black-phoenix": 90,
   "kolesie": 91,
-  "unity": 92,
-  "voca": 93,
+  "voca": 92,
+  "unity": 93,
   "walczaki": 94,
-  "sparta": 95,
-  "nexus": 96,
-  "ex-rustec": 97,
-  "rustec": 97,
-  "shinden": 98,
+  "nexus": 95,
+  "sparta": 96,
+  "shinden": 97,
+  "ex-rustec": 98,
+  "rustec": 98,
   "forze-reload": 99,
   "baks": 100,
   "lp": 101,
-  "state": 102,
-  "ground-zero": 103,
-  "johnny-speeds": 104,
+  "arcred": 102,
+  "state": 103,
+  "ground-zero": 104,
   "marsborne": 105,
-  "g2-ares": 106,
-  "inner-circle-academy": 107,
+  "johnny-speeds": 106,
+  "g2-ares": 107,
   "the-last-resort": 108,
-  "just-players": 109,
-  "leo": 110,
-  "lavked": 111,
-  "arcred": 114,
+  "inner-circle-academy": 109,
+  "just-players": 110,
+  "leo": 112,
+  "lavked": 114,
   "psychoface": 115,
   "spirit-academy": 116,
   "havu": 117,
-  "entropy": 118,
-  "bounty-hunters": 119,
-  "chicken-coop": 120,
-  "ence": 121,
-  "azuolas": 122,
-  "5star": 123,
-  "wbt-academy": 124,
-  "navi-junior": 125,
-  "enjoy": 126,
-  "nordic-partners": 127,
+  "bounty-hunters": 118,
+  "chicken-coop": 119,
+  "entropy": 120,
+  "5star": 121,
+  "ence": 122,
+  "azuolas": 123,
+  "nordic-partners": 124,
+  "enjoy": 125,
+  "rbls": 126,
+  "navi-junior": 127,
   "mellren": 128,
-  "rbls": 129,
-  "rethink": 130,
-  "lazer-cats": 131,
-  "pcific": 132,
-  "masonic": 133,
-  "oddik": 134,
-  "hyperspirit": 135,
+  "rethink": 129,
+  "masonic": 130,
+  "oddik": 131,
+  "wbt": 133,
+  "hyperspirit": 134,
+  "lazer-cats": 135,
   "nexvoid": 136,
+  "pcific": 138,
   "keyd-stars": 139,
   "washed": 140,
-  "rare-atom": 141,
-  "mouz-nxt": 142,
-  "honv-d": 143,
-  "endless-journey": 144,
-  "isurus": 145,
-  "for-fun": 146,
-  "alter-ego": 147,
+  "endless-journey": 141,
+  "rare-atom": 142,
+  "isurus": 143,
+  "honv-d": 144,
+  "alter-ego": 145,
+  "fisher-college": 146,
+  "for-fun": 147,
   "benched-gods": 148,
-  "fisher-college": 149,
-  "passion-ua": 150,
-  "without-a-roof": 151,
-  "sinqu": 152,
+  "passion-ua": 149,
+  "without-a-roof": 150,
+  "noir-verse": 151,
+  "chinggis-warriors": 152,
   "alka": 153,
-  "chinggis-warriors": 154,
-  "permitta": 155,
-  "drip-too-hard": 156,
+  "sinqu": 154,
+  "drip-too-hard": 155,
+  "vexar": 156,
   "fire-flux": 157,
-  "lph": 158,
+  "turma-do-pagode": 158,
   "yawara": 159,
-  "turma-do-pagode": 160,
+  "lph": 160,
   "dragonclaw": 161,
-  "vexar": 162,
-  "atreides": 163,
+  "atreides": 162,
+  "permitta": 163,
   "regain": 164,
   "the-huns": 165,
   "mibr-fe": 166,
-  "noir-verse": 167,
-  "fake-do-biru": 168,
-  "roamsfiest": 169,
-  "6666": 170,
+  "fake-do-biru": 167,
+  "roamsfiest": 168,
+  "6666": 169,
+  "misa": 170,
   "ex-mibr-academy": 171,
   "mibr-academy": 171,
-  "strael-bora": 172,
-  "uno-mille": 173,
+  "gaimin-gladiators": 172,
+  "strael-bora": 173,
+  "uno-mille": 174,
   "illwill": 175,
-  "gaimin-gladiators": 176,
   "the-unit": 177,
-  "overtake-sector": 178,
-  "red-canids": 179,
-  "aimclub": 180,
-  "peladona": 181,
-  "berg": 182,
-  "am": 183,
-  "mai-tai": 184,
-  "falcons-force": 185,
-  "rooster": 186,
-  "saw-youngsters": 187,
-  "ex-mana": 188,
-  "mana": 188,
-  "kaleido": 189,
-  "new-vision": 190,
-  "bebop": 191,
-  "mindfreak": 192,
+  "berg": 178,
+  "overtake-sector": 179,
+  "red-canids": 180,
+  "am": 181,
+  "aimclub": 182,
+  "peladona": 183,
+  "falcons-force": 184,
+  "mai-tai": 185,
+  "saw-youngsters": 186,
+  "rooster": 187,
+  "kaleido": 188,
+  "new-vision": 189,
+  "bebop": 190,
+  "mindfreak": 191,
+  "ex-mana": 192,
+  "mana": 192,
   "fortress": 193,
-  "gothic": 194,
-  "algo": 195,
-  "donstu": 196,
-  "misa": 197,
-  "abyssal": 198,
-  "sangal": 199,
+  "algo": 194,
+  "mouz-nxt": 195,
+  "sangal": 196,
+  "abyssal": 197,
+  "megoshort": 198,
+  "donstu": 199,
   "just-swing": 200,
   "hashiras": 202,
-  "villainous": 203,
-  "borracheiros": 204,
-  "megoshort": 205,
-  "nutorious": 207,
-  "iowa-stormboar": 208,
-  "dark-moon": 209,
-  "zomblers": 210,
-  "vitalem-aerem": 211,
-  "semperfi": 212,
-  "ex-sashi-academy": 213,
-  "sashi-academy": 213,
-  "aaa": 214,
-  "maybe": 215,
-  "bestia-academy": 216,
-  "tnc": 220,
-  "tdk": 221,
-  "brazylijski-luz": 222,
-  "wazabi": 223,
-  "oldboys-pl": 225,
-  "a-great-chaos": 226,
-  "favbet": 227,
+  "borracheiros": 203,
+  "villainous": 204,
+  "nutorious": 206,
+  "iowa-stormboar": 207,
+  "semperfi": 208,
+  "zomblers": 209,
+  "vitalem-aerem": 210,
+  "aaa": 211,
+  "ex-sashi-academy": 212,
+  "sashi-academy": 212,
+  "maybe": 214,
+  "bestia-academy": 215,
+  "brazylijski-luz": 216,
+  "tdk": 218,
+  "wazabi": 220,
+  "young-ninjas": 222,
+  "tnc": 223,
+  "oldboys-pl": 224,
+  "favbet": 225,
   "detonate": 228,
   "phantom-academy": 229,
-  "young-ninjas": 230,
-  "los-kogutos": 231,
+  "heroic-academy": 232,
+  "haunted-house": 233,
   "empire": 234,
-  "haunted-house": 235,
   "ryvex": 236,
-  "heroic-academy": 237,
-  "club-333": 239,
-  "lilmix": 241,
-  "ex-aether": 242,
-  "aether": 242,
-  "meia-noite": 244,
-  "revise": 245,
+  "club-333": 237,
+  "lilmix": 238,
+  "ex-aether": 239,
+  "aether": 239,
+  "meia-noite": 240,
+  "revise": 241,
+  "big-academy": 242,
+  "arcade": 244,
+  "fengda": 245,
   "wanted-goons": 246,
-  "big-academy": 247,
-  "arcade": 248,
-  "fengda": 249,
-  "train-launcher": 250,
-  "altay": 251,
-  "ecstatic": 254,
-  "farmville": 255,
-  "clutchain-fe": 256,
-  "kuusamo": 257,
-  "boss": 258,
-  "b8-academy": 259,
-  "pain-academy": 260,
-  "struggletony": 261,
-  "quintess-ncia": 262,
-  "insane-players": 263,
-  "change-the-game": 264,
-  "boring-players": 268,
-  "shishka": 269,
-  "shimmer": 273,
-  "privateer": 275,
-  "procyon": 279,
-  "invicta": 280,
-  "esuba": 281,
-  "banzai": 283,
-  "eternal-premium": 284,
-  "subtop-de-france": 285,
-  "cirahvi": 286,
-  "reign-above": 287,
-  "raccoons": 288,
-  "rounds": 289,
-  "metanoia-wolves": 290,
-  "zotix": 291,
-  "dnk": 292,
-  "bankapepsi": 293,
-  "xi": 294,
-  "markandlarry": 295,
-  "bmz": 296,
-  "back-to-back": 297,
-  "ding-cuts": 298,
-  "festina-lente": 299,
-  "atrix": 300,
-  "jumprava": 301,
-  "drama": 302,
-  "arch": 305,
-  "quantumx": 306,
-  "partizan": 307,
-  "900fpsvseco": 308,
-  "julie-and-cie": 309,
-  "olybet": 310,
-  "wingman": 311,
-  "lfo-8": 312,
-  "ex-kr": 313,
-  "kr": 313,
-  "crashers": 314,
-  "legam": 315,
-  "sensation": 317,
-  "gr-mio": 318,
-  "atputies": 319,
-  "vasco": 321,
-  "players": 322,
-  "elusive": 324,
-  "trainwrecks": 325,
+  "ecstatic": 247,
+  "train-launcher": 248,
+  "altay": 249,
+  "farmville": 251,
+  "privateer": 252,
+  "boss": 253,
+  "clutchain-fe": 254,
+  "struggletony": 255,
+  "b8-academy": 256,
+  "pain-academy": 257,
+  "quintess-ncia": 259,
+  "insane-players": 260,
+  "change-the-game": 262,
+  "boring-players": 265,
+  "shishka": 266,
+  "kuusamo": 270,
+  "shimmer": 271,
+  "procyon": 275,
+  "invicta": 276,
+  "esuba": 278,
+  "banzai": 279,
+  "dark-moon": 280,
+  "eternal-premium": 281,
+  "subtop-de-france": 282,
+  "cirahvi": 283,
+  "reign-above": 284,
+  "rounds": 285,
+  "raccoons": 286,
+  "metanoia-wolves": 287,
+  "xi": 288,
+  "bankapepsi": 289,
+  "zotix": 290,
+  "back-to-back": 291,
+  "bmz": 292,
+  "dnk": 293,
+  "markandlarry": 294,
+  "ding-cuts": 295,
+  "atrix": 296,
+  "festina-lente": 297,
+  "jumprava": 299,
+  "drama": 300,
+  "quantumx": 302,
+  "a-great-chaos": 303,
+  "arch": 304,
+  "partizan": 305,
+  "900fpsvseco": 306,
+  "julie-and-cie": 307,
+  "olybet": 308,
+  "wingman": 309,
+  "lfo-8": 310,
+  "ex-kr": 311,
+  "kr": 311,
+  "crashers": 312,
+  "legam": 314,
+  "sensation": 315,
+  "gr-mio": 317,
+  "atputies": 318,
+  "vasco": 319,
+  "players": 320,
+  "elusive": 321,
+  "trainwrecks": 323,
+  "romania": 324,
   "gamerslab": 326,
-  "xcity": 328,
-  "romania": 329,
-  "pugdesonesto": 330,
-  "your-end": 331,
-  "wampirki": 332,
-  "younglings": 333,
-  "aurora-young-blud": 334,
-  "olympus": 335,
-  "tricksters": 336,
-  "m1x-ks": 337,
-  "nas": 338,
-  "new-legends": 339,
-  "acrobats": 340,
-  "basement-bobs": 341,
-  "mtx": 342,
-  "sementes-do-mal": 343,
+  "xcity": 327,
+  "pugdesonesto": 328,
+  "your-end": 329,
+  "wampirki": 330,
+  "younglings": 331,
+  "aurora-young-blud": 332,
+  "olympus": 333,
+  "m1x-ks": 334,
+  "acrobats": 335,
+  "nas": 336,
+  "new-legends": 337,
+  "tricksters": 338,
+  "basement-bobs": 339,
+  "mtx": 340,
+  "yngods": 341,
+  "sementes-do-mal": 342,
+  "playersclub": 343,
   "young-tigeres": 344,
-  "yngods": 345,
+  "famalic-o": 345,
   "incognito": 346,
-  "playersclub": 347,
-  "famalic-o": 348,
-  "xdm": 349,
-  "nsn": 350,
-  "fury": 351,
-  "rottweilers": 352,
-  "persona-grata": 354,
-  "r2": 355,
-  "chicanery": 356,
-  "clutchain": 357,
-  "girl-kissers": 362,
-  "legion": 363,
-  "magicos": 365,
-  "ec-banga": 366,
-  "coalesce": 367,
-  "idopieca": 368,
-  "damajuana": 370,
-  "blitzkrieg": 371,
-  "vp-prodigy": 372,
-  "guara": 373,
-  "raisedbypixels": 374,
-  "mans-o-maromba": 376,
-  "bbbmbcbs": 377,
-  "charrados": 378,
-  "zetta": 379,
-  "home": 381,
-  "spirit-hu": 382,
-  "aimhaus": 384,
-  "pure": 385,
-  "unreal-nightmare": 386,
-  "unitronics": 387,
-  "wachoskys": 388,
-  "z7": 390,
-  "grindas": 391,
-  "ur": 393,
-  "furia-fe": 394,
-  "arise": 395,
-  "big-equipa": 396,
-  "aka-hero-kajo": 397,
-  "skele": 398,
-  "overknight": 399,
-  "herewegoagain": 400,
-  "time-waves": 401,
-  "gameharmony": 402
+  "xdm": 347,
+  "nsn": 348,
+  "persona-grata": 349,
+  "clutchain": 350,
+  "fury": 352,
+  "rottweilers": 353,
+  "r2": 354,
+  "chicanery": 355,
+  "girl-kissers": 360,
+  "legion": 361,
+  "magicos": 363,
+  "ec-banga": 364,
+  "idopieca": 365,
+  "coalesce": 366,
+  "damajuana": 367,
+  "blitzkrieg": 369,
+  "vp-prodigy": 370,
+  "guara": 371,
+  "raisedbypixels": 373,
+  "mans-o-maromba": 375,
+  "bbbmbcbs": 376,
+  "charrados": 377,
+  "zetta": 378,
+  "home": 379,
+  "spirit-hu": 380,
+  "aimhaus": 382,
+  "pure": 383,
+  "unreal-nightmare": 384,
+  "unitronics": 385,
+  "wachoskys": 386,
+  "z7": 388,
+  "grindas": 389,
+  "ur": 391,
+  "fuzos": 392,
+  "furia-fe": 393,
+  "arise": 394,
+  "big-equipa": 395,
+  "aka-hero-kajo": 396,
+  "skele": 397,
+  "overknight": 398,
+  "herewegoagain": 399,
+  "time-waves": 400,
+  "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "furia-vs-g2-m2-dust2",
+   "teams": [
+    "furia",
+    "g2"
+   ],
+   "map": "dust2",
+   "date": 1789118906,
+   "rank": 7,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-g2-m2-dust2.v2.cs2lib",
+     "size": 1295622,
+     "sha256": "ff3a1aa1aacd4eb261e8feb09e4c23f785f5a1875ecb5106aa75eb39171070ce",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "furia-vs-g2-m2-dust2.v2.cs2nades",
+     "size": 221037,
+     "sha256": "2feb8687a7392b84df097faa927edb3bfbe13b62c99a0e7953ba72d938063da0",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "furia-vs-g2-m2-dust2.v2.cs2stats",
+     "size": 679,
+     "sha256": "4df0459214fa60bd89eae165f7b35f1393739868de672960c1ca2e456ecf78a6",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-g2-m1-ancient",
+   "teams": [
+    "furia",
+    "g2"
+   ],
+   "map": "ancient",
+   "date": 1789115432,
+   "rank": 7,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-g2-m1-ancient.v2.cs2lib",
+     "size": 2383158,
+     "sha256": "ba0e951f0189688020e5ef51f6ce64d4e2ad36de91038a8d992ad90a1410157f",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "furia-vs-g2-m1-ancient.v2.cs2nades",
+     "size": 426812,
+     "sha256": "6b9b976d10aa4357333b55e853c0fdb17ade6797e23cd682da9a80b2c1848c6f",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "furia-vs-g2-m1-ancient.v2.cs2stats",
+     "size": 1050,
+     "sha256": "4caf1b7b3906645d24078a325af8910d6516d3119ae18aa9e5edac9b4519bd99",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mibr-vs-alliance-m2-cache",
+   "teams": [
+    "mibr",
+    "alliance"
+   ],
+   "map": "cache",
+   "date": 1789106590,
+   "rank": 21,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-alliance-m2-cache.v2.cs2lib",
+     "size": 1538944,
+     "sha256": "9ec9e9717f75bd6eadc9fa9672ae4b83b809390f5b6cbd26d746fb5fcdf22171",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mibr-vs-alliance-m2-cache.v2.cs2nades",
+     "size": 271148,
+     "sha256": "bc402ff72c9030ae6ff27e4c87a1f885ae5b7c656f9647c30c475bc34582411d",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mibr-vs-alliance-m2-cache.v2.cs2stats",
+     "size": 831,
+     "sha256": "2110cd40ee0896ca575fffee796ac11547ba97b8160a445116dafec4ea987087",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mibr-vs-alliance-m1-inferno",
+   "teams": [
+    "mibr",
+    "alliance"
+   ],
+   "map": "inferno",
+   "date": 1789102816,
+   "rank": 21,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-alliance-m1-inferno.v2.cs2lib",
+     "size": 1457513,
+     "sha256": "79744c927fa5f5c3a9895f0df78b0a789d5bfdd7e496c22363fa6e8cfcda570d",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mibr-vs-alliance-m1-inferno.v2.cs2nades",
+     "size": 249227,
+     "sha256": "dfd4e30834ea8d1575a22162e344a7907d102b97f81dd34585a8b91c38ccd78e",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mibr-vs-alliance-m1-inferno.v2.cs2stats",
+     "size": 708,
+     "sha256": "28eb8bd8cc91eb722f2f4ab0a5332349da4c05f1ce5e111750847cfaee322000",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-5star-m2-ancient",
+   "teams": [
+    "g2",
+    "5star"
+   ],
+   "map": "ancient",
+   "date": 1789075158,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-5star-m2-ancient.v2.cs2lib",
+     "size": 1118830,
+     "sha256": "e5b917920c89751cff682898de82734039cbf179250faffdc3679baadbe83a02"
+    },
+    "nades": {
+     "name": "g2-vs-5star-m2-ancient.v2.cs2nades",
+     "size": 199346,
+     "sha256": "1c852b27a4fb48557bffa36a9891bc72795ba07678d227a3930011f6b24d9fcd"
+    },
+    "stats": {
+     "name": "g2-vs-5star-m2-ancient.v2.cs2stats",
+     "size": 720,
+     "sha256": "6e8ae8c79d9902065609167db3b457181987a0b3dae16f5fd85f0eea6b180520"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-5star-m1-inferno",
+   "teams": [
+    "g2",
+    "5star"
+   ],
+   "map": "inferno",
+   "date": 1789072182,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-5star-m1-inferno.v2.cs2lib",
+     "size": 1766655,
+     "sha256": "649ad20de7eb4f1c5e6aa074925d32508a134328c75228da40065224b5d592e4"
+    },
+    "nades": {
+     "name": "g2-vs-5star-m1-inferno.v2.cs2nades",
+     "size": 310902,
+     "sha256": "f2f829b8b56d8410b110f24d24a54d1410b55921b89ed2e79af1e409a6a32cc1"
+    },
+    "stats": {
+     "name": "g2-vs-5star-m1-inferno.v2.cs2stats",
+     "size": 867,
+     "sha256": "0c03f7cd6cf7f183050a620004c1d2a9b579cadb0f67932a45a5e966b9605f17"
+    }
+   }
+  },
+  {
+   "stem": "alliance-vs-magic-m2-inferno",
+   "teams": [
+    "alliance",
+    "magic"
+   ],
+   "map": "inferno",
+   "date": 1789071576,
+   "rank": 22,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "alliance-vs-magic-m2-inferno.v2.cs2lib",
+     "size": 1839782,
+     "sha256": "7109a413224ba0302c511a39c7bed2d03c74a8886b594904358ecfac85eb36b2",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "alliance-vs-magic-m2-inferno.v2.cs2nades",
+     "size": 313999,
+     "sha256": "05ff3ee4898b0e89e136a71b9f51ee5ce2546d1a1921d3f57a98c50321769c0b",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "alliance-vs-magic-m2-inferno.v2.cs2stats",
+     "size": 797,
+     "sha256": "726139d504fca10b0f5f684e9d2de8d5cb0b4329e5b23a8e54b4f26810dbc010",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "alliance-vs-magic-m1-ancient",
+   "teams": [
+    "alliance",
+    "magic"
+   ],
+   "map": "ancient",
+   "date": 1789067634,
+   "rank": 22,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "alliance-vs-magic-m1-ancient.v2.cs2lib",
+     "size": 2208690,
+     "sha256": "a2c1fa0a0bc907de215cd8707127042d5ca840c3eea07e09595e5c2998539417",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "alliance-vs-magic-m1-ancient.v2.cs2nades",
+     "size": 391859,
+     "sha256": "c6a24c4c5b12148a0466f04e04d528bd07f614ec41c772cd144e37e4e86fc01b",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "alliance-vs-magic-m1-ancient.v2.cs2stats",
+     "size": 1007,
+     "sha256": "ddbe61f769d18685e03c47c2bb142765f10894e763a8cfe0a144402d4640a511",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "alliance-vs-tyloo-m2-ancient",
+   "teams": [
+    "alliance",
+    "tyloo"
+   ],
+   "map": "ancient",
+   "date": 1789057508,
+   "rank": 22,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "alliance-vs-tyloo-m2-ancient.v2.cs2lib",
+     "size": 1766972,
+     "sha256": "638d3f713cf6a7a81a670c440930e3a5b466a3c61b24d80960776ff24524ba3a",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "alliance-vs-tyloo-m2-ancient.v2.cs2nades",
+     "size": 311602,
+     "sha256": "08c4b8068529fa19afe2eabf796e5b36c5caeafe4001b285b02423a1deb10833",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "alliance-vs-tyloo-m2-ancient.v2.cs2stats",
+     "size": 881,
+     "sha256": "6f3553cc7a1d657036d5e691f0569678bf7e0c1052091e2c015569b46365b9bb",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "alliance-vs-tyloo-m1-inferno",
+   "teams": [
+    "alliance",
+    "tyloo"
+   ],
+   "map": "inferno",
+   "date": 1789052970,
+   "rank": 22,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "alliance-vs-tyloo-m1-inferno.v2.cs2lib",
+     "size": 1832989,
+     "sha256": "e70dd64fe800b0b4d8a96b523d639fc793739af65ea944aaa40559a2842265e6",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "alliance-vs-tyloo-m1-inferno.v2.cs2nades",
+     "size": 318950,
+     "sha256": "43415d2ab5bb9b9572b0497e5d4d3be58f44d63d2ec4b5b51acbe1522f56e477",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "alliance-vs-tyloo-m1-inferno.v2.cs2stats",
+     "size": 877,
+     "sha256": "af412602a0a24fe70afc1e39fc6f7b8bba53893781659ecb0e0b6d7a984026b0",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mibr-vs-betboom-m2-anubis__fissure-playground-3",
+   "teams": [
+    "mibr",
+    "betboom"
+   ],
+   "map": "anubis",
+   "date": 1789038294,
+   "rank": 15,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-betboom-m2-anubis__fissure-playground-3.v2.cs2lib",
+     "size": 2251232,
+     "sha256": "cd6c9d1b757e923ea44e7872eba1ce0c563d5453537670e3401dec83afedba11"
+    },
+    "nades": {
+     "name": "mibr-vs-betboom-m2-anubis__fissure-playground-3.v2.cs2nades",
+     "size": 392672,
+     "sha256": "d5ca8edfb1560b2f117fe481a5698af0d69db68af37d1e11b18aadd0f1922219"
+    },
+    "stats": {
+     "name": "mibr-vs-betboom-m2-anubis__fissure-playground-3.v2.cs2stats",
+     "size": 1007,
+     "sha256": "cc25efca7f518d77c240a7bad37f02bc7bb116da4f5d0c197a3af2715a84f2d7"
+    }
+   }
+  },
+  {
+   "stem": "mibr-vs-betboom-m1-mirage",
+   "teams": [
+    "mibr",
+    "betboom"
+   ],
+   "map": "mirage",
+   "date": 1789033200,
+   "rank": 15,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-betboom-m1-mirage.v2.cs2lib",
+     "size": 1950466,
+     "sha256": "7d0e9b3cf7ffcc3b87997499118e7acc80de6ca482eff19144c0d2cc457d0bc0"
+    },
+    "nades": {
+     "name": "mibr-vs-betboom-m1-mirage.v2.cs2nades",
+     "size": 335508,
+     "sha256": "25caa55c6721d277a999dbf191d937db5061d9eb94daaf44bd91f70eedea82d9"
+    },
+    "stats": {
+     "name": "mibr-vs-betboom-m1-mirage.v2.cs2stats",
+     "size": 824,
+     "sha256": "04238db9eb2681b2b1801e05946d9a5b4ab8893f2a523a8b61db02555e2e4c8f"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-furia-m2-ancient",
+   "teams": [
+    "legacy",
+    "furia"
+   ],
+   "map": "ancient",
+   "date": 1789031018,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-furia-m2-ancient.v2.cs2lib",
+     "size": 1519063,
+     "sha256": "7f7a3542c757d813c54f235b1731512f41d81676916b7fdd87171121374d5b7b",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-furia-m2-ancient.v2.cs2nades",
+     "size": 262244,
+     "sha256": "745568d6ad011704a17cea68d0aa2467c3eb4560fdfce6d522d39d50126ab580",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-furia-m2-ancient.v2.cs2stats",
+     "size": 839,
+     "sha256": "5a42d9a4b80432dae1cdeb57902434f759231c13ce6ad68cfe1f679958a59582",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-5star-m3-cache",
+   "teams": [
+    "astralis",
+    "5star"
+   ],
+   "map": "cache",
+   "date": 1789028142,
+   "rank": 20,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-5star-m3-cache.v2.cs2lib",
+     "size": 1570156,
+     "sha256": "07a2bb60c440f00e24d33355ade0f9d4eb59c904e1af2eba99ba246027f9ccd4"
+    },
+    "nades": {
+     "name": "astralis-vs-5star-m3-cache.v2.cs2nades",
+     "size": 285186,
+     "sha256": "198c8fa460a5661706bf876f1338e63aa3b7030e0b193b74fb18e0bd4868f6f8"
+    },
+    "stats": {
+     "name": "astralis-vs-5star-m3-cache.v2.cs2stats",
+     "size": 887,
+     "sha256": "564e7179d39cb9fa9611ae5c2084d0c1ae68bd59f6530d81d9bb0b1370d975c5"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-furia-m1-mirage",
+   "teams": [
+    "legacy",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1789027374,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-furia-m1-mirage.v2.cs2lib",
+     "size": 1660704,
+     "sha256": "3c35e1b98d07f56db3e3b23be37827c248253cefeb29289cfeb34f98b2f57a55",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-furia-m1-mirage.v2.cs2nades",
+     "size": 284082,
+     "sha256": "420c53aebe728f13c4119bb7a58d9cee071b5bdf2e9f46ee665586730788f552",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-furia-m1-mirage.v2.cs2stats",
+     "size": 775,
+     "sha256": "b352f7a5517a6b438a5c644f7caefb2b69a5f951d328fd64c9f2ee2c31a2cd72",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-5star-m2-ancient",
+   "teams": [
+    "astralis",
+    "5star"
+   ],
+   "map": "ancient",
+   "date": 1789024060,
+   "rank": 20,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-5star-m2-ancient.v2.cs2lib",
+     "size": 1196713,
+     "sha256": "4985a331a9c7c3b471c5d60d6d05cfbb7a9eaaca9b4796ed2019435da3b95d6b"
+    },
+    "nades": {
+     "name": "astralis-vs-5star-m2-ancient.v2.cs2nades",
+     "size": 213905,
+     "sha256": "1399e236bf3434a5bce115cdb1b650642460f1ddf6b4f8b860ed3a23ed998f03"
+    },
+    "stats": {
+     "name": "astralis-vs-5star-m2-ancient.v2.cs2stats",
+     "size": 754,
+     "sha256": "8261e3d129474e3bba0e5f2e12c9c9efd735d3479e75af7830842ab207c008c9"
+    }
+   }
+  },
+  {
+   "stem": "magic-vs-parivision-m2-inferno",
+   "teams": [
+    "magic",
+    "parivision"
+   ],
+   "map": "inferno",
+   "date": 1789022060,
+   "rank": 18,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "magic-vs-parivision-m2-inferno.v2.cs2lib",
+     "size": 2420707,
+     "sha256": "2a8877caceb810e80644cf1141af65f22c6ee07368fbf0b3b44b52749c94c2a6",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "magic-vs-parivision-m2-inferno.v2.cs2nades",
+     "size": 411830,
+     "sha256": "47aec0e1e3ee5245ffd07a4958be09dc7a8bc9c21479cd9162b95db1708e3da5",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "magic-vs-parivision-m2-inferno.v2.cs2stats",
+     "size": 1073,
+     "sha256": "e87f9a064c2226443ef974ace897860f81cbaf1c5cdaba747efaccf6f7391436",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-5star-m1-inferno",
+   "teams": [
+    "astralis",
+    "5star"
+   ],
+   "map": "inferno",
+   "date": 1789021090,
+   "rank": 20,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-5star-m1-inferno.v2.cs2lib",
+     "size": 1736756,
+     "sha256": "719917e4ee65c1223a414fb4ed1170139d7ca5236ee3d1118b8927ed1a2daae7"
+    },
+    "nades": {
+     "name": "astralis-vs-5star-m1-inferno.v2.cs2nades",
+     "size": 307623,
+     "sha256": "44adef60bf2a8b0c28d51f4ec2a122c02d190fa12b5983c6d5723e0343eb38f3"
+    },
+    "stats": {
+     "name": "astralis-vs-5star-m1-inferno.v2.cs2stats",
+     "size": 910,
+     "sha256": "f0f66b564932a8eab4d9ac2df85650f371bc459562ceba099ba4c65c907ad7d9"
+    }
+   }
+  },
+  {
+   "stem": "magic-vs-parivision-m1-ancient",
+   "teams": [
+    "magic",
+    "parivision"
+   ],
+   "map": "ancient",
+   "date": 1789017042,
+   "rank": 18,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "magic-vs-parivision-m1-ancient.v2.cs2lib",
+     "size": 2085704,
+     "sha256": "09dc9a4dbd655efe7e7a895d8b8068f40ded793bcf0a75efa68d2aa6c0542ee5",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "magic-vs-parivision-m1-ancient.v2.cs2nades",
+     "size": 362035,
+     "sha256": "d8883594ca79f65cb272cc1e5215d1e667228acdaddb2a4ef8dda9ae79111fb6",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "magic-vs-parivision-m1-ancient.v2.cs2stats",
+     "size": 892,
+     "sha256": "492159a506d81222409f85b0c955da04edf2fed1f6209d52deeba456cbba4059",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-g2-m3-inferno",
+   "teams": [
+    "9z",
+    "g2"
+   ],
+   "map": "inferno",
+   "date": 1789016266,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-g2-m3-inferno.v2.cs2lib",
+     "size": 1989496,
+     "sha256": "30d4b670e0fc0557f5d5781b3ebb9eb3d01dd64d8426d8384d83b73bfc9ec4fc"
+    },
+    "nades": {
+     "name": "9z-vs-g2-m3-inferno.v2.cs2nades",
+     "size": 347328,
+     "sha256": "2df32ae5d5a65cd458a67430d46278bec14af7847a7cc0187ee3e1f622827033"
+    },
+    "stats": {
+     "name": "9z-vs-g2-m3-inferno.v2.cs2stats",
+     "size": 875,
+     "sha256": "c9dba9deec7446bdd1ebe0d68f848fa0066eebfb7c0f9e99b24049959869358d"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-g2-m2-ancient",
+   "teams": [
+    "9z",
+    "g2"
+   ],
+   "map": "ancient",
+   "date": 1789011780,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-g2-m2-ancient.v2.cs2lib",
+     "size": 1695762,
+     "sha256": "74830e711e94a8041ffd63df7f40b4489d53fee48b093cb878aa4c1e4b397c65"
+    },
+    "nades": {
+     "name": "9z-vs-g2-m2-ancient.v2.cs2nades",
+     "size": 297076,
+     "sha256": "fb19bff2879c3b8eb7733f702f6393ce22e040e15c74657ecda7f66381f85ede"
+    },
+    "stats": {
+     "name": "9z-vs-g2-m2-ancient.v2.cs2stats",
+     "size": 819,
+     "sha256": "95a0ed7dad389961b24a44733621c6e4d0b1773eec1c17b3c884dfeef2013366"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-g2-m1-dust2",
+   "teams": [
+    "9z",
+    "g2"
+   ],
+   "map": "dust2",
+   "date": 1789007994,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-g2-m1-dust2.v2.cs2lib",
+     "size": 1917937,
+     "sha256": "fd0d166eea2323f7be2b281a8b0804b933eb0952c0115faac07f6d1ccbcc4b82"
+    },
+    "nades": {
+     "name": "9z-vs-g2-m1-dust2.v2.cs2nades",
+     "size": 325605,
+     "sha256": "025a6a59fb98ca166f8f8a2f7212a45e6e3afc6db4a85110f42126427562f25f"
+    },
+    "stats": {
+     "name": "9z-vs-g2-m1-dust2.v2.cs2stats",
+     "size": 862,
+     "sha256": "dd6e2fceab3102a15e84dee2181c2f71fb6c9e7221bb7a27d9c896ec256d704e"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-furia-m2-inferno",
+   "teams": [
+    "parivision",
+    "furia"
+   ],
+   "map": "inferno",
+   "date": 1788987202,
+   "rank": 7,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-furia-m2-inferno.v2.cs2lib",
+     "size": 2122549,
+     "sha256": "6fb53637414c88ba0f886355402b3f62843afc90a4a34b8489936585bbb37e82",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "parivision-vs-furia-m2-inferno.v2.cs2nades",
+     "size": 368699,
+     "sha256": "425ad6926e867f3c99e93fa77d70e0e0a5d1a34a3218bfa0338981cdbb8c0e1c",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "parivision-vs-furia-m2-inferno.v2.cs2stats",
+     "size": 921,
+     "sha256": "97d9c4f2f89609dc67a0c6a937af535f9761f7a8e3fe06c887ff9c6aaf012360",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "betboom-vs-astralis-m2-anubis",
+   "teams": [
+    "betboom",
+    "astralis"
+   ],
+   "map": "anubis",
+   "date": 1788984992,
+   "rank": 15,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "betboom-vs-astralis-m2-anubis.v2.cs2lib",
+     "size": 1635760,
+     "sha256": "d01914627b8b069bf2d047f7591fbd63c2f4952ae556f928cbedc97f0e6dbdcd"
+    },
+    "nades": {
+     "name": "betboom-vs-astralis-m2-anubis.v2.cs2nades",
+     "size": 282210,
+     "sha256": "6c81a396b976f7f08899d54af432966dfb9533226727a3de522a7383d46cdafb"
+    },
+    "stats": {
+     "name": "betboom-vs-astralis-m2-anubis.v2.cs2stats",
+     "size": 810,
+     "sha256": "d782a5307b3cd779a0ce56e97097f48536308f96e068d537d8a721116042f8db"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-furia-m1-ancient",
+   "teams": [
+    "parivision",
+    "furia"
+   ],
+   "map": "ancient",
+   "date": 1788982758,
+   "rank": 7,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-furia-m1-ancient.v2.cs2lib",
+     "size": 1062778,
+     "sha256": "bae50c6241dd30ffbd1f2f51e1240191e5f897d6b9a32bd3bf7eee38e09174c4",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "parivision-vs-furia-m1-ancient.v2.cs2nades",
+     "size": 183229,
+     "sha256": "d4f35b7e8d5e569da1a9193ed430ee28f2b7adf61ddf042b7d8237577debafdd",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "parivision-vs-furia-m1-ancient.v2.cs2stats",
+     "size": 686,
+     "sha256": "bd1d08a3983d295eb14ca91fe45bb344940de30de3df5970d25958a9ab28c2d9",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "betboom-vs-astralis-m1-ancient",
+   "teams": [
+    "betboom",
+    "astralis"
+   ],
+   "map": "ancient",
+   "date": 1788980538,
+   "rank": 15,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "betboom-vs-astralis-m1-ancient.v2.cs2lib",
+     "size": 2286936,
+     "sha256": "3ce547cf492ae9fcba8ba28e99d21b586e07da38e4bdd699f78d96d6826f9350"
+    },
+    "nades": {
+     "name": "betboom-vs-astralis-m1-ancient.v2.cs2nades",
+     "size": 406562,
+     "sha256": "efc00c19f61f9128ba0aa833086f961cbe3dd2dede77fd1a79b2d7847e704006"
+    },
+    "stats": {
+     "name": "betboom-vs-astralis-m1-ancient.v2.cs2stats",
+     "size": 1046,
+     "sha256": "748d7c3b8c6ff28fc74399c36cee0b74bc14da4ea97bb2c9789f0fc093d835f5"
+    }
+   }
+  },
+  {
+   "stem": "tyloo-vs-gamerlegion-m2-mirage",
+   "teams": [
+    "tyloo",
+    "gamerlegion"
+   ],
+   "map": "mirage",
+   "date": 1788978276,
+   "rank": 26,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "tyloo-vs-gamerlegion-m2-mirage.v2.cs2lib",
+     "size": 1458086,
+     "sha256": "d0e036add6d47a4e8fff85b513ff8e5c1950728ce2e15e8fa23f809847c6bfee",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "tyloo-vs-gamerlegion-m2-mirage.v2.cs2nades",
+     "size": 253937,
+     "sha256": "22411f3c6c1ad1c5f2200e4ffb88efb4b71241e5171507748c8531f12ff6be21",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "tyloo-vs-gamerlegion-m2-mirage.v2.cs2stats",
+     "size": 735,
+     "sha256": "56a4a5669459addac72a2fce27ce95450b36ddc2c12bcabf7b9142fecf729df4",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "tyloo-vs-gamerlegion-m1-ancient",
+   "teams": [
+    "tyloo",
+    "gamerlegion"
+   ],
+   "map": "ancient",
+   "date": 1788973362,
+   "rank": 26,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "tyloo-vs-gamerlegion-m1-ancient.v2.cs2lib",
+     "size": 1440901,
+     "sha256": "5bcceb03e1a807014a5a0d5eec4de3c5d6e04285a84873a5c12ba59a94889702",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "tyloo-vs-gamerlegion-m1-ancient.v2.cs2nades",
+     "size": 255386,
+     "sha256": "0be875fc9c7161e19a9caa47e45c1c18076e47b36dbfea293e70ae4bd2ec3993",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "tyloo-vs-gamerlegion-m1-ancient.v2.cs2stats",
+     "size": 786,
+     "sha256": "b79a7e0f310db89e1262609baa8079e2cee50b025ce2efbef6adbb4a9638768e",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "big-vs-g2-m3-ancient",
+   "teams": [
+    "big",
+    "g2"
+   ],
+   "map": "ancient",
+   "date": 1788971360,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "big-vs-g2-m3-ancient.v2.cs2lib",
+     "size": 1624641,
+     "sha256": "e8100bc357202ff3f462cfdf101ba43c856a9950f68a3d35cef500650dd2ee1e"
+    },
+    "nades": {
+     "name": "big-vs-g2-m3-ancient.v2.cs2nades",
+     "size": 291035,
+     "sha256": "61a22e37324807caa51d6403cbc8b09f09c11d52e12b2ca6572ecd1128ec4ba7"
+    },
+    "stats": {
+     "name": "big-vs-g2-m3-ancient.v2.cs2stats",
+     "size": 847,
+     "sha256": "b2650183954b2dae20f907a4695b2d9d00c12c160182b99898d74cd0f68b7461"
+    }
+   }
+  },
+  {
+   "stem": "big-vs-g2-m2-mirage",
+   "teams": [
+    "big",
+    "g2"
+   ],
+   "map": "mirage",
+   "date": 1788966954,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "big-vs-g2-m2-mirage.v2.cs2lib",
+     "size": 1606301,
+     "sha256": "5f3f9ca8f0b1512c4cd0863992392cff12c9f0a05c7bde208f70d9c537e265bc"
+    },
+    "nades": {
+     "name": "big-vs-g2-m2-mirage.v2.cs2nades",
+     "size": 281310,
+     "sha256": "7d72dd9341cf38d90ae5def58fc4e67995d2385418e04f666be79ffa99f4f807"
+    },
+    "stats": {
+     "name": "big-vs-g2-m2-mirage.v2.cs2stats",
+     "size": 778,
+     "sha256": "4b68b7940604e7a672c4e4a5a50732f618a2cdab5b789ebe7329f136d5a47de1"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-alliance-m2-dust2",
+   "teams": [
+    "legacy",
+    "alliance"
+   ],
+   "map": "dust2",
+   "date": 1788964728,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-alliance-m2-dust2.v2.cs2lib",
+     "size": 1520988,
+     "sha256": "e47562ef0c38aafc1564c196a1ecc3ba2010398d26ad6301263e8443f28286dc",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-alliance-m2-dust2.v2.cs2nades",
+     "size": 251812,
+     "sha256": "746bc9f0f5c2dbee6565adf928150840683bf3cdef952a095eb4ded295ab2312",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-alliance-m2-dust2.v2.cs2stats",
+     "size": 724,
+     "sha256": "29ee1348be6033e7dac0d1ebfb47388125ee61320649741c0dc6f1e4f4dea41b",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "big-vs-g2-m1-cache__fissure-playground-3",
    "teams": [
@@ -397,60 +1346,63 @@
    }
   },
   {
-   "stem": "big-vs-g2-m3-ancient",
+   "stem": "legacy-vs-alliance-m1-inferno",
    "teams": [
-    "big",
-    "g2"
+    "legacy",
+    "alliance"
    ],
-   "map": "ancient",
-   "date": 1788958837,
-   "rank": 8,
+   "map": "inferno",
+   "date": 1788959794,
+   "rank": 6,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
     "demo": {
-     "name": "big-vs-g2-m3-ancient.v2.cs2lib",
-     "size": 1624641,
-     "sha256": "e8100bc357202ff3f462cfdf101ba43c856a9950f68a3d35cef500650dd2ee1e"
+     "name": "legacy-vs-alliance-m1-inferno.v2.cs2lib",
+     "size": 1209605,
+     "sha256": "9a7c296090fa4548a50c75f71d44cbf6fc080457c039487648a407240435f498",
+     "rel": "library-2"
     },
     "nades": {
-     "name": "big-vs-g2-m3-ancient.v2.cs2nades",
-     "size": 291035,
-     "sha256": "61a22e37324807caa51d6403cbc8b09f09c11d52e12b2ca6572ecd1128ec4ba7"
+     "name": "legacy-vs-alliance-m1-inferno.v2.cs2nades",
+     "size": 204689,
+     "sha256": "05bc3d918af5ab4535ad49d59d0c7f52b6562a3bd59d72b8d4c5ee39f77c9c72",
+     "rel": "library-2"
     },
     "stats": {
-     "name": "big-vs-g2-m3-ancient.v2.cs2stats",
-     "size": 847,
-     "sha256": "b2650183954b2dae20f907a4695b2d9d00c12c160182b99898d74cd0f68b7461"
+     "name": "legacy-vs-alliance-m1-inferno.v2.cs2stats",
+     "size": 725,
+     "sha256": "a5d2a8723e2e673ce605fbf1131e298cda349bcb92927c2987336a0332a0b80b",
+     "rel": "library-2"
     }
    }
   },
   {
-   "stem": "big-vs-g2-m2-mirage",
+   "stem": "9z-vs-mibr-m2-nuke",
    "teams": [
-    "big",
-    "g2"
+    "9z",
+    "mibr"
    ],
-   "map": "mirage",
-   "date": 1788958826,
-   "rank": 8,
+   "map": "nuke",
+   "date": 1788957694,
+   "rank": 9,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
     "demo": {
-     "name": "big-vs-g2-m2-mirage.v2.cs2lib",
-     "size": 1606301,
-     "sha256": "5f3f9ca8f0b1512c4cd0863992392cff12c9f0a05c7bde208f70d9c537e265bc"
+     "name": "9z-vs-mibr-m2-nuke.v2.cs2lib",
+     "size": 1458435,
+     "sha256": "9b6df9609e675a443cd17b2a40fb6b3c3f5580f845b1777be3cc0ba667a52586"
     },
     "nades": {
-     "name": "big-vs-g2-m2-mirage.v2.cs2nades",
-     "size": 281310,
-     "sha256": "7d72dd9341cf38d90ae5def58fc4e67995d2385418e04f666be79ffa99f4f807"
+     "name": "9z-vs-mibr-m2-nuke.v2.cs2nades",
+     "size": 247600,
+     "sha256": "fee660d40534eb9f741786ce4c2e7c636974a615cb30643c5413757872870538"
     },
     "stats": {
-     "name": "big-vs-g2-m2-mirage.v2.cs2stats",
-     "size": 778,
-     "sha256": "4b68b7940604e7a672c4e4a5a50732f618a2cdab5b789ebe7329f136d5a47de1"
+     "name": "9z-vs-mibr-m2-nuke.v2.cs2stats",
+     "size": 761,
+     "sha256": "b70806b201cf3160752c6aa7cc72b744f9629ac03647789157324001eb033028"
     }
    }
   },
@@ -484,6 +1436,35 @@
    }
   },
   {
+   "stem": "9z-vs-mibr-m1-mirage",
+   "teams": [
+    "9z",
+    "mibr"
+   ],
+   "map": "mirage",
+   "date": 1788953948,
+   "rank": 9,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-mibr-m1-mirage.v2.cs2lib",
+     "size": 1491326,
+     "sha256": "3c53d0b9803c5b845691c8c1b2988705abd9d122fb0daae9317002bf0ce59a99"
+    },
+    "nades": {
+     "name": "9z-vs-mibr-m1-mirage.v2.cs2nades",
+     "size": 257724,
+     "sha256": "f6655c127a55398ae259e57e885c311a11298cced0b52a88cf13ffec8cd4f318"
+    },
+    "stats": {
+     "name": "9z-vs-mibr-m1-mirage.v2.cs2stats",
+     "size": 737,
+     "sha256": "adcb9949c500b7f423ac422c04e4bb999405b7758f09a32a7e0b16d96590f6b8"
+    }
+   }
+  },
+  {
    "stem": "magic-vs-faze-m2-dust2",
    "teams": [
     "magic",
@@ -509,6 +1490,35 @@
      "name": "magic-vs-faze-m2-dust2.v2.cs2stats",
      "size": 838,
      "sha256": "19063bf9b88be9637ac3b484d7798b872b4fbc63825ea0ee238fc691bc8c06ca"
+    }
+   }
+  },
+  {
+   "stem": "5star-vs-the-mongolz-m2-nuke",
+   "teams": [
+    "5star",
+    "the-mongolz"
+   ],
+   "map": "nuke",
+   "date": 1788948874,
+   "rank": 19,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "5star-vs-the-mongolz-m2-nuke.v2.cs2lib",
+     "size": 1673289,
+     "sha256": "eca20afab42a5e5ff1a46517a31f51d93a68541c1db0165dfd4fb395c049b22a"
+    },
+    "nades": {
+     "name": "5star-vs-the-mongolz-m2-nuke.v2.cs2nades",
+     "size": 286779,
+     "sha256": "a1178e91ff58e4e14b3effb9e231ee5efe77291a66d2f36bc04d626bb6a9b95d"
+    },
+    "stats": {
+     "name": "5star-vs-the-mongolz-m2-nuke.v2.cs2stats",
+     "size": 877,
+     "sha256": "886854035bc4152e367a1d62c1f2086ff18e1a423532c24d019a3154a1a1d300"
     }
    }
   },
@@ -542,6 +1552,93 @@
    }
   },
   {
+   "stem": "5star-vs-the-mongolz-m1-inferno",
+   "teams": [
+    "5star",
+    "the-mongolz"
+   ],
+   "map": "inferno",
+   "date": 1788944842,
+   "rank": 19,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "5star-vs-the-mongolz-m1-inferno.v2.cs2lib",
+     "size": 1498677,
+     "sha256": "2b0428c0dca9f318a694053df7d72e6fbdbfb7ae4dfc2c8563de8b37d9e64076"
+    },
+    "nades": {
+     "name": "5star-vs-the-mongolz-m1-inferno.v2.cs2nades",
+     "size": 253531,
+     "sha256": "31bd24e62a5b998c72bf43a8294245760878eae9e079f9b886401c5986a03638"
+    },
+    "stats": {
+     "name": "5star-vs-the-mongolz-m1-inferno.v2.cs2stats",
+     "size": 844,
+     "sha256": "fee5489b7d51d6a0ab3dbeddcf05baeb9cb3e33fd4a1332e07e7ae8613c5cb79"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-astralis-m3-inferno__fissure-playground-3",
+   "teams": [
+    "g2",
+    "astralis"
+   ],
+   "map": "inferno",
+   "date": 1788910660,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-astralis-m3-inferno__fissure-playground-3.v2.cs2lib",
+     "size": 1490671,
+     "sha256": "4db59d4ab4d3ad96f3622fae4b9d9cc5092b65215865dec3892f81ae60456ff0"
+    },
+    "nades": {
+     "name": "g2-vs-astralis-m3-inferno__fissure-playground-3.v2.cs2nades",
+     "size": 258132,
+     "sha256": "d681c2ae601f17b6df6f6aaf15eab0df9f703d6e53f6d2b1d6a1d23a1379eafb"
+    },
+    "stats": {
+     "name": "g2-vs-astralis-m3-inferno__fissure-playground-3.v2.cs2stats",
+     "size": 753,
+     "sha256": "e48de46d2ac54a736d55c945c73846d70f85b5e6f9970e4146213ebab0c7c5e1"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-astralis-m2-mirage",
+   "teams": [
+    "g2",
+    "astralis"
+   ],
+   "map": "mirage",
+   "date": 1788906908,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-astralis-m2-mirage.v2.cs2lib",
+     "size": 2763211,
+     "sha256": "0ba3e8cd01987342ccb664601f1743cef0177bd5e70834373cf35686eaa86ebe"
+    },
+    "nades": {
+     "name": "g2-vs-astralis-m2-mirage.v2.cs2nades",
+     "size": 496609,
+     "sha256": "98283d48785f5c99ea89faba391b103db560d0f6e0db29d241c816dbe9982800"
+    },
+    "stats": {
+     "name": "g2-vs-astralis-m2-mirage.v2.cs2stats",
+     "size": 1162,
+     "sha256": "e6cd9dd5c13c23509fb714fe30071bb68df8ad22a4a16e4704c269c5f684e2c2"
+    }
+   }
+  },
+  {
    "stem": "furia-vs-gamerlegion-m3-dust2",
    "teams": [
     "furia",
@@ -567,6 +1664,35 @@
      "name": "furia-vs-gamerlegion-m3-dust2.v2.cs2stats",
      "size": 687,
      "sha256": "af8f3f2b76e80debc53dcba8d98fa9b85be6e899f055323cdca3a0d521dbcd9e"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-astralis-m1-ancient__fissure-playground-3",
+   "teams": [
+    "g2",
+    "astralis"
+   ],
+   "map": "ancient",
+   "date": 1788900976,
+   "rank": 8,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-astralis-m1-ancient__fissure-playground-3.v2.cs2lib",
+     "size": 1791459,
+     "sha256": "31c80f99b9a027156a5886bb70a1531026da0ffa14cb65a4d0777a413b6cb357"
+    },
+    "nades": {
+     "name": "g2-vs-astralis-m1-ancient__fissure-playground-3.v2.cs2nades",
+     "size": 318965,
+     "sha256": "21fb87d14aeca8a6caf1757ffe5cb992a1c95cd93e10a21d12878b0fc6cc0263"
+    },
+    "stats": {
+     "name": "g2-vs-astralis-m1-ancient__fissure-playground-3.v2.cs2stats",
+     "size": 847,
+     "sha256": "a4a06672d5b14c3b8ca53d3ed4921d498cc8cef400a5fb8d364d1e64ddb78d43"
     }
    }
   },
@@ -741,6 +1867,333 @@
      "name": "betboom-vs-big-m1-cache.v2.cs2stats",
      "size": 805,
      "sha256": "074a37ab2ba0df6ddfcf5aa0267fb4ec52d1da04ecfbade193a8569e179d790c"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-5star-m2-nuke",
+   "teams": [
+    "9z",
+    "5star"
+   ],
+   "map": "nuke",
+   "date": 1788882584,
+   "rank": 9,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-5star-m2-nuke.v2.cs2lib",
+     "size": 1131515,
+     "sha256": "9115bfcc1b574b736603dcdcebd7757073a8dd08bac779c555f5a744e636dcd8"
+    },
+    "nades": {
+     "name": "9z-vs-5star-m2-nuke.v2.cs2nades",
+     "size": 192040,
+     "sha256": "5f9f914b0eb86118ff5526f255eca36381b2b09efa967eeb8b6cc7ee00dff0a3"
+    },
+    "stats": {
+     "name": "9z-vs-5star-m2-nuke.v2.cs2stats",
+     "size": 691,
+     "sha256": "777de375db22605d9459ae34c7ad3fc1b4dbcbd8878f689ca01ebc1a6e321800"
+    }
+   }
+  },
+  {
+   "stem": "faze-vs-alliance-m2-nuke__fissure-playground-3",
+   "teams": [
+    "faze",
+    "alliance"
+   ],
+   "map": "nuke",
+   "date": 1788880052,
+   "rank": 10,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-alliance-m2-nuke__fissure-playground-3.v2.cs2lib",
+     "size": 1760443,
+     "sha256": "001d6a65d8b6dfb8bd651bb53858569f9f64cd4cb8514b4f6481ad6670a73d57"
+    },
+    "nades": {
+     "name": "faze-vs-alliance-m2-nuke__fissure-playground-3.v2.cs2nades",
+     "size": 303480,
+     "sha256": "d68fd8af3ca5946bb3b48e9f3418c521eeaed60d16137aa0651d2c83dc38f85a"
+    },
+    "stats": {
+     "name": "faze-vs-alliance-m2-nuke__fissure-playground-3.v2.cs2stats",
+     "size": 878,
+     "sha256": "a8a78194a8d01538590faacbc09be321e22c691f3a6474fe02c09d422d2f5be7"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-5star-m1-cache",
+   "teams": [
+    "9z",
+    "5star"
+   ],
+   "map": "cache",
+   "date": 1788879396,
+   "rank": 9,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-5star-m1-cache.v2.cs2lib",
+     "size": 1073499,
+     "sha256": "2413302ad84d004cbd10b661fcb200faf63f6a26c92b10e35ef92f9719bfe2ce"
+    },
+    "nades": {
+     "name": "9z-vs-5star-m1-cache.v2.cs2nades",
+     "size": 188196,
+     "sha256": "abc2be0eb888db9a6dd69aaba5a9380aa97be4a557d57402993f3e81d185600e"
+    },
+    "stats": {
+     "name": "9z-vs-5star-m1-cache.v2.cs2stats",
+     "size": 680,
+     "sha256": "1c6f24ae61f2c4432186275c905063c758d614b875e4bc1d8ed5616aedf43f6d"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-mibr-m3-inferno",
+   "teams": [
+    "the-mongolz",
+    "mibr"
+   ],
+   "map": "inferno",
+   "date": 1788876006,
+   "rank": 19,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-mibr-m3-inferno.v2.cs2lib",
+     "size": 2145579,
+     "sha256": "67bfdf4b74a707248a94a30e70fa34c931928525baa54b952ab67adc7c69f7d0"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-mibr-m3-inferno.v2.cs2nades",
+     "size": 369935,
+     "sha256": "8e6304d23347ba0ed033630260679fabd919d45d768146d1870a52ceca649547"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-mibr-m3-inferno.v2.cs2stats",
+     "size": 1016,
+     "sha256": "5903d19a48f0cc30d9c265ffeb5a45826d3ad2b157b81f3c29b785dda293c7a1"
+    }
+   }
+  },
+  {
+   "stem": "faze-vs-alliance-m1-ancient",
+   "teams": [
+    "faze",
+    "alliance"
+   ],
+   "map": "ancient",
+   "date": 1788875678,
+   "rank": 10,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-alliance-m1-ancient.v2.cs2lib",
+     "size": 1429248,
+     "sha256": "7eb98b0600eec627f4ba43c0af4fa70a6d381aeeea2bb169ac52ed770372c0c3"
+    },
+    "nades": {
+     "name": "faze-vs-alliance-m1-ancient.v2.cs2nades",
+     "size": 252684,
+     "sha256": "f92a662b8094bcab3af9167d8002d5697f5b268e5d248be201c2a1ffb31b1477"
+    },
+    "stats": {
+     "name": "faze-vs-alliance-m1-ancient.v2.cs2stats",
+     "size": 823,
+     "sha256": "94e3ef7251072b971db6965bdd6c5cffffe34a51f5f787c06c9af8c228c53706"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-mibr-m2-mirage",
+   "teams": [
+    "the-mongolz",
+    "mibr"
+   ],
+   "map": "mirage",
+   "date": 1788871124,
+   "rank": 19,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-mibr-m2-mirage.v2.cs2lib",
+     "size": 1608554,
+     "sha256": "c89954a1695c732d87ba77341e5fa11678bffd43116622ce216b94d97275fba6"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-mibr-m2-mirage.v2.cs2nades",
+     "size": 281367,
+     "sha256": "8aecc6fa51fa754b7ece89c2bdedb376f142906ee169882f980f2c0d87f15685"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-mibr-m2-mirage.v2.cs2stats",
+     "size": 835,
+     "sha256": "c8f996335f5233ddad4cb2de6769c829bb335ab06893231aa6a265d432f3dd89"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-magic-m3-mirage",
+   "teams": [
+    "legacy",
+    "magic"
+   ],
+   "map": "mirage",
+   "date": 1788869938,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-magic-m3-mirage.v2.cs2lib",
+     "size": 2401744,
+     "sha256": "87a81290f03ee3ea85eb0c9c7643d3f76493ecf84878b60f1589997b385df11a"
+    },
+    "nades": {
+     "name": "legacy-vs-magic-m3-mirage.v2.cs2nades",
+     "size": 427105,
+     "sha256": "bc8666b57ffccd9a9a38156bb15d1b1d8f7a62421cb3a7a3c01624bf47ee4c86"
+    },
+    "stats": {
+     "name": "legacy-vs-magic-m3-mirage.v2.cs2stats",
+     "size": 1042,
+     "sha256": "2e3153ba774984df5a87070cde01b1b8b22b27fd725afb23114e96a236b19595"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-mibr-m1-ancient",
+   "teams": [
+    "the-mongolz",
+    "mibr"
+   ],
+   "map": "ancient",
+   "date": 1788867296,
+   "rank": 19,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-mibr-m1-ancient.v2.cs2lib",
+     "size": 1440217,
+     "sha256": "2ddeae91a3e4927dd35f823ba08b71b285587a438b8212970a8c511daac17b1a"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-mibr-m1-ancient.v2.cs2nades",
+     "size": 248574,
+     "sha256": "8879c2fa5e2e729f3341bc66efe587c05b5eb8b6bbf3c2f7bf8c3b4fb89b2302"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-mibr-m1-ancient.v2.cs2stats",
+     "size": 746,
+     "sha256": "8ef946ec98174a756408b632e801448820f9813b224f1181dc55b11816abe845"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-magic-m2-dust2",
+   "teams": [
+    "legacy",
+    "magic"
+   ],
+   "map": "dust2",
+   "date": 1788864732,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-magic-m2-dust2.v2.cs2lib",
+     "size": 1597133,
+     "sha256": "680e3b47d8f73d416bdd7f12f563a4176c647c15d5a0059846d27c16a000b85e",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-magic-m2-dust2.v2.cs2nades",
+     "size": 267154,
+     "sha256": "6329d3d00ea0e6b47ba4da2f825297fadbca0f451dd805bb0c937ea0bbf16e62",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-magic-m2-dust2.v2.cs2stats",
+     "size": 768,
+     "sha256": "3e006fbf5f6545feec611fd47ba66693e0f30e395a14db4718302f67c757091d",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-magic-m1-ancient-p1",
+   "teams": [
+    "legacy",
+    "magic"
+   ],
+   "map": "ancient",
+   "date": 1788850157,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-magic-m1-ancient-p1.v2.cs2lib",
+     "size": 1300902,
+     "sha256": "d9c799e06068d895b03c082c766e865b21b1693f78982d76a4591e2863107122"
+    },
+    "nades": {
+     "name": "legacy-vs-magic-m1-ancient-p1.v2.cs2nades",
+     "size": 226374,
+     "sha256": "80c79383bdce7269daae2800f3e0f4d374cc2164c0744a177a429367461805ca",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-magic-m1-ancient-p1.v2.cs2stats",
+     "size": 677,
+     "sha256": "246c45cb3c826b009644ae47e2d8cfee39c6a021c2e25d1a933d379c4be6ffe9",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-magic-m1-ancient-p2",
+   "teams": [
+    "legacy",
+    "magic"
+   ],
+   "map": "ancient",
+   "date": 1788850013,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-magic-m1-ancient-p2.v2.cs2lib",
+     "size": 331798,
+     "sha256": "f51dace725cc29dd11712524a153e72c325d6cbd9350d4842548f69d5a897046",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-magic-m1-ancient-p2.v2.cs2nades",
+     "size": 59176,
+     "sha256": "97274c9a7264a0065809bb1bb792d36d73ba9e5b3e93a64caeccf0296b778466",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-magic-m1-ancient-p2.v2.cs2stats",
+     "size": 362,
+     "sha256": "70252ba7a50500029fa5988361a1f96c2462a3c8e3c7e3265c76c3eb55da44c6",
+     "rel": "library-2"
     }
    }
   },
@@ -1854,7 +3307,7 @@
    ],
    "map": "dust2",
    "date": 1788008176,
-   "rank": 186,
+   "rank": 187,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -1883,7 +3336,7 @@
    ],
    "map": "mirage",
    "date": 1788008172,
-   "rank": 186,
+   "rank": 187,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -1912,7 +3365,7 @@
    ],
    "map": "inferno",
    "date": 1788008167,
-   "rank": 186,
+   "rank": 187,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -2231,7 +3684,7 @@
    ],
    "map": "nuke",
    "date": 1787914025,
-   "rank": 295,
+   "rank": 294,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -2260,7 +3713,7 @@
    ],
    "map": "mirage",
    "date": 1787914012,
-   "rank": 295,
+   "rank": 294,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -2869,7 +4322,7 @@
    ],
    "map": "inferno",
    "date": 1787638281,
-   "rank": 37,
+   "rank": 38,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -4841,7 +6294,7 @@
    ],
    "map": "cache",
    "date": 1786274636,
-   "rank": 37,
+   "rank": 38,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -4870,7 +6323,7 @@
    ],
    "map": "nuke",
    "date": 1786191061,
-   "rank": 83,
+   "rank": 82,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -4899,7 +6352,7 @@
    ],
    "map": "mirage",
    "date": 1786191059,
-   "rank": 83,
+   "rank": 82,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -4928,7 +6381,7 @@
    ],
    "map": "cache",
    "date": 1786191050,
-   "rank": 83,
+   "rank": 82,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -5160,7 +6613,7 @@
    ],
    "map": "inferno",
    "date": 1786104776,
-   "rank": 198,
+   "rank": 197,
    "event": "dfrag-open-series-6",
    "cache_version": 2,
    "files": {
@@ -5189,7 +6642,7 @@
    ],
    "map": "mirage",
    "date": 1786104765,
-   "rank": 198,
+   "rank": 197,
    "event": "dfrag-open-series-6",
    "cache_version": 2,
    "files": {
@@ -5218,7 +6671,7 @@
    ],
    "map": "cache",
    "date": 1786104534,
-   "rank": 82,
+   "rank": 81,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -5247,7 +6700,7 @@
    ],
    "map": "inferno",
    "date": 1786104527,
-   "rank": 82,
+   "rank": 81,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -5508,7 +6961,7 @@
    ],
    "map": "cache",
    "date": 1785493111,
-   "rank": 37,
+   "rank": 38,
    "event": "elisa-esports-breakout-series-1",
    "cache_version": 2,
    "files": {
@@ -6320,7 +7773,7 @@
    ],
    "map": "ancient",
    "date": 1783735748,
-   "rank": 86,
+   "rank": 85,
    "event": "res-showdown-4-south-america-blast-premier-rising-event",
    "cache_version": 2,
    "files": {
@@ -6349,7 +7802,7 @@
    ],
    "map": "cache",
    "date": 1783735745,
-   "rank": 86,
+   "rank": 85,
    "event": "res-showdown-4-south-america-blast-premier-rising-event",
    "cache_version": 2,
    "files": {
@@ -6378,7 +7831,7 @@
    ],
    "map": "mirage",
    "date": 1783735739,
-   "rank": 86,
+   "rank": 85,
    "event": "res-showdown-4-south-america-blast-premier-rising-event",
    "cache_version": 2,
    "files": {
@@ -8611,7 +10064,7 @@
    ],
    "map": "nuke",
    "date": 1777458962,
-   "rank": 103,
+   "rank": 104,
    "event": "esl-challenger-league-season-51-oceania-cup-4",
    "cache_version": 2,
    "files": {
@@ -8640,7 +10093,7 @@
    ],
    "map": "mirage",
    "date": 1777458954,
-   "rank": 103,
+   "rank": 104,
    "event": "esl-challenger-league-season-51-oceania-cup-4",
    "cache_version": 2,
    "files": {
