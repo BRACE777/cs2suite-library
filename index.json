@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789299967,
+ "updated": 1789307341,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,102 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "legacy-vs-g2-m3-dust2",
+   "teams": [
+    "legacy",
+    "g2"
+   ],
+   "map": "dust2",
+   "date": 1789320430,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-g2-m3-dust2.v2.cs2lib",
+     "size": 1441135,
+     "sha256": "eabcf845afc4fe43f04c37cf95f3170bc48c57042f9aba94292941481493f228",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-g2-m3-dust2.v2.cs2nades",
+     "size": 246805,
+     "sha256": "c575b2bd0cce742a6f13d2335101f556b36823248ed5db0c47bbfa4c8ed45318",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-g2-m3-dust2.v2.cs2stats",
+     "size": 689,
+     "sha256": "5d63be86e8410ad5ab97e88973c262e3575ae69e477e41db8a784c5f57a0bb8e",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-g2-m2-mirage",
+   "teams": [
+    "legacy",
+    "g2"
+   ],
+   "map": "mirage",
+   "date": 1789316154,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-g2-m2-mirage.v2.cs2lib",
+     "size": 1672608,
+     "sha256": "df41c143efbb9723c7387bcb48920e3539331e3f3d8528d85139e9e3967461d7",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-g2-m2-mirage.v2.cs2nades",
+     "size": 293871,
+     "sha256": "48154fab11c92febd5aae1bfc2ad1154500b9a982d8548b63ce0ff7bb6f7fd23",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-g2-m2-mirage.v2.cs2stats",
+     "size": 856,
+     "sha256": "0c78aef4999dc62156d62e2c8e3bcbb397feed293e1c42e0b4082b58cd5405f4",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-g2-m1-ancient",
+   "teams": [
+    "legacy",
+    "g2"
+   ],
+   "map": "ancient",
+   "date": 1789312052,
+   "rank": 6,
+   "event": "fissure-playground-3",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-g2-m1-ancient.v2.cs2lib",
+     "size": 1600887,
+     "sha256": "6c16c617f62113ef12cc56eb7f35ad5213eb2823dcf020fb0a62248241ce3789",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-g2-m1-ancient.v2.cs2nades",
+     "size": 281651,
+     "sha256": "9280a4d67e08bfe43ff4dfbd8c57bb49cefa16632eec5530411ece4373f68e25",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-g2-m1-ancient.v2.cs2stats",
+     "size": 833,
+     "sha256": "428154fee6c5fe4bdda516bc8a99caf208560b568c7d64d0ccc973586d53a727",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "nrg-vs-liquid-m5-inferno",
    "teams": [
