@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789762921,
+ "updated": 1789770089,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,70 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "vitality-vs-furia-m2-dust2",
+   "teams": [
+    "vitality",
+    "furia"
+   ],
+   "map": "dust2",
+   "date": 1789763518,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-furia-m2-dust2.v2.cs2lib",
+     "size": 1497440,
+     "sha256": "e48ad9f00ee54227b7b7073e6b200b9fa9f58f6164a16beca3e45847ac90ff54",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "vitality-vs-furia-m2-dust2.v2.cs2nades",
+     "size": 250435,
+     "sha256": "4d7b8ed39f9bf4860459112bd64b725ed95b6e1a2cebd0d2c74a47e55ee10358",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "vitality-vs-furia-m2-dust2.v2.cs2stats",
+     "size": 749,
+     "sha256": "55ff734f9055b376492307414eaa350f42380fca90c1e1b3c0b4f373ba48d31d",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-furia-m1-mirage",
+   "teams": [
+    "vitality",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1789762869,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-furia-m1-mirage.v2.cs2lib",
+     "size": 1602280,
+     "sha256": "77de522c32a997c8e29c512e122f44ee8b94dc9fcd1a46629425eba06fabaa8d",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "vitality-vs-furia-m1-mirage.v2.cs2nades",
+     "size": 273834,
+     "sha256": "b41a81527486f2ae9e6e6cf34fb9e9d58c9c2077ab61d52fe49249a0d28d661d",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "vitality-vs-furia-m1-mirage.v2.cs2stats",
+     "size": 827,
+     "sha256": "0ce883a759b553b6aeebff44bd1338741b7741a409adb6c5759d1c822ed7891c",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "nrg-vs-aurora-m2-mirage",
    "teams": [
