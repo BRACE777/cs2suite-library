@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789395187,
+ "updated": 1789720152,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,326 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "furia-vs-mibr-m3-cache",
+   "teams": [
+    "furia",
+    "mibr"
+   ],
+   "map": "cache",
+   "date": 1789675066,
+   "rank": 7,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-mibr-m3-cache.v2.cs2lib",
+     "size": 1270398,
+     "sha256": "0512de61363669170b0d32e991cb19d89389f0f8d7350505ee91b64542254b97",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "furia-vs-mibr-m3-cache.v2.cs2nades",
+     "size": 220276,
+     "sha256": "eec00322d578e1df0e8597ef2f25af9e40af5b0c108ead97dc850f1d8bb37460",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "furia-vs-mibr-m3-cache.v2.cs2stats",
+     "size": 734,
+     "sha256": "41c9e432dbb98d5828a3ea305f823d7b3f814d005177e0b83ce8e42d050bb60f",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-mibr-m2-nuke",
+   "teams": [
+    "furia",
+    "mibr"
+   ],
+   "map": "nuke",
+   "date": 1789671954,
+   "rank": 7,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-mibr-m2-nuke.v2.cs2lib",
+     "size": 1329965,
+     "sha256": "1a6e498862f119139d2b7494817e65bcafdd2b51a5ef07aacd52093f4d63f89a",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "furia-vs-mibr-m2-nuke.v2.cs2nades",
+     "size": 228308,
+     "sha256": "2e4be1c97668d10bd187d0e0efe29bc4923c5b2945242b16716ab18f90f34037",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "furia-vs-mibr-m2-nuke.v2.cs2stats",
+     "size": 739,
+     "sha256": "dc6c667ea18c84a4ac03bdf1f53195def5a963b1f3875dde7d2fdef805c80000",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-mibr-m1-inferno",
+   "teams": [
+    "furia",
+    "mibr"
+   ],
+   "map": "inferno",
+   "date": 1789669798,
+   "rank": 7,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-mibr-m1-inferno.v2.cs2lib",
+     "size": 1955172,
+     "sha256": "e81f549bc6161f9c618a13fc59fe2c71d8c24fb8d2cc91dd2d065f44a7d62304",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "furia-vs-mibr-m1-inferno.v2.cs2nades",
+     "size": 342950,
+     "sha256": "c8524bd96b37fa20f997bcb90c46b7ed85066667ac557d1c2dc1d6fa6ccf669a",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "furia-vs-mibr-m1-inferno.v2.cs2stats",
+     "size": 893,
+     "sha256": "4908525b4afd12dcf3873ef91cb9f1ed519122e42d7f5debbcd93cf8f38fc0fe",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "natus-vincere-vs-aurora-m2-mirage",
+   "teams": [
+    "natus-vincere",
+    "aurora"
+   ],
+   "map": "mirage",
+   "date": 1789664211,
+   "rank": 11,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-aurora-m2-mirage.v2.cs2lib",
+     "size": 1419288,
+     "sha256": "496f7e4d7977f87a0de9b1bcf4ff5f3ea3ad6ac1b5643b0c98c7aba20b9a4207",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-aurora-m2-mirage.v2.cs2nades",
+     "size": 244827,
+     "sha256": "9fe1e9fadfb2a9bfe907845b64970dfe8e93f1e3f03b7f475e7f4d79512c2b18",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-aurora-m2-mirage.v2.cs2stats",
+     "size": 776,
+     "sha256": "bd559691e1c93fc6e626b8096fd0a59ab31052c71d9a16024aaadcd65e19bb60",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "natus-vincere-vs-aurora-m1-nuke",
+   "teams": [
+    "natus-vincere",
+    "aurora"
+   ],
+   "map": "nuke",
+   "date": 1789662227,
+   "rank": 11,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-aurora-m1-nuke.v2.cs2lib",
+     "size": 1572294,
+     "sha256": "a8f2eaafc62742689edd0440058f0c9bc4d29bd134a55b5c5c81600f1c5fba27",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-aurora-m1-nuke.v2.cs2nades",
+     "size": 273293,
+     "sha256": "e985c72825a8e6e43133c81c365c5ab9b077d7b9f118c0d4f42318b90a882320",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-aurora-m1-nuke.v2.cs2stats",
+     "size": 786,
+     "sha256": "9ee7f936c61c24a38b84cbe4f5cc40c630da47e390c9dbc349187217bebc7bbd",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-magic-m2-dust2",
+   "teams": [
+    "vitality",
+    "magic"
+   ],
+   "map": "dust2",
+   "date": 1789656916,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-magic-m2-dust2.v2.cs2lib",
+     "size": 1699183,
+     "sha256": "ba052ab0bca5f6e0175b2e58b16428a350f32b0075f2662998a4621da060205e",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "vitality-vs-magic-m2-dust2.v2.cs2nades",
+     "size": 277655,
+     "sha256": "fd2247d4881d43ec6d45074b64790ad9e1034c57eca4d9a5c016b1a7516a4a04",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "vitality-vs-magic-m2-dust2.v2.cs2stats",
+     "size": 810,
+     "sha256": "21c8b7070fb78185f9b6b0f55cc57cba278e655a9f05d4ce56d97eb0a6e40d8f",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-magic-m1-mirage",
+   "teams": [
+    "vitality",
+    "magic"
+   ],
+   "map": "mirage",
+   "date": 1789654947,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-magic-m1-mirage.v2.cs2lib",
+     "size": 1425095,
+     "sha256": "5445e06f39bb6b948946f1c69cca892c2313d51cce111d1eb170cf0616c09efa",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "vitality-vs-magic-m1-mirage.v2.cs2nades",
+     "size": 240788,
+     "sha256": "1105baf6537806210889a07a55d33f78c6dd8102c9313099ed89e858f6e84622",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "vitality-vs-magic-m1-mirage.v2.cs2stats",
+     "size": 755,
+     "sha256": "73aa56b9f15edfc540202eea38409b7ee69d46b18397c7590d4e4b4edb36c324",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-nrg-m3-cache",
+   "teams": [
+    "mouz",
+    "nrg"
+   ],
+   "map": "cache",
+   "date": 1789650107,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-nrg-m3-cache.v2.cs2lib",
+     "size": 1892199,
+     "sha256": "9b385f487135513b319c89a5e9c18648c65ec89586e94eff54a06c742d770ba5",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-nrg-m3-cache.v2.cs2nades",
+     "size": 322677,
+     "sha256": "025b414fa7eb613069d5c52becb474cd8a63cf89731524483a73c912668d7eca",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-nrg-m3-cache.v2.cs2stats",
+     "size": 834,
+     "sha256": "4a5c3f6a7064e7f3895553c402174193b8d8a42b5f89438b9e72dafb47750b4a",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-nrg-m1-cache",
+   "teams": [
+    "mouz",
+    "nrg"
+   ],
+   "map": "cache",
+   "date": 1789650107,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-nrg-m1-cache.v2.cs2lib",
+     "size": 1692433,
+     "sha256": "4c36da3ecefe41842f3cda0fb72917219b224ffe528365d02d4a6033b59bb626",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-nrg-m1-cache.v2.cs2nades",
+     "size": 304730,
+     "sha256": "88231bd5fe15a80dc1775f5830d3c90fc53cfd5174b8283fc7ed1a6165131e7c",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-nrg-m1-cache.v2.cs2stats",
+     "size": 869,
+     "sha256": "7a74377089b9d9d49a6254e425554e2d1429bf9c3e362e26a9cd17303722054b",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-nrg-m2-inferno",
+   "teams": [
+    "mouz",
+    "nrg"
+   ],
+   "map": "inferno",
+   "date": 1789650102,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-nrg-m2-inferno.v2.cs2lib",
+     "size": 1411308,
+     "sha256": "b504ae5f3db9f91954706aa5b8a2562d5947ca6bec051e7d3b8b0836acd7732b",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-nrg-m2-inferno.v2.cs2nades",
+     "size": 244118,
+     "sha256": "a32011c0fb1c02133acb2b1fef336c1b1fa41a77fa33750588bd2ebd10d7192e",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-nrg-m2-inferno.v2.cs2stats",
+     "size": 736,
+     "sha256": "92c52484c6059ffd3a9cf1e08e7e36457a37f21d8c54bfc8b69a238d974bf1ad",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "legacy-vs-g2-m3-dust2",
    "teams": [
