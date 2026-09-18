@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789755737,
+ "updated": 1789762921,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,70 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "nrg-vs-aurora-m2-mirage",
+   "teams": [
+    "nrg",
+    "aurora"
+   ],
+   "map": "mirage",
+   "date": 1789756654,
+   "rank": 12,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nrg-vs-aurora-m2-mirage.v2.cs2lib",
+     "size": 2608790,
+     "sha256": "2070a27ce0d08ef3c383bb19b291bd49dd3e6bb6c74f5c0831b9712fe5d8addc",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "nrg-vs-aurora-m2-mirage.v2.cs2nades",
+     "size": 469104,
+     "sha256": "a292b5e5b93fd1187b5fc8fe8e69ed79df9aad58a649d3ef979f12b402a4fcd9",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "nrg-vs-aurora-m2-mirage.v2.cs2stats",
+     "size": 1157,
+     "sha256": "3d991391a81eb11d08955367856d0fbb2d9ca04a1a8148ce32aef6be147fd646",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "nrg-vs-aurora-m1-cache",
+   "teams": [
+    "nrg",
+    "aurora"
+   ],
+   "map": "cache",
+   "date": 1789755904,
+   "rank": 12,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nrg-vs-aurora-m1-cache.v2.cs2lib",
+     "size": 1606998,
+     "sha256": "b3b0342c948bf941b7379598a01defe4e07341dbb81d54f81251a1211a6dea91",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "nrg-vs-aurora-m1-cache.v2.cs2nades",
+     "size": 283865,
+     "sha256": "89490ab6ac5e31ea36a3f6c6d2862b56eafee5a45365784e039c5b167610efc4",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "nrg-vs-aurora-m1-cache.v2.cs2stats",
+     "size": 794,
+     "sha256": "37f8106f3d7a73fc4c9bde41fa4c15dd3d7040dc3b1906c620f9d9b0b99499f9",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "magic-vs-mibr-m2-mirage",
    "teams": [
