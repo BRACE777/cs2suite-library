@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789733936,
+ "updated": 1789741294,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,102 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "mouz-vs-natus-vincere-m3-mirage",
+   "teams": [
+    "mouz",
+    "natus-vincere"
+   ],
+   "map": "mirage",
+   "date": 1789736558,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-natus-vincere-m3-mirage.v2.cs2lib",
+     "size": 1454844,
+     "sha256": "0534a2d56ef5c562a6f1081a4db2b067d2d54d2daed28becca1bd6975a208f81",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-natus-vincere-m3-mirage.v2.cs2nades",
+     "size": 249981,
+     "sha256": "c48b4a3427b64806d963787d36f14be192c1f5796ffcdaa3a4449599a55b1125",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-natus-vincere-m3-mirage.v2.cs2stats",
+     "size": 815,
+     "sha256": "75cbde1fc50b9beb289932e6a5f553aa01d44cd1c519e5108029d97b18cd31e3",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-natus-vincere-m2-inferno",
+   "teams": [
+    "mouz",
+    "natus-vincere"
+   ],
+   "map": "inferno",
+   "date": 1789736255,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-natus-vincere-m2-inferno.v2.cs2lib",
+     "size": 1832132,
+     "sha256": "c238b84c20b39702880c46ef01c64a1eb90d06c95f1c4cbce8bc8ed438c972f4",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-natus-vincere-m2-inferno.v2.cs2nades",
+     "size": 315632,
+     "sha256": "bed8d7db09e33671988efa59980a9451b059df1a4372da94b0ade0be79c4775c",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-natus-vincere-m2-inferno.v2.cs2stats",
+     "size": 875,
+     "sha256": "7c53d7be35fbd3359836b007a97babe438d48ea9e5b651588aaf96c2a644c8d4",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-natus-vincere-m1-cache",
+   "teams": [
+    "mouz",
+    "natus-vincere"
+   ],
+   "map": "cache",
+   "date": 1789732009,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-natus-vincere-m1-cache.v2.cs2lib",
+     "size": 1705717,
+     "sha256": "87a155245f2400a3bb8b77c2ab8327f77b343c36960ae0896368e28fa167456a",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-natus-vincere-m1-cache.v2.cs2nades",
+     "size": 297498,
+     "sha256": "0b3148a2ff6dc956b6fad62855abfefe2b24c41854385de2475d74956b8099b2",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-natus-vincere-m1-cache.v2.cs2stats",
+     "size": 824,
+     "sha256": "3d1c78eb64ea6bec93b863c4be1b354e1847c4b1a89650fd41af9c6a28f623f2",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "furia-vs-mibr-m3-cache",
    "teams": [
