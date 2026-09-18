@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789748336,
+ "updated": 1789755737,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,102 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "magic-vs-mibr-m2-mirage",
+   "teams": [
+    "magic",
+    "mibr"
+   ],
+   "map": "mirage",
+   "date": 1789747150,
+   "rank": 21,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "magic-vs-mibr-m2-mirage.v2.cs2lib",
+     "size": 1666435,
+     "sha256": "422f300614fca6ec83578a50bef03db6b7d3b33459723e54720f69d8cd940c35",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "magic-vs-mibr-m2-mirage.v2.cs2nades",
+     "size": 290534,
+     "sha256": "2bd1419b59198f5fbd0978bf5ac7863752b47575d2c5f1a152c5a486fa6d4a95",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "magic-vs-mibr-m2-mirage.v2.cs2stats",
+     "size": 864,
+     "sha256": "dcd09c67ad9225a3435745e4773075743a3f0a901cc6a81249fc57ef2c131f48",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "magic-vs-mibr-m3-inferno",
+   "teams": [
+    "magic",
+    "mibr"
+   ],
+   "map": "inferno",
+   "date": 1789747146,
+   "rank": 21,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "magic-vs-mibr-m3-inferno.v2.cs2lib",
+     "size": 1653525,
+     "sha256": "f42780f0042a4d8d471ee0bfa630ba9e24f7712e4c0e55d71b5b2204a59b8543",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "magic-vs-mibr-m3-inferno.v2.cs2nades",
+     "size": 285173,
+     "sha256": "48d451535d4cfbfe7830f1d6cfb4579acb8a69fddffb779804fffbe9393355aa",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "magic-vs-mibr-m3-inferno.v2.cs2stats",
+     "size": 810,
+     "sha256": "3e34a67da6cd10082a9c762bba6f62cb8df0c3f3c13f3d67139c07c8e8083eb6",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "magic-vs-mibr-m1-ancient",
+   "teams": [
+    "magic",
+    "mibr"
+   ],
+   "map": "ancient",
+   "date": 1789747138,
+   "rank": 21,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "magic-vs-mibr-m1-ancient.v2.cs2lib",
+     "size": 1576630,
+     "sha256": "b2c495213eba1ad789fd21c1df31a8d8cfb761b3e7f092a1d78942bd272d174c",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "magic-vs-mibr-m1-ancient.v2.cs2nades",
+     "size": 273986,
+     "sha256": "c0a54dcd204c120b6efd6ff2787b2b447704ec0f0abae0abc92039539bc7d84e",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "magic-vs-mibr-m1-ancient.v2.cs2stats",
+     "size": 795,
+     "sha256": "ffc1bbc63104cc3195f599b893a44404d5386f78b30079ea710857cd15f3b999",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "mouz-vs-natus-vincere-m3-mirage",
    "teams": [
