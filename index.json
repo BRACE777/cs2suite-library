@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789805914,
+ "updated": 1789813159,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -916,7 +916,7 @@
     "mouz",
     "nrg"
    ],
-   "map": "cache",
+   "map": "dust2",
    "date": 1789650107,
    "rank": 2,
    "event": "starladder-starseries-fall-2026",
