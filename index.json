@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789813159,
+ "updated": 1789866655,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,326 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "mibr-vs-furia-m2-nuke",
+   "teams": [
+    "mibr",
+    "furia"
+   ],
+   "map": "nuke",
+   "date": 1789849602,
+   "rank": 7,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-furia-m2-nuke.v2.cs2lib",
+     "size": 1660404,
+     "sha256": "058f1c43cad94124d9610aac3e4225a41c6d8f923a93c91a4a66da0b28d1caa7",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mibr-vs-furia-m2-nuke.v2.cs2nades",
+     "size": 284886,
+     "sha256": "b54c1371f34cd6ba22ec2d682fa94f5f9e5d0f3cc776afdb6c5d5c5a1aa9c4c0",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mibr-vs-furia-m2-nuke.v2.cs2stats",
+     "size": 855,
+     "sha256": "9e11de0986b792163d9a6f3b665af292f9a88b21fc304455acdd2fded19f3b90",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mibr-vs-furia-m1-mirage",
+   "teams": [
+    "mibr",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1789845741,
+   "rank": 7,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-furia-m1-mirage.v2.cs2lib",
+     "size": 1638649,
+     "sha256": "0dc806c11dac7d86051dc07b628cec5097047ab5dfc972a3a5a0dc412954e829",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mibr-vs-furia-m1-mirage.v2.cs2nades",
+     "size": 286212,
+     "sha256": "a9bcc883ab7948bad570a342f35df45e8b1a13c21399f2fd7d491435b7576d83",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mibr-vs-furia-m1-mirage.v2.cs2stats",
+     "size": 803,
+     "sha256": "3cdd9f84b92f72039546a525c45b81635fb0aeb3472846e2c5e193912f4a4abc",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-vitality-m3-nuke",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "nuke",
+   "date": 1789842129,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m3-nuke.v2.cs2lib",
+     "size": 1527499,
+     "sha256": "ad07633d5c664f180f42a58cbff1275d161e91b37a4fe986ae215c9491d45b48",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m3-nuke.v2.cs2nades",
+     "size": 258361,
+     "sha256": "071386ae3cad83d4d4d9c4dda7f77eb96c580d20cd0402d59346c04095330f0f",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m3-nuke.v2.cs2stats",
+     "size": 814,
+     "sha256": "2209ca73ac216031be1c960820b6748173d7aad595ad556797130ddd6a5213a1",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-vitality-m1-anubis",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "anubis",
+   "date": 1789842053,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m1-anubis.v2.cs2lib",
+     "size": 1516556,
+     "sha256": "bb82249474b37b88745b039150982ca9af277364b12d13978ce20a5cdcec952b",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m1-anubis.v2.cs2nades",
+     "size": 260383,
+     "sha256": "0c0c8c57f8658840dfea68161d58221f325f3c2688662464a682ec33061ed3ea",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m1-anubis.v2.cs2stats",
+     "size": 778,
+     "sha256": "ab643eae3e4d7fd63cede9a2b8c07393a285382fc1995ce00f849ea837055020",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-vitality-m2-inferno",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "inferno",
+   "date": 1789842052,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m2-inferno.v2.cs2lib",
+     "size": 2191436,
+     "sha256": "7023db747606ed8ea48b648e54bd3f3e85ebb43a7eeddcd97ddd74f17ee7eda4",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m2-inferno.v2.cs2nades",
+     "size": 376856,
+     "sha256": "3a48ccf3224ebe33eadc2fd455f184e2dfe365af422c1ef12281a4b5db1ecb6d",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m2-inferno.v2.cs2stats",
+     "size": 904,
+     "sha256": "1b1c3cc3f7e7705e0fc09c8de3e91efe8719e6eaffd0113355e2d97196c642a8",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-furia-m2-mirage",
+   "teams": [
+    "mouz",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1789831125,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-furia-m2-mirage.v2.cs2lib",
+     "size": 2620025,
+     "sha256": "9abbc6633d42bc5ba2056de75df2bfdbf5dc6b6dac84f04357460bcfdd9b049a",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-furia-m2-mirage.v2.cs2nades",
+     "size": 462739,
+     "sha256": "2390e233afdbe0374e59bfb14911775209499927f6614fd1422ece90766e3d1f",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-furia-m2-mirage.v2.cs2stats",
+     "size": 1131,
+     "sha256": "8ae26b7ad1f5a317b3eeb6d6118efba8a33615c5cc881cfaf0509fb9dc509c88",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-furia-m3-nuke__starladder-starseries-fall-2026",
+   "teams": [
+    "mouz",
+    "furia"
+   ],
+   "map": "nuke",
+   "date": 1789831119,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-furia-m3-nuke__starladder-starseries-fall-2026.v2.cs2lib",
+     "size": 1266950,
+     "sha256": "eb8e0213c66a81ff2602be4e66a89eb2500295d261e4dbe8c23aa02e0bc39004",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-furia-m3-nuke__starladder-starseries-fall-2026.v2.cs2nades",
+     "size": 222529,
+     "sha256": "f2f350241094c473ddae4f5758006de2602005d53353b25329a2e4a69942f69f",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-furia-m3-nuke__starladder-starseries-fall-2026.v2.cs2stats",
+     "size": 751,
+     "sha256": "164b0791247f5440905e6be0bbf2cbb3fad8fb72b84ce4b1e8a71a6c2efc73e9",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-furia-m1-cache",
+   "teams": [
+    "mouz",
+    "furia"
+   ],
+   "map": "cache",
+   "date": 1789831114,
+   "rank": 2,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-furia-m1-cache.v2.cs2lib",
+     "size": 1604947,
+     "sha256": "2899f399608c04a5fab5c82fd72dd3762131413e8d84ca2c8254019611e0099f",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mouz-vs-furia-m1-cache.v2.cs2nades",
+     "size": 292017,
+     "sha256": "907dd3fe8222e3874e049bcd0c3ca7a022d24390bbf86c015f8f8027dcf5eb36",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mouz-vs-furia-m1-cache.v2.cs2stats",
+     "size": 822,
+     "sha256": "b5a998b93abbd68376be051dfb4520e3c5f9e192a73dbae3baa1b6e9c74cf5fc",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mibr-vs-nrg-m2-inferno",
+   "teams": [
+    "mibr",
+    "nrg"
+   ],
+   "map": "inferno",
+   "date": 1789817782,
+   "rank": 21,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-nrg-m2-inferno.v2.cs2lib",
+     "size": 1138083,
+     "sha256": "03c28e2c0dfbec6dfbd57f5eae1f636bcb6c394c171ef0b4db9476750481226a",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mibr-vs-nrg-m2-inferno.v2.cs2nades",
+     "size": 195543,
+     "sha256": "ef8ea89b5ad283459b980f880788191acab661f18c7063d7f057f4fe631ea319",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mibr-vs-nrg-m2-inferno.v2.cs2stats",
+     "size": 671,
+     "sha256": "77168f66d99530e724f81597874bf485f24290b1ca11138e9788b0b022b7d014",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "mibr-vs-nrg-m1-cache",
+   "teams": [
+    "mibr",
+    "nrg"
+   ],
+   "map": "cache",
+   "date": 1789817780,
+   "rank": 21,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mibr-vs-nrg-m1-cache.v2.cs2lib",
+     "size": 1474243,
+     "sha256": "62a22ba55a8b6deb3284821cebab03855b15cc8d42a31b2f4394d9fc06bd70d5",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "mibr-vs-nrg-m1-cache.v2.cs2nades",
+     "size": 263509,
+     "sha256": "b570cfef903330246896733dd156c4e35422c490beb05716555d5fb51ee09f68",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "mibr-vs-nrg-m1-cache.v2.cs2stats",
+     "size": 780,
+     "sha256": "1f6f99ce0312f5076fa1ec8d582743c228be3dbc1fbc33ac2a193b6c4987d015",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "vitality-vs-furia-m2-dust2",
    "teams": [
@@ -1135,70 +1455,6 @@
    }
   },
   {
-   "stem": "nrg-vs-liquid-m5-inferno",
-   "teams": [
-    "nrg",
-    "liquid"
-   ],
-   "map": "inferno",
-   "date": 1789269463,
-   "rank": 17,
-   "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
-   "cache_version": 2,
-   "files": {
-    "demo": {
-     "name": "nrg-vs-liquid-m5-inferno.v2.cs2lib",
-     "size": 1107886,
-     "sha256": "91a8b98c4902518a87db6d5af68d72a2ab9575884cc711679ef61ed4d0297940",
-     "rel": "library-2"
-    },
-    "nades": {
-     "name": "nrg-vs-liquid-m5-inferno.v2.cs2nades",
-     "size": 185133,
-     "sha256": "5943dbb1c96c76b2263a873f170c2d5a27660311682a202ed32c6f77d55c874c",
-     "rel": "library-2"
-    },
-    "stats": {
-     "name": "nrg-vs-liquid-m5-inferno.v2.cs2stats",
-     "size": 718,
-     "sha256": "7537c8bf8656d6351e4e928e75f7410319df98ebc13c4e1eaa772a81c7fbcb40",
-     "rel": "library-2"
-    }
-   }
-  },
-  {
-   "stem": "nrg-vs-liquid-m4-mirage",
-   "teams": [
-    "nrg",
-    "liquid"
-   ],
-   "map": "mirage",
-   "date": 1789269411,
-   "rank": 17,
-   "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
-   "cache_version": 2,
-   "files": {
-    "demo": {
-     "name": "nrg-vs-liquid-m4-mirage.v2.cs2lib",
-     "size": 1601698,
-     "sha256": "c310533617c8bff364b5a5d03c7176f9a7e5263ddb4c62982ff3e2b766fc89e0",
-     "rel": "library-2"
-    },
-    "nades": {
-     "name": "nrg-vs-liquid-m4-mirage.v2.cs2nades",
-     "size": 281157,
-     "sha256": "26b7b56bb11838a3d6ca0262b99e700dafeb4eddc122750223607898b4a4f4e5",
-     "rel": "library-2"
-    },
-    "stats": {
-     "name": "nrg-vs-liquid-m4-mirage.v2.cs2stats",
-     "size": 823,
-     "sha256": "9a4839fd39a513b1b03b6a56f922974e3a0a8a7c23d61c08b515bbc14a96e5bb",
-     "rel": "library-2"
-    }
-   }
-  },
-  {
    "stem": "nrg-vs-liquid-m4-mirage",
    "teams": [
     "nrg",
@@ -1263,38 +1519,6 @@
    }
   },
   {
-   "stem": "nrg-vs-liquid-m3-dust2",
-   "teams": [
-    "nrg",
-    "liquid"
-   ],
-   "map": "dust2",
-   "date": 1789269371,
-   "rank": 17,
-   "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
-   "cache_version": 2,
-   "files": {
-    "demo": {
-     "name": "nrg-vs-liquid-m3-dust2.v2.cs2lib",
-     "size": 1446115,
-     "sha256": "eba38fb774986bb2bab1f50f69e9f0cbcf421476e0c1c3099df1334672d49f47",
-     "rel": "library-2"
-    },
-    "nades": {
-     "name": "nrg-vs-liquid-m3-dust2.v2.cs2nades",
-     "size": 242399,
-     "sha256": "f35b6b33feefcc1d312be2321e3ad83152967b711f6d59771432e018f2edda5b",
-     "rel": "library-2"
-    },
-    "stats": {
-     "name": "nrg-vs-liquid-m3-dust2.v2.cs2stats",
-     "size": 756,
-     "sha256": "600f4252f1649d81ccffe9ba118dc52761df29dab8a9d3e51a9840aa2658dfb2",
-     "rel": "library-2"
-    }
-   }
-  },
-  {
    "stem": "nrg-vs-liquid-m2-nuke",
    "teams": [
     "nrg",
@@ -1322,70 +1546,6 @@
      "name": "nrg-vs-liquid-m2-nuke.v2.cs2stats",
      "size": 717,
      "sha256": "f5b7b080254e19f5741c68b78cfb160f647e54ed7fed54504d8fcad3bcd0c185",
-     "rel": "library-2"
-    }
-   }
-  },
-  {
-   "stem": "nrg-vs-liquid-m2-nuke",
-   "teams": [
-    "nrg",
-    "liquid"
-   ],
-   "map": "nuke",
-   "date": 1789269092,
-   "rank": 17,
-   "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
-   "cache_version": 2,
-   "files": {
-    "demo": {
-     "name": "nrg-vs-liquid-m2-nuke.v2.cs2lib",
-     "size": 1198384,
-     "sha256": "5e19b9a3a8b1118512895e1545ed0b4498e5d9427134f8b327b64d5c26f64afc",
-     "rel": "library-2"
-    },
-    "nades": {
-     "name": "nrg-vs-liquid-m2-nuke.v2.cs2nades",
-     "size": 204273,
-     "sha256": "d2e15f69ec3f4af359ae829fbe213d80290c34e83ebd92ac06ed0c5366699904",
-     "rel": "library-2"
-    },
-    "stats": {
-     "name": "nrg-vs-liquid-m2-nuke.v2.cs2stats",
-     "size": 717,
-     "sha256": "f5b7b080254e19f5741c68b78cfb160f647e54ed7fed54504d8fcad3bcd0c185",
-     "rel": "library-2"
-    }
-   }
-  },
-  {
-   "stem": "nrg-vs-liquid-m1-cache",
-   "teams": [
-    "nrg",
-    "liquid"
-   ],
-   "map": "cache",
-   "date": 1789268955,
-   "rank": 17,
-   "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
-   "cache_version": 2,
-   "files": {
-    "demo": {
-     "name": "nrg-vs-liquid-m1-cache.v2.cs2lib",
-     "size": 1241569,
-     "sha256": "f1a820db71aef187b95b2d5e2833e016fa1a03b74539e6cebb3ffcf83c82cc30",
-     "rel": "library-2"
-    },
-    "nades": {
-     "name": "nrg-vs-liquid-m1-cache.v2.cs2nades",
-     "size": 211375,
-     "sha256": "f9bcd946fa0968a9314447d4e4d08049769b3451c23e2e33669a792d37429fc3",
-     "rel": "library-2"
-    },
-    "stats": {
-     "name": "nrg-vs-liquid-m1-cache.v2.cs2stats",
-     "size": 717,
-     "sha256": "8135449b46c4de36c7ce45223fba0aedbc96b8675a0e707edd9b8f77c9590ee0",
      "rel": "library-2"
     }
    }
@@ -3443,6 +3603,12 @@
      "sha256": "70252ba7a50500029fa5988361a1f96c2462a3c8e3c7e3265c76c3eb55da44c6",
      "rel": "library-2"
     }
+   },
+   "part": {
+    "n": 2,
+    "first": 17,
+    "t": 11,
+    "ct": 5
    }
   },
   {
@@ -6285,6 +6451,12 @@
      "size": 556,
      "sha256": "eabda4ae3b1b0013bc75e6dd85d3950615b1ed2ca1a32d5ccc5271379a03394d"
     }
+   },
+   "part": {
+    "n": 2,
+    "first": 9,
+    "t": 2,
+    "ct": 6
    }
   },
   {
@@ -6778,6 +6950,12 @@
      "size": 723,
      "sha256": "00b958137c76e51917df41125ed36e398f9f9206af1c27f1e9b1a40ae2968a46"
     }
+   },
+   "part": {
+    "n": 2,
+    "first": 4,
+    "t": 0,
+    "ct": 3
    }
   },
   {
@@ -6865,6 +7043,12 @@
      "size": 565,
      "sha256": "fbadca8ecc9ff4f50d755f3ae8245699a16491949f24b6b0b100009e0aa1e705"
     }
+   },
+   "part": {
+    "n": 2,
+    "first": 12,
+    "t": 4,
+    "ct": 7
    }
   },
   {
@@ -7068,6 +7252,12 @@
      "size": 407,
      "sha256": "3342a31f1e2dd27b78e0b4c2a99852a863c555bd4019eb7901248d81c1e3a072"
     }
+   },
+   "part": {
+    "n": 2,
+    "first": 12,
+    "t": 3,
+    "ct": 8
    }
   },
   {
@@ -8518,6 +8708,12 @@
      "size": 299,
      "sha256": "6e159d85ae31aeba5af3305d30c73bd3311ee895a8b19a80242c78346fe294c5"
     }
+   },
+   "part": {
+    "n": 2,
+    "first": 18,
+    "t": 11,
+    "ct": 6
    }
   },
   {
@@ -9504,6 +9700,12 @@
      "size": 494,
      "sha256": "5583b11dfec013e613c3fa0e4da2db6f5cdec2d9438bec1f70b730f10fc1fdc9"
     }
+   },
+   "part": {
+    "n": 2,
+    "first": 28,
+    "t": 13,
+    "ct": 14
    }
   },
   {
