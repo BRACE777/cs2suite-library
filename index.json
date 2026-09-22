@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1789997124,
+ "updated": 1790074429,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -394,6 +394,70 @@
      "name": "aurora-vs-vitality-m4-cache.v2.cs2stats",
      "size": 780,
      "sha256": "3bb9d93a75ca279822c94147bccb37a9e9124a0f03d4378173481e356c1a361c",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-vitality-m2-inferno__starladder-starseries-fall-2026-sep21",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "inferno",
+   "date": 1789929417,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m2-inferno__starladder-starseries-fall-2026-sep21.v2.cs2lib",
+     "size": 2086565,
+     "sha256": "321a303f832c6238302295ba2dc1e10953213024bb409b8c65b9a8d289a62b54",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m2-inferno__starladder-starseries-fall-2026-sep21.v2.cs2nades",
+     "size": 358469,
+     "sha256": "cbd2fbe86d594de7d4c4796a8c31c655150a06e5373882316ea9c0efeeffd58a",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m2-inferno__starladder-starseries-fall-2026-sep21.v2.cs2stats",
+     "size": 950,
+     "sha256": "42751d71c268a73f8e05a6db4411981befe8d9d002770356ecf651a7639221d0",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-vitality-m1-anubis__starladder-starseries-fall-2026-sep21",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "anubis",
+   "date": 1789929411,
+   "rank": 5,
+   "event": "starladder-starseries-fall-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m1-anubis__starladder-starseries-fall-2026-sep21.v2.cs2lib",
+     "size": 1228671,
+     "sha256": "b973317fc5ce64d74a490387514fec58c6f709d2da71c2512b86fc3703098d4c",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m1-anubis__starladder-starseries-fall-2026-sep21.v2.cs2nades",
+     "size": 208369,
+     "sha256": "a1e0f99000486f38fc4515f2ab9ef6bf4f4bc5eda8bdb62c16d4921b75325c0f",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m1-anubis__starladder-starseries-fall-2026-sep21.v2.cs2stats",
+     "size": 755,
+     "sha256": "03258fa7640c3dede87b0e7cd3cb7205013584be662e4a02a1c0f40724cc1f80",
      "rel": "library-2"
     }
    }
