@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1790165722,
+ "updated": 1790167774,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -7031,35 +7031,6 @@
    }
   },
   {
-   "stem": "big-vs-g2-m1-cache",
-   "teams": [
-    "big",
-    "g2"
-   ],
-   "map": "cache",
-   "date": 1787728498,
-   "rank": 8,
-   "event": "esports-world-cup-2026",
-   "cache_version": 2,
-   "files": {
-    "demo": {
-     "name": "big-vs-g2-m1-cache.v2.cs2lib",
-     "size": 1349530,
-     "sha256": "55199ff5de939b246a34da20ffeae7f80c38c918938aef164799f4b0dc640e72"
-    },
-    "nades": {
-     "name": "big-vs-g2-m1-cache.v2.cs2nades",
-     "size": 243144,
-     "sha256": "1a6b91a61ff7e4220f3cb9a25fbb5c08045d880ba5c360d51360cf8b527e9928"
-    },
-    "stats": {
-     "name": "big-vs-g2-m1-cache.v2.cs2stats",
-     "size": 719,
-     "sha256": "154c7b57f624c5b3ea373c7782b2beb328613714284b00ada4d082f290d1376b"
-    }
-   }
-  },
-  {
    "stem": "100-thieves-vs-bc-game-m1-inferno",
    "teams": [
     "100-thieves",
@@ -8788,6 +8759,41 @@
      "name": "aurora-vs-m80-m1-dust2.v2.cs2econ",
      "size": 924,
      "sha256": "c892aac082d99aca8b182b36981e5efd5ac48b44cd42532eb26f94b96f4fb677",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "big-vs-g2-m1-cache",
+   "teams": [
+    "big",
+    "g2"
+   ],
+   "map": "cache",
+   "date": 1786629524,
+   "rank": 8,
+   "event": "esports-world-cup-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "big-vs-g2-m1-cache.v2.cs2lib",
+     "size": 1349530,
+     "sha256": "55199ff5de939b246a34da20ffeae7f80c38c918938aef164799f4b0dc640e72"
+    },
+    "nades": {
+     "name": "big-vs-g2-m1-cache.v2.cs2nades",
+     "size": 243144,
+     "sha256": "1a6b91a61ff7e4220f3cb9a25fbb5c08045d880ba5c360d51360cf8b527e9928"
+    },
+    "stats": {
+     "name": "big-vs-g2-m1-cache.v2.cs2stats",
+     "size": 719,
+     "sha256": "154c7b57f624c5b3ea373c7782b2beb328613714284b00ada4d082f290d1376b"
+    },
+    "econ": {
+     "name": "big-vs-g2-m1-cache.v2.cs2econ",
+     "size": 782,
+     "sha256": "b9f59bd2ffb3d989606d87ac1bf373884c74a8b8aa6f248bc853f13ff2cb7561",
      "rel": "library-2"
     }
    }
