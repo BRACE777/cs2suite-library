@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1790074429,
+ "updated": 1790163070,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -367,6 +367,82 @@
  },
  "demos": [
   {
+   "stem": "flyquest-vs-lfo-8-m2-dust2",
+   "teams": [
+    "flyquest",
+    "lfo-8"
+   ],
+   "map": "dust2",
+   "date": 1790159383,
+   "rank": 52,
+   "event": "esl-challenger-league-season-52-oceania-cup-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "flyquest-vs-lfo-8-m2-dust2.v2.cs2lib",
+     "size": 1226038,
+     "sha256": "1d9425000558d95a57a9a9845be66d95f59932bb662c0389751407bdcd3f1b7b",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "flyquest-vs-lfo-8-m2-dust2.v2.cs2nades",
+     "size": 203241,
+     "sha256": "e1f7ad3a1435da58972c56e4f82992a136b8a79a3fa23f4765047b4cb8be37c4",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "flyquest-vs-lfo-8-m2-dust2.v2.cs2stats",
+     "size": 705,
+     "sha256": "4583227f3d249b6ea57fc694eb35004c4ac14038b9dc801eee16d81cd7fe5c2a",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "flyquest-vs-lfo-8-m2-dust2.v2.cs2econ",
+     "size": 756,
+     "sha256": "b856b32283c5579b1a222200f120f7d848c67d73c475d8ffb24c3fe8e674343a",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "flyquest-vs-lfo-8-m1-cache",
+   "teams": [
+    "flyquest",
+    "lfo-8"
+   ],
+   "map": "cache",
+   "date": 1790159382,
+   "rank": 52,
+   "event": "esl-challenger-league-season-52-oceania-cup-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "flyquest-vs-lfo-8-m1-cache.v2.cs2lib",
+     "size": 984768,
+     "sha256": "62b3a3d22f9fd1158f65ea8426a9418e68955d6785c4364e58491b25f7cbad6d",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "flyquest-vs-lfo-8-m1-cache.v2.cs2nades",
+     "size": 172530,
+     "sha256": "a6286fec55ed3187fe6b242ca5a3053c5a2841aaf652a8cf4f3f9101c49d9f91",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "flyquest-vs-lfo-8-m1-cache.v2.cs2stats",
+     "size": 677,
+     "sha256": "80171eba5847af786bd4fe4dd6f8ae1077c245368839dab64b66ebde2cc76b63",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "flyquest-vs-lfo-8-m1-cache.v2.cs2econ",
+     "size": 723,
+     "sha256": "62454e979e06306af35e9c9a45cde52dcc75ec1a30418ce3716c6bb6342d8e06",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
    "stem": "aurora-vs-vitality-m4-cache",
    "teams": [
     "aurora",
@@ -394,6 +470,12 @@
      "name": "aurora-vs-vitality-m4-cache.v2.cs2stats",
      "size": 780,
      "sha256": "3bb9d93a75ca279822c94147bccb37a9e9124a0f03d4378173481e356c1a361c",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m4-cache.v2.cs2econ",
+     "size": 861,
+     "sha256": "e92f31817f68d31af0deff68224a87c6c4f945ca300b5cc35acda4f6682b2315",
      "rel": "library-2"
     }
    }
@@ -427,6 +509,12 @@
      "size": 950,
      "sha256": "42751d71c268a73f8e05a6db4411981befe8d9d002770356ecf651a7639221d0",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m2-inferno__starladder-starseries-fall-2026-sep21.v2.cs2econ",
+     "size": 1012,
+     "sha256": "2514cf50208ac618ce981881d31f6e1180edd08ab22d747a5eaf10aa92ee3afb",
+     "rel": "library-2"
     }
    }
   },
@@ -458,6 +546,12 @@
      "name": "aurora-vs-vitality-m1-anubis__starladder-starseries-fall-2026-sep21.v2.cs2stats",
      "size": 755,
      "sha256": "03258fa7640c3dede87b0e7cd3cb7205013584be662e4a02a1c0f40724cc1f80",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m1-anubis__starladder-starseries-fall-2026-sep21.v2.cs2econ",
+     "size": 789,
+     "sha256": "73735f92e8e813a20c9fbc01dba3d1d84fb60eb9b9432869ad55b866bd4eab1c",
      "rel": "library-2"
     }
    }
@@ -491,6 +585,12 @@
      "size": 728,
      "sha256": "217c86be7eac5ee9a2a8ade015bd1d6ee9743474a9c8dcf0b6b531c3a672c804",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m3-mirage.v2.cs2econ",
+     "size": 770,
+     "sha256": "c5b703a95f5d2a04971f133afd0fddccc2bdd9501611837698a9fe78ece90692",
+     "rel": "library-2"
     }
    }
   },
@@ -522,6 +622,12 @@
      "name": "vitality-vs-furia-m2-anubis.v2.cs2stats",
      "size": 805,
      "sha256": "9acdf01a82a7242b07bf46464269974322a8b02dba8f2e8563f3660a3c3206eb",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-furia-m2-anubis.v2.cs2econ",
+     "size": 870,
+     "sha256": "815a43c6f95d9bc3ce8541787f9235256f1fb78bb938dcb01c053599dbca1f0d",
      "rel": "library-2"
     }
    }
@@ -555,6 +661,12 @@
      "size": 744,
      "sha256": "2d180c7a40d57bf71de5da9999a1ecb44e46351597becce17b0a531a50ff6bd3",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-furia-m1-cache.v2.cs2econ",
+     "size": 785,
+     "sha256": "4face81ab2c262e50b6ead637552adb4a74305baa328b4a14e9c30e7a902e583",
+     "rel": "library-2"
     }
    }
   },
@@ -586,6 +698,12 @@
      "name": "mibr-vs-furia-m2-nuke.v2.cs2stats",
      "size": 855,
      "sha256": "9e11de0986b792163d9a6f3b665af292f9a88b21fc304455acdd2fded19f3b90",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "mibr-vs-furia-m2-nuke.v2.cs2econ",
+     "size": 966,
+     "sha256": "620c63fe6334b461bbcc0dcbb68d642c44f7d108fa7db24ef9358c04e7e668b5",
      "rel": "library-2"
     }
    }
@@ -619,6 +737,12 @@
      "size": 803,
      "sha256": "3cdd9f84b92f72039546a525c45b81635fb0aeb3472846e2c5e193912f4a4abc",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mibr-vs-furia-m1-mirage.v2.cs2econ",
+     "size": 912,
+     "sha256": "6c14ec487858e606d0d5af4ac361d405427170d6204dda772e35a5ad8189965b",
+     "rel": "library-2"
     }
    }
   },
@@ -650,6 +774,12 @@
      "name": "aurora-vs-vitality-m3-nuke.v2.cs2stats",
      "size": 814,
      "sha256": "2209ca73ac216031be1c960820b6748173d7aad595ad556797130ddd6a5213a1",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m3-nuke.v2.cs2econ",
+     "size": 881,
+     "sha256": "b4d81c6fd02b6e6acac0a34235e9a9ad260aca8023dc082434621427016ce446",
      "rel": "library-2"
     }
    }
@@ -683,6 +813,12 @@
      "size": 778,
      "sha256": "ab643eae3e4d7fd63cede9a2b8c07393a285382fc1995ce00f849ea837055020",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m1-anubis.v2.cs2econ",
+     "size": 860,
+     "sha256": "9f104cd4c626b02089629fe033974b4524e243bee1e54861d4d50af287828bf4",
+     "rel": "library-2"
     }
    }
   },
@@ -714,6 +850,12 @@
      "name": "aurora-vs-vitality-m2-inferno.v2.cs2stats",
      "size": 904,
      "sha256": "1b1c3cc3f7e7705e0fc09c8de3e91efe8719e6eaffd0113355e2d97196c642a8",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m2-inferno.v2.cs2econ",
+     "size": 1013,
+     "sha256": "39dd948da5708471180131281228fc68fe676844de98e07463afcabcd90d78ce",
      "rel": "library-2"
     }
    }
@@ -747,6 +889,12 @@
      "size": 1131,
      "sha256": "8ae26b7ad1f5a317b3eeb6d6118efba8a33615c5cc881cfaf0509fb9dc509c88",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-furia-m2-mirage.v2.cs2econ",
+     "size": 1318,
+     "sha256": "e529ec9597319084333f6dea470e9928ec0f62a5b54baa045292d7f417a4156b",
+     "rel": "library-2"
     }
    }
   },
@@ -778,6 +926,12 @@
      "name": "mouz-vs-furia-m3-nuke__starladder-starseries-fall-2026.v2.cs2stats",
      "size": 751,
      "sha256": "164b0791247f5440905e6be0bbf2cbb3fad8fb72b84ce4b1e8a71a6c2efc73e9",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-furia-m3-nuke__starladder-starseries-fall-2026.v2.cs2econ",
+     "size": 834,
+     "sha256": "a9b4d5307114864a0979fa4e675f6ec5ecfe561456c65e8ba1283ef9b133449a",
      "rel": "library-2"
     }
    }
@@ -811,6 +965,12 @@
      "size": 822,
      "sha256": "b5a998b93abbd68376be051dfb4520e3c5f9e192a73dbae3baa1b6e9c74cf5fc",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-furia-m1-cache.v2.cs2econ",
+     "size": 890,
+     "sha256": "c8705b2d08e062c9aba49e0db69e016d71e72be0bc17495c4b83b40cb116575a",
+     "rel": "library-2"
     }
    }
   },
@@ -842,6 +1002,12 @@
      "name": "mibr-vs-nrg-m2-inferno.v2.cs2stats",
      "size": 671,
      "sha256": "77168f66d99530e724f81597874bf485f24290b1ca11138e9788b0b022b7d014",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "mibr-vs-nrg-m2-inferno.v2.cs2econ",
+     "size": 697,
+     "sha256": "c66238173b39443e5935695eb98ff9d179d382f110fe38bafa4fb5aadc888e27",
      "rel": "library-2"
     }
    }
@@ -875,6 +1041,12 @@
      "size": 780,
      "sha256": "1f6f99ce0312f5076fa1ec8d582743c228be3dbc1fbc33ac2a193b6c4987d015",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mibr-vs-nrg-m1-cache.v2.cs2econ",
+     "size": 842,
+     "sha256": "79380d99d9613d3ef7f370cfc29b4bf57b68ba3102d40b34e2eb64d55266db0a",
+     "rel": "library-2"
     }
    }
   },
@@ -906,6 +1078,12 @@
      "name": "vitality-vs-furia-m2-dust2.v2.cs2stats",
      "size": 749,
      "sha256": "55ff734f9055b376492307414eaa350f42380fca90c1e1b3c0b4f373ba48d31d",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-furia-m2-dust2.v2.cs2econ",
+     "size": 771,
+     "sha256": "7859cb3121c65aa448fcefa8ce271fdf2d76f615b8291729f581e3aff52bd2f5",
      "rel": "library-2"
     }
    }
@@ -939,6 +1117,12 @@
      "size": 827,
      "sha256": "0ce883a759b553b6aeebff44bd1338741b7741a409adb6c5759d1c822ed7891c",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-furia-m1-mirage.v2.cs2econ",
+     "size": 870,
+     "sha256": "525d90ef76bd7fd9c0a6c33694a4357994caaff08c6b57fabc0799e0a63a8367",
+     "rel": "library-2"
     }
    }
   },
@@ -970,6 +1154,12 @@
      "name": "nrg-vs-aurora-m2-mirage.v2.cs2stats",
      "size": 1157,
      "sha256": "3d991391a81eb11d08955367856d0fbb2d9ca04a1a8148ce32aef6be147fd646",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "nrg-vs-aurora-m2-mirage.v2.cs2econ",
+     "size": 1340,
+     "sha256": "22fe37549d6eac03a3743bce827097f238ee2f8deb5be8cd4fd947a21a26b6ae",
      "rel": "library-2"
     }
    }
@@ -1003,6 +1193,12 @@
      "size": 794,
      "sha256": "37f8106f3d7a73fc4c9bde41fa4c15dd3d7040dc3b1906c620f9d9b0b99499f9",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "nrg-vs-aurora-m1-cache.v2.cs2econ",
+     "size": 842,
+     "sha256": "bd28b39653244d834f4b07ef05b0740d190b5b6229b0f73451ff12fff3a99b43",
+     "rel": "library-2"
     }
    }
   },
@@ -1034,6 +1230,12 @@
      "name": "magic-vs-mibr-m2-mirage.v2.cs2stats",
      "size": 864,
      "sha256": "dcd09c67ad9225a3435745e4773075743a3f0a901cc6a81249fc57ef2c131f48",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "magic-vs-mibr-m2-mirage.v2.cs2econ",
+     "size": 974,
+     "sha256": "a806b5495611d67c181d9efa22d50610e4319fac5c64e54b71f6a09b5c506f99",
      "rel": "library-2"
     }
    }
@@ -1067,6 +1269,12 @@
      "size": 810,
      "sha256": "3e34a67da6cd10082a9c762bba6f62cb8df0c3f3c13f3d67139c07c8e8083eb6",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "magic-vs-mibr-m3-inferno.v2.cs2econ",
+     "size": 890,
+     "sha256": "959a095c9b82bea201bdcf21922adb260b2756bf07ffe614df8c9e821920da3f",
+     "rel": "library-2"
     }
    }
   },
@@ -1098,6 +1306,12 @@
      "name": "magic-vs-mibr-m1-ancient.v2.cs2stats",
      "size": 795,
      "sha256": "ffc1bbc63104cc3195f599b893a44404d5386f78b30079ea710857cd15f3b999",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "magic-vs-mibr-m1-ancient.v2.cs2econ",
+     "size": 835,
+     "sha256": "836be712e6794869a54d5f72cf45c1afd64777614614026d4bd8453e09454652",
      "rel": "library-2"
     }
    }
@@ -1131,6 +1345,12 @@
      "size": 815,
      "sha256": "75cbde1fc50b9beb289932e6a5f553aa01d44cd1c519e5108029d97b18cd31e3",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-natus-vincere-m3-mirage.v2.cs2econ",
+     "size": 876,
+     "sha256": "cdd6785ecf1ced447d1601fe10855fc320352e8e5a352c107f3529b33d9b3bca",
+     "rel": "library-2"
     }
    }
   },
@@ -1162,6 +1382,12 @@
      "name": "mouz-vs-natus-vincere-m2-inferno.v2.cs2stats",
      "size": 875,
      "sha256": "7c53d7be35fbd3359836b007a97babe438d48ea9e5b651588aaf96c2a644c8d4",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-natus-vincere-m2-inferno.v2.cs2econ",
+     "size": 971,
+     "sha256": "1bc1341bcc74fcb95e273c03f778a5eb1a9271bcafe87c2f09623f50efd1fee4",
      "rel": "library-2"
     }
    }
@@ -1195,6 +1421,12 @@
      "size": 824,
      "sha256": "3d1c78eb64ea6bec93b863c4be1b354e1847c4b1a89650fd41af9c6a28f623f2",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-natus-vincere-m1-cache.v2.cs2econ",
+     "size": 948,
+     "sha256": "a8c11000914dd6bdc124b32ef3362ffedec877be94cf74fc0ee36f6e5ff1284f",
+     "rel": "library-2"
     }
    }
   },
@@ -1226,6 +1458,12 @@
      "name": "furia-vs-mibr-m3-cache.v2.cs2stats",
      "size": 734,
      "sha256": "41c9e432dbb98d5828a3ea305f823d7b3f814d005177e0b83ce8e42d050bb60f",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "furia-vs-mibr-m3-cache.v2.cs2econ",
+     "size": 809,
+     "sha256": "3ff9d7de5d4350588306fcb8b4891e3400b8722a1acdafae922423d45efc793e",
      "rel": "library-2"
     }
    }
@@ -1259,6 +1497,12 @@
      "size": 739,
      "sha256": "dc6c667ea18c84a4ac03bdf1f53195def5a963b1f3875dde7d2fdef805c80000",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "furia-vs-mibr-m2-nuke.v2.cs2econ",
+     "size": 833,
+     "sha256": "d4d623fd350ea44d65678b25cd40394d80f621851119eb9e8e492035cfd71b1d",
+     "rel": "library-2"
     }
    }
   },
@@ -1290,6 +1534,12 @@
      "name": "furia-vs-mibr-m1-inferno.v2.cs2stats",
      "size": 893,
      "sha256": "4908525b4afd12dcf3873ef91cb9f1ed519122e42d7f5debbcd93cf8f38fc0fe",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "furia-vs-mibr-m1-inferno.v2.cs2econ",
+     "size": 960,
+     "sha256": "764ec70fc861597adb716d5c6de32bcec53b45157ec43efa2e47e731cc615dda",
      "rel": "library-2"
     }
    }
@@ -1323,6 +1573,12 @@
      "size": 776,
      "sha256": "bd559691e1c93fc6e626b8096fd0a59ab31052c71d9a16024aaadcd65e19bb60",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-aurora-m2-mirage.v2.cs2econ",
+     "size": 844,
+     "sha256": "1094881868441606ea536e23fe4c3b850a5ed104f5443072844324150e12dcb0",
+     "rel": "library-2"
     }
    }
   },
@@ -1354,6 +1610,12 @@
      "name": "natus-vincere-vs-aurora-m1-nuke.v2.cs2stats",
      "size": 786,
      "sha256": "9ee7f936c61c24a38b84cbe4f5cc40c630da47e390c9dbc349187217bebc7bbd",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-aurora-m1-nuke.v2.cs2econ",
+     "size": 913,
+     "sha256": "fccebab4d1ef5cc119171f9bc366eb1a7445f2180b56c1bd0f03441a5100697f",
      "rel": "library-2"
     }
    }
@@ -1387,6 +1649,12 @@
      "size": 810,
      "sha256": "21c8b7070fb78185f9b6b0f55cc57cba278e655a9f05d4ce56d97eb0a6e40d8f",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-magic-m2-dust2.v2.cs2econ",
+     "size": 921,
+     "sha256": "f22169f84112a28f51e8bd263f272fc8c26706f84abf8713d47173fcbc5a8913",
+     "rel": "library-2"
     }
    }
   },
@@ -1418,6 +1686,12 @@
      "name": "vitality-vs-magic-m1-mirage.v2.cs2stats",
      "size": 755,
      "sha256": "73aa56b9f15edfc540202eea38409b7ee69d46b18397c7590d4e4b4edb36c324",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-magic-m1-mirage.v2.cs2econ",
+     "size": 826,
+     "sha256": "a2da2021bbbc4ea704ab58e10f99a7beed5abdca56e10a1822dcff0e41f462f3",
      "rel": "library-2"
     }
    }
@@ -1451,6 +1725,12 @@
      "size": 834,
      "sha256": "4a5c3f6a7064e7f3895553c402174193b8d8a42b5f89438b9e72dafb47750b4a",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-nrg-m3-cache.v2.cs2econ",
+     "size": 947,
+     "sha256": "741661e970ac4d8be126c23f2588c24a87b413754169f6a9929fc5a93e684496",
+     "rel": "library-2"
     }
    }
   },
@@ -1482,6 +1762,12 @@
      "name": "mouz-vs-nrg-m1-cache.v2.cs2stats",
      "size": 869,
      "sha256": "7a74377089b9d9d49a6254e425554e2d1429bf9c3e362e26a9cd17303722054b",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-nrg-m1-cache.v2.cs2econ",
+     "size": 980,
+     "sha256": "636022f7554ece3afa006240b271300130f206b2f0d4e5b229561045f1c82494",
      "rel": "library-2"
     }
    }
@@ -1515,6 +1801,12 @@
      "size": 736,
      "sha256": "92c52484c6059ffd3a9cf1e08e7e36457a37f21d8c54bfc8b69a238d974bf1ad",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mouz-vs-nrg-m2-inferno.v2.cs2econ",
+     "size": 775,
+     "sha256": "d295aac37bc33cf1f34326f0af56e2aa82b2ad1f83307cf15269b12c1949e556",
+     "rel": "library-2"
     }
    }
   },
@@ -1546,6 +1838,12 @@
      "name": "legacy-vs-g2-m3-dust2.v2.cs2stats",
      "size": 689,
      "sha256": "5d63be86e8410ad5ab97e88973c262e3575ae69e477e41db8a784c5f57a0bb8e",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-g2-m3-dust2.v2.cs2econ",
+     "size": 755,
+     "sha256": "449111c65c35075b1c45f362ab8ef4d46b1231f7ef0cffe51d47a8113712bc30",
      "rel": "library-2"
     }
    }
@@ -1579,6 +1877,12 @@
      "size": 856,
      "sha256": "0c78aef4999dc62156d62e2c8e3bcbb397feed293e1c42e0b4082b58cd5405f4",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-g2-m2-mirage.v2.cs2econ",
+     "size": 948,
+     "sha256": "e4e382774cb286989508315dd551ea65557bcf6e1c37130b35796dc6f27312e8",
+     "rel": "library-2"
     }
    }
   },
@@ -1610,6 +1914,12 @@
      "name": "legacy-vs-g2-m1-ancient.v2.cs2stats",
      "size": 833,
      "sha256": "428154fee6c5fe4bdda516bc8a99caf208560b568c7d64d0ccc973586d53a727",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-g2-m1-ancient.v2.cs2econ",
+     "size": 906,
+     "sha256": "ec79aeed1980ee7ab66b47c3b340ee31a3d7f2d47c47b10da191efed9eeefae3",
      "rel": "library-2"
     }
    }
@@ -1643,6 +1953,12 @@
      "size": 718,
      "sha256": "7537c8bf8656d6351e4e928e75f7410319df98ebc13c4e1eaa772a81c7fbcb40",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "nrg-vs-liquid-m5-inferno.v2.cs2econ",
+     "size": 794,
+     "sha256": "63892dcec31dc017b4c245aa9fa6a968fa7797ee9a8a6ba4f4da82a7b015875a",
+     "rel": "library-2"
     }
    }
   },
@@ -1674,6 +1990,12 @@
      "name": "nrg-vs-liquid-m4-mirage.v2.cs2stats",
      "size": 823,
      "sha256": "9a4839fd39a513b1b03b6a56f922974e3a0a8a7c23d61c08b515bbc14a96e5bb",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "nrg-vs-liquid-m4-mirage.v2.cs2econ",
+     "size": 972,
+     "sha256": "cdc93052ea7a4a5603a8181863e721825e268dfabb58ff15e4f2e68bd1a7248b",
      "rel": "library-2"
     }
    }
@@ -1707,6 +2029,12 @@
      "size": 756,
      "sha256": "600f4252f1649d81ccffe9ba118dc52761df29dab8a9d3e51a9840aa2658dfb2",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "nrg-vs-liquid-m3-dust2.v2.cs2econ",
+     "size": 865,
+     "sha256": "52758cca5c4c150989c381724d98f7a933e940e0c9fdb9bfc88726f16be53224",
+     "rel": "library-2"
     }
    }
   },
@@ -1738,6 +2066,12 @@
      "name": "nrg-vs-liquid-m2-nuke.v2.cs2stats",
      "size": 717,
      "sha256": "f5b7b080254e19f5741c68b78cfb160f647e54ed7fed54504d8fcad3bcd0c185",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "nrg-vs-liquid-m2-nuke.v2.cs2econ",
+     "size": 844,
+     "sha256": "d17c84ad124b38eb9f37457997e6b406f22a768d3bbce9da48ecccdb8216e9aa",
      "rel": "library-2"
     }
    }
@@ -1771,6 +2105,12 @@
      "size": 717,
      "sha256": "8135449b46c4de36c7ce45223fba0aedbc96b8675a0e707edd9b8f77c9590ee0",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "nrg-vs-liquid-m1-cache.v2.cs2econ",
+     "size": 824,
+     "sha256": "bab0f901a840f7fe67f7bd9a36f7b297b00c8d36080eac801eda63e73f705ca0",
+     "rel": "library-2"
     }
    }
   },
@@ -1802,6 +2142,12 @@
      "name": "betboom-vs-g2-m3-ancient.v2.cs2stats",
      "size": 789,
      "sha256": "6a46caeab392363704a8a42d89069e127300723a0453b112675b7ce793b50816",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "betboom-vs-g2-m3-ancient.v2.cs2econ",
+     "size": 822,
+     "sha256": "f5c83efa0287e9e0038947971b8770d035ecc676f9363ab560129dfbe5243c0f",
      "rel": "library-2"
     }
    }
@@ -1835,6 +2181,12 @@
      "size": 1027,
      "sha256": "0335ace133caf324326971385c27fa76b4aa31581165102c86abd30a1ec11468",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "betboom-vs-g2-m2-anubis.v2.cs2econ",
+     "size": 1117,
+     "sha256": "00935b2ab8a8a270fc9f6fd169edc2d4911a2f8285aaee730e5459762b12590e",
+     "rel": "library-2"
     }
    }
   },
@@ -1866,6 +2218,12 @@
      "name": "betboom-vs-g2-m1-mirage.v2.cs2stats",
      "size": 782,
      "sha256": "75898d2c14b42dc9fe6c7183b447ea615d1aff5c03e6ac556f1a7c2770629d2d",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "betboom-vs-g2-m1-mirage.v2.cs2econ",
+     "size": 832,
+     "sha256": "bf5f9134b0352d477ea3130243db7ef50030ef18f5176f31f694d027780aa9cb",
      "rel": "library-2"
     }
    }
@@ -1899,6 +2257,12 @@
      "size": 1055,
      "sha256": "89e04749f782a2648b875266af802b97ecb256a426f9e518bb8b1827c3dc0e05",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-mibr-m3-inferno.v2.cs2econ",
+     "size": 1175,
+     "sha256": "6766d038c26d5046cad3053199fa7a035e14c83d9fd471887c432adf0c2bcc22",
+     "rel": "library-2"
     }
    }
   },
@@ -1930,6 +2294,12 @@
      "name": "legacy-vs-mibr-m2-ancient.v2.cs2stats",
      "size": 885,
      "sha256": "5ed4f2a0e3e3979b6530c76e8a3ef43dad91db4173c1ccc0dc471bc4268a1d8b",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-mibr-m2-ancient.v2.cs2econ",
+     "size": 964,
+     "sha256": "2bc661a7799b85550f99ec8b33f04ee2121b633228e0218498fdaa759f888fb2",
      "rel": "library-2"
     }
    }
@@ -1963,6 +2333,12 @@
      "size": 873,
      "sha256": "e952f035c4a16d2dded65f3f61b7edfaf5732d91dc89bd570f6b2e942e98bd38",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-mibr-m1-nuke__fissure-playground-3.v2.cs2econ",
+     "size": 959,
+     "sha256": "11989e9b0378e0a18a31617b3cec6564cc254d6b5760fcbda922ddf6f0a6fb67",
+     "rel": "library-2"
     }
    }
   },
@@ -1994,6 +2370,12 @@
      "name": "furia-vs-g2-m2-dust2.v2.cs2stats",
      "size": 679,
      "sha256": "4df0459214fa60bd89eae165f7b35f1393739868de672960c1ca2e456ecf78a6",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "furia-vs-g2-m2-dust2.v2.cs2econ",
+     "size": 734,
+     "sha256": "2f49b6ddc56d04696ae8812d21b53edcf45ae1c39563abd476a11da56eb180df",
      "rel": "library-2"
     }
    }
@@ -2027,6 +2409,12 @@
      "size": 1050,
      "sha256": "4caf1b7b3906645d24078a325af8910d6516d3119ae18aa9e5edac9b4519bd99",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "furia-vs-g2-m1-ancient.v2.cs2econ",
+     "size": 1183,
+     "sha256": "c22b2efae92bce27dd95c60c9d7c94bb1900d22396ba37bc4ad98b5eca64d2ba",
+     "rel": "library-2"
     }
    }
   },
@@ -2058,6 +2446,12 @@
      "name": "mibr-vs-alliance-m2-cache.v2.cs2stats",
      "size": 831,
      "sha256": "2110cd40ee0896ca575fffee796ac11547ba97b8160a445116dafec4ea987087",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "mibr-vs-alliance-m2-cache.v2.cs2econ",
+     "size": 909,
+     "sha256": "1623120b961f18941d212868aade19be4b26ff56ffed0b07d9893ce1df201f32",
      "rel": "library-2"
     }
    }
@@ -2091,6 +2485,12 @@
      "size": 708,
      "sha256": "28eb8bd8cc91eb722f2f4ab0a5332349da4c05f1ce5e111750847cfaee322000",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "mibr-vs-alliance-m1-inferno.v2.cs2econ",
+     "size": 772,
+     "sha256": "fe40ce6fbb1e47ad0b745292a277ee06e6ad3a5c86a190c0a7e92f6354902847",
+     "rel": "library-2"
     }
    }
   },
@@ -2120,6 +2520,12 @@
      "name": "g2-vs-5star-m2-ancient.v2.cs2stats",
      "size": 720,
      "sha256": "6e8ae8c79d9902065609167db3b457181987a0b3dae16f5fd85f0eea6b180520"
+    },
+    "econ": {
+     "name": "g2-vs-5star-m2-ancient.v2.cs2econ",
+     "size": 744,
+     "sha256": "2f7122f3bf47394629c0d4ee999964509c8d89685800a4f408f3104b34a04eac",
+     "rel": "library-2"
     }
    }
   },
@@ -2149,6 +2555,12 @@
      "name": "g2-vs-5star-m1-inferno.v2.cs2stats",
      "size": 867,
      "sha256": "0c03f7cd6cf7f183050a620004c1d2a9b579cadb0f67932a45a5e966b9605f17"
+    },
+    "econ": {
+     "name": "g2-vs-5star-m1-inferno.v2.cs2econ",
+     "size": 922,
+     "sha256": "e494977e9cabdc9776f1b68cabb45270a7cc990ffdf405090cd20b12279de751",
+     "rel": "library-2"
     }
    }
   },
@@ -2180,6 +2592,12 @@
      "name": "alliance-vs-magic-m2-inferno.v2.cs2stats",
      "size": 797,
      "sha256": "726139d504fca10b0f5f684e9d2de8d5cb0b4329e5b23a8e54b4f26810dbc010",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "alliance-vs-magic-m2-inferno.v2.cs2econ",
+     "size": 822,
+     "sha256": "51b8fe1c964dc3db0a33454017affdf09c5d3640c6ce8519952bd69bd72f29f4",
      "rel": "library-2"
     }
    }
@@ -2213,6 +2631,12 @@
      "size": 1007,
      "sha256": "ddbe61f769d18685e03c47c2bb142765f10894e763a8cfe0a144402d4640a511",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "alliance-vs-magic-m1-ancient.v2.cs2econ",
+     "size": 1136,
+     "sha256": "f40c56f2c9c73e0c049c308020add304c45458f31496bc2e0daa0f03f990cda4",
+     "rel": "library-2"
     }
    }
   },
@@ -2244,6 +2668,12 @@
      "name": "alliance-vs-tyloo-m2-ancient.v2.cs2stats",
      "size": 881,
      "sha256": "6f3553cc7a1d657036d5e691f0569678bf7e0c1052091e2c015569b46365b9bb",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "alliance-vs-tyloo-m2-ancient.v2.cs2econ",
+     "size": 999,
+     "sha256": "748c1dc3b7864ca3afa44d90cb1c63b6dd0267f2129fe8708b66a93ea19557ba",
      "rel": "library-2"
     }
    }
@@ -2277,6 +2707,12 @@
      "size": 877,
      "sha256": "af412602a0a24fe70afc1e39fc6f7b8bba53893781659ecb0e0b6d7a984026b0",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "alliance-vs-tyloo-m1-inferno.v2.cs2econ",
+     "size": 987,
+     "sha256": "9c381c78443e14ecef50634731071e7ade2d04e0574b35d94ff918029651365c",
+     "rel": "library-2"
     }
    }
   },
@@ -2306,6 +2742,12 @@
      "name": "mibr-vs-betboom-m2-anubis__fissure-playground-3.v2.cs2stats",
      "size": 1007,
      "sha256": "cc25efca7f518d77c240a7bad37f02bc7bb116da4f5d0c197a3af2715a84f2d7"
+    },
+    "econ": {
+     "name": "mibr-vs-betboom-m2-anubis__fissure-playground-3.v2.cs2econ",
+     "size": 1184,
+     "sha256": "5c067585dc356e4d1716f5b9eaacb7e1f97a8d52cf462f187b2d0bfc1da9be01",
+     "rel": "library-2"
     }
    }
   },
@@ -2335,6 +2777,12 @@
      "name": "mibr-vs-betboom-m1-mirage.v2.cs2stats",
      "size": 824,
      "sha256": "04238db9eb2681b2b1801e05946d9a5b4ab8893f2a523a8b61db02555e2e4c8f"
+    },
+    "econ": {
+     "name": "mibr-vs-betboom-m1-mirage.v2.cs2econ",
+     "size": 925,
+     "sha256": "4257f3c0ef4134b2078b94b48eb17a76ebafa67729f16f63ae4cb86535c88b88",
+     "rel": "library-2"
     }
    }
   },
@@ -2367,6 +2815,12 @@
      "size": 839,
      "sha256": "5a42d9a4b80432dae1cdeb57902434f759231c13ce6ad68cfe1f679958a59582",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-furia-m2-ancient.v2.cs2econ",
+     "size": 926,
+     "sha256": "e1a63e2da712e9900d4d4f41f5c7bec465c1c995ab75801b1ceb6ee7fea5e6cd",
+     "rel": "library-2"
     }
    }
   },
@@ -2396,6 +2850,12 @@
      "name": "astralis-vs-5star-m3-cache.v2.cs2stats",
      "size": 887,
      "sha256": "564e7179d39cb9fa9611ae5c2084d0c1ae68bd59f6530d81d9bb0b1370d975c5"
+    },
+    "econ": {
+     "name": "astralis-vs-5star-m3-cache.v2.cs2econ",
+     "size": 932,
+     "sha256": "252a929a3c1b07437a16ae3b714ee68fa2fd6acc4ff654f9a6d292f3be225a7d",
+     "rel": "library-2"
     }
    }
   },
@@ -2428,6 +2888,12 @@
      "size": 775,
      "sha256": "b352f7a5517a6b438a5c644f7caefb2b69a5f951d328fd64c9f2ee2c31a2cd72",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-furia-m1-mirage.v2.cs2econ",
+     "size": 841,
+     "sha256": "6245013f79ae022bc4610a45f50e2e64dbb1b0acbbba617cb504553544c89cd3",
+     "rel": "library-2"
     }
    }
   },
@@ -2457,6 +2923,12 @@
      "name": "astralis-vs-5star-m2-ancient.v2.cs2stats",
      "size": 754,
      "sha256": "8261e3d129474e3bba0e5f2e12c9c9efd735d3479e75af7830842ab207c008c9"
+    },
+    "econ": {
+     "name": "astralis-vs-5star-m2-ancient.v2.cs2econ",
+     "size": 809,
+     "sha256": "e2d574eef32f1994d9d783054ca632a597ee656171edf19710176cca1dbd638f",
+     "rel": "library-2"
     }
    }
   },
@@ -2489,6 +2961,12 @@
      "size": 1073,
      "sha256": "e87f9a064c2226443ef974ace897860f81cbaf1c5cdaba747efaccf6f7391436",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "magic-vs-parivision-m2-inferno.v2.cs2econ",
+     "size": 1192,
+     "sha256": "f85b2bd747d64ef8aa46a0f7ea783842ae075e409cdeccc8d65ef0ac805d216d",
+     "rel": "library-2"
     }
    }
   },
@@ -2518,6 +2996,12 @@
      "name": "astralis-vs-5star-m1-inferno.v2.cs2stats",
      "size": 910,
      "sha256": "f0f66b564932a8eab4d9ac2df85650f371bc459562ceba099ba4c65c907ad7d9"
+    },
+    "econ": {
+     "name": "astralis-vs-5star-m1-inferno.v2.cs2econ",
+     "size": 944,
+     "sha256": "af2f655ff047e4f20685f473262284d9529811126cf38a932581c671e0e77a25",
+     "rel": "library-2"
     }
    }
   },
@@ -2550,6 +3034,12 @@
      "size": 892,
      "sha256": "492159a506d81222409f85b0c955da04edf2fed1f6209d52deeba456cbba4059",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "magic-vs-parivision-m1-ancient.v2.cs2econ",
+     "size": 1006,
+     "sha256": "010cf233901cad9f72df7a0c144309ad994b76e946aa6cd3a799b94a6d8d4784",
+     "rel": "library-2"
     }
    }
   },
@@ -2579,6 +3069,12 @@
      "name": "9z-vs-g2-m3-inferno.v2.cs2stats",
      "size": 875,
      "sha256": "c9dba9deec7446bdd1ebe0d68f848fa0066eebfb7c0f9e99b24049959869358d"
+    },
+    "econ": {
+     "name": "9z-vs-g2-m3-inferno.v2.cs2econ",
+     "size": 935,
+     "sha256": "5281a9a9cd2c6e351f1c61ad5d4de0dfcead4b05295ce6b500fbc181cb2dfb27",
+     "rel": "library-2"
     }
    }
   },
@@ -2608,6 +3104,12 @@
      "name": "9z-vs-g2-m2-ancient.v2.cs2stats",
      "size": 819,
      "sha256": "95a0ed7dad389961b24a44733621c6e4d0b1773eec1c17b3c884dfeef2013366"
+    },
+    "econ": {
+     "name": "9z-vs-g2-m2-ancient.v2.cs2econ",
+     "size": 893,
+     "sha256": "9b449e15de482ffbd73efa6bfb2a89aeba06a8c43fd8a38e4d7cfbf9c83c247a",
+     "rel": "library-2"
     }
    }
   },
@@ -2637,6 +3139,12 @@
      "name": "9z-vs-g2-m1-dust2.v2.cs2stats",
      "size": 862,
      "sha256": "dd6e2fceab3102a15e84dee2181c2f71fb6c9e7221bb7a27d9c896ec256d704e"
+    },
+    "econ": {
+     "name": "9z-vs-g2-m1-dust2.v2.cs2econ",
+     "size": 965,
+     "sha256": "be548b3fd342c832132504b44173711fa144660840dc598798f5c99a4cbf6f76",
+     "rel": "library-2"
     }
    }
   },
@@ -2669,6 +3177,12 @@
      "size": 921,
      "sha256": "97d9c4f2f89609dc67a0c6a937af535f9761f7a8e3fe06c887ff9c6aaf012360",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "parivision-vs-furia-m2-inferno.v2.cs2econ",
+     "size": 1008,
+     "sha256": "9913d7585cb192106af2fa72ccf1257163612dfd91c062831ade7eca970d289a",
+     "rel": "library-2"
     }
    }
   },
@@ -2698,6 +3212,12 @@
      "name": "betboom-vs-astralis-m2-anubis.v2.cs2stats",
      "size": 810,
      "sha256": "d782a5307b3cd779a0ce56e97097f48536308f96e068d537d8a721116042f8db"
+    },
+    "econ": {
+     "name": "betboom-vs-astralis-m2-anubis.v2.cs2econ",
+     "size": 879,
+     "sha256": "c28917f727387b9c6829d2a4ab34ad83679c35b7d81af1477173779a4146986e",
+     "rel": "library-2"
     }
    }
   },
@@ -2730,6 +3250,12 @@
      "size": 686,
      "sha256": "bd1d08a3983d295eb14ca91fe45bb344940de30de3df5970d25958a9ab28c2d9",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "parivision-vs-furia-m1-ancient.v2.cs2econ",
+     "size": 703,
+     "sha256": "84dafdbeb84008ffa629c7e74cec8c4506df0aa03282626dd357802e58232109",
+     "rel": "library-2"
     }
    }
   },
@@ -2759,6 +3285,12 @@
      "name": "betboom-vs-astralis-m1-ancient.v2.cs2stats",
      "size": 1046,
      "sha256": "748d7c3b8c6ff28fc74399c36cee0b74bc14da4ea97bb2c9789f0fc093d835f5"
+    },
+    "econ": {
+     "name": "betboom-vs-astralis-m1-ancient.v2.cs2econ",
+     "size": 1176,
+     "sha256": "9544d75c37791f4563d94380997d42c28802530287c24c6a60a750ef8fef6a54",
+     "rel": "library-2"
     }
    }
   },
@@ -2790,6 +3322,12 @@
      "name": "tyloo-vs-gamerlegion-m2-mirage.v2.cs2stats",
      "size": 735,
      "sha256": "56a4a5669459addac72a2fce27ce95450b36ddc2c12bcabf7b9142fecf729df4",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "tyloo-vs-gamerlegion-m2-mirage.v2.cs2econ",
+     "size": 822,
+     "sha256": "f9b5e257691fe4d939e71aba22160367839109a43badddf441fdb56f1958a783",
      "rel": "library-2"
     }
    }
@@ -2823,6 +3361,12 @@
      "size": 786,
      "sha256": "b79a7e0f310db89e1262609baa8079e2cee50b025ce2efbef6adbb4a9638768e",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "tyloo-vs-gamerlegion-m1-ancient.v2.cs2econ",
+     "size": 852,
+     "sha256": "c1fb812c7be9d4b1334fbd945088f51f58246fc6d6d57ac006609f0116afd3b5",
+     "rel": "library-2"
     }
    }
   },
@@ -2852,6 +3396,12 @@
      "name": "big-vs-g2-m3-ancient.v2.cs2stats",
      "size": 847,
      "sha256": "b2650183954b2dae20f907a4695b2d9d00c12c160182b99898d74cd0f68b7461"
+    },
+    "econ": {
+     "name": "big-vs-g2-m3-ancient.v2.cs2econ",
+     "size": 961,
+     "sha256": "3fc5e4e3faf33e48da65c7c0f8f734da8c9cced8f11842d07fcc262ab75f6ce3",
+     "rel": "library-2"
     }
    }
   },
@@ -2881,6 +3431,12 @@
      "name": "big-vs-g2-m2-mirage.v2.cs2stats",
      "size": 778,
      "sha256": "4b68b7940604e7a672c4e4a5a50732f618a2cdab5b789ebe7329f136d5a47de1"
+    },
+    "econ": {
+     "name": "big-vs-g2-m2-mirage.v2.cs2econ",
+     "size": 851,
+     "sha256": "4969a43c7bd2e9762873e8d7ddc7ac67f19de60151dd839d9ffab11323932a27",
+     "rel": "library-2"
     }
    }
   },
@@ -2913,6 +3469,12 @@
      "size": 724,
      "sha256": "29ee1348be6033e7dac0d1ebfb47388125ee61320649741c0dc6f1e4f4dea41b",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-alliance-m2-dust2.v2.cs2econ",
+     "size": 826,
+     "sha256": "700184109afd5e3082dbc3d9177245d74d1a6ec5071a9639486a4bd7b819a790",
+     "rel": "library-2"
     }
    }
   },
@@ -2942,6 +3504,12 @@
      "name": "big-vs-g2-m1-cache__fissure-playground-3.v2.cs2stats",
      "size": 823,
      "sha256": "e140c456bca3036db9f6b364c6aa8ec47df03313dbb6ddf62a3fadfd3f16c81c"
+    },
+    "econ": {
+     "name": "big-vs-g2-m1-cache__fissure-playground-3.v2.cs2econ",
+     "size": 917,
+     "sha256": "bd421d5d6c292a957dc635f2df48b1c9342c0c84de1d3da2de3b479ccd4db7b4",
+     "rel": "library-2"
     }
    }
   },
@@ -2974,6 +3542,12 @@
      "size": 725,
      "sha256": "a5d2a8723e2e673ce605fbf1131e298cda349bcb92927c2987336a0332a0b80b",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-alliance-m1-inferno.v2.cs2econ",
+     "size": 744,
+     "sha256": "c956804bfb7684c75ac40dfce3bddd88d911d86339fdb96942f490c3078df02a",
+     "rel": "library-2"
     }
    }
   },
@@ -3003,6 +3577,12 @@
      "name": "9z-vs-mibr-m2-nuke.v2.cs2stats",
      "size": 761,
      "sha256": "b70806b201cf3160752c6aa7cc72b744f9629ac03647789157324001eb033028"
+    },
+    "econ": {
+     "name": "9z-vs-mibr-m2-nuke.v2.cs2econ",
+     "size": 858,
+     "sha256": "774d1124f6040fcaa4fc7028aba0e3fe58948d27a71160c3f3317b4a0850a2c2",
+     "rel": "library-2"
     }
    }
   },
@@ -3032,6 +3612,12 @@
      "name": "magic-vs-faze-m3-cache.v2.cs2stats",
      "size": 1113,
      "sha256": "3d59b56cd90fc47ec1053b0d44eb2b8643e8bdd2d1a2f4afce4299c8571efd2f"
+    },
+    "econ": {
+     "name": "magic-vs-faze-m3-cache.v2.cs2econ",
+     "size": 1356,
+     "sha256": "ed73e855d684433293d2fdf666ef9dcf27b33ff8b4c376ee613509385ccc7007",
+     "rel": "library-2"
     }
    }
   },
@@ -3061,6 +3647,12 @@
      "name": "9z-vs-mibr-m1-mirage.v2.cs2stats",
      "size": 737,
      "sha256": "adcb9949c500b7f423ac422c04e4bb999405b7758f09a32a7e0b16d96590f6b8"
+    },
+    "econ": {
+     "name": "9z-vs-mibr-m1-mirage.v2.cs2econ",
+     "size": 809,
+     "sha256": "2465088f461e1717407d7242bf6e6b3de2d03e4b8ddd36febde25c1a08c5cebd",
+     "rel": "library-2"
     }
    }
   },
@@ -3090,6 +3682,12 @@
      "name": "magic-vs-faze-m2-dust2.v2.cs2stats",
      "size": 838,
      "sha256": "19063bf9b88be9637ac3b484d7798b872b4fbc63825ea0ee238fc691bc8c06ca"
+    },
+    "econ": {
+     "name": "magic-vs-faze-m2-dust2.v2.cs2econ",
+     "size": 951,
+     "sha256": "16ba153918e290bdbbcaeac0c6678242ccdf48255d4d1b7ddfabed73559a77a0",
+     "rel": "library-2"
     }
    }
   },
@@ -3119,6 +3717,12 @@
      "name": "5star-vs-the-mongolz-m2-nuke.v2.cs2stats",
      "size": 877,
      "sha256": "886854035bc4152e367a1d62c1f2086ff18e1a423532c24d019a3154a1a1d300"
+    },
+    "econ": {
+     "name": "5star-vs-the-mongolz-m2-nuke.v2.cs2econ",
+     "size": 982,
+     "sha256": "03907d7501f87114b4a5a4d0d1ddf36da6ab24acd3d218ee983af87f5f9a9e0e",
+     "rel": "library-2"
     }
    }
   },
@@ -3148,6 +3752,12 @@
      "name": "magic-vs-faze-m1-ancient.v2.cs2stats",
      "size": 1017,
      "sha256": "22d10c0efba213bb24900ddaf069f62bab6ee3665bb093ac3e25c76667c46853"
+    },
+    "econ": {
+     "name": "magic-vs-faze-m1-ancient.v2.cs2econ",
+     "size": 1180,
+     "sha256": "8e5277245565b7ef21d9afe2ff6ab228775a9cda9cab586bb0e9c5baabe8d1b4",
+     "rel": "library-2"
     }
    }
   },
@@ -3177,6 +3787,12 @@
      "name": "5star-vs-the-mongolz-m1-inferno.v2.cs2stats",
      "size": 844,
      "sha256": "fee5489b7d51d6a0ab3dbeddcf05baeb9cb3e33fd4a1332e07e7ae8613c5cb79"
+    },
+    "econ": {
+     "name": "5star-vs-the-mongolz-m1-inferno.v2.cs2econ",
+     "size": 919,
+     "sha256": "748e11a5f718776b53f2209f99b010fcc68ec1d7729467692ac07f07819f1a99",
+     "rel": "library-2"
     }
    }
   },
@@ -3206,6 +3822,12 @@
      "name": "g2-vs-astralis-m3-inferno__fissure-playground-3.v2.cs2stats",
      "size": 753,
      "sha256": "e48de46d2ac54a736d55c945c73846d70f85b5e6f9970e4146213ebab0c7c5e1"
+    },
+    "econ": {
+     "name": "g2-vs-astralis-m3-inferno__fissure-playground-3.v2.cs2econ",
+     "size": 790,
+     "sha256": "b774984e832420987160c886a00659b4844bd9cfda169fc93b10ff3d05d7c91c",
+     "rel": "library-2"
     }
    }
   },
@@ -3235,6 +3857,12 @@
      "name": "g2-vs-astralis-m2-mirage.v2.cs2stats",
      "size": 1162,
      "sha256": "e6cd9dd5c13c23509fb714fe30071bb68df8ad22a4a16e4704c269c5f684e2c2"
+    },
+    "econ": {
+     "name": "g2-vs-astralis-m2-mirage.v2.cs2econ",
+     "size": 1359,
+     "sha256": "825a77b4def50a22dca232ff0ca3e4573712b41befed4e56ff0a6f88ff56c297",
+     "rel": "library-2"
     }
    }
   },
@@ -3264,6 +3892,12 @@
      "name": "furia-vs-gamerlegion-m3-dust2.v2.cs2stats",
      "size": 687,
      "sha256": "af8f3f2b76e80debc53dcba8d98fa9b85be6e899f055323cdca3a0d521dbcd9e"
+    },
+    "econ": {
+     "name": "furia-vs-gamerlegion-m3-dust2.v2.cs2econ",
+     "size": 737,
+     "sha256": "5806f270b7360a39bd9c9b739249eccbbb8a3b1153ccd44d6f2a3a4a0014136a",
+     "rel": "library-2"
     }
    }
   },
@@ -3293,6 +3927,12 @@
      "name": "g2-vs-astralis-m1-ancient__fissure-playground-3.v2.cs2stats",
      "size": 847,
      "sha256": "a4a06672d5b14c3b8ca53d3ed4921d498cc8cef400a5fb8d364d1e64ddb78d43"
+    },
+    "econ": {
+     "name": "g2-vs-astralis-m1-ancient__fissure-playground-3.v2.cs2econ",
+     "size": 926,
+     "sha256": "f5299d22ccff967526449ba0f2c2cef0e7c49c24725d6faec3c0686946e031c2",
+     "rel": "library-2"
     }
    }
   },
@@ -3322,6 +3962,12 @@
      "name": "furia-vs-gamerlegion-m2-mirage.v2.cs2stats",
      "size": 863,
      "sha256": "9a788861f46a4312065186b121610e49fc3155f7e00a5f13d9cd4fc818b09ba4"
+    },
+    "econ": {
+     "name": "furia-vs-gamerlegion-m2-mirage.v2.cs2econ",
+     "size": 936,
+     "sha256": "ab9cc4d430262aef9bffa62319ab6159e937ff165c0b2aaeb79015716a20129b",
+     "rel": "library-2"
     }
    }
   },
@@ -3351,6 +3997,12 @@
      "name": "parivision-vs-tyloo-m2-ancient.v2.cs2stats",
      "size": 722,
      "sha256": "e1a24129ef91f17bc569ae723630a503c0bdc947d480368bd7ea3cf8a488b833"
+    },
+    "econ": {
+     "name": "parivision-vs-tyloo-m2-ancient.v2.cs2econ",
+     "size": 764,
+     "sha256": "a0c39c879d74f892ec1dac09c3a9216762c19ba148bf5b3a573eb3cedf4d309e",
+     "rel": "library-2"
     }
    }
   },
@@ -3380,6 +4032,12 @@
      "name": "furia-vs-gamerlegion-m1-cache.v2.cs2stats",
      "size": 886,
      "sha256": "44e825fa795fc02cba7c4784886d76169a8bbf3991facfeec88b0b422bc30c00"
+    },
+    "econ": {
+     "name": "furia-vs-gamerlegion-m1-cache.v2.cs2econ",
+     "size": 985,
+     "sha256": "a52579a72b643df7ac05274450a051d502a4dc67b4df9fb7b2049ffac8ac954b",
+     "rel": "library-2"
     }
    }
   },
@@ -3409,6 +4067,12 @@
      "name": "parivision-vs-tyloo-m1-inferno.v2.cs2stats",
      "size": 915,
      "sha256": "7eb126c18b2bb963a36efda1165658ce3116d645e4ac95a00410d9d0ac9a7f5c"
+    },
+    "econ": {
+     "name": "parivision-vs-tyloo-m1-inferno.v2.cs2econ",
+     "size": 1007,
+     "sha256": "45fc0f608baee75afdf8cd7916e85e223379eb5521cbe80761d7fbb4f5ad2b70",
+     "rel": "library-2"
     }
    }
   },
@@ -3438,6 +4102,12 @@
      "name": "betboom-vs-big-m2-nuke.v2.cs2stats",
      "size": 793,
      "sha256": "82167f6b53206f72df555c996632e9f2c77732b7d9625da0481ec138e094e40a"
+    },
+    "econ": {
+     "name": "betboom-vs-big-m2-nuke.v2.cs2econ",
+     "size": 934,
+     "sha256": "82fedec2516ceb4535fb41d5d6ab717fbb0eab77ac9a31b21b9fd0acae3cd40c",
+     "rel": "library-2"
     }
    }
   },
@@ -3467,6 +4137,12 @@
      "name": "betboom-vs-big-m1-cache.v2.cs2stats",
      "size": 805,
      "sha256": "074a37ab2ba0df6ddfcf5aa0267fb4ec52d1da04ecfbade193a8569e179d790c"
+    },
+    "econ": {
+     "name": "betboom-vs-big-m1-cache.v2.cs2econ",
+     "size": 882,
+     "sha256": "0c86fecfb56b6749e93e747af7249927d76d6da012c9469c98193632544727f2",
+     "rel": "library-2"
     }
    }
   },
@@ -3496,6 +4172,12 @@
      "name": "9z-vs-5star-m2-nuke.v2.cs2stats",
      "size": 691,
      "sha256": "777de375db22605d9459ae34c7ad3fc1b4dbcbd8878f689ca01ebc1a6e321800"
+    },
+    "econ": {
+     "name": "9z-vs-5star-m2-nuke.v2.cs2econ",
+     "size": 725,
+     "sha256": "b4a61dc92e35fddd1f8a46114f3fe24b9ed3610f7aadd56a3538ab699b7117f5",
+     "rel": "library-2"
     }
    }
   },
@@ -3525,6 +4207,12 @@
      "name": "faze-vs-alliance-m2-nuke__fissure-playground-3.v2.cs2stats",
      "size": 878,
      "sha256": "a8a78194a8d01538590faacbc09be321e22c691f3a6474fe02c09d422d2f5be7"
+    },
+    "econ": {
+     "name": "faze-vs-alliance-m2-nuke__fissure-playground-3.v2.cs2econ",
+     "size": 1005,
+     "sha256": "9ef317d7feef743baa7281a1e2617aaca1f0bfd0686aff14dd5ebe8591331ff9",
+     "rel": "library-2"
     }
    }
   },
@@ -3554,6 +4242,12 @@
      "name": "9z-vs-5star-m1-cache.v2.cs2stats",
      "size": 680,
      "sha256": "1c6f24ae61f2c4432186275c905063c758d614b875e4bc1d8ed5616aedf43f6d"
+    },
+    "econ": {
+     "name": "9z-vs-5star-m1-cache.v2.cs2econ",
+     "size": 732,
+     "sha256": "269c3e658cb009928e86c20f0771d103dc014fc6f2a9c151c5a702e8bea2c0e5",
+     "rel": "library-2"
     }
    }
   },
@@ -3583,6 +4277,12 @@
      "name": "the-mongolz-vs-mibr-m3-inferno.v2.cs2stats",
      "size": 1016,
      "sha256": "5903d19a48f0cc30d9c265ffeb5a45826d3ad2b157b81f3c29b785dda293c7a1"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-mibr-m3-inferno.v2.cs2econ",
+     "size": 1109,
+     "sha256": "062a505fc365a36385f9a8d369df8f964fa5aed660a1f92b73665f6063e45637",
+     "rel": "library-2"
     }
    }
   },
@@ -3612,6 +4312,12 @@
      "name": "faze-vs-alliance-m1-ancient.v2.cs2stats",
      "size": 823,
      "sha256": "94e3ef7251072b971db6965bdd6c5cffffe34a51f5f787c06c9af8c228c53706"
+    },
+    "econ": {
+     "name": "faze-vs-alliance-m1-ancient.v2.cs2econ",
+     "size": 908,
+     "sha256": "3c0009fbde17998925329ac9f8eb100dd4e9385566aae6ec2a9dda244155abb9",
+     "rel": "library-2"
     }
    }
   },
@@ -3641,6 +4347,12 @@
      "name": "the-mongolz-vs-mibr-m2-mirage.v2.cs2stats",
      "size": 835,
      "sha256": "c8f996335f5233ddad4cb2de6769c829bb335ab06893231aa6a265d432f3dd89"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-mibr-m2-mirage.v2.cs2econ",
+     "size": 939,
+     "sha256": "d56781841b04974546001840c95537ef82935950b4760901a0523c4579e39a45",
+     "rel": "library-2"
     }
    }
   },
@@ -3670,6 +4382,12 @@
      "name": "legacy-vs-magic-m3-mirage.v2.cs2stats",
      "size": 1042,
      "sha256": "2e3153ba774984df5a87070cde01b1b8b22b27fd725afb23114e96a236b19595"
+    },
+    "econ": {
+     "name": "legacy-vs-magic-m3-mirage.v2.cs2econ",
+     "size": 1206,
+     "sha256": "842a8f2a84758da979d802513df4f5b21d0af563a839f0a85d8fe4833ecf4cd2",
+     "rel": "library-2"
     }
    }
   },
@@ -3699,6 +4417,12 @@
      "name": "the-mongolz-vs-mibr-m1-ancient.v2.cs2stats",
      "size": 746,
      "sha256": "8ef946ec98174a756408b632e801448820f9813b224f1181dc55b11816abe845"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-mibr-m1-ancient.v2.cs2econ",
+     "size": 776,
+     "sha256": "6cdce767d6276870f34ce591b6141d806d8c4c77b12c574667a681cd07f297d0",
+     "rel": "library-2"
     }
    }
   },
@@ -3731,6 +4455,12 @@
      "size": 768,
      "sha256": "3e006fbf5f6545feec611fd47ba66693e0f30e395a14db4718302f67c757091d",
      "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-magic-m2-dust2.v2.cs2econ",
+     "size": 846,
+     "sha256": "5965da4ff420748b9a7e604ef548247fd99108aee0b57ea016161e976b341ce3",
+     "rel": "library-2"
     }
    }
   },
@@ -3761,6 +4491,12 @@
      "name": "legacy-vs-magic-m1-ancient-p1.v2.cs2stats",
      "size": 677,
      "sha256": "246c45cb3c826b009644ae47e2d8cfee39c6a021c2e25d1a933d379c4be6ffe9",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-magic-m1-ancient-p1.v2.cs2econ",
+     "size": 720,
+     "sha256": "7775876c0e6be782cd4601e6f988d0bc562e2ebefacdd4dede841b38c18abc3e",
      "rel": "library-2"
     }
    }
@@ -3793,6 +4529,12 @@
      "name": "legacy-vs-magic-m1-ancient-p2.v2.cs2stats",
      "size": 362,
      "sha256": "70252ba7a50500029fa5988361a1f96c2462a3c8e3c7e3265c76c3eb55da44c6",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-magic-m1-ancient-p2.v2.cs2econ",
+     "size": 336,
+     "sha256": "9e8cad63f6a2f56e4f89bf10862f63eb0786fa6f31b02cde10ee7a2430c06a7f",
      "rel": "library-2"
     }
    },
@@ -3829,6 +4571,12 @@
      "name": "spirit-vs-mouz-m4-nuke.v2.cs2stats",
      "size": 720,
      "sha256": "1976f570ba3045dad315352a3c954b95941e7c45404209fc9e69cb632573bdf5"
+    },
+    "econ": {
+     "name": "spirit-vs-mouz-m4-nuke.v2.cs2econ",
+     "size": 781,
+     "sha256": "ef456cd993251e35c95cd7dcc67f07468db5ebe6c1faa69c535f5f5a4dfd628a",
+     "rel": "library-2"
     }
    }
   },
@@ -3858,6 +4606,12 @@
      "name": "spirit-vs-mouz-m3-ancient.v2.cs2stats",
      "size": 680,
      "sha256": "5c808b3f620318bd298f7dbb4bf0528f9ce8954f0fdad3aaa8a539e3dcb095dd"
+    },
+    "econ": {
+     "name": "spirit-vs-mouz-m3-ancient.v2.cs2econ",
+     "size": 722,
+     "sha256": "b34423f076ae6d90967b21a6221e025034aa9da13a31a8aedf076d27e57c67ef",
+     "rel": "library-2"
     }
    }
   },
@@ -3887,6 +4641,12 @@
      "name": "spirit-vs-mouz-m2-mirage.v2.cs2stats",
      "size": 867,
      "sha256": "c4f40c9c4f2d2b226c3d4655c1326f23b7d2fdb86e8f55654fe3018fc72f3f5d"
+    },
+    "econ": {
+     "name": "spirit-vs-mouz-m2-mirage.v2.cs2econ",
+     "size": 997,
+     "sha256": "86a25033fe3fad6c9bd07caf868c10e4026b625d07c0d2d8de28de14b9d49c92",
+     "rel": "library-2"
     }
    }
   },
@@ -3916,6 +4676,12 @@
      "name": "spirit-vs-mouz-m1-dust2.v2.cs2stats",
      "size": 781,
      "sha256": "c37154404b2b6a5bd83843b14262f638fba2ea96edc93458fbba24e78cab122e"
+    },
+    "econ": {
+     "name": "spirit-vs-mouz-m1-dust2.v2.cs2econ",
+     "size": 866,
+     "sha256": "c12463180337eea9036751ddbfc7f10e59413c61e2f0e7bb3bf4c1050cfddd9b",
+     "rel": "library-2"
     }
    }
   },
@@ -3945,6 +4711,12 @@
      "name": "mouz-vs-vitality-m1-dust2.v2.cs2stats",
      "size": 859,
      "sha256": "605f813ee7271d3cb1d870e652e529318cadb89d5e03401ba447cb10ca77fe87"
+    },
+    "econ": {
+     "name": "mouz-vs-vitality-m1-dust2.v2.cs2econ",
+     "size": 1005,
+     "sha256": "0dcbd799712a760022386eb23ad1c5f7cb17afe4a2c41f54c201bfa657caa732",
+     "rel": "library-2"
     }
    }
   },
@@ -3974,6 +4746,12 @@
      "name": "mouz-vs-vitality-m2-mirage.v2.cs2stats",
      "size": 785,
      "sha256": "5550dea481c9f5a63b8fbadf5cee6e715e5f6c6e82a3be31fadb486b3eb94e6e"
+    },
+    "econ": {
+     "name": "mouz-vs-vitality-m2-mirage.v2.cs2econ",
+     "size": 813,
+     "sha256": "970f586aab303064c54c0e6c6af129692362817b21ce50f19c74cde8253bb45b",
+     "rel": "library-2"
     }
    }
   },
@@ -4003,6 +4781,12 @@
      "name": "spirit-vs-falcons-m2-ancient.v2.cs2stats",
      "size": 886,
      "sha256": "8f9655955b16f2ce7e780994e038af4d4dc64e495eaef139c09dde0d074c5525"
+    },
+    "econ": {
+     "name": "spirit-vs-falcons-m2-ancient.v2.cs2econ",
+     "size": 960,
+     "sha256": "4cefecdc5e0c4ad55a0a255bc6450159611242bb4f8a27a96f2f06184d05bed1",
+     "rel": "library-2"
     }
    }
   },
@@ -4032,6 +4816,12 @@
      "name": "spirit-vs-falcons-m1-nuke.v2.cs2stats",
      "size": 779,
      "sha256": "f1d5f4149fa6a47718c53209957d988ae527c923f842f5459230f6c4347103f4"
+    },
+    "econ": {
+     "name": "spirit-vs-falcons-m1-nuke.v2.cs2econ",
+     "size": 911,
+     "sha256": "1f04ff4ad05b8c427931ba36af772cb5a415bd96ac9a3f33ead7337911ed4071",
+     "rel": "library-2"
     }
    }
   },
@@ -4061,6 +4851,12 @@
      "name": "furia-vs-vitality-m3-dust2.v2.cs2stats",
      "size": 712,
      "sha256": "8732d9074546ffe582fc6a51b0cfd8447f34688bf3953c82ea4eb7dc28b111d9"
+    },
+    "econ": {
+     "name": "furia-vs-vitality-m3-dust2.v2.cs2econ",
+     "size": 741,
+     "sha256": "e69338ea4b7bf96a6c41955e30225a01269cd98f932323316a5a0c4f59d079fa",
+     "rel": "library-2"
     }
    }
   },
@@ -4090,6 +4886,12 @@
      "name": "furia-vs-vitality-m2-cache.v2.cs2stats",
      "size": 888,
      "sha256": "9b0c3896a49fdd642de2f34dceafad60e00207010e31b162bf9683c454904d6c"
+    },
+    "econ": {
+     "name": "furia-vs-vitality-m2-cache.v2.cs2econ",
+     "size": 987,
+     "sha256": "cdd6a5807ad957e1c44f2e91e85f330dfdddcff851a0b17e6ba962549360e603",
+     "rel": "library-2"
     }
    }
   },
@@ -4119,6 +4921,12 @@
      "name": "furia-vs-vitality-m1-nuke.v2.cs2stats",
      "size": 723,
      "sha256": "bc543b4349bc68da0319b50d027b50b935acaaff6f9236162e1cd4cfaae087fd"
+    },
+    "econ": {
+     "name": "furia-vs-vitality-m1-nuke.v2.cs2econ",
+     "size": 830,
+     "sha256": "1532b7242fd30b9481dfeb4b7b8b9950d1adb51f8465d14eb8b3c47e80b3db76",
+     "rel": "library-2"
     }
    }
   },
@@ -4148,6 +4956,12 @@
      "name": "falcons-vs-g2-m2-dust2.v2.cs2stats",
      "size": 826,
      "sha256": "aa562fc491357c9ebd7393b85c24507e24f10ae5ccc585deab584ffc37abc2da"
+    },
+    "econ": {
+     "name": "falcons-vs-g2-m2-dust2.v2.cs2econ",
+     "size": 906,
+     "sha256": "8b1021f149ae6e7fc3d2a1b7a08547b1a0be8ed6fe22d0fcf73c1d45b394816a",
+     "rel": "library-2"
     }
    }
   },
@@ -4177,6 +4991,12 @@
      "name": "falcons-vs-g2-m1-inferno.v2.cs2stats",
      "size": 755,
      "sha256": "bd7d0c149ad32c8ffb1763e91cdefc3b3169b1e85120bdb97f7b99a53283cab0"
+    },
+    "econ": {
+     "name": "falcons-vs-g2-m1-inferno.v2.cs2econ",
+     "size": 812,
+     "sha256": "d56dc5d907ba71399d8a489c395596312cc04a9422735eef74103803fdd2a68b",
+     "rel": "library-2"
     }
    }
   },
@@ -4206,6 +5026,12 @@
      "name": "fut-vs-vitality-m1-anubis.v2.cs2stats",
      "size": 761,
      "sha256": "e55050965d395baf1c944fbcfa22cd7dfa2f79ab8078325ee96416a3e5989261"
+    },
+    "econ": {
+     "name": "fut-vs-vitality-m1-anubis.v2.cs2econ",
+     "size": 843,
+     "sha256": "a769ebf3ad6a0ea15c267be53b610139f3738aa4378e306784cae792ceb70137",
+     "rel": "library-2"
     }
    }
   },
@@ -4235,6 +5061,12 @@
      "name": "fut-vs-vitality-m2-dust2.v2.cs2stats",
      "size": 781,
      "sha256": "72056bbccbc86d8c115e7fd438fb7e89a136ccb67943c95d2a2fcc7e2d7071e3"
+    },
+    "econ": {
+     "name": "fut-vs-vitality-m2-dust2.v2.cs2econ",
+     "size": 898,
+     "sha256": "981887729de70f288ceea60a29e335c6dd7417fe686bdaea14f96ca7fded2a18",
+     "rel": "library-2"
     }
    }
   },
@@ -4264,6 +5096,12 @@
      "name": "mouz-vs-falcons-m3-inferno.v2.cs2stats",
      "size": 692,
      "sha256": "9555ea87eb5e357f04c68af073ce9f0545087b03aeed29133fa50b345547cd36"
+    },
+    "econ": {
+     "name": "mouz-vs-falcons-m3-inferno.v2.cs2econ",
+     "size": 738,
+     "sha256": "4bd1f93e7ffbf5265236f8a8c788d1465332af210bf677aca9748c013f8d8e16",
+     "rel": "library-2"
     }
    }
   },
@@ -4293,6 +5131,12 @@
      "name": "mouz-vs-falcons-m1-nuke.v2.cs2stats",
      "size": 722,
      "sha256": "2363b8cabf3c8481099af434787a339cf0fcc47ea2bcaddc02fa6271d12c84bc"
+    },
+    "econ": {
+     "name": "mouz-vs-falcons-m1-nuke.v2.cs2econ",
+     "size": 836,
+     "sha256": "125409cc24c4cb00a99ca132adbf0aa1278bf31d99b4b3271f888d7aeafcb5ac",
+     "rel": "library-2"
     }
    }
   },
@@ -4322,6 +5166,12 @@
      "name": "mouz-vs-falcons-m2-ancient.v2.cs2stats",
      "size": 736,
      "sha256": "15f40f6159f3a44fb496d37f83cf616134253efd7bd99b22542fd7c97c639fce"
+    },
+    "econ": {
+     "name": "mouz-vs-falcons-m2-ancient.v2.cs2econ",
+     "size": 831,
+     "sha256": "2ed12be28e342f28ea4766dc48f368886679d819d941ab847c98d930a5dd6bc4",
+     "rel": "library-2"
     }
    }
   },
@@ -4351,6 +5201,12 @@
      "name": "g2-vs-aurora-m2-inferno.v2.cs2stats",
      "size": 1162,
      "sha256": "4cbd42a972c324e4e97177851754875f1e76870845b2b187edd366f4d313d703"
+    },
+    "econ": {
+     "name": "g2-vs-aurora-m2-inferno.v2.cs2econ",
+     "size": 1386,
+     "sha256": "35ad7a1661388b1b12cfc2f0d10d9f68e71145b27bee145ca43f6ca9a2439554",
+     "rel": "library-2"
     }
    }
   },
@@ -4380,6 +5236,12 @@
      "name": "g2-vs-aurora-m3-mirage.v2.cs2stats",
      "size": 602,
      "sha256": "af1fa8839bb1c4f85f4e59cb9e8351d5d047ff219ce7bf399b4bc72d54c988ce"
+    },
+    "econ": {
+     "name": "g2-vs-aurora-m3-mirage.v2.cs2econ",
+     "size": 656,
+     "sha256": "33526a67e65db3457e391888b938f2f451220dd993aef8503027eaf8d599f54d",
+     "rel": "library-2"
     }
    }
   },
@@ -4409,6 +5271,12 @@
      "name": "g2-vs-aurora-m1-anubis.v2.cs2stats",
      "size": 777,
      "sha256": "c117ca70e2f321906e4c32855bef1be259a7ca270db8552f9764ba8519a909c8"
+    },
+    "econ": {
+     "name": "g2-vs-aurora-m1-anubis.v2.cs2econ",
+     "size": 841,
+     "sha256": "6570c6cd78f6a2c3199f4b94af2abc3809542202e1373b0016a12e3a63f8675a",
+     "rel": "library-2"
     }
    }
   },
@@ -4438,6 +5306,12 @@
      "name": "spirit-vs-furia-m1-ancient.v2.cs2stats",
      "size": 861,
      "sha256": "d7b50440126a48f3177062c545c1ecb9fa771e719e3e787373342713c923048d"
+    },
+    "econ": {
+     "name": "spirit-vs-furia-m1-ancient.v2.cs2econ",
+     "size": 947,
+     "sha256": "3b99b511fb693b75479e344c2f12add5b3b79574707c51a877025e7b28551419",
+     "rel": "library-2"
     }
    }
   },
@@ -4467,6 +5341,12 @@
      "name": "spirit-vs-furia-m2-cache.v2.cs2stats",
      "size": 736,
      "sha256": "0a9dcf83d5eb71cca585725db3c87c0740005e139aeab2cefc6c076d2f1222c2"
+    },
+    "econ": {
+     "name": "spirit-vs-furia-m2-cache.v2.cs2econ",
+     "size": 781,
+     "sha256": "dd2350ad0b837194a5b6af353e2677b9b5647f257ba1f21f6d9085a0280615c7",
+     "rel": "library-2"
     }
    }
   },
@@ -4496,6 +5376,12 @@
      "name": "vitality-vs-legacy-m3-dust2.v2.cs2stats",
      "size": 812,
      "sha256": "43969d24ed22bc24ce7fc78dde450b2af1600a91b6f62ad5dd31760abfb4eda1"
+    },
+    "econ": {
+     "name": "vitality-vs-legacy-m3-dust2.v2.cs2econ",
+     "size": 899,
+     "sha256": "41cf3bea57fa4f44b1ce404f56e25643689aeab33b6a16b9fbc65f97dba2f0c7",
+     "rel": "library-2"
     }
    }
   },
@@ -4525,6 +5411,12 @@
      "name": "vitality-vs-legacy-m2-mirage.v2.cs2stats",
      "size": 803,
      "sha256": "6368bacaebaf782271f87ccb1a91f9faac372429dec6c598a660549b20bfe18f"
+    },
+    "econ": {
+     "name": "vitality-vs-legacy-m2-mirage.v2.cs2econ",
+     "size": 912,
+     "sha256": "1b71f476b7bfefe6ccbd8e1bd7dfe6707f4adc58a0cf7dc00b8410bbdbb394b9",
+     "rel": "library-2"
     }
    }
   },
@@ -4554,6 +5446,12 @@
      "name": "vitality-vs-legacy-m1-nuke.v2.cs2stats",
      "size": 991,
      "sha256": "9fc87bd58b7faeeefe3f8d1721bd168f71dedb792ad59bee771c144e39f52d6c"
+    },
+    "econ": {
+     "name": "vitality-vs-legacy-m1-nuke.v2.cs2econ",
+     "size": 1194,
+     "sha256": "e57b4e82ee7a8b678fc712275999448981ff7ee36b20eaae271e458375fe2a69",
+     "rel": "library-2"
     }
    }
   },
@@ -4583,6 +5481,12 @@
      "name": "inner-circle-vs-fut-m2-nuke.v2.cs2stats",
      "size": 728,
      "sha256": "9f2d4fc18c54ac3d75c6f216384c0d86b471ad0667cf1129d45e85ce0a04bc06"
+    },
+    "econ": {
+     "name": "inner-circle-vs-fut-m2-nuke.v2.cs2econ",
+     "size": 820,
+     "sha256": "38fb782026c349921d8431c8f070cb2914ee9d0e88ad6ec82f77fe34019f4003",
+     "rel": "library-2"
     }
    }
   },
@@ -4612,6 +5516,12 @@
      "name": "inner-circle-vs-fut-m1-mirage.v2.cs2stats",
      "size": 820,
      "sha256": "6cbf0d1b395d6ecdb9f99f3bd0c66be4629f954a6f1b3411d27fdc6689600700"
+    },
+    "econ": {
+     "name": "inner-circle-vs-fut-m1-mirage.v2.cs2econ",
+     "size": 912,
+     "sha256": "2c634195181bd9b7a10233ff2e281e2e33be7e98a94b3500456cf2de7d48cecc",
+     "rel": "library-2"
     }
    }
   },
@@ -4641,6 +5551,12 @@
      "name": "g2-vs-natus-vincere-m2-inferno.v2.cs2stats",
      "size": 891,
      "sha256": "087e86b8ead3317bb147914d5f45e33e500860db805e1ad43c2dc238fe594727"
+    },
+    "econ": {
+     "name": "g2-vs-natus-vincere-m2-inferno.v2.cs2econ",
+     "size": 966,
+     "sha256": "69ca40c034eb71eac07d3286d4302354260b4e9124717413c52caefc8caf2d2b",
+     "rel": "library-2"
     }
    }
   },
@@ -4670,6 +5586,12 @@
      "name": "g2-vs-natus-vincere-m1-ancient.v2.cs2stats",
      "size": 752,
      "sha256": "ef741ba60121b647c683e9f305e4fffad9644ba7582f1cbfe161c6055430a701"
+    },
+    "econ": {
+     "name": "g2-vs-natus-vincere-m1-ancient.v2.cs2econ",
+     "size": 823,
+     "sha256": "25fb71ce6724fdfdea03e452da1d2d27c706e78807c1a88e25ac1a5ea33c6de3",
+     "rel": "library-2"
     }
    }
   },
@@ -4699,6 +5621,12 @@
      "name": "legacy-vs-falcons-m3-dust2.v2.cs2stats",
      "size": 756,
      "sha256": "9ea748224a060b4a40a0128bbe67fd6407e9b08a9d1e2d7be0dda04018ea047f"
+    },
+    "econ": {
+     "name": "legacy-vs-falcons-m3-dust2.v2.cs2econ",
+     "size": 804,
+     "sha256": "0d83f91f5d424e8cc6d2acdd6cd770078a854692bc4dd14a435b1cdcdedd0dd4",
+     "rel": "library-2"
     }
    }
   },
@@ -4728,6 +5656,12 @@
      "name": "legacy-vs-falcons-m2-ancient.v2.cs2stats",
      "size": 852,
      "sha256": "83b0942e409a6d052329f9cde3b31f03d2fc41e96014ffa23f9de87e14f95cf1"
+    },
+    "econ": {
+     "name": "legacy-vs-falcons-m2-ancient.v2.cs2econ",
+     "size": 958,
+     "sha256": "3fb9382bcac6b2da59106618fadb577c40c90295db63b2e92b6d421d2bd31b1a",
+     "rel": "library-2"
     }
    }
   },
@@ -4757,6 +5691,12 @@
      "name": "legacy-vs-falcons-m1-mirage.v2.cs2stats",
      "size": 737,
      "sha256": "7ead3655a99b52bb885f086d1fbe4ea9fb754c88e230d840fca6e37e5150a8ed"
+    },
+    "econ": {
+     "name": "legacy-vs-falcons-m1-mirage.v2.cs2econ",
+     "size": 816,
+     "sha256": "42b47be7af98589a15a0d03b0fcffc4505e98b88a6fa1a0227fab372b26b0f1f",
+     "rel": "library-2"
     }
    }
   },
@@ -4786,6 +5726,12 @@
      "name": "fut-vs-lynn-vision-m3-ancient.v2.cs2stats",
      "size": 805,
      "sha256": "b904fc20c26e0b66342215231f62fa55b19a2328ac4ddf44967f458c6a8aafaa"
+    },
+    "econ": {
+     "name": "fut-vs-lynn-vision-m3-ancient.v2.cs2econ",
+     "size": 844,
+     "sha256": "70f84f09507b712aa303224e4255f18fa16078f1bacb41e932082c4b5aa3dd16",
+     "rel": "library-2"
     }
    }
   },
@@ -4815,6 +5761,12 @@
      "name": "fut-vs-lynn-vision-m2-anubis.v2.cs2stats",
      "size": 677,
      "sha256": "6c1e0d2b4d14b69769fb085beedee613ac06cb07d64e943de789d70db9d300fc"
+    },
+    "econ": {
+     "name": "fut-vs-lynn-vision-m2-anubis.v2.cs2econ",
+     "size": 744,
+     "sha256": "b2e1923151820a4d0f79da6253f065271aa043405031c3dfe535d05513e73c49",
+     "rel": "library-2"
     }
    }
   },
@@ -4844,6 +5796,12 @@
      "name": "fut-vs-lynn-vision-m1-dust2.v2.cs2stats",
      "size": 854,
      "sha256": "53d30c56c70a56fc246395dfda4c74c32d907b908fbcbdaec72adef61b3047a0"
+    },
+    "econ": {
+     "name": "fut-vs-lynn-vision-m1-dust2.v2.cs2econ",
+     "size": 962,
+     "sha256": "f430472294fb9441e982d436cfc05622e3b2b60b266f232daeb7bf0f717107fd",
+     "rel": "library-2"
     }
    }
   },
@@ -4873,6 +5831,12 @@
      "name": "inner-circle-vs-mouz-m2-mirage.v2.cs2stats",
      "size": 728,
      "sha256": "41eaab27447f81da5bdbd08fd29316f489e1ae1cb332c4fe6d1fa5ec18cd6488"
+    },
+    "econ": {
+     "name": "inner-circle-vs-mouz-m2-mirage.v2.cs2econ",
+     "size": 773,
+     "sha256": "19b47f55befd17596ec995a20e4cca6f59567033b960c93c69b316e6357ae01d",
+     "rel": "library-2"
     }
    }
   },
@@ -4902,6 +5866,12 @@
      "name": "inner-circle-vs-mouz-m1-ancient.v2.cs2stats",
      "size": 705,
      "sha256": "b6b15d60623c086aded7a8b88eed6040aa9f65c1b2986388e55b87beb7b4fe61"
+    },
+    "econ": {
+     "name": "inner-circle-vs-mouz-m1-ancient.v2.cs2econ",
+     "size": 751,
+     "sha256": "ddf40cdd0df3c4ffc11b16e9647bf1828c59c4c9d5b251b2590a416a1e3312dd",
+     "rel": "library-2"
     }
    }
   },
@@ -4931,6 +5901,12 @@
      "name": "rooster-vs-markandlarry-m1-dust2.v2.cs2stats",
      "size": 990,
      "sha256": "6cc42257bcea4697d3260cf1d4983a5b0e4777b329fec54a3bf77a92dca09d2e"
+    },
+    "econ": {
+     "name": "rooster-vs-markandlarry-m1-dust2.v2.cs2econ",
+     "size": 1108,
+     "sha256": "77d0e587927f68aa972d4f64f4854761f6e9ddb88c6077f21f352cc1c60fd6d6",
+     "rel": "library-2"
     }
    }
   },
@@ -4960,6 +5936,12 @@
      "name": "rooster-vs-markandlarry-m2-mirage.v2.cs2stats",
      "size": 868,
      "sha256": "e28be0006ad046874aa9b3ca34159e6623ef12de165272d5089ed4250217ed5a"
+    },
+    "econ": {
+     "name": "rooster-vs-markandlarry-m2-mirage.v2.cs2econ",
+     "size": 1008,
+     "sha256": "b5b8d3a828353269369cd68f96374764198eaf6e6320a095b64e0f2f037751d1",
+     "rel": "library-2"
     }
    }
   },
@@ -4989,6 +5971,12 @@
      "name": "rooster-vs-markandlarry-m3-inferno.v2.cs2stats",
      "size": 837,
      "sha256": "439a79d8c83ca95b4c3094d00924f60bebf783895917f547491443ca54b5817f"
+    },
+    "econ": {
+     "name": "rooster-vs-markandlarry-m3-inferno.v2.cs2econ",
+     "size": 887,
+     "sha256": "97196ac0fbebe51835dafcfcc1f95e5b6e590b6224ade9698286e34be5540261",
+     "rel": "library-2"
     }
    }
   },
@@ -5018,6 +6006,12 @@
      "name": "vitality-vs-9z-m2-nuke.v2.cs2stats",
      "size": 713,
      "sha256": "42e1767f914a73132f65fdf74b01e9e05aef94039ec6541c71c837b322041434"
+    },
+    "econ": {
+     "name": "vitality-vs-9z-m2-nuke.v2.cs2econ",
+     "size": 837,
+     "sha256": "d93bd8826f171968e18de5b9a63585c7c228547ca1548ed711dedf7fd694ee1b",
+     "rel": "library-2"
     }
    }
   },
@@ -5047,6 +6041,12 @@
      "name": "vitality-vs-9z-m1-dust2.v2.cs2stats",
      "size": 642,
      "sha256": "698b5be800a83036836f0bc562ae78a7c1b918cc4c3f0a86bc4714d7a3e54437"
+    },
+    "econ": {
+     "name": "vitality-vs-9z-m1-dust2.v2.cs2econ",
+     "size": 711,
+     "sha256": "d884f68a6fe87a66e886ffe1e36f629b1c3f2548ff42bfd530fed28b08aa52ee",
+     "rel": "library-2"
     }
    }
   },
@@ -5076,6 +6076,12 @@
      "name": "m80-vs-furia-m1-cache.v2.cs2stats",
      "size": 1002,
      "sha256": "4bb3e1632e0458ef3a5e0ea00e138a72d9d930f76e7ca289a85edffabf207238"
+    },
+    "econ": {
+     "name": "m80-vs-furia-m1-cache.v2.cs2econ",
+     "size": 1156,
+     "sha256": "db68a81703754161768b1937a90179971b6876b6c3e6afa80c28a3a31a745f86",
+     "rel": "library-2"
     }
    }
   },
@@ -5105,6 +6111,12 @@
      "name": "m80-vs-furia-m2-dust2.v2.cs2stats",
      "size": 721,
      "sha256": "733d6943ff2cc5fdcafd2f6be257a5b2e30e5fecac7447c50ff20d39835d5abb"
+    },
+    "econ": {
+     "name": "m80-vs-furia-m2-dust2.v2.cs2econ",
+     "size": 776,
+     "sha256": "8a20274bdad8187fbbb263937dc30783dc4a066102d2929e24cb9104bbb03c00",
+     "rel": "library-2"
     }
    }
   },
@@ -5134,6 +6146,12 @@
      "name": "natus-vincere-vs-pain-m2-mirage.v2.cs2stats",
      "size": 847,
      "sha256": "61e3c5899443c4060864554ceb6b9510fbcbcde6728810b3a6a418f5a7cfc717"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-pain-m2-mirage.v2.cs2econ",
+     "size": 991,
+     "sha256": "ff94e89bf41de945c268d257e1d4fb580c6b5668c35410c78380183427da8524",
+     "rel": "library-2"
     }
    }
   },
@@ -5163,6 +6181,12 @@
      "name": "natus-vincere-vs-pain-m1-nuke.v2.cs2stats",
      "size": 809,
      "sha256": "4247294d62b33040c8e2c1e075066c3925fb8c8f10467a5ae095aef3fa7fdb57"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-pain-m1-nuke.v2.cs2econ",
+     "size": 905,
+     "sha256": "79cee497549ea490d5c02e743d2b6c133a064156391e1b9e1d3ff27d45f964ff",
+     "rel": "library-2"
     }
    }
   },
@@ -5192,6 +6216,12 @@
      "name": "g2-vs-spirit-m2-cache.v2.cs2stats",
      "size": 815,
      "sha256": "4b6808371f1b0b0dd9b40a695073ce5bee8920796a39eedc69222b7f0959a7e1"
+    },
+    "econ": {
+     "name": "g2-vs-spirit-m2-cache.v2.cs2econ",
+     "size": 911,
+     "sha256": "07d00356613b5ed0dd93d0bc2e958018ca1ed425c2bd5e0214e616447317197e",
+     "rel": "library-2"
     }
    }
   },
@@ -5221,6 +6251,12 @@
      "name": "g2-vs-spirit-m1-dust2.v2.cs2stats",
      "size": 760,
      "sha256": "f0893346e2a01bf9b178d95df16f45dfad67416d068ffbff3c229625984993cf"
+    },
+    "econ": {
+     "name": "g2-vs-spirit-m1-dust2.v2.cs2econ",
+     "size": 804,
+     "sha256": "f21c2666c61c25fbf272b8b5f8317a29a3dc0d6f92b4d8520203f7c684ad75f1",
+     "rel": "library-2"
     }
    }
   },
@@ -5250,6 +6286,12 @@
      "name": "aurora-vs-dendele-m2-mirage.v2.cs2stats",
      "size": 971,
      "sha256": "d3dcf822478560cef5d42892517084bfd383feac84a067a494614bbc49527269"
+    },
+    "econ": {
+     "name": "aurora-vs-dendele-m2-mirage.v2.cs2econ",
+     "size": 1112,
+     "sha256": "352c1737186e6e878d3b4f8b1efac9e0a399ba930c251ae653c79562890ea0b5",
+     "rel": "library-2"
     }
    }
   },
@@ -5279,6 +6321,12 @@
      "name": "aurora-vs-dendele-m1-cache.v2.cs2stats",
      "size": 767,
      "sha256": "8c6bb66d9e28e05f60a0a465091ccff0153d489ca1f0c2a1f2e6e2baa3c5e013"
+    },
+    "econ": {
+     "name": "aurora-vs-dendele-m1-cache.v2.cs2econ",
+     "size": 845,
+     "sha256": "ab62e27b214e5ca7fccc6cf339e5895961ad46e9e34525897aaf99176176c024",
+     "rel": "library-2"
     }
    }
   },
@@ -5308,6 +6356,12 @@
      "name": "markandlarry-vs-lfo-8-m1-nuke.v2.cs2stats",
      "size": 817,
      "sha256": "e0e2c03b671be8fabdd996d68fe49b498654932682e4a1c597f03d421c20cc4f"
+    },
+    "econ": {
+     "name": "markandlarry-vs-lfo-8-m1-nuke.v2.cs2econ",
+     "size": 895,
+     "sha256": "b304403755382ddb87aa706c8221bd7101886be833748504af82226fb745fd8c",
+     "rel": "library-2"
     }
    }
   },
@@ -5337,6 +6391,12 @@
      "name": "markandlarry-vs-lfo-8-m2-mirage.v2.cs2stats",
      "size": 706,
      "sha256": "1ca935296e52f1614cf9f80e14bafdb8574524181694c67b617d9adf6c1312d2"
+    },
+    "econ": {
+     "name": "markandlarry-vs-lfo-8-m2-mirage.v2.cs2econ",
+     "size": 757,
+     "sha256": "ac1919b201fcb81c7c97ed6a09be170f1d4da33dbbe4a2302b42e8d4c7f097f2",
+     "rel": "library-2"
     }
    }
   },
@@ -5366,6 +6426,12 @@
      "name": "falcons-vs-lynn-vision-m3-dust2.v2.cs2stats",
      "size": 829,
      "sha256": "4579139a1f931975ecaaa1002e8bc1b649fc8164aef8699f77c18cd337337c95"
+    },
+    "econ": {
+     "name": "falcons-vs-lynn-vision-m3-dust2.v2.cs2econ",
+     "size": 954,
+     "sha256": "35a17529a27f5175d376c3491e39e1e6e451838934746ea78bdb29d3512997d2",
+     "rel": "library-2"
     }
    }
   },
@@ -5395,6 +6461,12 @@
      "name": "falcons-vs-lynn-vision-m2-ancient.v2.cs2stats",
      "size": 851,
      "sha256": "481010c042353c7a3d872b47ad4255fa52127b8498b50fbcae0e2fafd98d157c"
+    },
+    "econ": {
+     "name": "falcons-vs-lynn-vision-m2-ancient.v2.cs2econ",
+     "size": 964,
+     "sha256": "6202b52258a31e028fcb2832a0966bb321aeb6a24d51cdeb9b817e053ef0e695",
+     "rel": "library-2"
     }
    }
   },
@@ -5424,6 +6496,12 @@
      "name": "falcons-vs-lynn-vision-m1-inferno.v2.cs2stats",
      "size": 729,
      "sha256": "7b6f685d490b95e389fc24e7e0337457f164a60e07f064706e3e22767c605178"
+    },
+    "econ": {
+     "name": "falcons-vs-lynn-vision-m1-inferno.v2.cs2econ",
+     "size": 764,
+     "sha256": "3e9c8c9e97678295a4193c23cd09a478c14cb1d4c1d004bbc1948ed0fca6f3b7",
+     "rel": "library-2"
     }
    }
   },
@@ -5453,6 +6531,12 @@
      "name": "legacy-vs-fut-m2-dust2.v2.cs2stats",
      "size": 884,
      "sha256": "5b8ebe1fc0cb3d702f3f8adb5cbf868b6d24a6443888352d1e34cbd5301732bd"
+    },
+    "econ": {
+     "name": "legacy-vs-fut-m2-dust2.v2.cs2econ",
+     "size": 986,
+     "sha256": "0a3e0bd798d2269b5833b9d49ca32e452eb33628c4a5de2e528e6c1dabfa9531",
+     "rel": "library-2"
     }
    }
   },
@@ -5482,6 +6566,12 @@
      "name": "legacy-vs-fut-m1-ancient.v2.cs2stats",
      "size": 868,
      "sha256": "ea7637a2bfc1132b41076ee87aed59978bdc34395130ac4daf4616304a50c8f8"
+    },
+    "econ": {
+     "name": "legacy-vs-fut-m1-ancient.v2.cs2econ",
+     "size": 953,
+     "sha256": "a4053a6a97d37189c0f8459cafd1adc1b472ce5ba14faa25916d42153d730128",
+     "rel": "library-2"
     }
    }
   },
@@ -5511,6 +6601,12 @@
      "name": "mouz-vs-9z-m1-cache.v2.cs2stats",
      "size": 670,
      "sha256": "14b4b5724b792df326843634ba741d8587f597fd44396640da3c2ad6710bd5ef"
+    },
+    "econ": {
+     "name": "mouz-vs-9z-m1-cache.v2.cs2econ",
+     "size": 735,
+     "sha256": "be1004d43fc402bf22dce231118d3ec53966ec1b153f0f8326bae89aaabcff13",
+     "rel": "library-2"
     }
    }
   },
@@ -5540,6 +6636,12 @@
      "name": "mouz-vs-9z-m2-nuke.v2.cs2stats",
      "size": 755,
      "sha256": "77794b2632ec72b6fa5853320a7383bbfa88715abeb773cec333d0fb26c2ea24"
+    },
+    "econ": {
+     "name": "mouz-vs-9z-m2-nuke.v2.cs2econ",
+     "size": 849,
+     "sha256": "7832f051b274d4882b489cd6513863a8c09241a7b81418f29408e492b2894c10",
+     "rel": "library-2"
     }
    }
   },
@@ -5569,6 +6671,12 @@
      "name": "vitality-vs-inner-circle-m2-cache.v2.cs2stats",
      "size": 1020,
      "sha256": "c371a140b8cd463761bf9f017e9e7bd61ef33e44d5b80a13c1da66bc9b9534ac"
+    },
+    "econ": {
+     "name": "vitality-vs-inner-circle-m2-cache.v2.cs2econ",
+     "size": 1154,
+     "sha256": "781d706130829c36d4351bd66a855f2c3901cc6da18fb7578ccfe2240482881c",
+     "rel": "library-2"
     }
    }
   },
@@ -5598,6 +6706,12 @@
      "name": "vitality-vs-inner-circle-m1-anubis.v2.cs2stats",
      "size": 793,
      "sha256": "fc4742277804b363f8fe1e7eaf625548e64af981210cd3a085e216604c58a8e6"
+    },
+    "econ": {
+     "name": "vitality-vs-inner-circle-m1-anubis.v2.cs2econ",
+     "size": 915,
+     "sha256": "c5956875cacfba9cb83fafd76723baefa40c48affa06ea668ed415e32a84b534",
+     "rel": "library-2"
     }
    }
   },
@@ -5627,6 +6741,12 @@
      "name": "furia-vs-pain-m2-cache.v2.cs2stats",
      "size": 741,
      "sha256": "585b2ca54ee25e2e96f2dc30a3cfbd031473c8daf0ed099665dec0bc8c990ff7"
+    },
+    "econ": {
+     "name": "furia-vs-pain-m2-cache.v2.cs2econ",
+     "size": 793,
+     "sha256": "41de0b9c2248dc89a6bdf84cbf7c9940facd5aae218a0fd2a149c6df9601eff8",
+     "rel": "library-2"
     }
    }
   },
@@ -5656,6 +6776,12 @@
      "name": "furia-vs-pain-m1-mirage.v2.cs2stats",
      "size": 645,
      "sha256": "da50cb21c238adfc91912f6855c4443fba39f5ad19e065347f1ebf2bdc3bdb5c"
+    },
+    "econ": {
+     "name": "furia-vs-pain-m1-mirage.v2.cs2econ",
+     "size": 696,
+     "sha256": "aadb8c0ef144d42b322cc6ae8c9ba4504c2435016973547ed7b890bfe96ada8f",
+     "rel": "library-2"
     }
    }
   },
@@ -5685,6 +6811,12 @@
      "name": "natus-vincere-vs-m80-m3-inferno.v2.cs2stats",
      "size": 774,
      "sha256": "f5b4d4c268429ea8cf169a38a64c87f708f35345ceadc06a30347f3bebb0c614"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-m80-m3-inferno.v2.cs2econ",
+     "size": 826,
+     "sha256": "73e9ee4b448e61c2d856a0deb4ececfbcfe47a1c437c2c3f605efba9b7dba397",
+     "rel": "library-2"
     }
    }
   },
@@ -5714,6 +6846,12 @@
      "name": "natus-vincere-vs-m80-m2-mirage.v2.cs2stats",
      "size": 756,
      "sha256": "8c831af2305e5c168ef44f10bba05e7424299c331070ab47fa811bee25c2b087"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-m80-m2-mirage.v2.cs2econ",
+     "size": 825,
+     "sha256": "37c781585edadd544b2dd99046182ebccd613064224dc99c858a0dbe489aeacd",
+     "rel": "library-2"
     }
    }
   },
@@ -5743,6 +6881,12 @@
      "name": "natus-vincere-vs-m80-m1-anubis.v2.cs2stats",
      "size": 723,
      "sha256": "57d11a4cb82e898cf15a5dd393225dbe7c3eeca89f6ca447312b5d02c9dd8562"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-m80-m1-anubis.v2.cs2econ",
+     "size": 754,
+     "sha256": "2ccc5ec6f6f9aecc08f6944f38a5f7912afa06160d4d5bf17b641bd893b3482a",
+     "rel": "library-2"
     }
    }
   },
@@ -5772,6 +6916,12 @@
      "name": "spirit-vs-dendele-m2-cache.v2.cs2stats",
      "size": 766,
      "sha256": "03ae18e8b00c4dc99eec303867ba34e8715cdc4af676907012724aa432d82705"
+    },
+    "econ": {
+     "name": "spirit-vs-dendele-m2-cache.v2.cs2econ",
+     "size": 866,
+     "sha256": "e2418e43bed93cf2e931bae50c23ff513e342462d7cd487771e3bba83e5cf158",
+     "rel": "library-2"
     }
    }
   },
@@ -5801,6 +6951,12 @@
      "name": "spirit-vs-dendele-m1-ancient.v2.cs2stats",
      "size": 818,
      "sha256": "731f74a704fe18e9cd7e062150d799456d39a6f9df278fa9f82d6c97dfbd1241"
+    },
+    "econ": {
+     "name": "spirit-vs-dendele-m1-ancient.v2.cs2econ",
+     "size": 878,
+     "sha256": "72e40cd9f819dd42bca7c0a6223ec64746210b24bd621d9d75fca33147dc6059",
+     "rel": "library-2"
     }
    }
   },
@@ -5830,6 +6986,12 @@
      "name": "aurora-vs-g2-m2-anubis.v2.cs2stats",
      "size": 957,
      "sha256": "06ab943ee95ddf17e96a092206752e8d39644605d5c52ae2ded3662896852c95"
+    },
+    "econ": {
+     "name": "aurora-vs-g2-m2-anubis.v2.cs2econ",
+     "size": 1104,
+     "sha256": "3be7d710e79f991957c7891f87bf65dd6af0edb5aef83ca1583080ee0392a062",
+     "rel": "library-2"
     }
    }
   },
@@ -5859,6 +7021,12 @@
      "name": "aurora-vs-g2-m1-inferno.v2.cs2stats",
      "size": 724,
      "sha256": "f49ba31c8232f10417dcf4244823c6bb880ed0cfe2c31b439ecb794de2043215"
+    },
+    "econ": {
+     "name": "aurora-vs-g2-m1-inferno.v2.cs2econ",
+     "size": 771,
+     "sha256": "233ae8002d8048ce15d28a61c77caf253115ec81167d06139a82c6b32b197244",
+     "rel": "library-2"
     }
    }
   },
@@ -5917,6 +7085,12 @@
      "name": "100-thieves-vs-bc-game-m1-inferno.v2.cs2stats",
      "size": 807,
      "sha256": "dd71fdb0236e90d0c1b219f7252d52c6cd6fa273f6ca178acbcc3e5d2a2a1aed"
+    },
+    "econ": {
+     "name": "100-thieves-vs-bc-game-m1-inferno.v2.cs2econ",
+     "size": 857,
+     "sha256": "5300a271435a9eb762f26e6311af0ed1fecfbbdd4e159b1a614d47fd7f62ec25",
+     "rel": "library-2"
     }
    }
   },
@@ -5946,6 +7120,12 @@
      "name": "bc-game-vs-og-m1-inferno.v2.cs2stats",
      "size": 820,
      "sha256": "9554763cb8b911923c0c588d5da49ec54c77cc246695898ba5047dd7e6bc3c70"
+    },
+    "econ": {
+     "name": "bc-game-vs-og-m1-inferno.v2.cs2econ",
+     "size": 878,
+     "sha256": "3d6829c750c05331a137598ca4b710ee1790467bed8d3a64ddcf2e8977e30bb9",
+     "rel": "library-2"
     }
    }
   },
@@ -5975,6 +7155,12 @@
      "name": "fut-vs-spirit-m3-ancient.v2.cs2stats",
      "size": 1054,
      "sha256": "9d444ce0f78beaf577f27853eb6495da137e434c61731dbea98c31f14852c16d"
+    },
+    "econ": {
+     "name": "fut-vs-spirit-m3-ancient.v2.cs2econ",
+     "size": 1162,
+     "sha256": "f1d146a1b517df3f09e0ca07285d5141b2e6608af2a9b36db4d52ce51c21e2c4",
+     "rel": "library-2"
     }
    }
   },
@@ -6004,6 +7190,12 @@
      "name": "fut-vs-spirit-m4-nuke.v2.cs2stats",
      "size": 741,
      "sha256": "451a5fd27c1be960608da88946b883618b6b206c47d274ae380c15164b44e052"
+    },
+    "econ": {
+     "name": "fut-vs-spirit-m4-nuke.v2.cs2econ",
+     "size": 779,
+     "sha256": "b8e2311309933aa2d128cac049e150340ce3a1a8b1430ac5bf1f79848d860d4d",
+     "rel": "library-2"
     }
    }
   },
@@ -6033,6 +7225,12 @@
      "name": "fut-vs-spirit-m2-anubis.v2.cs2stats",
      "size": 1034,
      "sha256": "ea1d90642ba05e97cbac20a820d9aef278fa3854dd25daacb681bc1eb90ca18f"
+    },
+    "econ": {
+     "name": "fut-vs-spirit-m2-anubis.v2.cs2econ",
+     "size": 1138,
+     "sha256": "53696725c97f964e992f792342a75f266755eac2bf0e5742e4818d3e2c49d40e",
+     "rel": "library-2"
     }
    }
   },
@@ -6062,6 +7260,12 @@
      "name": "fut-vs-spirit-m1-cache.v2.cs2stats",
      "size": 866,
      "sha256": "5325d750b14e13397c9604edd7f84b669905191c988c21abcdba03a1f92f64f6"
+    },
+    "econ": {
+     "name": "fut-vs-spirit-m1-cache.v2.cs2econ",
+     "size": 942,
+     "sha256": "6ad485161d918bf79199149350a07e1c5f90727e8014ba992a6e39cc75688e03",
+     "rel": "library-2"
     }
    }
   },
@@ -6091,6 +7295,12 @@
      "name": "vitality-vs-spirit-m3-mirage.v2.cs2stats",
      "size": 694,
      "sha256": "f69d365267a2057c73332bc31e0802ab558bc4eab3dc9538b90ce055f1954739"
+    },
+    "econ": {
+     "name": "vitality-vs-spirit-m3-mirage.v2.cs2econ",
+     "size": 723,
+     "sha256": "b7e88ad2aa1bed697b1b0dcda9ea6e38f7b9175a19afcbaebf7c3cc6f4028f71",
+     "rel": "library-2"
     }
    }
   },
@@ -6120,6 +7330,12 @@
      "name": "vitality-vs-spirit-m2-nuke.v2.cs2stats",
      "size": 1030,
      "sha256": "d3dd242ac3ea8e661b5cf840c416a7d68777ad83c9646109bc7c5ba81539f29e"
+    },
+    "econ": {
+     "name": "vitality-vs-spirit-m2-nuke.v2.cs2econ",
+     "size": 1185,
+     "sha256": "13f020459d6dd42412cd5936a9c865917a4d62237620c163b9cf14466c7a29d7",
+     "rel": "library-2"
     }
    }
   },
@@ -6149,6 +7365,12 @@
      "name": "vitality-vs-spirit-m1-anubis.v2.cs2stats",
      "size": 907,
      "sha256": "eac7d4040a17ac343f14ded03835790f0b3027c353952a724e44240493cb5665"
+    },
+    "econ": {
+     "name": "vitality-vs-spirit-m1-anubis.v2.cs2econ",
+     "size": 972,
+     "sha256": "aa3cfb7caeb0aad32c48f40a4d97e142d86844f807982d4d223482aff67af458",
+     "rel": "library-2"
     }
    }
   },
@@ -6178,6 +7400,12 @@
      "name": "g2-vs-astralis-m3-inferno.v2.cs2stats",
      "size": 792,
      "sha256": "0766328755b2bb6545ba2f7602efe9ba7f44fe58c37181b30c036b537b789bc3"
+    },
+    "econ": {
+     "name": "g2-vs-astralis-m3-inferno.v2.cs2econ",
+     "size": 861,
+     "sha256": "c008eb3e31a6e93a26683b56b656445684c4baee7660efd50844f6c5b6bdcb4a",
+     "rel": "library-2"
     }
    }
   },
@@ -6207,6 +7435,12 @@
      "name": "g2-vs-astralis-m2-dust2.v2.cs2stats",
      "size": 772,
      "sha256": "5acb87080033039889c7ed0ab305e1ba2b012c4d2e114b35b854dcc1e3b50a4f"
+    },
+    "econ": {
+     "name": "g2-vs-astralis-m2-dust2.v2.cs2econ",
+     "size": 850,
+     "sha256": "114ca01d0c50655e4f11dd09e19ec36069039db5092b48d332387f29b1c15082",
+     "rel": "library-2"
     }
    }
   },
@@ -6236,6 +7470,12 @@
      "name": "g2-vs-astralis-m1-ancient.v2.cs2stats",
      "size": 755,
      "sha256": "ab655fe9a30f9529e5b9b8b3caf4f495fe6139d01c7046e527c43af9d39087e0"
+    },
+    "econ": {
+     "name": "g2-vs-astralis-m1-ancient.v2.cs2econ",
+     "size": 828,
+     "sha256": "2351cba5e684672e14183ded074afdf1bd88bd291358efc1a53602e7a8351c01",
+     "rel": "library-2"
     }
    }
   },
@@ -6265,6 +7505,12 @@
      "name": "legacy-vs-mibr-m2-inferno.v2.cs2stats",
      "size": 802,
      "sha256": "0adc5acd37d57a8c850a5f6bed9003465a77c3dca8cc735c7fb3a263cff58d1e"
+    },
+    "econ": {
+     "name": "legacy-vs-mibr-m2-inferno.v2.cs2econ",
+     "size": 868,
+     "sha256": "186c5481e32d0b0df031d77db8c198d08ae282ccb71af8df610a63c328083885",
+     "rel": "library-2"
     }
    }
   },
@@ -6294,6 +7540,12 @@
      "name": "astralis-vs-ninjas-in-pyjamas-m3-cache.v2.cs2stats",
      "size": 811,
      "sha256": "068517b15778c68c6981c96fe6a65585c82acf2058ad260a1281c9b6ae0091a5"
+    },
+    "econ": {
+     "name": "astralis-vs-ninjas-in-pyjamas-m3-cache.v2.cs2econ",
+     "size": 861,
+     "sha256": "f0cf9ee4ab5f44992be064c4a7bfee69e7520f61e70b6894ce15d8486f39f38d",
+     "rel": "library-2"
     }
    }
   },
@@ -6323,6 +7575,12 @@
      "name": "legacy-vs-mibr-m1-nuke.v2.cs2stats",
      "size": 868,
      "sha256": "6b1f2872f147287ed42697539a1e1dfc92b2183447a8f98510e839912fd95169"
+    },
+    "econ": {
+     "name": "legacy-vs-mibr-m1-nuke.v2.cs2econ",
+     "size": 979,
+     "sha256": "91c7267048c4e0e2acadd8636be3ba76857673a89390b6dec14a7300d00e9302",
+     "rel": "library-2"
     }
    }
   },
@@ -6352,6 +7610,12 @@
      "name": "astralis-vs-ninjas-in-pyjamas-m2-inferno.v2.cs2stats",
      "size": 899,
      "sha256": "08a6cf743ddfed10f03a77f099a4c7ec5388fbb7122ae19b2d9d32d7e2b7aa61"
+    },
+    "econ": {
+     "name": "astralis-vs-ninjas-in-pyjamas-m2-inferno.v2.cs2econ",
+     "size": 952,
+     "sha256": "d80074f4a9e7eaaffdad0a76dc133c473874b9be8e592a5f042a01f75bda1a25",
+     "rel": "library-2"
     }
    }
   },
@@ -6381,6 +7645,12 @@
      "name": "astralis-vs-ninjas-in-pyjamas-m1-nuke.v2.cs2stats",
      "size": 693,
      "sha256": "b6e475b77b3771e598ff14334540afff6732b424f4b943527b6f941b882b33c6"
+    },
+    "econ": {
+     "name": "astralis-vs-ninjas-in-pyjamas-m1-nuke.v2.cs2econ",
+     "size": 725,
+     "sha256": "6ada695e855c391e4a39f5e3f6f171992b10c29eaf69e53005e51b40c8b49e57",
+     "rel": "library-2"
     }
    }
   },
@@ -6410,6 +7680,12 @@
      "name": "mouz-vs-parivision-m2-inferno.v2.cs2stats",
      "size": 889,
      "sha256": "5a15b51b8cdd9dc509c7a5b8d8421502dcc308f41a7ffe256c1dbeb2bee644f8"
+    },
+    "econ": {
+     "name": "mouz-vs-parivision-m2-inferno.v2.cs2econ",
+     "size": 949,
+     "sha256": "b53344687be113a8f4d5986ec0a066cd9420650bb07f341ce7fc2e1ab21d4617",
+     "rel": "library-2"
     }
    }
   },
@@ -6439,6 +7715,12 @@
      "name": "mouz-vs-parivision-m1-dust2.v2.cs2stats",
      "size": 699,
      "sha256": "dc75f410d6b0ae27d510c1db5b5dc61e5c1f805a917e7337efce589e21b73c8b"
+    },
+    "econ": {
+     "name": "mouz-vs-parivision-m1-dust2.v2.cs2econ",
+     "size": 765,
+     "sha256": "2869df50a3d36f43b463de9f0cbea8fe1c0d0e369dd1a053342af12a4d9e36f7",
+     "rel": "library-2"
     }
    }
   },
@@ -6468,6 +7750,12 @@
      "name": "lynn-vision-vs-vitality-m2-inferno.v2.cs2stats",
      "size": 763,
      "sha256": "60355f8c1ead06269ac6bbddaf21dfe4a73d434b723227b8fc1e8609f52d005c"
+    },
+    "econ": {
+     "name": "lynn-vision-vs-vitality-m2-inferno.v2.cs2econ",
+     "size": 800,
+     "sha256": "dd92dae61d8bbdc22e77f7353cbb5dc6fbc5d3edd71880a81e1e2854936a14b6",
+     "rel": "library-2"
     }
    }
   },
@@ -6497,6 +7785,12 @@
      "name": "lynn-vision-vs-vitality-m1-dust2.v2.cs2stats",
      "size": 662,
      "sha256": "7befabffff11c655a617286a263a7eb61d86d4e849a122a101d45ac38724dce3"
+    },
+    "econ": {
+     "name": "lynn-vision-vs-vitality-m1-dust2.v2.cs2econ",
+     "size": 707,
+     "sha256": "c179ee5843dbee69298332cf94729a406c2872b850de84dd69891421ed812c4a",
+     "rel": "library-2"
     }
    }
   },
@@ -6526,6 +7820,12 @@
      "name": "spirit-vs-big-m3-mirage.v2.cs2stats",
      "size": 779,
      "sha256": "dd666c39b909623cc6d2f49abd1fcab62bbd6184391b07d3718d07b292c99671"
+    },
+    "econ": {
+     "name": "spirit-vs-big-m3-mirage.v2.cs2econ",
+     "size": 860,
+     "sha256": "474330cba10aba6dcc725c64510257d51740ee47cc7105c219e6ac047976c09f",
+     "rel": "library-2"
     }
    }
   },
@@ -6555,6 +7855,12 @@
      "name": "spirit-vs-big-m2-dust2.v2.cs2stats",
      "size": 863,
      "sha256": "99b7f0c80d0e2fcf6ba4eac766db3a6dadafa94e0e83033edf28e85b8e7705a4"
+    },
+    "econ": {
+     "name": "spirit-vs-big-m2-dust2.v2.cs2econ",
+     "size": 943,
+     "sha256": "db31086cc2285e0d443b8d474beb995c124bcaa211c03c7f33417ab8d414120f",
+     "rel": "library-2"
     }
    }
   },
@@ -6584,6 +7890,12 @@
      "name": "spirit-vs-big-m1-cache.v2.cs2stats",
      "size": 825,
      "sha256": "1f75871afd56a9984f655637a1db9d888aca988d5a741639c717c5f7fbfe9373"
+    },
+    "econ": {
+     "name": "spirit-vs-big-m1-cache.v2.cs2econ",
+     "size": 906,
+     "sha256": "98fc9feb0a53f847162eddb7f1e5e0450d3c05f3ff2b4cd847f0073b49109a92",
+     "rel": "library-2"
     }
    }
   },
@@ -6613,6 +7925,12 @@
      "name": "jijiehao-vs-aurora-m2-anubis.v2.cs2stats",
      "size": 706,
      "sha256": "8a6f20c475dce93afb1c5a433330a0814d47f56f79db592e5ab03c84695d3424"
+    },
+    "econ": {
+     "name": "jijiehao-vs-aurora-m2-anubis.v2.cs2econ",
+     "size": 741,
+     "sha256": "e442e6f2f80b7cb4bda4c198e36db84fc70ce88dc7abc560af5442e5f6c5ee9f",
+     "rel": "library-2"
     }
    }
   },
@@ -6642,6 +7960,12 @@
      "name": "jijiehao-vs-aurora-m1-mirage-p2.v2.cs2stats",
      "size": 556,
      "sha256": "eabda4ae3b1b0013bc75e6dd85d3950615b1ed2ca1a32d5ccc5271379a03394d"
+    },
+    "econ": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p2.v2.cs2econ",
+     "size": 572,
+     "sha256": "11a3f64fb5c22d6daf0375c339df473366c0bd90d7846ba78432124b8348722e",
+     "rel": "library-2"
     }
    },
    "part": {
@@ -6677,6 +8001,12 @@
      "name": "jijiehao-vs-aurora-m1-mirage-p1.v2.cs2stats",
      "size": 468,
      "sha256": "19a8a719b6daab760fd356ffa93b554955457801bf35b46b8f1970fd16434ed6"
+    },
+    "econ": {
+     "name": "jijiehao-vs-aurora-m1-mirage-p1.v2.cs2econ",
+     "size": 463,
+     "sha256": "b6092ba6306a62a5d959549a1e16ec8d9db11bb7da44fd1ce28087e820f6c945",
+     "rel": "library-2"
     }
    }
   },
@@ -6706,6 +8036,12 @@
      "name": "k27-vs-mibr-m2-nuke.v2.cs2stats",
      "size": 726,
      "sha256": "af0e24a3d9faaa3a2c00d1964adcbdfbfa1ea2026274d21e90752f348b867b72"
+    },
+    "econ": {
+     "name": "k27-vs-mibr-m2-nuke.v2.cs2econ",
+     "size": 771,
+     "sha256": "c706a348fe650b7aa550077a5aa216d32b18554806461e5ef53f32404c93d9e3",
+     "rel": "library-2"
     }
    }
   },
@@ -6735,6 +8071,12 @@
      "name": "parivision-vs-100-thieves-m2-dust2.v2.cs2stats",
      "size": 734,
      "sha256": "e0ffae64bd4ea611e4e1abed37b9dfa8dff2fe034f97069b2efb52642d62bac2"
+    },
+    "econ": {
+     "name": "parivision-vs-100-thieves-m2-dust2.v2.cs2econ",
+     "size": 815,
+     "sha256": "b19f45ab0258599592bf08c4cdcb719505a2d77e9e297971e256fc5fc5fd18ce",
+     "rel": "library-2"
     }
    }
   },
@@ -6764,6 +8106,12 @@
      "name": "k27-vs-mibr-m1-cache.v2.cs2stats",
      "size": 823,
      "sha256": "5816668a76a94d615f6da20c9eabd77672437e80ab4245d7e584d9ea9726353c"
+    },
+    "econ": {
+     "name": "k27-vs-mibr-m1-cache.v2.cs2econ",
+     "size": 932,
+     "sha256": "804c5e05aec1323d6f293826f18a549ab98544900b473be2e7cbe0d897e33159",
+     "rel": "library-2"
     }
    }
   },
@@ -6793,6 +8141,12 @@
      "name": "parivision-vs-100-thieves-m1-anubis.v2.cs2stats",
      "size": 745,
      "sha256": "353b2b20f2fb9504bc8a31b43b3ea7ccbc453910c7356b8ccc076a5fc36f2574"
+    },
+    "econ": {
+     "name": "parivision-vs-100-thieves-m1-anubis.v2.cs2econ",
+     "size": 775,
+     "sha256": "4d7f1b1b29e25deacc8e19b9b7756acc26e2631d7350f46dd978fefa079461b7",
+     "rel": "library-2"
     }
    }
   },
@@ -6822,6 +8176,12 @@
      "name": "b8-vs-vitality-m3-dust2.v2.cs2stats",
      "size": 720,
      "sha256": "a4b5e8e8a0680c4d22d8e45f3d1676a1591f123a85d79d32092be76fe7ff542c"
+    },
+    "econ": {
+     "name": "b8-vs-vitality-m3-dust2.v2.cs2econ",
+     "size": 753,
+     "sha256": "6cb1c3b1d979a5e96fc5c8fedaa9b3d69e265eb25b5eac9e52b685e9774610ed",
+     "rel": "library-2"
     }
    }
   },
@@ -6851,6 +8211,12 @@
      "name": "fut-vs-mouz-m3-mirage.v2.cs2stats",
      "size": 869,
      "sha256": "0f281f10f1531bc4df4af958f5117a60ea3bb6787370c7dce1af149155a0d649"
+    },
+    "econ": {
+     "name": "fut-vs-mouz-m3-mirage.v2.cs2econ",
+     "size": 1002,
+     "sha256": "02e2e55c97163fa7feeb1e0215f475528a562ca93692e7d8d2ae4da869ef3d20",
+     "rel": "library-2"
     }
    }
   },
@@ -6880,6 +8246,12 @@
      "name": "b8-vs-vitality-m2-inferno.v2.cs2stats",
      "size": 911,
      "sha256": "673149d608a37c8196a644bbdaf3c095be58a6d76cba98434632474ae799466e"
+    },
+    "econ": {
+     "name": "b8-vs-vitality-m2-inferno.v2.cs2econ",
+     "size": 954,
+     "sha256": "ce2d81a1cc38d36868d09267abe0879fb5258fb50181ada3461498da4e6f2584",
+     "rel": "library-2"
     }
    }
   },
@@ -6909,6 +8281,12 @@
      "name": "fut-vs-mouz-m2-nuke.v2.cs2stats",
      "size": 964,
      "sha256": "ff0a983f32cc3f823480f771e97ec528ff2ed1f99f7de5d03fa41f67c8a22e7a"
+    },
+    "econ": {
+     "name": "fut-vs-mouz-m2-nuke.v2.cs2econ",
+     "size": 1070,
+     "sha256": "0d0b490d91c5b57e32fc966e297e540a19ee17fd9dbfc0cd0e327fb04c762f89",
+     "rel": "library-2"
     }
    }
   },
@@ -6938,6 +8316,12 @@
      "name": "b8-vs-vitality-m1-mirage.v2.cs2stats",
      "size": 963,
      "sha256": "649d03903ca9a552535acb04b0d6bef297ed2cf1ac33098e2bd8e7f3016244d2"
+    },
+    "econ": {
+     "name": "b8-vs-vitality-m1-mirage.v2.cs2econ",
+     "size": 1089,
+     "sha256": "cba0483cbae2afed105a1b6d6d1952f01a53593ecb051484eaa4f64133cf8207",
+     "rel": "library-2"
     }
    }
   },
@@ -6967,6 +8351,12 @@
      "name": "fut-vs-mouz-m1-ancient.v2.cs2stats",
      "size": 781,
      "sha256": "04f756ca0cfd1233ddfda7421325d556b52502ed447f13b37c59532fd34458d7"
+    },
+    "econ": {
+     "name": "fut-vs-mouz-m1-ancient.v2.cs2econ",
+     "size": 801,
+     "sha256": "5069c8bd4419ac5f2faafe53608be5119fadba3364571503c78645f3866de080",
+     "rel": "library-2"
     }
    }
   },
@@ -6996,6 +8386,12 @@
      "name": "tyloo-vs-lynn-vision-m2-inferno.v2.cs2stats",
      "size": 731,
      "sha256": "715caae80506ad0e990efe8534ba88b85b29bbf2821680b12e1086f1bc566215"
+    },
+    "econ": {
+     "name": "tyloo-vs-lynn-vision-m2-inferno.v2.cs2econ",
+     "size": 759,
+     "sha256": "ba682041f9d42f661b2faaa617341deff09af2806ce3939444444acd16e7fdcb",
+     "rel": "library-2"
     }
    }
   },
@@ -7025,6 +8421,12 @@
      "name": "tyloo-vs-lynn-vision-m1-nuke.v2.cs2stats",
      "size": 787,
      "sha256": "e6e9ac60f52afe32ce2444b86b3706b3647c475cbfecb9d0e43c40714ecee589"
+    },
+    "econ": {
+     "name": "tyloo-vs-lynn-vision-m1-nuke.v2.cs2econ",
+     "size": 898,
+     "sha256": "7585de9151f3df5f16f105f2b3915f267ef6a2446df63e84784b0c0333d0a63c",
+     "rel": "library-2"
     }
    }
   },
@@ -7054,6 +8456,12 @@
      "name": "falcons-vs-astralis-m2-dust2.v2.cs2stats",
      "size": 857,
      "sha256": "d0a4cf6d01272fcdd7c0e2c7018c81eaddd1f015e180785fa7043482c770051d"
+    },
+    "econ": {
+     "name": "falcons-vs-astralis-m2-dust2.v2.cs2econ",
+     "size": 942,
+     "sha256": "f9954c86a594c9b20f533b5b624effa9f8bc24bbdf2aa799ee456b6a031346bb",
+     "rel": "library-2"
     }
    }
   },
@@ -7083,6 +8491,12 @@
      "name": "legacy-vs-faze-m2-mirage.v2.cs2stats",
      "size": 796,
      "sha256": "c745d4eca05d737daa9999953eb58125e18fb84009623f8c0cd4ab5c786f7fee"
+    },
+    "econ": {
+     "name": "legacy-vs-faze-m2-mirage.v2.cs2econ",
+     "size": 875,
+     "sha256": "982f8b21b073ef6c1424c3bd6bfcdbd260861575f778ef803c117ac579e6f1e4",
+     "rel": "library-2"
     }
    }
   },
@@ -7112,6 +8526,12 @@
      "name": "legacy-vs-faze-m1-cache.v2.cs2stats",
      "size": 754,
      "sha256": "322b16f6686b2bc6d08470909ca3ea0389e81b99af46e7bc51b15f6d1149285d"
+    },
+    "econ": {
+     "name": "legacy-vs-faze-m1-cache.v2.cs2econ",
+     "size": 820,
+     "sha256": "a5569bd40f0cddf1e9362568bb655ef61d40b93c3fbd0c9d319ba588f6a3bfa7",
+     "rel": "library-2"
     }
    }
   },
@@ -7141,6 +8561,12 @@
      "name": "falcons-vs-astralis-m1-ancient-p2.v2.cs2stats",
      "size": 723,
      "sha256": "00b958137c76e51917df41125ed36e398f9f9206af1c27f1e9b1a40ae2968a46"
+    },
+    "econ": {
+     "name": "falcons-vs-astralis-m1-ancient-p2.v2.cs2econ",
+     "size": 788,
+     "sha256": "97658f12d3ff97f92901cce10ecf6b09a7465d7d2e5228ce726edfe944b4f46f",
+     "rel": "library-2"
     }
    },
    "part": {
@@ -7176,6 +8602,12 @@
      "name": "falcons-vs-astralis-m1-ancient-p1.v2.cs2stats",
      "size": 312,
      "sha256": "3f6db2e85c7a4e61daba4e9c19caec05999db10c69c5b2a48f682d8fedbb8b76"
+    },
+    "econ": {
+     "name": "falcons-vs-astralis-m1-ancient-p1.v2.cs2econ",
+     "size": 283,
+     "sha256": "8e5401575ed82da27e3bcd30508976b7e3323af73f33a79500965b1a8f2fc822",
+     "rel": "library-2"
     }
    }
   },
@@ -7205,6 +8637,12 @@
      "name": "big-vs-g2-m3-inferno.v2.cs2stats",
      "size": 642,
      "sha256": "3246bbad426c0b0802756dab829bf9b34ab120e907361885fe561211b1b93adf"
+    },
+    "econ": {
+     "name": "big-vs-g2-m3-inferno.v2.cs2econ",
+     "size": 634,
+     "sha256": "998f047d2aae75af95a9397288dbd2913d50631420e7d1b14fb35d881902498e",
+     "rel": "library-2"
     }
    }
   },
@@ -7234,6 +8672,12 @@
      "name": "aurora-vs-m80-m2-inferno-p2.v2.cs2stats",
      "size": 565,
      "sha256": "fbadca8ecc9ff4f50d755f3ae8245699a16491949f24b6b0b100009e0aa1e705"
+    },
+    "econ": {
+     "name": "aurora-vs-m80-m2-inferno-p2.v2.cs2econ",
+     "size": 571,
+     "sha256": "81f315eb1c0bf7830a0b782d2099d58dcede6d0208979242280edf7424faba43",
+     "rel": "library-2"
     }
    },
    "part": {
@@ -7269,6 +8713,12 @@
      "name": "aurora-vs-m80-m2-inferno-p1.v2.cs2stats",
      "size": 547,
      "sha256": "6e93ec29959823d94b7a345a658614d49ba0959a9cc4351c9f4a1498773a0e88"
+    },
+    "econ": {
+     "name": "aurora-vs-m80-m2-inferno-p1.v2.cs2econ",
+     "size": 586,
+     "sha256": "1e8fd2414e6bd64d2a1f1db1a85c5ff8ba08ccd2ecb6aa1c87a09b6389d0091f",
+     "rel": "library-2"
     }
    }
   },
@@ -7298,6 +8748,12 @@
      "name": "big-vs-g2-m2-ancient.v2.cs2stats",
      "size": 1010,
      "sha256": "03506f5a0061c8a27d22c22bd2a429e1e2fb0212100c46b4e2fd30ead188a7f3"
+    },
+    "econ": {
+     "name": "big-vs-g2-m2-ancient.v2.cs2econ",
+     "size": 1152,
+     "sha256": "3e5bb73511973fd57f46fea9eff824e16e0050233c623958125285928cb39796",
+     "rel": "library-2"
     }
    }
   },
@@ -7327,6 +8783,12 @@
      "name": "aurora-vs-m80-m1-dust2.v2.cs2stats",
      "size": 830,
      "sha256": "79c07adbd1dc86b00eac17015f91e35db6222b6481bc4053a034a8be6bb87c8b"
+    },
+    "econ": {
+     "name": "aurora-vs-m80-m1-dust2.v2.cs2econ",
+     "size": 924,
+     "sha256": "c892aac082d99aca8b182b36981e5efd5ac48b44cd42532eb26f94b96f4fb677",
+     "rel": "library-2"
     }
    }
   },
@@ -7356,6 +8818,12 @@
      "name": "gamerlegion-vs-jijiehao-m2-ancient.v2.cs2stats",
      "size": 832,
      "sha256": "970f0b9c78c0843ac1dd8762e0898a03db70c07faf19457d95042c2951e9ee04"
+    },
+    "econ": {
+     "name": "gamerlegion-vs-jijiehao-m2-ancient.v2.cs2econ",
+     "size": 880,
+     "sha256": "8096569bc6aca872d442826bc498fee756a82fd757b48efdaa60195f5605ce06",
+     "rel": "library-2"
     }
    }
   },
@@ -7385,6 +8853,12 @@
      "name": "gamerlegion-vs-jijiehao-m1-dust2.v2.cs2stats",
      "size": 686,
      "sha256": "3f79ee86b0c894990e21cf99c43a3b6ce4ce8d2ccae6ee58bedb53ad9c5aa470"
+    },
+    "econ": {
+     "name": "gamerlegion-vs-jijiehao-m1-dust2.v2.cs2econ",
+     "size": 722,
+     "sha256": "7b1375398ee52e8640ccf3afac704f1f9ae84c3909cb3c237208fa8614b422cb",
+     "rel": "library-2"
     }
    }
   },
@@ -7414,6 +8888,12 @@
      "name": "luminosity-vs-spirit-m2-dust2.v2.cs2stats",
      "size": 1132,
      "sha256": "4d4707a09a60ec5f8ff924d110f492abffbf19bff2bb4aa53b9942700e4d4a4b"
+    },
+    "econ": {
+     "name": "luminosity-vs-spirit-m2-dust2.v2.cs2econ",
+     "size": 1297,
+     "sha256": "8ee0793a9474216a2bda248d82b85094787e2c3c6056a74cdaa30303e5548f2b",
+     "rel": "library-2"
     }
    }
   },
@@ -7443,6 +8923,12 @@
      "name": "luminosity-vs-spirit-m1-ancient-p2.v2.cs2stats",
      "size": 407,
      "sha256": "3342a31f1e2dd27b78e0b4c2a99852a863c555bd4019eb7901248d81c1e3a072"
+    },
+    "econ": {
+     "name": "luminosity-vs-spirit-m1-ancient-p2.v2.cs2econ",
+     "size": 367,
+     "sha256": "b809bb90833ee32bc4b4502f0938d9a4ede01fc27488a1bca9639709b52e228f",
+     "rel": "library-2"
     }
    },
    "part": {
@@ -7478,6 +8964,12 @@
      "name": "luminosity-vs-spirit-m1-ancient-p1.v2.cs2stats",
      "size": 554,
      "sha256": "98ae0087fe9a51b545ba4adcb20863ddcc2f6e8326448c219ae6631589d70d92"
+    },
+    "econ": {
+     "name": "luminosity-vs-spirit-m1-ancient-p1.v2.cs2econ",
+     "size": 581,
+     "sha256": "93fc6fcb3a36b1cf80e27e56e2206af1b4666fade2bba2c965086a25badceb0b",
+     "rel": "library-2"
     }
    }
   },
@@ -7507,6 +8999,12 @@
      "name": "lynn-vision-vs-mouz-dust2.v2.cs2stats",
      "size": 818,
      "sha256": "765ed35634e78552c183b0d8c0e829db278adfd85fd08716ef5a31aa8c9cd379"
+    },
+    "econ": {
+     "name": "lynn-vision-vs-mouz-dust2.v2.cs2econ",
+     "size": 897,
+     "sha256": "a70d1ae0e45d67a3084c563eaa120b22e76fab5ebb3d4b789bd63724216de2c0",
+     "rel": "library-2"
     }
    }
   },
@@ -7536,6 +9034,12 @@
      "name": "vitality-vs-100-thieves-nuke.v2.cs2stats",
      "size": 717,
      "sha256": "c3b8750e379b8010a843bc5717b28d2c01aadc79e7c72aeb96577be9f5093fff"
+    },
+    "econ": {
+     "name": "vitality-vs-100-thieves-nuke.v2.cs2econ",
+     "size": 771,
+     "sha256": "2126e3d6aa85b841cbe3dcfdbabaf11a931e4d645845206c142b15fc3468cfed",
+     "rel": "library-2"
     }
    }
   },
@@ -7565,6 +9069,12 @@
      "name": "natus-vincere-vs-3dmax-inferno.v2.cs2stats",
      "size": 858,
      "sha256": "b8272a293e3a657aa4ff7ce53fb68ead5298b12359b8e15469034f78cef5f47f"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-3dmax-inferno.v2.cs2econ",
+     "size": 914,
+     "sha256": "073f0f52eea475f46865c77e564fb981f8ccff0e7b01372c9d7efae80761fe75",
+     "rel": "library-2"
     }
    }
   },
@@ -7594,6 +9104,12 @@
      "name": "mibr-vs-astralis-inferno.v2.cs2stats",
      "size": 773,
      "sha256": "de31327674289e804a2845ee46a968c9028a49cd0c226fe4a5d8d63c6162e03f"
+    },
+    "econ": {
+     "name": "mibr-vs-astralis-inferno.v2.cs2econ",
+     "size": 798,
+     "sha256": "5ef2e243f44aa8c42f7cf8ccb03892ef36e9e47f11232f81d12f9be70f666d33",
+     "rel": "library-2"
     }
    }
   },
@@ -7623,6 +9139,12 @@
      "name": "parivision-vs-b8-cache.v2.cs2stats",
      "size": 855,
      "sha256": "285a4a5b06ac369ad617519a12be42ed3d9b05dfca3ad93942cf8123d12d6598"
+    },
+    "econ": {
+     "name": "parivision-vs-b8-cache.v2.cs2econ",
+     "size": 988,
+     "sha256": "afdf775b3c56fd578341a9509b8f56d39ad81a9857b07651c409891a0432fe72",
+     "rel": "library-2"
     }
    }
   },
@@ -7652,6 +9174,12 @@
      "name": "betboom-vs-faze-nuke.v2.cs2stats",
      "size": 867,
      "sha256": "2f248164b4adc105d7af2ed3d3cc0b3965376a306d34909382f8cf0ff5b43f2d"
+    },
+    "econ": {
+     "name": "betboom-vs-faze-nuke.v2.cs2econ",
+     "size": 987,
+     "sha256": "c2fd1e86b6aaa91854ae1d232d390965cc7738770e9dec1655c32bfee93325c7",
+     "rel": "library-2"
     }
    }
   },
@@ -7681,6 +9209,12 @@
      "name": "falcons-vs-k27-dust2.v2.cs2stats",
      "size": 758,
      "sha256": "28266d1dd555844711a5bd73fbf10a6f447248eede81df89c4cea7bf72b587be"
+    },
+    "econ": {
+     "name": "falcons-vs-k27-dust2.v2.cs2econ",
+     "size": 805,
+     "sha256": "3951185a98c138f666097790f2f36057212b9939c2b9400d7d6c78a0c7b48933",
+     "rel": "library-2"
     }
    }
   },
@@ -7710,6 +9244,12 @@
      "name": "ninjas-in-pyjamas-vs-legacy-cache.v2.cs2stats",
      "size": 763,
      "sha256": "b7827632c0d6c48b9536d70d88cb2c65b2dfe3a79a4cc7d6699f5b986d997db6"
+    },
+    "econ": {
+     "name": "ninjas-in-pyjamas-vs-legacy-cache.v2.cs2econ",
+     "size": 780,
+     "sha256": "12ad3dd0ae66433b9c1df6f55e18b9d0bcd86c404537705ec82ab3f19d496e27",
+     "rel": "library-2"
     }
    }
   },
@@ -7739,6 +9279,12 @@
      "name": "g2-vs-m80-mirage.v2.cs2stats",
      "size": 852,
      "sha256": "482be490e71f9314a1f8e0c5048b44ace993a278770afe290b8c47c947d9aebe"
+    },
+    "econ": {
+     "name": "g2-vs-m80-mirage.v2.cs2econ",
+     "size": 978,
+     "sha256": "a698e95b1e8900aff3247513bd9c2b075101c98cee5d19b09ddfa65ea80349c7",
+     "rel": "library-2"
     }
    }
   },
@@ -7768,6 +9314,12 @@
      "name": "spirit-vs-jijiehao-mirage.v2.cs2stats",
      "size": 832,
      "sha256": "b8badd986a4b8839c13c288a3f46733cdc64c67c96f3ca4bdc4802bbba4479f2"
+    },
+    "econ": {
+     "name": "spirit-vs-jijiehao-mirage.v2.cs2econ",
+     "size": 930,
+     "sha256": "6651fc3c117a90dc8d53bba2c6509601bf0a4a7bc7f9daa4a8a6bb283fcfa407",
+     "rel": "library-2"
     }
    }
   },
@@ -7797,6 +9349,12 @@
      "name": "fut-vs-tyloo-mirage.v2.cs2stats",
      "size": 838,
      "sha256": "9f58fda825b649a57db697a5d8369d592a8cdc31eab332c47bf6a848dffb2579"
+    },
+    "econ": {
+     "name": "fut-vs-tyloo-mirage.v2.cs2econ",
+     "size": 945,
+     "sha256": "a978764a90325d32b29c3a5b99dff24c7fa28384252bb25955b2a2b0d7b03035",
+     "rel": "library-2"
     }
    }
   },
@@ -7826,6 +9384,12 @@
      "name": "big-vs-aurora-cache.v2.cs2stats",
      "size": 824,
      "sha256": "c10cb25507470682c96deaa0025205cc123403e1d4509968b7952714611c5eef"
+    },
+    "econ": {
+     "name": "big-vs-aurora-cache.v2.cs2econ",
+     "size": 887,
+     "sha256": "fdec23fac3763c0489caf3ede42ef980fe97e7768d6916637c4d8b2139ac2e5d",
+     "rel": "library-2"
     }
    }
   },
@@ -7855,6 +9419,12 @@
      "name": "luminosity-vs-gamerlegion-nuke.v2.cs2stats",
      "size": 672,
      "sha256": "28d8794aecddabfbb533772d2949b9b92b615b7c247df430e2e1d09f55634a27"
+    },
+    "econ": {
+     "name": "luminosity-vs-gamerlegion-nuke.v2.cs2econ",
+     "size": 730,
+     "sha256": "49554619085b9b8e775be4a69916afe0d180f1bd9f71f16d96b37edf75b825ae",
+     "rel": "library-2"
     }
    }
   },
@@ -7884,6 +9454,12 @@
      "name": "100-thieves-vs-bc-game-m2-nuke.v2.cs2stats",
      "size": 965,
      "sha256": "e1aafc708e0fde778d96eabdf91578b0fd71b1ab353853bf687ad488c1a1cb43"
+    },
+    "econ": {
+     "name": "100-thieves-vs-bc-game-m2-nuke.v2.cs2econ",
+     "size": 1134,
+     "sha256": "6250d43f2d01a540408f3b907ae6bd44867e85c5802b917e61a877f41fe6d708",
+     "rel": "library-2"
     }
    }
   },
@@ -7913,6 +9489,12 @@
      "name": "100-thieves-vs-bc-game-m3-anubis.v2.cs2stats",
      "size": 889,
      "sha256": "df31e980b3ce4d539042d5fabdf609f2ff094a58cc922d2bf7555da24c90b5d4"
+    },
+    "econ": {
+     "name": "100-thieves-vs-bc-game-m3-anubis.v2.cs2econ",
+     "size": 971,
+     "sha256": "9450ebd5642688403b485479dd310accaa7c422fe9318f0348e761653f8b3426",
+     "rel": "library-2"
     }
    }
   },
@@ -7942,6 +9524,12 @@
      "name": "bc-game-vs-og-m2-cache.v2.cs2stats",
      "size": 825,
      "sha256": "d937690b47df29112e6dc3720f81b277eb8a5daaba936534c19cc1d44a53788d"
+    },
+    "econ": {
+     "name": "bc-game-vs-og-m2-cache.v2.cs2econ",
+     "size": 930,
+     "sha256": "ddcad3d17ad9ebb2a43c402cfe432a8e2150c7ec0b3bb5d96b46f096c5e7e055",
+     "rel": "library-2"
     }
    }
   },
@@ -7971,6 +9559,12 @@
      "name": "echo-vs-og-m2-nuke.v2.cs2stats",
      "size": 776,
      "sha256": "347d4573623b7194580f822e7a7eee7467bd27328d8eb3dda2e6531fea04f011"
+    },
+    "econ": {
+     "name": "echo-vs-og-m2-nuke.v2.cs2econ",
+     "size": 901,
+     "sha256": "956e647008c2defba38f33a28531361234e99d1178295fd2806be797f5a4adf6",
+     "rel": "library-2"
     }
    }
   },
@@ -8000,6 +9594,12 @@
      "name": "echo-vs-og-m3-mirage.v2.cs2stats",
      "size": 759,
      "sha256": "87c6dcfc46d211de55607ba18f16edcebfba8e5cad8075f1ca60905bf91c4609"
+    },
+    "econ": {
+     "name": "echo-vs-og-m3-mirage.v2.cs2econ",
+     "size": 840,
+     "sha256": "d014b42e89277b60aaf785219a9f1097bf0b066bebe1b25b912569ea973aaff0",
+     "rel": "library-2"
     }
    }
   },
@@ -8029,6 +9629,12 @@
      "name": "echo-vs-og-m1-cache.v2.cs2stats",
      "size": 710,
      "sha256": "0215b97a40f42896cbd2a8e7d485233991a9e60156958e471b31fc8843957711"
+    },
+    "econ": {
+     "name": "echo-vs-og-m1-cache.v2.cs2econ",
+     "size": 796,
+     "sha256": "a4b653fdfea14f9857ef1ee69cc335acfb251ebeac8ea707bb0b0eb753a99b29",
+     "rel": "library-2"
     }
    }
   },
@@ -8058,6 +9664,12 @@
      "name": "acend-vs-nrg-m3-mirage.v2.cs2stats",
      "size": 824,
      "sha256": "98b617b9964a9679bdd115c357209c386e35bab067cac6e6955aa78f6f29c988"
+    },
+    "econ": {
+     "name": "acend-vs-nrg-m3-mirage.v2.cs2econ",
+     "size": 919,
+     "sha256": "7bc8fdd7646e360937abdbc02f68ae958fd6a791950586e19cc9c432ed35bbc6",
+     "rel": "library-2"
     }
    }
   },
@@ -8087,6 +9699,12 @@
      "name": "acend-vs-nrg-m2-inferno.v2.cs2stats",
      "size": 907,
      "sha256": "b19ee33baf47642e7d118a21471d90eac4db80a996e0a11dc04539ae0a9b4100"
+    },
+    "econ": {
+     "name": "acend-vs-nrg-m2-inferno.v2.cs2econ",
+     "size": 981,
+     "sha256": "4325baa52ebdb8a2c9c44997d6b0d33bf919dd4c646ce48e2236c78ee0815ccd",
+     "rel": "library-2"
     }
    }
   },
@@ -8116,6 +9734,12 @@
      "name": "acend-vs-nrg-m1-cache.v2.cs2stats",
      "size": 653,
      "sha256": "f70e5223ac419415d298c031705a7223cc50df5ff562fe74101bec20ac846243"
+    },
+    "econ": {
+     "name": "acend-vs-nrg-m1-cache.v2.cs2econ",
+     "size": 694,
+     "sha256": "7ac384e10176706d1ad379686f0853b114844ce666e8f09b599547e49ebf5ac3",
+     "rel": "library-2"
     }
    }
   },
@@ -8145,6 +9769,12 @@
      "name": "liquid-vs-metizport-m2-inferno.v2.cs2stats",
      "size": 882,
      "sha256": "48567016d9e21fc809002172738cfb5d0f757109007d33fcd7291e951e699448"
+    },
+    "econ": {
+     "name": "liquid-vs-metizport-m2-inferno.v2.cs2econ",
+     "size": 940,
+     "sha256": "f49d0f353e4aa0adde2a50435bc1cadbdaebc5786e820aebc3c55719b0ef2e84",
+     "rel": "library-2"
     }
    }
   },
@@ -8174,6 +9804,12 @@
      "name": "liquid-vs-metizport-m1-cache.v2.cs2stats",
      "size": 844,
      "sha256": "26efcd27c6cd00cc8f309d0e709edc7fdc1510b6cadc74cafa61367f2b0e97c9"
+    },
+    "econ": {
+     "name": "liquid-vs-metizport-m1-cache.v2.cs2econ",
+     "size": 937,
+     "sha256": "bd73ea60ec8efbf83915fcd40e3c9c0e57ba46ae28c90f45f1894953c7b15cfb",
+     "rel": "library-2"
     }
    }
   },
@@ -8203,6 +9839,12 @@
      "name": "1win-vs-bc-game-m2-dust2.v2.cs2stats",
      "size": 723,
      "sha256": "bab462e38d5ea86038fee10f68b1403eb3f29e7230a5725d449ab8e9272f79cb"
+    },
+    "econ": {
+     "name": "1win-vs-bc-game-m2-dust2.v2.cs2econ",
+     "size": 775,
+     "sha256": "499d5d6b60cf1bd2433907c99cfeadde720c36822802cde7982827160a6aa2bd",
+     "rel": "library-2"
     }
    }
   },
@@ -8232,6 +9874,12 @@
      "name": "1win-vs-bc-game-m1-cache.v2.cs2stats",
      "size": 755,
      "sha256": "3c89e9488863daa9966443dcf758a229c8fc394e3514d7f7097da1ac723127e8"
+    },
+    "econ": {
+     "name": "1win-vs-bc-game-m1-cache.v2.cs2econ",
+     "size": 825,
+     "sha256": "ddc04c98a8ba0feb7801b89361792b81217952b8b04068e65757f0a1885e79c7",
+     "rel": "library-2"
     }
    }
   },
@@ -8261,6 +9909,12 @@
      "name": "abyssal-vs-arcade-m2-inferno.v2.cs2stats",
      "size": 1040,
      "sha256": "b672bf3fe84980f7730cf3c30144f2e3e9f38647be1f83e4f78174652109460f"
+    },
+    "econ": {
+     "name": "abyssal-vs-arcade-m2-inferno.v2.cs2econ",
+     "size": 1196,
+     "sha256": "f25a943467e2333ebd2103ad13c08c7bc4689fc92be21f166ed9d298825da29f",
+     "rel": "library-2"
     }
    }
   },
@@ -8290,6 +9944,12 @@
      "name": "abyssal-vs-arcade-m1-mirage.v2.cs2stats",
      "size": 739,
      "sha256": "5ed9796acd01ba5b7efa2315223d416cf7c01b611c18366214bf7eddc46fe3ce"
+    },
+    "econ": {
+     "name": "abyssal-vs-arcade-m1-mirage.v2.cs2econ",
+     "size": 796,
+     "sha256": "ccd27a5aede146640e2d83b07b89656a4027e600bf19bc2d5d94ea66cf37a83a",
+     "rel": "library-2"
     }
    }
   },
@@ -8319,6 +9979,12 @@
      "name": "saw-vs-eac-m2-cache.v2.cs2stats",
      "size": 1143,
      "sha256": "4ee96c17820ccb61735d35f88ad9b6715e997e01434cd73d28efd475d0417460"
+    },
+    "econ": {
+     "name": "saw-vs-eac-m2-cache.v2.cs2econ",
+     "size": 1263,
+     "sha256": "32cb7f0d2bfcb52c1d05d794c11006de8452db4ed763f265bddadd79ced4335d",
+     "rel": "library-2"
     }
    }
   },
@@ -8348,6 +10014,12 @@
      "name": "saw-vs-eac-m1-inferno.v2.cs2stats",
      "size": 887,
      "sha256": "885504292457c61c05f6fadd1b3ac53bff17dab68642e75c0edb0565176fb230"
+    },
+    "econ": {
+     "name": "saw-vs-eac-m1-inferno.v2.cs2econ",
+     "size": 933,
+     "sha256": "fa9fccf9379ad882c02d32dd480e21f95d94eba8d5b65a861a145f18322afdf8",
+     "rel": "library-2"
     }
    }
   },
@@ -8377,6 +10049,12 @@
      "name": "betclic-vs-liquid-m3-nuke.v2.cs2stats",
      "size": 776,
      "sha256": "cc5242e257108292f3109c7c8223b74db75a4f4ffae5405d9ea871733a48d525"
+    },
+    "econ": {
+     "name": "betclic-vs-liquid-m3-nuke.v2.cs2econ",
+     "size": 834,
+     "sha256": "5e6fdb9c4ab4930de718e937996460ed017070cb17ab91bfdb3fa7a40428f6d6",
+     "rel": "library-2"
     }
    }
   },
@@ -8406,6 +10084,12 @@
      "name": "betclic-vs-liquid-m2-anubis.v2.cs2stats",
      "size": 835,
      "sha256": "3cbf55d7c652e163250bdc0274203d6da01356affc9baddf961c5e5df5d6a508"
+    },
+    "econ": {
+     "name": "betclic-vs-liquid-m2-anubis.v2.cs2econ",
+     "size": 934,
+     "sha256": "caf7803b7bc6735cfad397491a2d1529c106cef16009f53faf5da0f95ca1da80",
+     "rel": "library-2"
     }
    }
   },
@@ -8435,6 +10119,12 @@
      "name": "betclic-vs-liquid-m1-cache.v2.cs2stats",
      "size": 886,
      "sha256": "977c51ad3f25481921b2b13bdd4ce7c325dfb78390c05f9713d4ee29f1db50a1"
+    },
+    "econ": {
+     "name": "betclic-vs-liquid-m1-cache.v2.cs2econ",
+     "size": 980,
+     "sha256": "8a182c6f671a795e85e6addfcbb47c39251e78988789e13ea1e1cb2e7159f4d3",
+     "rel": "library-2"
     }
    }
   },
@@ -8464,6 +10154,12 @@
      "name": "liquid-vs-9ine-m2-anubis.v2.cs2stats",
      "size": 763,
      "sha256": "61084833465d35e6757e28b48167ad3ffdd1f8ca667b9ff65b98c8b7c8c5fbe4"
+    },
+    "econ": {
+     "name": "liquid-vs-9ine-m2-anubis.v2.cs2econ",
+     "size": 804,
+     "sha256": "332c42669b11e686c5c41ad5599dc31429348edf97a5633fd95a7bcafe77a725",
+     "rel": "library-2"
     }
    }
   },
@@ -8493,6 +10189,12 @@
      "name": "liquid-vs-9ine-m1-cache.v2.cs2stats",
      "size": 700,
      "sha256": "ef0e79f2cb14b249fe7b7d37780ac15a47b024a782534089726b6409091bdf4b"
+    },
+    "econ": {
+     "name": "liquid-vs-9ine-m1-cache.v2.cs2econ",
+     "size": 723,
+     "sha256": "03b68d8c8d46dd73b61ab6cb31d3238d4e46f9c485eb510080bdcc98b36f2527",
+     "rel": "library-2"
     }
    }
   },
@@ -8522,6 +10224,12 @@
      "name": "faze-vs-spirit-m3-anubis.v2.cs2stats",
      "size": 867,
      "sha256": "c39ff1dd4e38b0a3e427f1bdb571ef82dde2ad2a5ba6154a1118b1ca5eb510e9"
+    },
+    "econ": {
+     "name": "faze-vs-spirit-m3-anubis.v2.cs2econ",
+     "size": 1008,
+     "sha256": "0a64f8718e664d05c318817d0c4e1c6c2b72b39f32b92b70f509b82a0167d2ef",
+     "rel": "library-2"
     }
    }
   },
@@ -8551,6 +10259,12 @@
      "name": "faze-vs-spirit-m2-cache.v2.cs2stats",
      "size": 823,
      "sha256": "ae8c8c678d6409f6a5b065e1ad40ef8fc60fc56a896c09234dcd92716f9c3bfc"
+    },
+    "econ": {
+     "name": "faze-vs-spirit-m2-cache.v2.cs2econ",
+     "size": 910,
+     "sha256": "177e34c5b4b530aa5f3967d785aa76495a8e0fddd4d7ae293cbd486d991823a0",
+     "rel": "library-2"
     }
    }
   },
@@ -8580,6 +10294,12 @@
      "name": "faze-vs-spirit-m1-dust2.v2.cs2stats",
      "size": 733,
      "sha256": "e411cf36f495536bc9499ce52ae8c98ee4c2747f514234066c0bb984b81487f2"
+    },
+    "econ": {
+     "name": "faze-vs-spirit-m1-dust2.v2.cs2econ",
+     "size": 826,
+     "sha256": "0a4db338ca86fc7257a761fca67f1919eb91a3324b7a1256d7368dbf929e372e",
+     "rel": "library-2"
     }
    }
   },
@@ -8609,6 +10329,12 @@
      "name": "rounds-vs-bc-game-cache.v2.cs2stats",
      "size": 705,
      "sha256": "b9afe47bb5305935ca19906958c399ea98439e1666b5a7b418d6241199515a7a"
+    },
+    "econ": {
+     "name": "rounds-vs-bc-game-cache.v2.cs2econ",
+     "size": 765,
+     "sha256": "eafe9f0cc2fe0317f15509ea1af3a2b93f58fd8e1723b055921446d45cd27054",
+     "rel": "library-2"
     }
    }
   },
@@ -8638,6 +10364,12 @@
      "name": "hotu-vs-aurora-m1-cache.v2.cs2stats",
      "size": 869,
      "sha256": "57c3c672ea735c8fdd74645bd120050831fe51d26f2decac9b428ed8ade3b6a4"
+    },
+    "econ": {
+     "name": "hotu-vs-aurora-m1-cache.v2.cs2econ",
+     "size": 976,
+     "sha256": "2f2280530e18d3203a76dbc281d3833c9e24e8a364764897f1c13310d8ee1915",
+     "rel": "library-2"
     }
    }
   },
@@ -8667,6 +10399,12 @@
      "name": "hotu-vs-aurora-m3-mirage.v2.cs2stats",
      "size": 814,
      "sha256": "9854bb8928bc1359627db0142df5b95bac94083bc88cc80fa6a65451dda376a6"
+    },
+    "econ": {
+     "name": "hotu-vs-aurora-m3-mirage.v2.cs2econ",
+     "size": 899,
+     "sha256": "cb2252e11b1bdacf761599ea955851b83a3a6a1d03880a7cadf6952a57594805",
+     "rel": "library-2"
     }
    }
   },
@@ -8696,6 +10434,12 @@
      "name": "hotu-vs-aurora-m2-anubis.v2.cs2stats",
      "size": 828,
      "sha256": "0cd4268e09e71dace6e201b412345c45a2f76f1e6e6d5d59b154b8a6cde67e98"
+    },
+    "econ": {
+     "name": "hotu-vs-aurora-m2-anubis.v2.cs2econ",
+     "size": 958,
+     "sha256": "c88a54efe8c8552b4803e885e5bbaba367c1d6dfecab8728dc3c0c97c85dec0d",
+     "rel": "library-2"
     }
    }
   },
@@ -8725,6 +10469,12 @@
      "name": "dendele-vs-faze-m3-cache.v2.cs2stats",
      "size": 770,
      "sha256": "a95f39e81cf627e81eaa35e99ea0498bb244c2869b5ed1787ba82ea1b2625bdf"
+    },
+    "econ": {
+     "name": "dendele-vs-faze-m3-cache.v2.cs2econ",
+     "size": 854,
+     "sha256": "9f8d6e559eab4ca8985ab009b272fc4c2268d3c650f0ca64ff05b2a9b34e1b77",
+     "rel": "library-2"
     }
    }
   },
@@ -8754,6 +10504,12 @@
      "name": "dendele-vs-faze-m2-mirage.v2.cs2stats",
      "size": 825,
      "sha256": "a879a012b250b83fd481bd872067aa815cf20d8be8b386596b47a0dcf564ec44"
+    },
+    "econ": {
+     "name": "dendele-vs-faze-m2-mirage.v2.cs2econ",
+     "size": 934,
+     "sha256": "31409edf6cea0427f4c18b78169652aadfc4783b36a3b0c3438752fae1e5d0cf",
+     "rel": "library-2"
     }
    }
   },
@@ -8783,6 +10539,12 @@
      "name": "dendele-vs-faze-m1-nuke.v2.cs2stats",
      "size": 647,
      "sha256": "3ca274e542a6a7388bdff1fd1ccac9fc0389464d204cf6964e7aaf1b7502661c"
+    },
+    "econ": {
+     "name": "dendele-vs-faze-m1-nuke.v2.cs2econ",
+     "size": 682,
+     "sha256": "4ef066c4a9604dac5c3ab367bb0505a735b2ae4d11685f0f3c40004be81d87b0",
+     "rel": "library-2"
     }
    }
   },
@@ -8812,6 +10574,12 @@
      "name": "dendele-vs-furia-m3-cache.v2.cs2stats",
      "size": 1004,
      "sha256": "0a6a2bbd07de4b8f7c947430866f922570d9ea6f88d0deaed167791bc1739f40"
+    },
+    "econ": {
+     "name": "dendele-vs-furia-m3-cache.v2.cs2econ",
+     "size": 1183,
+     "sha256": "0613bbd0131726faf24e0c2ec05b83a4dc332dba2058df37225f30a50b93e7a1",
+     "rel": "library-2"
     }
    }
   },
@@ -8841,6 +10609,12 @@
      "name": "dendele-vs-furia-m2-mirage.v2.cs2stats",
      "size": 770,
      "sha256": "a58870a0aa7a068ab209b36f72ed9abd86e3fa382f0593a5b77162e923af1811"
+    },
+    "econ": {
+     "name": "dendele-vs-furia-m2-mirage.v2.cs2econ",
+     "size": 790,
+     "sha256": "6919cc899a46c67801d3c6ee8467d4f76aa2260bc2f66354fa9ca7a2f362aae8",
+     "rel": "library-2"
     }
    }
   },
@@ -8870,6 +10644,12 @@
      "name": "dendele-vs-furia-m1-anubis-p1.v2.cs2stats",
      "size": 724,
      "sha256": "f858946f6741f432007c6248ec8f72f75b50a8a19142fa48b6b5606e0ed1f4da"
+    },
+    "econ": {
+     "name": "dendele-vs-furia-m1-anubis-p1.v2.cs2econ",
+     "size": 756,
+     "sha256": "1842d52ac4e344fbfa65aabd9ec2e92d3a6513e58be40c32a4ec788785d3e9cd",
+     "rel": "library-2"
     }
    }
   },
@@ -8899,6 +10679,12 @@
      "name": "dendele-vs-furia-m1-anubis-p2.v2.cs2stats",
      "size": 299,
      "sha256": "6e159d85ae31aeba5af3305d30c73bd3311ee895a8b19a80242c78346fe294c5"
+    },
+    "econ": {
+     "name": "dendele-vs-furia-m1-anubis-p2.v2.cs2econ",
+     "size": 249,
+     "sha256": "4daf0c462a78fd43266d19395d162201bf3067b47701c87917a47b827c05e09b",
+     "rel": "library-2"
     }
    },
    "part": {
@@ -8934,6 +10720,12 @@
      "name": "liquid-vs-vitality-m2-nuke.v2.cs2stats",
      "size": 817,
      "sha256": "dd96f28db448811003a3ac481eebedecd76ea995dd5733610773a59faa94173a"
+    },
+    "econ": {
+     "name": "liquid-vs-vitality-m2-nuke.v2.cs2econ",
+     "size": 926,
+     "sha256": "cf19872225fa2ac77179374620d38a252183bcaaf6d49e9e90ad71f605d187e7",
+     "rel": "library-2"
     }
    }
   },
@@ -8963,6 +10755,12 @@
      "name": "liquid-vs-vitality-m1-anubis.v2.cs2stats",
      "size": 860,
      "sha256": "e5764be2c07806143bcf099f1847ae7b84d97c29171e7dc37e7251c72b7c5b71"
+    },
+    "econ": {
+     "name": "liquid-vs-vitality-m1-anubis.v2.cs2econ",
+     "size": 941,
+     "sha256": "6567ee2e3b428c12d61dab25fd97e3f67b83c85ffc926dd3f063e8f903099d21",
+     "rel": "library-2"
     }
    }
   },
@@ -8992,6 +10790,12 @@
      "name": "heroic-vs-the-mongolz-m3-dust2.v2.cs2stats",
      "size": 1126,
      "sha256": "21dd9623b9990abcfb0d97b372258f2a288be6a13b59fa4daa7f294eafb711b2"
+    },
+    "econ": {
+     "name": "heroic-vs-the-mongolz-m3-dust2.v2.cs2econ",
+     "size": 1330,
+     "sha256": "d3eea2242ddb9566ab5cbca12a780d7ae83213a644f6776b27c66405130e65b0",
+     "rel": "library-2"
     }
    }
   },
@@ -9021,6 +10825,12 @@
      "name": "heroic-vs-the-mongolz-m2-cache.v2.cs2stats",
      "size": 823,
      "sha256": "799f5f5005126ff0c2adb3ae46b6269be941fbd6d3ad4dcacd17ea4976661b27"
+    },
+    "econ": {
+     "name": "heroic-vs-the-mongolz-m2-cache.v2.cs2econ",
+     "size": 852,
+     "sha256": "8d2a26cfc8a380c74ee6fb81741b11f142906ccc5d1f2781c6f988de714f611f",
+     "rel": "library-2"
     }
    }
   },
@@ -9050,6 +10860,12 @@
      "name": "heroic-vs-the-mongolz-m1-nuke.v2.cs2stats",
      "size": 702,
      "sha256": "8af995a56b582af734017beb66e352f61d82da2967b21b8bf7c986e23e74644a"
+    },
+    "econ": {
+     "name": "heroic-vs-the-mongolz-m1-nuke.v2.cs2econ",
+     "size": 737,
+     "sha256": "43b0f2e1d00bd56d047bbb9c5c2487ea1d04b23e27ad0f806a782f31eb01e6f4",
+     "rel": "library-2"
     }
    }
   },
@@ -9079,6 +10895,12 @@
      "name": "fokus-vs-aurora-m3-dust2.v2.cs2stats",
      "size": 692,
      "sha256": "6bf2a8789dfbf64c53fb3c305e8b4186b9bf94cc50c67a7b42b1a94ef91097dd"
+    },
+    "econ": {
+     "name": "fokus-vs-aurora-m3-dust2.v2.cs2econ",
+     "size": 750,
+     "sha256": "b1ebda512d72a2c6dcafdff53579e6cc8cce3d4ec63aedd15a7c4ae42c094d21",
+     "rel": "library-2"
     }
    }
   },
@@ -9108,6 +10930,12 @@
      "name": "fokus-vs-aurora-m2-nuke.v2.cs2stats",
      "size": 784,
      "sha256": "ce2dff1a0e2057dd943a55a91675ccf63f80b3d05f1f4d4ba8f4a50e51be40e9"
+    },
+    "econ": {
+     "name": "fokus-vs-aurora-m2-nuke.v2.cs2econ",
+     "size": 840,
+     "sha256": "401dcd214136eeceb18a894b507496e65e48681cfbfd8769f2c0fc8bcc81a0e2",
+     "rel": "library-2"
     }
    }
   },
@@ -9137,6 +10965,12 @@
      "name": "fokus-vs-aurora-m1-cache.v2.cs2stats",
      "size": 861,
      "sha256": "02faf1b8cc90811e77c23aee249aa751cc6c091f086d83fd2362bbedb76ed9a1"
+    },
+    "econ": {
+     "name": "fokus-vs-aurora-m1-cache.v2.cs2econ",
+     "size": 987,
+     "sha256": "49a427364b8f5b6250449169572a40fe3ad45c531732e6f0f7fc1c4d5b744748",
+     "rel": "library-2"
     }
    }
   },
@@ -9166,6 +11000,12 @@
      "name": "3dmax-vs-gentle-mates-m3-nuke.v2.cs2stats",
      "size": 754,
      "sha256": "a748947774695396ebd17310f1de0fe3c814ac95405a7c9fa47ab6a6b059b963"
+    },
+    "econ": {
+     "name": "3dmax-vs-gentle-mates-m3-nuke.v2.cs2econ",
+     "size": 828,
+     "sha256": "aa92b1106ec3b017b46a80e3f44f208cc00e95ac570d8763d9713e8c4d46f100",
+     "rel": "library-2"
     }
    }
   },
@@ -9195,6 +11035,12 @@
      "name": "3dmax-vs-gentle-mates-m2-cache.v2.cs2stats",
      "size": 722,
      "sha256": "6bdf7b21811cf5b957700913c0366dcea416acd393a92983bc23084fc4dc6893"
+    },
+    "econ": {
+     "name": "3dmax-vs-gentle-mates-m2-cache.v2.cs2econ",
+     "size": 749,
+     "sha256": "00a338bd5e5fa14992abb935aa702f5319e52665fd1e6ae56298445efc2e0fb5",
+     "rel": "library-2"
     }
    }
   },
@@ -9224,6 +11070,12 @@
      "name": "3dmax-vs-gentle-mates-m1-inferno.v2.cs2stats",
      "size": 822,
      "sha256": "311dfb1bad5fe7a0c51b98bbe0acb66ba2399874f5e29f4d638d977ea7876bcf"
+    },
+    "econ": {
+     "name": "3dmax-vs-gentle-mates-m1-inferno.v2.cs2econ",
+     "size": 897,
+     "sha256": "0550bb2761fcf98daf67dbfdfdfbe623d518e0fe54dce7fed09dcd7a3aa76605",
+     "rel": "library-2"
     }
    }
   },
@@ -9253,6 +11105,12 @@
      "name": "nemesis-vs-astralis-m3-cache.v2.cs2stats",
      "size": 786,
      "sha256": "876e4fbc502f45ca50be4c77c5d37c3885941279a64ee909c4282f5fdf2bb5f7"
+    },
+    "econ": {
+     "name": "nemesis-vs-astralis-m3-cache.v2.cs2econ",
+     "size": 838,
+     "sha256": "ed94fc6e63bddb369f69f78e8307de894d418b830f191ed7a1e105144e77c2e7",
+     "rel": "library-2"
     }
    }
   },
@@ -9282,6 +11140,12 @@
      "name": "nemesis-vs-astralis-m2-ancient.v2.cs2stats",
      "size": 847,
      "sha256": "5826a786b7e97120019142530871d9c701474d80d90e3b6c0a96d47883969d68"
+    },
+    "econ": {
+     "name": "nemesis-vs-astralis-m2-ancient.v2.cs2econ",
+     "size": 960,
+     "sha256": "f67a96478116504fe26799407d62baad48545e93a718112d11a4709c8968a1f7",
+     "rel": "library-2"
     }
    }
   },
@@ -9311,6 +11175,12 @@
      "name": "nemesis-vs-astralis-m1-nuke.v2.cs2stats",
      "size": 864,
      "sha256": "6ae0a0742b134cfd7fdea7973a62f57be5e6ca57e68dd7e5d346f2b8d2768d99"
+    },
+    "econ": {
+     "name": "nemesis-vs-astralis-m1-nuke.v2.cs2econ",
+     "size": 978,
+     "sha256": "191cb131dc8595b28f5f47f4b108ae17c8bb69e9cbde9a8f79ead8a3eb4a2c2e",
+     "rel": "library-2"
     }
    }
   },
@@ -9340,6 +11210,12 @@
      "name": "parivision-vs-faze-m3-ancient.v2.cs2stats",
      "size": 1184,
      "sha256": "00887f8328eaab5091a8354cf8a3787ed4eb0811b98aba234edf85f3bde50a6c"
+    },
+    "econ": {
+     "name": "parivision-vs-faze-m3-ancient.v2.cs2econ",
+     "size": 1335,
+     "sha256": "a7e7834127c6f744f201c6e41a4146ebe3d53331064a1edf4fef4fed38d6e592",
+     "rel": "library-2"
     }
    }
   },
@@ -9369,6 +11245,12 @@
      "name": "parivision-vs-faze-m2-dust2.v2.cs2stats",
      "size": 1149,
      "sha256": "afd6f2bd3502fc5c3f8af920ca632d6c46958a1095e564f5a1bc42d2a44f779a"
+    },
+    "econ": {
+     "name": "parivision-vs-faze-m2-dust2.v2.cs2econ",
+     "size": 1323,
+     "sha256": "b1cc49ea0fc93aee042299d216d59ebf2e2a5b7de75a3a3742833f587c84d543",
+     "rel": "library-2"
     }
    }
   },
@@ -9398,6 +11280,12 @@
      "name": "parivision-vs-faze-m1-cache.v2.cs2stats",
      "size": 812,
      "sha256": "8d98ff6b4293c8279ee93269c7ff47f64e3c99331cf17a32efd4bf3388b84954"
+    },
+    "econ": {
+     "name": "parivision-vs-faze-m1-cache.v2.cs2econ",
+     "size": 904,
+     "sha256": "f951e2dd673655df5c7cbaacb0b7480003a0573120ece3d5243e100532bcfc63",
+     "rel": "library-2"
     }
    }
   },
@@ -9427,6 +11315,12 @@
      "name": "sharks-vs-bestia-m3-ancient.v2.cs2stats",
      "size": 688,
      "sha256": "8ec730d5b8cadf765a0e2d86e1762e1640f2bc41a4d301e8cf199d801bbcb90d"
+    },
+    "econ": {
+     "name": "sharks-vs-bestia-m3-ancient.v2.cs2econ",
+     "size": 720,
+     "sha256": "6b8ddbf6657849f01d2c158f818117938ed95c01383e95ab83b803ebb0c48bd6",
+     "rel": "library-2"
     }
    }
   },
@@ -9456,6 +11350,12 @@
      "name": "sharks-vs-bestia-m2-cache.v2.cs2stats",
      "size": 820,
      "sha256": "b48b13046799ca63c5e4c12781ac829f99480179ee08d412ce91986f756236f0"
+    },
+    "econ": {
+     "name": "sharks-vs-bestia-m2-cache.v2.cs2econ",
+     "size": 871,
+     "sha256": "c6f1fdd27df8e5add512cc11028894cf51be0605fe9f64a90b6e1991fc392d0c",
+     "rel": "library-2"
     }
    }
   },
@@ -9485,6 +11385,12 @@
      "name": "sharks-vs-bestia-m1-mirage.v2.cs2stats",
      "size": 857,
      "sha256": "afef58ac47fd5cca19a755a415d42532b989f568b5ed3e801a691be907dd62dd"
+    },
+    "econ": {
+     "name": "sharks-vs-bestia-m1-mirage.v2.cs2econ",
+     "size": 957,
+     "sha256": "9d5b8db4bd0df39591895e6cae3c29ed34119957b301d4178b806b9d0e97974b",
+     "rel": "library-2"
     }
    }
   },
@@ -9514,6 +11420,12 @@
      "name": "faze-vs-betboom-m2-ancient.v2.cs2stats",
      "size": 751,
      "sha256": "7aea9a5fe47b39dfba3bfc403cf953c10730c15fba8e01a75daa69a40a3a157d"
+    },
+    "econ": {
+     "name": "faze-vs-betboom-m2-ancient.v2.cs2econ",
+     "size": 816,
+     "sha256": "1c7251f0b99e0907d6709a8618ba5077f53c0021a1ae8726ae87c637baf46554",
+     "rel": "library-2"
     }
    }
   },
@@ -9543,6 +11455,12 @@
      "name": "faze-vs-betboom-m1-cache.v2.cs2stats",
      "size": 648,
      "sha256": "21e4783f2ea36f42de085001fb00cf155e175866462d86c5784e7014683bb302"
+    },
+    "econ": {
+     "name": "faze-vs-betboom-m1-cache.v2.cs2econ",
+     "size": 676,
+     "sha256": "362400960919283463941663b048037bad33576e1767a47d542861a2a9cd8c5a",
+     "rel": "library-2"
     }
    }
   },
@@ -9572,6 +11490,12 @@
      "name": "parivision-vs-big-m3-ancient.v2.cs2stats",
      "size": 816,
      "sha256": "df906f354e9e45f778eabc7c53d29c8974e264a1da2fe7db881c8a4f385bbdb9"
+    },
+    "econ": {
+     "name": "parivision-vs-big-m3-ancient.v2.cs2econ",
+     "size": 933,
+     "sha256": "a42c0be9f245574a42e1882e69e659078ae2a45a18b3bdf4b9cab57c27c81ad5",
+     "rel": "library-2"
     }
    }
   },
@@ -9601,6 +11525,12 @@
      "name": "parivision-vs-big-m2-mirage.v2.cs2stats",
      "size": 722,
      "sha256": "7c72342ed20ce65f6f979ea4e58d67fb2edd62968ed50300fba72deacb8a56b4"
+    },
+    "econ": {
+     "name": "parivision-vs-big-m2-mirage.v2.cs2econ",
+     "size": 758,
+     "sha256": "59441925afc74863f6d89c4d5c0ec7499e4b4496159dac31f51b2e86c37399e1",
+     "rel": "library-2"
     }
    }
   },
@@ -9630,6 +11560,12 @@
      "name": "parivision-vs-big-m1-cache.v2.cs2stats",
      "size": 1113,
      "sha256": "c75b1758b523fb3cc02ac7c2a702b2cc59c9ce6841cd440262b13c55a13fa002"
+    },
+    "econ": {
+     "name": "parivision-vs-big-m1-cache.v2.cs2econ",
+     "size": 1281,
+     "sha256": "f7e5d2fed1bc7c0da32eedde0fbb91f439b19b4c1fdb6cb632782f0ca41efa68",
+     "rel": "library-2"
     }
    }
   },
@@ -9659,6 +11595,12 @@
      "name": "tyloo-vs-9z-m3-inferno.v2.cs2stats",
      "size": 734,
      "sha256": "f6a71215c9f8a02d320c44c4870df0d716488b9a26c1494d684e59b4fa0736ab"
+    },
+    "econ": {
+     "name": "tyloo-vs-9z-m3-inferno.v2.cs2econ",
+     "size": 802,
+     "sha256": "25bd534304aaec972b99eb74810e3596cb6803fd4932dce950748f5c0e67f2e9",
+     "rel": "library-2"
     }
    }
   },
@@ -9688,6 +11630,12 @@
      "name": "tyloo-vs-9z-m2-mirage.v2.cs2stats",
      "size": 761,
      "sha256": "8cc1946f1f167a459819327753d3364f359a43bcc8f6144d5e3ea16843e3766e"
+    },
+    "econ": {
+     "name": "tyloo-vs-9z-m2-mirage.v2.cs2econ",
+     "size": 855,
+     "sha256": "c79fb234d1f52a7667a7554a6b88c79ec5427f969d3e81d77feb9a2f01af49d0",
+     "rel": "library-2"
     }
    }
   },
@@ -9717,6 +11665,12 @@
      "name": "tyloo-vs-9z-m1-nuke.v2.cs2stats",
      "size": 793,
      "sha256": "19441683a363c21afeae1b52b7bfb7357a8445a0ce22ee33c9457f94bdb1d5c6"
+    },
+    "econ": {
+     "name": "tyloo-vs-9z-m1-nuke.v2.cs2econ",
+     "size": 913,
+     "sha256": "fc70642220f6d339448321d344a9e6803cebabbcef5794140c5f294c36a16f8b",
+     "rel": "library-2"
     }
    }
   },
@@ -9746,6 +11700,12 @@
      "name": "eyeballers-vs-faze-m3-cache.v2.cs2stats",
      "size": 701,
      "sha256": "87a1336fc655698a32a59a1718f1b8ac35574397ed04b3b46a34e0a770907790"
+    },
+    "econ": {
+     "name": "eyeballers-vs-faze-m3-cache.v2.cs2econ",
+     "size": 713,
+     "sha256": "a55066cf359f88cb36f4ce6c4c463be5f024428ce7b4c5ef8d87e2e604f76d31",
+     "rel": "library-2"
     }
    }
   },
@@ -9775,6 +11735,12 @@
      "name": "eyeballers-vs-faze-m2-mirage.v2.cs2stats",
      "size": 1026,
      "sha256": "6f0ccb8658d3fd0314a8758f838766927b8cc80c2aa46eae44302d5be46c2ffd"
+    },
+    "econ": {
+     "name": "eyeballers-vs-faze-m2-mirage.v2.cs2econ",
+     "size": 1196,
+     "sha256": "163d1d3f113b41cfc3dd4a245dcfabe01695caa752c8cb75d4840c4ae9020870",
+     "rel": "library-2"
     }
    }
   },
@@ -9804,6 +11770,12 @@
      "name": "eyeballers-vs-faze-m1-ancient.v2.cs2stats",
      "size": 1327,
      "sha256": "032077beaa1af1f4949c462d6114d70235823f96fbb506e3f56785cb6fe9f5cc"
+    },
+    "econ": {
+     "name": "eyeballers-vs-faze-m1-ancient.v2.cs2econ",
+     "size": 1536,
+     "sha256": "ec53a7166f52c1d713fd0fde53e02b01bf62509e1ae97496d5d31d1de5c71470",
+     "rel": "library-2"
     }
    }
   },
@@ -9833,6 +11805,12 @@
      "name": "eyeballers-vs-tyloo-m2-cache.v2.cs2stats",
      "size": 774,
      "sha256": "cd2f985536a68d0b1154cc33c7ace11660024e11e053a6c11d506049863458cc"
+    },
+    "econ": {
+     "name": "eyeballers-vs-tyloo-m2-cache.v2.cs2econ",
+     "size": 829,
+     "sha256": "4b0f93523c3976bf1ca3612212be16e609199e2121163f1722942028afd44a25",
+     "rel": "library-2"
     }
    }
   },
@@ -9862,6 +11840,12 @@
      "name": "eyeballers-vs-tyloo-m1-nuke.v2.cs2stats",
      "size": 753,
      "sha256": "6a2b6c70432cc99b43c9ae8a8d98cfe2fe2dac061b36adc741b2748b75fc6e59"
+    },
+    "econ": {
+     "name": "eyeballers-vs-tyloo-m1-nuke.v2.cs2econ",
+     "size": 834,
+     "sha256": "394449d5a0563576491f41116695fca5794859c3350455a564751686df5d7c74",
+     "rel": "library-2"
     }
    }
   },
@@ -9891,6 +11875,12 @@
      "name": "natus-vincere-vs-falcons-m3-anubis-p2.v2.cs2stats",
      "size": 494,
      "sha256": "5583b11dfec013e613c3fa0e4da2db6f5cdec2d9438bec1f70b730f10fc1fdc9"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-falcons-m3-anubis-p2.v2.cs2econ",
+     "size": 480,
+     "sha256": "a9bfa7b433e4fa4fea19516198c8455c2d11485d96f20a8df796414f4056298d",
+     "rel": "library-2"
     }
    },
    "part": {
@@ -9926,6 +11916,12 @@
      "name": "natus-vincere-vs-falcons-m3-anubis-p1.v2.cs2stats",
      "size": 975,
      "sha256": "7c5dc9d80a27abf432b8ec762ae99ffbc4bd39dca6bd5dae0f6ee93480e8ac3a"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-falcons-m3-anubis-p1.v2.cs2econ",
+     "size": 1080,
+     "sha256": "884a357d51bad2d3e3a73c0e72319a9a0e2ae0a6b12c0faa4b13358ecf1e625e",
+     "rel": "library-2"
     }
    }
   },
@@ -9955,6 +11951,12 @@
      "name": "natus-vincere-vs-falcons-m2-mirage.v2.cs2stats",
      "size": 805,
      "sha256": "4dbe297f72ec9c63884f16d8b24fce992c87b9baa06bbb358b3bbeb723bf8e2b"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-falcons-m2-mirage.v2.cs2econ",
+     "size": 861,
+     "sha256": "5513274eae3d1ad50db2bda57f4a035ef1c9020fbf1749192154bdeddc8e4863",
+     "rel": "library-2"
     }
    }
   },
@@ -9984,6 +11986,12 @@
      "name": "natus-vincere-vs-falcons-m1-dust2.v2.cs2stats",
      "size": 678,
      "sha256": "e5a828113e8786043f3ae42835b61c8b237a136aaab3385da1ae0faa8d90b6c8"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-falcons-m1-dust2.v2.cs2econ",
+     "size": 719,
+     "sha256": "b11a56d1da39e7f0803e83ce1f5c4ab4dec2dbdf8d007ef75cef08cb80819952",
+     "rel": "library-2"
     }
    }
   },
@@ -10013,6 +12021,12 @@
      "name": "natus-vincere-vs-spirit-m2-anubis.v2.cs2stats",
      "size": 820,
      "sha256": "57026e091160e5a8e73abc7a19d23a8890cdb249c98e0a61d8a6d2384c10873d"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-spirit-m2-anubis.v2.cs2econ",
+     "size": 896,
+     "sha256": "bf075af5d842b875836db5bc463c63626ce3857b8edd95964066c4ad26aecdf9",
+     "rel": "library-2"
     }
    }
   },
@@ -10042,6 +12056,12 @@
      "name": "natus-vincere-vs-spirit-m1-dust2.v2.cs2stats",
      "size": 646,
      "sha256": "a51b26c9d803a033e921819a42bd692e9a2d5daf292593a5ed3c4e400d3331a7"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-spirit-m1-dust2.v2.cs2econ",
+     "size": 673,
+     "sha256": "5eb65b21a41290513d3496656376226bd55fda548d1cac9c67f0b6aa0901e0f7",
+     "rel": "library-2"
     }
    }
   },
@@ -10071,6 +12091,12 @@
      "name": "tyloo-vs-9z-m2-inferno.v2.cs2stats",
      "size": 759,
      "sha256": "48914f5b2cc7a08a809e0a3ddef5e298a1ebdccf68f6af9abefd9d6d66e1e29b"
+    },
+    "econ": {
+     "name": "tyloo-vs-9z-m2-inferno.v2.cs2econ",
+     "size": 814,
+     "sha256": "bb275da0c7ffc36fec503e9527549ade09440b966252d07c8d0cdc15baa4d5f6",
+     "rel": "library-2"
     }
    }
   },
@@ -10100,6 +12126,12 @@
      "name": "tyloo-vs-9z-m1-overpass.v2.cs2stats",
      "size": 855,
      "sha256": "a47b3cfa7b13df39a1085b581cf0852c921a16b2068d83dc73c7738561cbfc09"
+    },
+    "econ": {
+     "name": "tyloo-vs-9z-m1-overpass.v2.cs2econ",
+     "size": 962,
+     "sha256": "876c3aac010afa3a667ffa5e180a3585140d3f3174c237a08a519ca2843ba2a5",
+     "rel": "library-2"
     }
    }
   },
@@ -10129,6 +12161,12 @@
      "name": "flyquest-vs-pain-m2-anubis.v2.cs2stats",
      "size": 868,
      "sha256": "1f77d800fc420975c80f96157d0c84e84de231163408f2dbd70b3451b993fc42"
+    },
+    "econ": {
+     "name": "flyquest-vs-pain-m2-anubis.v2.cs2econ",
+     "size": 979,
+     "sha256": "7156dad75f6f5649379ac0dd324fccffe3dec96855652a3cb577836183acd2b3",
+     "rel": "library-2"
     }
    }
   },
@@ -10158,6 +12196,12 @@
      "name": "flyquest-vs-pain-m1-nuke.v2.cs2stats",
      "size": 777,
      "sha256": "a236ee06e0ebcfe89c58eecb8f6c2e1fd98c700288634844231456ae962fb714"
+    },
+    "econ": {
+     "name": "flyquest-vs-pain-m1-nuke.v2.cs2econ",
+     "size": 849,
+     "sha256": "f5f8b23564a7aebac69ee26b4a27731b5b20872436a19bcdac0542949e4c2ea7",
+     "rel": "library-2"
     }
    }
   },
@@ -10187,6 +12231,12 @@
      "name": "astralis-vs-tyloo-nuke.v2.cs2stats",
      "size": 734,
      "sha256": "be91e90cb0e6eafa18396713ac5e7fd022fa8e55dc9138799a914e40b78f86a4"
+    },
+    "econ": {
+     "name": "astralis-vs-tyloo-nuke.v2.cs2econ",
+     "size": 839,
+     "sha256": "3833acaf4d222f5792ff9c00dd55c20619b6a02e69571bfa9f49bec5b48093f2",
+     "rel": "library-2"
     }
    }
   },
@@ -10216,6 +12266,12 @@
      "name": "liquid-vs-flyquest-m2-inferno.v2.cs2stats",
      "size": 793,
      "sha256": "a0fe0c40d9b9dd8bd56d32c37f494d16ff28a13f35c8194932b97cee52f7ef40"
+    },
+    "econ": {
+     "name": "liquid-vs-flyquest-m2-inferno.v2.cs2econ",
+     "size": 822,
+     "sha256": "bd9bc3223a577d6e72226b848e6b8b63f39ffa34377c56b9ad8e600dc99683ef",
+     "rel": "library-2"
     }
    }
   },
@@ -10245,6 +12301,12 @@
      "name": "liquid-vs-flyquest-m1-anubis.v2.cs2stats",
      "size": 655,
      "sha256": "c54745591fc6754dadf6a7c7da6781188ae923c21769a90a3a2d5b995a2db56f"
+    },
+    "econ": {
+     "name": "liquid-vs-flyquest-m1-anubis.v2.cs2econ",
+     "size": 693,
+     "sha256": "d266498ca45b128922b6cee191294f11f5abbcee62ae5b94e1be8cf0fe45173e",
+     "rel": "library-2"
     }
    }
   },
@@ -10274,6 +12336,12 @@
      "name": "tyloo-vs-sharks-m3-anubis.v2.cs2stats",
      "size": 841,
      "sha256": "994fa032918f46e13366a89295d5e1857a3794cec6249dbdee9648b6a0abd9c4"
+    },
+    "econ": {
+     "name": "tyloo-vs-sharks-m3-anubis.v2.cs2econ",
+     "size": 964,
+     "sha256": "1b9cc972958af7c15a711f3518fa869995fe9dd84769144d81895c1d3ceed8ed",
+     "rel": "library-2"
     }
    }
   },
@@ -10303,6 +12371,12 @@
      "name": "thunder-downunder-vs-flyquest-m2-inferno.v2.cs2stats",
      "size": 699,
      "sha256": "812c48f6f1d53ca3066ced5578c4d90c060b975fc073c37c4f0b696446b7b321"
+    },
+    "econ": {
+     "name": "thunder-downunder-vs-flyquest-m2-inferno.v2.cs2econ",
+     "size": 726,
+     "sha256": "d86691516e47f7509290ce33eef8ab8ff7174f09b6c3c10b7706f5b96c12e46f",
+     "rel": "library-2"
     }
    }
   },
@@ -10332,6 +12406,12 @@
      "name": "tyloo-vs-sharks-m2-inferno.v2.cs2stats",
      "size": 719,
      "sha256": "2ad26bf716f98a546f29eef1d41825d1a7a2e3e7345b5a41f6ee7da365ae2e1c"
+    },
+    "econ": {
+     "name": "tyloo-vs-sharks-m2-inferno.v2.cs2econ",
+     "size": 788,
+     "sha256": "cfeea46e812d232d462050404eb56877c50331906dcd89404c32b5759f92ab55",
+     "rel": "library-2"
     }
    }
   },
@@ -10361,6 +12441,12 @@
      "name": "thunder-downunder-vs-flyquest-m1-anubis.v2.cs2stats",
      "size": 887,
      "sha256": "686ddeb01bcc1610fb4d57e67fdc687f371aee248166e12eb14482ea9bbd225a"
+    },
+    "econ": {
+     "name": "thunder-downunder-vs-flyquest-m1-anubis.v2.cs2econ",
+     "size": 960,
+     "sha256": "be585c1e0c42198aa8d6b227dc3a5a2f70791301a3e087c72b48be5bd32b3d15",
+     "rel": "library-2"
     }
    }
   },
@@ -10390,6 +12476,12 @@
      "name": "tyloo-vs-sharks-m1-nuke.v2.cs2stats",
      "size": 760,
      "sha256": "2301063f772866658ee6d78ef4112c09d61723d60f261c8d14bfe0a3b5454de0"
+    },
+    "econ": {
+     "name": "tyloo-vs-sharks-m1-nuke.v2.cs2econ",
+     "size": 818,
+     "sha256": "453c922e7a226bd1f29e13008c74f84d2ffb0c8bafde59c1e173f18f57ee3eee",
+     "rel": "library-2"
     }
    }
   },
@@ -10419,6 +12511,12 @@
      "name": "nrg-vs-flyquest-mirage.v2.cs2stats",
      "size": 857,
      "sha256": "5481ed7feddb387d52ab91805ea8da0fb8a972491739a506a36a3adb7aab9f16"
+    },
+    "econ": {
+     "name": "nrg-vs-flyquest-mirage.v2.cs2econ",
+     "size": 946,
+     "sha256": "88fdf16ef55a1679328825d8b193d245bf925f61c1b4b8b5c4cf6cdb3ccb9fcf",
+     "rel": "library-2"
     }
    }
   },
@@ -10448,6 +12546,12 @@
      "name": "betboom-vs-liquid-dust2.v2.cs2stats",
      "size": 821,
      "sha256": "0449d8adf4968ffa4688fd784b251931a77c6758f19fe21d43f4ef0309a3c675"
+    },
+    "econ": {
+     "name": "betboom-vs-liquid-dust2.v2.cs2econ",
+     "size": 906,
+     "sha256": "dbe57d899ce8dbea4336a7b18cd324bccbe31dfaf7a4845659ff3d3dac336ca3",
+     "rel": "library-2"
     }
    }
   },
@@ -10477,6 +12581,12 @@
      "name": "mibr-vs-tyloo-nuke.v2.cs2stats",
      "size": 960,
      "sha256": "f8c9aa4b67a45c04aaf570181210941bbea5d21dacc95c3ba3007fae0387c0fe"
+    },
+    "econ": {
+     "name": "mibr-vs-tyloo-nuke.v2.cs2econ",
+     "size": 1163,
+     "sha256": "94a20c38b754861a9690c94ea84fb95e20df44d2c92134766f3f635c90a092a0",
+     "rel": "library-2"
     }
    }
   },
@@ -10506,6 +12616,12 @@
      "name": "ninjas-in-pyjamas-vs-faze-m2-nuke.v2.cs2stats",
      "size": 850,
      "sha256": "b9150a2b24fffb8f802dd455f0cd1b22aea2e9a84ef5f96a55c2926147090c45"
+    },
+    "econ": {
+     "name": "ninjas-in-pyjamas-vs-faze-m2-nuke.v2.cs2econ",
+     "size": 959,
+     "sha256": "c9ce635d274cd551c8b2101652c301fede0c9aa536f214f5306a24e95f8ebedb",
+     "rel": "library-2"
     }
    }
   },
@@ -10535,6 +12651,12 @@
      "name": "ninjas-in-pyjamas-vs-faze-m1-ancient.v2.cs2stats",
      "size": 919,
      "sha256": "f4fa3f640558f8c5cbbc6737ac4259c45d499ccfcaba1fe8490e9f0c9b0372ff"
+    },
+    "econ": {
+     "name": "ninjas-in-pyjamas-vs-faze-m1-ancient.v2.cs2econ",
+     "size": 993,
+     "sha256": "3a928049d44149d5cacf0b6c1f198d95c56c16534efb17a61274f36983762a41",
+     "rel": "library-2"
     }
    }
   },
@@ -10564,6 +12686,12 @@
      "name": "tyloo-vs-semperfi-m3-nuke.v2.cs2stats",
      "size": 801,
      "sha256": "3eac9f4f231eccd6dafb3c5ec5b502b8b793ef2556314d7b2e9e0b1f4a58ab76"
+    },
+    "econ": {
+     "name": "tyloo-vs-semperfi-m3-nuke.v2.cs2econ",
+     "size": 906,
+     "sha256": "8c51cd377f8704452149672c6aba5809daf0c69afe26bc0569688268dae90c49",
+     "rel": "library-2"
     }
    }
   },
@@ -10593,6 +12721,12 @@
      "name": "tyloo-vs-semperfi-m2-mirage.v2.cs2stats",
      "size": 798,
      "sha256": "846c7490af730dc5ccdf6231461dfd546f2e7deb3db9211bd67cc1a019764db4"
+    },
+    "econ": {
+     "name": "tyloo-vs-semperfi-m2-mirage.v2.cs2econ",
+     "size": 862,
+     "sha256": "e6cbcbf989cb8b4feb3d2b044809ee244b3f5627c54088a9453bdc0c2ef40061",
+     "rel": "library-2"
     }
    }
   },
@@ -10622,6 +12756,12 @@
      "name": "tyloo-vs-semperfi-m1-inferno.v2.cs2stats",
      "size": 877,
      "sha256": "06caf5f5507e19fd8bebfe4bf1bf35886041b23739f0481b5b3564a222178835"
+    },
+    "econ": {
+     "name": "tyloo-vs-semperfi-m1-inferno.v2.cs2econ",
+     "size": 926,
+     "sha256": "42dbb01a9754fc165e09889747568b0b0f0fda8563f4f2afac943e3aaf26d60d",
+     "rel": "library-2"
     }
    }
   },
@@ -10651,6 +12791,12 @@
      "name": "faze-vs-alliance-m2-nuke.v2.cs2stats",
      "size": 726,
      "sha256": "9ba9bf27e69c506af62dc63a39ac5cdee0ff434873385362bcb181a4cc0d8aaa"
+    },
+    "econ": {
+     "name": "faze-vs-alliance-m2-nuke.v2.cs2econ",
+     "size": 822,
+     "sha256": "6f3ce4a37396f41ada7893f62109ff8695226d6854131a75ad4c12812aac086a",
+     "rel": "library-2"
     }
    }
   },
@@ -10680,6 +12826,12 @@
      "name": "faze-vs-alliance-m1-anubis.v2.cs2stats",
      "size": 815,
      "sha256": "aaba374e689529c7eab7bed1a144778b69f6e45294fa182d61a2a7de8404ddf2"
+    },
+    "econ": {
+     "name": "faze-vs-alliance-m1-anubis.v2.cs2econ",
+     "size": 895,
+     "sha256": "6db956feb04abbec58f7627f62297ec823834835f0ad8889896c6277912ebb48",
+     "rel": "library-2"
     }
    }
   },
@@ -10709,6 +12861,12 @@
      "name": "falcons-vs-mouz-m3-nuke.v2.cs2stats",
      "size": 822,
      "sha256": "5bd2f8e82b901a0678feb734276baa4ed95471aec6466ddcd0a8420d62fb3274"
+    },
+    "econ": {
+     "name": "falcons-vs-mouz-m3-nuke.v2.cs2econ",
+     "size": 957,
+     "sha256": "dda8dd6cfd4fd5f508f48ff28db0bf587b0609b6a78a925f1d6ae96120d39e6b",
+     "rel": "library-2"
     }
    }
   },
@@ -10738,6 +12896,12 @@
      "name": "falcons-vs-mouz-m2-dust2.v2.cs2stats",
      "size": 765,
      "sha256": "2814b4f0a98fe0a17f3fa5d920cdc1c268fbe9c90128df03f522199d95f57d45"
+    },
+    "econ": {
+     "name": "falcons-vs-mouz-m2-dust2.v2.cs2econ",
+     "size": 854,
+     "sha256": "d75c7997d76a47679c8036190b2fc9da9fb8b7d77c32b50f0a02151db770305d",
+     "rel": "library-2"
     }
    }
   },
@@ -10767,6 +12931,12 @@
      "name": "falcons-vs-mouz-m1-mirage.v2.cs2stats",
      "size": 774,
      "sha256": "52fe6458bc7f7bb6eedaf3145e9d42c12b52277b494ccce9375434b7493c5236"
+    },
+    "econ": {
+     "name": "falcons-vs-mouz-m1-mirage.v2.cs2econ",
+     "size": 866,
+     "sha256": "1de0a142f1c8b00fa5599c5066f49e12d8e4729e44cbd44933d26c7c7b773dda",
+     "rel": "library-2"
     }
    }
   },
@@ -10796,6 +12966,12 @@
      "name": "mibr-vs-b8-m3-ancient.v2.cs2stats",
      "size": 642,
      "sha256": "fc7349c58d61af4973c227df4b50f484643ad48c8bf905f3d948ca791a8453c5"
+    },
+    "econ": {
+     "name": "mibr-vs-b8-m3-ancient.v2.cs2econ",
+     "size": 689,
+     "sha256": "19906842326aed45b150366270db626b5a14577cb1ba80f761303a04f96d98b1",
+     "rel": "library-2"
     }
    }
   },
@@ -10825,6 +13001,12 @@
      "name": "mibr-vs-b8-m2-mirage.v2.cs2stats",
      "size": 831,
      "sha256": "4916dc2e7380709ffa538090f6ceabcf2c01e6dadd9135dd37e80f14bfea0217"
+    },
+    "econ": {
+     "name": "mibr-vs-b8-m2-mirage.v2.cs2econ",
+     "size": 947,
+     "sha256": "5d118c5bb3659f7ad8d6fc3d12daac6fa9d2eb6210d2d7633ce342dd2a816111",
+     "rel": "library-2"
     }
    }
   },
@@ -10854,6 +13036,12 @@
      "name": "mibr-vs-b8-m1-inferno.v2.cs2stats",
      "size": 614,
      "sha256": "a6cf6747ab996674bda490991cc9076f9938170cb5f3c4f9228813a15ffe89db"
+    },
+    "econ": {
+     "name": "mibr-vs-b8-m1-inferno.v2.cs2econ",
+     "size": 616,
+     "sha256": "c4984eea2f365f5951d60bc02fd3546fa17c3406251a11c9e0fd4659246be899",
+     "rel": "library-2"
     }
    }
   },
@@ -10883,6 +13071,12 @@
      "name": "legacy-vs-tyloo-m2-ancient.v2.cs2stats",
      "size": 994,
      "sha256": "4ad516a7ca4191c087a2d7a980193bbb6a394af7eaefe91f70c3926974ed69ca"
+    },
+    "econ": {
+     "name": "legacy-vs-tyloo-m2-ancient.v2.cs2econ",
+     "size": 1134,
+     "sha256": "a0a8d46d1e8558e3e3defbd9f88ffbe33a29cfb1f3189f40b8e9a71a4db44e38",
+     "rel": "library-2"
     }
    }
   },
@@ -10912,6 +13106,12 @@
      "name": "falcons-vs-m80-m2-ancient.v2.cs2stats",
      "size": 894,
      "sha256": "102bc45a6dd7da5d3f872d07ab4d079a0799240ec7cf7795a048d4aad05d43de"
+    },
+    "econ": {
+     "name": "falcons-vs-m80-m2-ancient.v2.cs2econ",
+     "size": 976,
+     "sha256": "73b80bd5864407d7883962a8e0ef48b047b84c452433f973fab32802e4bf305a",
+     "rel": "library-2"
     }
    }
   },
@@ -10941,6 +13141,12 @@
      "name": "legacy-vs-tyloo-m1-overpass.v2.cs2stats",
      "size": 1146,
      "sha256": "a8d077b6f3d27fef6784264cffc380bea32594d07c96e1b350d0bd9d01ae6f66"
+    },
+    "econ": {
+     "name": "legacy-vs-tyloo-m1-overpass.v2.cs2econ",
+     "size": 1302,
+     "sha256": "a00869b6556380e701a94b736b94bb01a734b7dbc764ac318cc64d230efaec8c",
+     "rel": "library-2"
     }
    }
   },
@@ -10970,6 +13176,12 @@
      "name": "falcons-vs-m80-m1-inferno.v2.cs2stats",
      "size": 1163,
      "sha256": "fe3921a706370bd1e41776c165e79e3b630b82ae447e106b19fd40d72ea2bb60"
+    },
+    "econ": {
+     "name": "falcons-vs-m80-m1-inferno.v2.cs2econ",
+     "size": 1307,
+     "sha256": "ef1cdb18b994efca096c73122fb1cb19e9c615c498634d4b40fd36c5d9af5cd9",
+     "rel": "library-2"
     }
    }
   },
@@ -10999,6 +13211,12 @@
      "name": "falcons-vs-bc-game-dust2.v2.cs2stats",
      "size": 854,
      "sha256": "cf4bfe8de0774587ecabdb7f039cf0289d705c819e4a85316817bd9c9ec3ca75"
+    },
+    "econ": {
+     "name": "falcons-vs-bc-game-dust2.v2.cs2econ",
+     "size": 1003,
+     "sha256": "6df549e663c7f86e920b8c8418e166699f74bd08a38c206d56ad2cad159d1212",
+     "rel": "library-2"
     }
    }
   },
@@ -11028,6 +13246,12 @@
      "name": "mouz-vs-tyloo-inferno.v2.cs2stats",
      "size": 797,
      "sha256": "f828f3c28f0dd73d527c1079d1f57b93f33c6656c21b422831077bd0cf76732e"
+    },
+    "econ": {
+     "name": "mouz-vs-tyloo-inferno.v2.cs2econ",
+     "size": 873,
+     "sha256": "6b604d1e7cb4a306cae5c758d177f3bd33d75f9a6cd2683ff0d60288ea0bb872",
+     "rel": "library-2"
     }
    }
   },
@@ -11057,6 +13281,12 @@
      "name": "spirit-vs-falcons-m3-ancient.v2.cs2stats",
      "size": 882,
      "sha256": "ef301a7d0e405074ed62d269c4211e2ae89c32a47eaca4e4137ca6bf34b27979"
+    },
+    "econ": {
+     "name": "spirit-vs-falcons-m3-ancient.v2.cs2econ",
+     "size": 966,
+     "sha256": "fc3215f5df8a27bd6353d2c07cc02304b6b8e5a7ce939198fe322cab7377436b",
+     "rel": "library-2"
     }
    }
   },
@@ -11086,6 +13316,12 @@
      "name": "spirit-vs-falcons-m1-dust2.v2.cs2stats",
      "size": 979,
      "sha256": "c9b9be58b8a17bfe13d020125aad2f8712f0250c014a4341f27ec8aaa99b1bc9"
+    },
+    "econ": {
+     "name": "spirit-vs-falcons-m1-dust2.v2.cs2econ",
+     "size": 1100,
+     "sha256": "0bde608dd5f7117a1aacc01fe3652fd5568857a07ade1d2de0000996e0d86371",
+     "rel": "library-2"
     }
    }
   },
@@ -11115,6 +13351,12 @@
      "name": "spirit-vs-falcons-m2-mirage.v2.cs2stats",
      "size": 783,
      "sha256": "512c17d9e379f92f8e8f502d72ef1a56741123bc170cc32a4512fe12084517a7"
+    },
+    "econ": {
+     "name": "spirit-vs-falcons-m2-mirage.v2.cs2econ",
+     "size": 859,
+     "sha256": "56f1d6b9e0857bb4e72793c88717458cb0f78f147c0603fc8b464cf94d7af6b4",
+     "rel": "library-2"
     }
    }
   },
@@ -11144,6 +13386,12 @@
      "name": "natus-vincere-vs-vitality-m3-inferno.v2.cs2stats",
      "size": 717,
      "sha256": "f429266e5efa6132d405eac974e149c62b76ea1ff540936dd5a8115e62d70cbf"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-vitality-m3-inferno.v2.cs2econ",
+     "size": 744,
+     "sha256": "42dad77aed8b54ddfdedf8f4713107824410ed9f02fcb0c3ebe71d37b66081a5",
+     "rel": "library-2"
     }
    }
   },
@@ -11173,6 +13421,12 @@
      "name": "natus-vincere-vs-vitality-m2-anubis.v2.cs2stats",
      "size": 904,
      "sha256": "1dba35eabf72414ec6ed471fa682d0e690e6dd3ab589727c19c4faec58a522d5"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-vitality-m2-anubis.v2.cs2econ",
+     "size": 977,
+     "sha256": "5e6a396a6c4fa9e23473f868d9a48ab9361eb6d0bdc0f92e90f89f79b223cef0",
+     "rel": "library-2"
     }
    }
   },
@@ -11202,6 +13456,12 @@
      "name": "natus-vincere-vs-vitality-m1-dust2.v2.cs2stats",
      "size": 883,
      "sha256": "73766d1f5a7b4e3c00bd7c8d201c4be685267edfa9696083986c6e6ba4b42674"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-vitality-m1-dust2.v2.cs2econ",
+     "size": 1002,
+     "sha256": "6e200359ae920e4ec9a380b99941a4261d4106c7e712b91b4d99b97eb22e4286",
+     "rel": "library-2"
     }
    }
   },
@@ -11231,6 +13491,12 @@
      "name": "furia-vs-falcons-m3-dust2.v2.cs2stats",
      "size": 1178,
      "sha256": "7752b2314433dfde6ddc223e71f81b3ea0578923a53280b5832cc0201428d950"
+    },
+    "econ": {
+     "name": "furia-vs-falcons-m3-dust2.v2.cs2econ",
+     "size": 1351,
+     "sha256": "539b405c51807deced6495af4f58f43cd5411e6e0921b131dc87eb704f48144e",
+     "rel": "library-2"
     }
    }
   },
@@ -11260,6 +13526,12 @@
      "name": "furia-vs-falcons-m2-nuke.v2.cs2stats",
      "size": 1307,
      "sha256": "08bac97c789a154400f49caab8373ca92fb5fb14247ef1269a54d93850f18994"
+    },
+    "econ": {
+     "name": "furia-vs-falcons-m2-nuke.v2.cs2econ",
+     "size": 1524,
+     "sha256": "e804e269149318e92efe3ef11c80d2028e89e6c8bcede2dd5078806059a252d8",
+     "rel": "library-2"
     }
    }
   },
@@ -11289,6 +13561,12 @@
      "name": "furia-vs-falcons-m1-mirage.v2.cs2stats",
      "size": 821,
      "sha256": "92cc2b07dbd8d7070ac1a5fa3ddaf84bcd117fe22ccea20c96daefa735e6e78c"
+    },
+    "econ": {
+     "name": "furia-vs-falcons-m1-mirage.v2.cs2econ",
+     "size": 908,
+     "sha256": "c3ec20e50f8b290033568bb37f8d8a1685187e094cdeff4335c0a1708bf79012",
+     "rel": "library-2"
     }
    }
   },
@@ -11318,6 +13596,12 @@
      "name": "the-mongolz-vs-falcons-m3-mirage.v2.cs2stats",
      "size": 976,
      "sha256": "51d94ec42367eb2c409c8460102a893b663ef51d51dd9610ad5ba8abd4a027c6"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-falcons-m3-mirage.v2.cs2econ",
+     "size": 1118,
+     "sha256": "1f9e2ab6d4b5f5f3054537aaa631f4ed83ab36e84c6ae4203b6efac7398b7e66",
+     "rel": "library-2"
     }
    }
   },
@@ -11347,6 +13631,12 @@
      "name": "the-mongolz-vs-falcons-m2-inferno.v2.cs2stats",
      "size": 893,
      "sha256": "9b6b66b84935b7ba7b1e5e884f2337c4e2847aa70e0382df33388518c1bd735a"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-falcons-m2-inferno.v2.cs2econ",
+     "size": 976,
+     "sha256": "8951a7a4e6cf5256fa2b049cb1af8bc8e5975fb5640cdc0adeebd2a4b3cb9554",
+     "rel": "library-2"
     }
    }
   },
@@ -11376,6 +13666,12 @@
      "name": "the-mongolz-vs-falcons-m1-dust2.v2.cs2stats",
      "size": 824,
      "sha256": "5fb51ea2eb5b5e2e3d3888ee0897722126cb78f40b5150a354b9f76b1ff122b9"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-falcons-m1-dust2.v2.cs2econ",
+     "size": 877,
+     "sha256": "9fab4b4046e81f0f3edda4614d4ccf4bbfb59103c9bc3aa033809ecf80db511f",
+     "rel": "library-2"
     }
    }
   },
@@ -11405,6 +13701,12 @@
      "name": "natus-vincere-vs-passion-ua-m2-mirage.v2.cs2stats",
      "size": 729,
      "sha256": "0e955f9ae61762b4abb101fbefe3afa2458648bb151071a22c3d09d552ebc850"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-passion-ua-m2-mirage.v2.cs2econ",
+     "size": 751,
+     "sha256": "4212f0ce7e027e4e6575f0a801640d6ec8e984b3083fe2131adb60aa1af9b710",
+     "rel": "library-2"
     }
    }
   },
@@ -11434,6 +13736,12 @@
      "name": "natus-vincere-vs-passion-ua-m1-anubis.v2.cs2stats",
      "size": 1043,
      "sha256": "cf68d3819b53919d30e9629fdcb4fee712a76d6c33505ab29800e64af2227ae8"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-passion-ua-m1-anubis.v2.cs2econ",
+     "size": 1159,
+     "sha256": "eecf332e7a1622281e58d4367b582d4d59ad6460034cf36bf07201034c401d3b",
+     "rel": "library-2"
     }
    }
   },
@@ -11463,6 +13771,12 @@
      "name": "mouz-vs-9z-m3-ancient.v2.cs2stats",
      "size": 825,
      "sha256": "e37a95aae6c94c1fbf6c90bf606f76e0452adae9ebae9811686131acc68f0f99"
+    },
+    "econ": {
+     "name": "mouz-vs-9z-m3-ancient.v2.cs2econ",
+     "size": 912,
+     "sha256": "5585bf7b28c3bfe9a2068499f936047aa3fa62e222e9be5014f4a5ccef72e816",
+     "rel": "library-2"
     }
    }
   },
@@ -11492,6 +13806,12 @@
      "name": "mouz-vs-9z-m1-nuke.v2.cs2stats",
      "size": 836,
      "sha256": "28c6e43773c8b2b3dcab14b2ef6cae3361f2496084c35504b510cf3bba8dbf71"
+    },
+    "econ": {
+     "name": "mouz-vs-9z-m1-nuke.v2.cs2econ",
+     "size": 944,
+     "sha256": "ed30b6997bf382a883317108faae83baf0992520b71a2a6aede959758b9200f5",
+     "rel": "library-2"
     }
    }
   },
@@ -11521,6 +13841,12 @@
      "name": "mouz-vs-9z-m2-inferno.v2.cs2stats",
      "size": 724,
      "sha256": "eb53348d2907226f1b1e0ea4fd90f5476bb4bee852fc37a8c423a82a1bc7c032"
+    },
+    "econ": {
+     "name": "mouz-vs-9z-m2-inferno.v2.cs2econ",
+     "size": 755,
+     "sha256": "4f4f1baeeef1b5be567c9c263859495c36fcb6bc817388fea5321ff3a004d4ba",
+     "rel": "library-2"
     }
    }
   },
@@ -11550,6 +13876,12 @@
      "name": "tyloo-vs-nexvoid-m3-overpass.v2.cs2stats",
      "size": 810,
      "sha256": "5c19442dadc9be97efbfefcf41a4fc3ac0e8da92ba852e13610e312635c4a9d2"
+    },
+    "econ": {
+     "name": "tyloo-vs-nexvoid-m3-overpass.v2.cs2econ",
+     "size": 881,
+     "sha256": "7910c818e4b6b35ed82fe919b0c4edd598a8dcbb88828219d859b014f504f383",
+     "rel": "library-2"
     }
    }
   },
@@ -11579,6 +13911,12 @@
      "name": "tyloo-vs-nexvoid-m2-inferno.v2.cs2stats",
      "size": 911,
      "sha256": "858834b74a9f16230a72d3948de1519a1ffe5b89b0e5ef33cf66b071e35958e4"
+    },
+    "econ": {
+     "name": "tyloo-vs-nexvoid-m2-inferno.v2.cs2econ",
+     "size": 981,
+     "sha256": "6bd6fd57c21196518cadb7e14f8ab6587d2f4d73613156b26dfc7e1ffc63309f",
+     "rel": "library-2"
     }
    }
   },
@@ -11608,6 +13946,12 @@
      "name": "tyloo-vs-nexvoid-m1-ancient.v2.cs2stats",
      "size": 852,
      "sha256": "e51348ff08f7d1077b6eacb5908ecd8b0d2e6a37afe4e0936e341bb1c7dcab4d"
+    },
+    "econ": {
+     "name": "tyloo-vs-nexvoid-m1-ancient.v2.cs2econ",
+     "size": 974,
+     "sha256": "b628828d9cbfa0adcef598f22c324d9f889f45f089ca6da7f94a6c62e4a4e7bb",
+     "rel": "library-2"
     }
    }
   },
@@ -11637,6 +13981,12 @@
      "name": "rare-atom-vs-tyloo-m3-mirage.v2.cs2stats",
      "size": 665,
      "sha256": "09f1295264036f862a7553ff9bcaf21926cb2085396bc006f0b61926f5d7b656"
+    },
+    "econ": {
+     "name": "rare-atom-vs-tyloo-m3-mirage.v2.cs2econ",
+     "size": 695,
+     "sha256": "abaceff1e68085cd2993d04603de69c91556217d05de8accac8a7624e3f0a8b4",
+     "rel": "library-2"
     }
    }
   },
@@ -11666,6 +14016,12 @@
      "name": "rare-atom-vs-tyloo-m1-ancient.v2.cs2stats",
      "size": 753,
      "sha256": "7d998c5283a337e185bda118ec18c657678e9930596af687e299356973af5998"
+    },
+    "econ": {
+     "name": "rare-atom-vs-tyloo-m1-ancient.v2.cs2econ",
+     "size": 795,
+     "sha256": "522c01cc8001843400d9bf2f9af1ac549bbfa7cff873e2ff3278608cefe3d84e",
+     "rel": "library-2"
     }
    }
   },
@@ -11695,6 +14051,12 @@
      "name": "rare-atom-vs-tyloo-m2-overpass.v2.cs2stats",
      "size": 674,
      "sha256": "808367a7b74debcef659bc2d11e1b396ec44fe21e5eb9cbe94ad88f90cb0f30a"
+    },
+    "econ": {
+     "name": "rare-atom-vs-tyloo-m2-overpass.v2.cs2econ",
+     "size": 722,
+     "sha256": "be3d9063674b4def400e25ef0a3f92becec818837ed65ec17a19cb9d99c3ef85",
+     "rel": "library-2"
     }
    }
   },
@@ -11724,6 +14086,12 @@
      "name": "markandlarry-vs-ground-zero-m2-nuke.v2.cs2stats",
      "size": 726,
      "sha256": "a24c0b4fdeaaa2e6333aa58418052243338f92fd0a6a85310d0d7968b173bb18"
+    },
+    "econ": {
+     "name": "markandlarry-vs-ground-zero-m2-nuke.v2.cs2econ",
+     "size": 774,
+     "sha256": "fe80241ad1f6984052d9a139e582e29de2a2625ea8936c441d06a5f721c96796",
+     "rel": "library-2"
     }
    }
   },
@@ -11753,6 +14121,12 @@
      "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2stats",
      "size": 673,
      "sha256": "1224c14bbf10c983e7ed7e8e67c8ab82422588bf88b360841eb31a9390061e57"
+    },
+    "econ": {
+     "name": "markandlarry-vs-ground-zero-m1-mirage.v2.cs2econ",
+     "size": 724,
+     "sha256": "d7f5314fdf106d3d4ca373f410206a37ffd9db90ab7527a59adf3c504ab270d4",
+     "rel": "library-2"
     }
    }
   },
@@ -11782,6 +14156,12 @@
      "name": "flyquest-vs-tyloo-m3-nuke.v2.cs2stats",
      "size": 784,
      "sha256": "d7d7db86a1b6a76eb49be1bf0a39959ea9661ada51138cee29fa48a51c180e89"
+    },
+    "econ": {
+     "name": "flyquest-vs-tyloo-m3-nuke.v2.cs2econ",
+     "size": 881,
+     "sha256": "1a455ba97188664d2e06a6a27d8a53a088f45f5782266ee3c61582bab9a70ea8",
+     "rel": "library-2"
     }
    }
   },
@@ -11811,6 +14191,12 @@
      "name": "flyquest-vs-tyloo-m2-anubis.v2.cs2stats",
      "size": 823,
      "sha256": "3cb48a9f314ab024f3beb8115287db867bb38f937a33d1c0d193611ddd9197e4"
+    },
+    "econ": {
+     "name": "flyquest-vs-tyloo-m2-anubis.v2.cs2econ",
+     "size": 890,
+     "sha256": "9e68319828110ff1174487503fe0935d0264fcee27d41a64d4c7f1bc3521a762",
+     "rel": "library-2"
     }
    }
   },
@@ -11840,6 +14226,12 @@
      "name": "flyquest-vs-tyloo-m1-mirage.v2.cs2stats",
      "size": 661,
      "sha256": "5be3a5fe10ce272dbd21a5fb787b3a0843826038df08080794a42992c76f96b3"
+    },
+    "econ": {
+     "name": "flyquest-vs-tyloo-m1-mirage.v2.cs2econ",
+     "size": 694,
+     "sha256": "22f933ff76f1f9e101255f2e8a29adbe7b7185cf4820e0f074bdbb963f92cea6",
+     "rel": "library-2"
     }
    }
   },
@@ -11869,6 +14261,12 @@
      "name": "tyloo-vs-semperfi-m2-inferno.v2.cs2stats",
      "size": 822,
      "sha256": "eef82fd4cee1ee4f48eb2407f27138f9f7b2ed073cc438c74db8a9a254e456d4"
+    },
+    "econ": {
+     "name": "tyloo-vs-semperfi-m2-inferno.v2.cs2econ",
+     "size": 928,
+     "sha256": "bf8c17a8f07052b0c21d2c38756862fad1600df7bab8608266533956d9bedc04",
+     "rel": "library-2"
     }
    }
   },
@@ -11898,6 +14296,12 @@
      "name": "tyloo-vs-semperfi-m1-ancient.v2.cs2stats",
      "size": 881,
      "sha256": "8fccf2faf7cbea61ad085925ea63affcbabfceb9ffb0bc4bb1909d9d1715aaea"
+    },
+    "econ": {
+     "name": "tyloo-vs-semperfi-m1-ancient.v2.cs2econ",
+     "size": 988,
+     "sha256": "92130784d9fa64c6192ea77eb878d6b7d48e78a9fcd1b2be1253dccdf30222a8",
+     "rel": "library-2"
     }
    }
   },
@@ -11927,6 +14331,12 @@
      "name": "faze-vs-parivision-m3-inferno.v2.cs2stats",
      "size": 862,
      "sha256": "d1ea58e4efcb2661f16d4af000bf80c076fc5275a5d39ac1d707ca5ef3c49236"
+    },
+    "econ": {
+     "name": "faze-vs-parivision-m3-inferno.v2.cs2econ",
+     "size": 902,
+     "sha256": "8ecb29118edba55d8d3dafdfb37ca0f0e19eab6161a336faa013e1117b4658ba",
+     "rel": "library-2"
     }
    }
   },
@@ -11956,6 +14366,12 @@
      "name": "faze-vs-parivision-m2-ancient.v2.cs2stats",
      "size": 907,
      "sha256": "3cdfd2f846698a992faf15b0d12fcc70e07f7716c54681b9613408a8bf0bed2a"
+    },
+    "econ": {
+     "name": "faze-vs-parivision-m2-ancient.v2.cs2econ",
+     "size": 967,
+     "sha256": "1c1dd377289a86fca2e11be38504c1e0a99c841f015b27cfcaa6a27bc994a065",
+     "rel": "library-2"
     }
    }
   },
@@ -11985,6 +14401,12 @@
      "name": "faze-vs-parivision-m1-mirage.v2.cs2stats",
      "size": 654,
      "sha256": "c4ad877ed7b0dad484ce79751ca9478564c5441df35c399f6db3569b0e03a10f"
+    },
+    "econ": {
+     "name": "faze-vs-parivision-m1-mirage.v2.cs2econ",
+     "size": 669,
+     "sha256": "8b5ebd8d5647aed98e3a7538df22bf854a80eefc2e42b6f1fbbd6963caa95efa",
+     "rel": "library-2"
     }
    }
   },
@@ -12014,6 +14436,12 @@
      "name": "vitality-vs-faze-m3-anubis.v2.cs2stats",
      "size": 780,
      "sha256": "b91072d5dc59e325f6fe0d705809d7a35855bf3a8fd993367ef0c469470896c9"
+    },
+    "econ": {
+     "name": "vitality-vs-faze-m3-anubis.v2.cs2econ",
+     "size": 858,
+     "sha256": "416e1a526121c018968792f7c853d4df87eeec04e6708346c2c21e40d7fde547",
+     "rel": "library-2"
     }
    }
   },
@@ -12043,6 +14471,12 @@
      "name": "vitality-vs-faze-m2-mirage.v2.cs2stats",
      "size": 775,
      "sha256": "b59679663e98308970a7a7a293a58ae8b8cb0cf9d74f7a81de0b61dad5ff6ab8"
+    },
+    "econ": {
+     "name": "vitality-vs-faze-m2-mirage.v2.cs2econ",
+     "size": 864,
+     "sha256": "a0cff7fc06c576a61c831a3b5afa4c34444fb33e470253fe72d699a85ef74bfb",
+     "rel": "library-2"
     }
    }
   },
@@ -12072,6 +14506,12 @@
      "name": "vitality-vs-faze-m1-nuke.v2.cs2stats",
      "size": 731,
      "sha256": "c680f39824f9c8a948c9305c994353dbf4c0091800f1a720437ed3a73bdc7c5c"
+    },
+    "econ": {
+     "name": "vitality-vs-faze-m1-nuke.v2.cs2econ",
+     "size": 804,
+     "sha256": "b519f518aa4c35ea216ca1b55dba344c25cbe559ddb053abe32f1ffcf864c717",
+     "rel": "library-2"
     }
    }
   },
@@ -12101,6 +14541,12 @@
      "name": "faze-vs-furia-m3-mirage.v2.cs2stats",
      "size": 827,
      "sha256": "f2e80aff361d8c47d222030dcaa814bea73c18f806305d5d223a5cb1e9feaed5"
+    },
+    "econ": {
+     "name": "faze-vs-furia-m3-mirage.v2.cs2econ",
+     "size": 936,
+     "sha256": "7745e75516636b320af87cb6d8fe9e5eba0a7015d5204abaa9a48afa01c11bc3",
+     "rel": "library-2"
     }
    }
   },
@@ -12130,6 +14576,12 @@
      "name": "faze-vs-furia-m2-dust2.v2.cs2stats",
      "size": 815,
      "sha256": "c16e120b32a23851c9a3dcbfd6c8cdf25ee6385b10c35db056600a3d021dc914"
+    },
+    "econ": {
+     "name": "faze-vs-furia-m2-dust2.v2.cs2econ",
+     "size": 912,
+     "sha256": "0a9e749e1956bd372d7e51aa19cbb592c9c9f8d9ddf4a26fd00698b016fe238d",
+     "rel": "library-2"
     }
    }
   },
@@ -12159,6 +14611,12 @@
      "name": "faze-vs-furia-m1-inferno.v2.cs2stats",
      "size": 760,
      "sha256": "b71b4350693e12a0a10f77f03027d736c8a25964b29ae9ff990924f9fa62cbcf"
+    },
+    "econ": {
+     "name": "faze-vs-furia-m1-inferno.v2.cs2econ",
+     "size": 838,
+     "sha256": "603ffe8a168ab572394fd7d3b9d843cc13df2e30879b04a5d5cccd3491a57091",
+     "rel": "library-2"
     }
    }
   },
@@ -12188,6 +14646,12 @@
      "name": "spirit-vs-heroic-m3-dust2.v2.cs2stats",
      "size": 776,
      "sha256": "4073f1a97e8ecc2ebd63fe355a6fb12b9e33aa711c318db56937111068bd5a67"
+    },
+    "econ": {
+     "name": "spirit-vs-heroic-m3-dust2.v2.cs2econ",
+     "size": 877,
+     "sha256": "8da4e9e06c887ee746ee03b3751b89fb6eadd8a5543db8b0d992b9fe85af6a20",
+     "rel": "library-2"
     }
    }
   },
@@ -12217,6 +14681,12 @@
      "name": "spirit-vs-heroic-m2-mirage.v2.cs2stats",
      "size": 851,
      "sha256": "12f6dde2020765544347d76e2c3d47a243f64366d68b7749b72c905db92044db"
+    },
+    "econ": {
+     "name": "spirit-vs-heroic-m2-mirage.v2.cs2econ",
+     "size": 946,
+     "sha256": "25a58437ad591d2bbded321f74115d682819fa94b03f166aee9c8491830ca71a",
+     "rel": "library-2"
     }
    }
   },
@@ -12246,6 +14716,12 @@
      "name": "spirit-vs-heroic-m1-ancient.v2.cs2stats",
      "size": 1037,
      "sha256": "adc887dfbea62b664e50ed049ac8017912177561a6d41563bb21d2174d73836e"
+    },
+    "econ": {
+     "name": "spirit-vs-heroic-m1-ancient.v2.cs2econ",
+     "size": 1168,
+     "sha256": "90a42c2dcd773bcf9c65f19d3cb2b952f94b4057f9e4471fccddb47496682a20",
+     "rel": "library-2"
     }
    }
   },
@@ -12275,6 +14751,12 @@
      "name": "the-mongolz-vs-heroic-m3-ancient.v2.cs2stats",
      "size": 775,
      "sha256": "c0e693eb940cf45eb3faaef01288df21e3b7245acb51de3a86597da867e01a17"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-heroic-m3-ancient.v2.cs2econ",
+     "size": 815,
+     "sha256": "3aef40a0ebba09482c5fe400abdf72f574ee3607673351d380fda2c59012b1eb",
+     "rel": "library-2"
     }
    }
   },
@@ -12304,6 +14786,12 @@
      "name": "the-mongolz-vs-heroic-m2-anubis.v2.cs2stats",
      "size": 1202,
      "sha256": "6183847a173fbec6ed6fedefb25685b01b74f72ef95d9fe74ca9987a13f59280"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-heroic-m2-anubis.v2.cs2econ",
+     "size": 1383,
+     "sha256": "6de6737b11eb9e64ae036440121d2b3a5605be0de394894cc8b62d1de864bb1e",
+     "rel": "library-2"
     }
    }
   },
@@ -12333,6 +14821,12 @@
      "name": "the-mongolz-vs-heroic-m1-mirage.v2.cs2stats",
      "size": 783,
      "sha256": "02f6ce93e30376688b331869b22fa445bafbf1dbc086047ce1e32aba0e7935b6"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-heroic-m1-mirage.v2.cs2econ",
+     "size": 881,
+     "sha256": "48e071ef234899c5f5d57fac16d506e50b3ee2018aeea01781b2c671987fdcbf",
+     "rel": "library-2"
     }
    }
   }
