@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1790168935,
+ "updated": 1791014782,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -366,6 +366,234 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "astralis-vs-faze-m3-cache",
+   "teams": [
+    "astralis",
+    "faze"
+   ],
+   "map": "cache",
+   "date": 1790954492,
+   "rank": 10,
+   "event": "stake-ranked-episode-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-faze-m3-cache.v2.cs2lib",
+     "size": 1688981,
+     "sha256": "560e754a3998fddf0d517a32e15101f548349a7028477c7a31d12d95f98c8908",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "astralis-vs-faze-m3-cache.v2.cs2nades",
+     "size": 305918,
+     "sha256": "60d469fa8c0bbf329da3b29e7d12b4681b759b893a19f42a8d3bc8a4024ef03a",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "astralis-vs-faze-m3-cache.v2.cs2stats",
+     "size": 828,
+     "sha256": "c9c8e9581f43e4204dac88446414d0b78af1dcacd365811308f1ecc0713b054f",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "astralis-vs-faze-m3-cache.v2.cs2econ",
+     "size": 916,
+     "sha256": "535e6e5fdbb7cfa41cc5318ee705dcc379ddf97eb8f1f9c6e61d48aeb45f23ba",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-faze-m2-nuke__stake-ranked-episode-4",
+   "teams": [
+    "astralis",
+    "faze"
+   ],
+   "map": "nuke",
+   "date": 1790953477,
+   "rank": 10,
+   "event": "stake-ranked-episode-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-faze-m2-nuke__stake-ranked-episode-4.v2.cs2lib",
+     "size": 1643464,
+     "sha256": "fed6207d1eb3bfecdaaac7d68ecc9e9df2cc4a63a3b62849166f7705db84f3c8",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "astralis-vs-faze-m2-nuke__stake-ranked-episode-4.v2.cs2nades",
+     "size": 286924,
+     "sha256": "d4fd175e793334265ac5da9af3f74d12a701399a774eab6aaee81c14d25d3a01",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "astralis-vs-faze-m2-nuke__stake-ranked-episode-4.v2.cs2stats",
+     "size": 868,
+     "sha256": "f63ff205d35ddf2a192cf67e3d4986268268583be32b26ffe1182c222b7dbe3c",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "astralis-vs-faze-m2-nuke__stake-ranked-episode-4.v2.cs2econ",
+     "size": 1025,
+     "sha256": "ebbef43aeac3193cef22f93ee5fda7c90ee3d051c49fc222a59f7ba6e4ba02c4",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-faze-m1-ancient",
+   "teams": [
+    "astralis",
+    "faze"
+   ],
+   "map": "ancient",
+   "date": 1790953453,
+   "rank": 10,
+   "event": "stake-ranked-episode-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-faze-m1-ancient.v2.cs2lib",
+     "size": 1800465,
+     "sha256": "a72879aaf9bad717ea73430c4e95683b93e2bc3a4d5d38230925016a31d839cd",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "astralis-vs-faze-m1-ancient.v2.cs2nades",
+     "size": 319376,
+     "sha256": "b7d2deffc53226965985c38c51e034b6f23612e92a517b3c628572196695dbd1",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "astralis-vs-faze-m1-ancient.v2.cs2stats",
+     "size": 874,
+     "sha256": "361b03cab018e4df28bb47f045b438038e09406581b154619f415fffdf590e7f",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "astralis-vs-faze-m1-ancient.v2.cs2econ",
+     "size": 984,
+     "sha256": "1c56a8239ae08d804da840acdee238ed3ad4cfe0e4c3ca9b84b68fe5a5530089",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-alliance-m3-nuke",
+   "teams": [
+    "astralis",
+    "alliance"
+   ],
+   "map": "nuke",
+   "date": 1790883983,
+   "rank": 20,
+   "event": "stake-ranked-episode-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-alliance-m3-nuke.v2.cs2lib",
+     "size": 1641554,
+     "sha256": "81636466e19265db51289e8c8e700b6a9873f9c6a393cc63b65b4358f7c96d0b",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "astralis-vs-alliance-m3-nuke.v2.cs2nades",
+     "size": 288647,
+     "sha256": "b849d2d8072cce1bed47052a6c048a0271ad5e4551759b2d91fe501958906bb3",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "astralis-vs-alliance-m3-nuke.v2.cs2stats",
+     "size": 840,
+     "sha256": "b07a28fa3e2dff1a05733ca7da729550b14092a4be3ee913cc23ca10b36a4bd6",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "astralis-vs-alliance-m3-nuke.v2.cs2econ",
+     "size": 934,
+     "sha256": "96a580cbc67c8e428c8b29b6a704d0af697e3cca06ce026f75c15b15f20b3bb1",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-alliance-m1-inferno",
+   "teams": [
+    "astralis",
+    "alliance"
+   ],
+   "map": "inferno",
+   "date": 1790881105,
+   "rank": 20,
+   "event": "stake-ranked-episode-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-alliance-m1-inferno.v2.cs2lib",
+     "size": 2666526,
+     "sha256": "5bf3c775127b07e57be89a95d027d84504e3c19c751c60ddf923174b0456cac0",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "astralis-vs-alliance-m1-inferno.v2.cs2nades",
+     "size": 468563,
+     "sha256": "7faecfaae1416254cef0d8d81ca30b6c5a8077367a6cdd09166c66446cf1785a",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "astralis-vs-alliance-m1-inferno.v2.cs2stats",
+     "size": 1078,
+     "sha256": "6f2cfd73681c3d8e2b60fb9abeadc99672e3da05179816047b74013f2936e1b4",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "astralis-vs-alliance-m1-inferno.v2.cs2econ",
+     "size": 1190,
+     "sha256": "a9314f63b4fbd3c510206db29018084da5a69cd0d5e0993120157195bfbd7981",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "astralis-vs-alliance-m2-cache",
+   "teams": [
+    "astralis",
+    "alliance"
+   ],
+   "map": "cache",
+   "date": 1790881095,
+   "rank": 20,
+   "event": "stake-ranked-episode-4",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "astralis-vs-alliance-m2-cache.v2.cs2lib",
+     "size": 1139085,
+     "sha256": "d0a252dbb5ab31d8ce9408b85d8699c393ac8bf15f1ca52a4798f230bbe2f6b3",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "astralis-vs-alliance-m2-cache.v2.cs2nades",
+     "size": 202536,
+     "sha256": "dcd61336c6b9a6a9d23830d567c6c31be350e27909c96752402086c961030ee0",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "astralis-vs-alliance-m2-cache.v2.cs2stats",
+     "size": 733,
+     "sha256": "e3cc6a085e0654ede7a2aaacaedb4de400d4a6cad2161605722347a9e3a91080",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "astralis-vs-alliance-m2-cache.v2.cs2econ",
+     "size": 801,
+     "sha256": "4472bb2f72fea40a4f3d7e0f5c459381605e5040578f69917d1f9a90ae4391f2",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "flyquest-vs-lfo-8-m2-dust2",
    "teams": [
