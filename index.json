@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791200564,
+ "updated": 1791207614,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -230,8 +230,8 @@
   "ryvex": 236,
   "club-333": 237,
   "lilmix": 238,
-  "aether": 239,
   "ex-aether": 239,
+  "aether": 239,
   "meia-noite": 240,
   "revise": 241,
   "big-academy": 242,
@@ -366,6 +366,196 @@
   "gameharmony": 401
  },
  "demos": [
+  {
+   "stem": "parivision-vs-furia-m3-inferno",
+   "teams": [
+    "parivision",
+    "furia"
+   ],
+   "map": "inferno",
+   "date": 1791201592,
+   "rank": 7,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-furia-m3-inferno.v2.cs2lib",
+     "size": 2111685,
+     "sha256": "420577a3a1ddbee4fc5167b1640cc7717409b70885e3a70c273ce9f7991a5e90",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "parivision-vs-furia-m3-inferno.v2.cs2nades",
+     "size": 365685,
+     "sha256": "bee39200b86bc0fd9840283f6bcadad66012d21318acd9f6bb5a82a0915b9ab0",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "parivision-vs-furia-m3-inferno.v2.cs2stats",
+     "size": 908,
+     "sha256": "aba82ef2705c42d72a032474b080d4d8f0222e7654a9f3153aadf905cd5672c6",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "parivision-vs-furia-m3-inferno.v2.cs2econ",
+     "size": 955,
+     "sha256": "e7602c14d56516922f2d9a1b9473bce38dda709951b72d9f2d15b2ceb0f160d0",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-furia-m2-mirage",
+   "teams": [
+    "parivision",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1791197209,
+   "rank": 7,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-furia-m2-mirage.v2.cs2lib",
+     "size": 1458425,
+     "sha256": "4c1ae72b5a9b9a431d5ba416ae01e7203b62e86d96572e5db2048c30071f60b5",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "parivision-vs-furia-m2-mirage.v2.cs2nades",
+     "size": 250234,
+     "sha256": "4d3042ba40e8aa2c9ffea4fb2d03b97eb09203a858ee8ea0e6bc95599c5f6d08",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "parivision-vs-furia-m2-mirage.v2.cs2stats",
+     "size": 738,
+     "sha256": "320107a8fb31803c0b13c12c293e7028ef03e497956afe85458d26c4d7fdd8a3",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "parivision-vs-furia-m2-mirage.v2.cs2econ",
+     "size": 784,
+     "sha256": "19364f1cb101d7f700ae1709f86e41a87a32c8d10281b59cf11ed54e6b3a7e5a",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "shinden-vs-g2-m2-ancient",
+   "teams": [
+    "shinden",
+    "g2"
+   ],
+   "map": "ancient",
+   "date": 1791197184,
+   "rank": 8,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "shinden-vs-g2-m2-ancient.v2.cs2lib",
+     "size": 1552192,
+     "sha256": "2d924d919810ea2cdc578849b66a0abbdfe2197314f2cfca3cc707bfd1dcf84a",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "shinden-vs-g2-m2-ancient.v2.cs2nades",
+     "size": 277192,
+     "sha256": "0417dacd45bf316eb4d9d1d88c24cbdb95e8d1f62d5907c1ccc5c76f0d21f01b",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "shinden-vs-g2-m2-ancient.v2.cs2stats",
+     "size": 840,
+     "sha256": "25752d6876ec3246810a7a34d60f4218118964eb4c2035b390d5988c13cb0507",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "shinden-vs-g2-m2-ancient.v2.cs2econ",
+     "size": 905,
+     "sha256": "6d30ebf075ffabe8e2b25d9d4c147bedae9b89795a02f88a27c02801c2d0cdd3",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-furia-m1-ancient__esl-pro-league-season-24",
+   "teams": [
+    "parivision",
+    "furia"
+   ],
+   "map": "ancient",
+   "date": 1791193712,
+   "rank": 7,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-furia-m1-ancient__esl-pro-league-season-24.v2.cs2lib",
+     "size": 1545708,
+     "sha256": "cbc70ac362964edbfa31cb205698fbb15b8cdaa881fe79cce0f928addff9e522",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "parivision-vs-furia-m1-ancient__esl-pro-league-season-24.v2.cs2nades",
+     "size": 265924,
+     "sha256": "c6c7aac3937f0e01999718962fd9ff7ee585770c0b4cce36ce8d5fc09842e9af",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "parivision-vs-furia-m1-ancient__esl-pro-league-season-24.v2.cs2stats",
+     "size": 830,
+     "sha256": "5d9fe5e8a31fd7dfe12c95895dcf1c6d0e0061da9b85d8bb9e97cf8a1164d29a",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "parivision-vs-furia-m1-ancient__esl-pro-league-season-24.v2.cs2econ",
+     "size": 879,
+     "sha256": "6356c924b35b4835516477081417eb4665f96d4f3410d080e33c8687c5322857",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "shinden-vs-g2-m1-dust2",
+   "teams": [
+    "shinden",
+    "g2"
+   ],
+   "map": "dust2",
+   "date": 1791193511,
+   "rank": 8,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "shinden-vs-g2-m1-dust2.v2.cs2lib",
+     "size": 1616548,
+     "sha256": "630e7997b406e868ab1e7b79613554f47d4edbad60590764af93ee3772739d48",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "shinden-vs-g2-m1-dust2.v2.cs2nades",
+     "size": 276245,
+     "sha256": "0be8956b4fa2e120832366e6ec2e418759e081effacd0c18b32d7ee77787ee2e",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "shinden-vs-g2-m1-dust2.v2.cs2stats",
+     "size": 754,
+     "sha256": "5b9b46fe97ae3c65d44502652968fe77ffe44f5ebdf510e27377d7df484156c9",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "shinden-vs-g2-m1-dust2.v2.cs2econ",
+     "size": 814,
+     "sha256": "4d428f92833a392395fea694a888ba13a2b990c7fdc5d502efad8476f2a22f56",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "betboom-vs-m80-m2-anubis",
    "teams": [
