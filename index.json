@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791200112,
+ "updated": 1791200564,
  "ranks": {
   "spirit": 1,
   "mouz": 2,
@@ -230,8 +230,8 @@
   "ryvex": 236,
   "club-333": 237,
   "lilmix": 238,
-  "ex-aether": 239,
   "aether": 239,
+  "ex-aether": 239,
   "meia-noite": 240,
   "revise": 241,
   "big-academy": 242,
@@ -684,8 +684,8 @@
    "files": {
     "demo": {
      "name": "furia-vs-mouz-m1-cache.v2.cs2lib",
-     "size": 1193582,
-     "sha256": "a43deed9b3a04acc0a0292710f63d61106fe163685f90bd64e65071920a2f24e",
+     "size": 1241742,
+     "sha256": "7464279cba242b9c7573862349bc9909d9fb02a785fe279d0c00b922501c0a59",
      "rel": "library-2"
     },
     "nades": {
@@ -696,14 +696,14 @@
     },
     "stats": {
      "name": "furia-vs-mouz-m1-cache.v2.cs2stats",
-     "size": 677,
-     "sha256": "e4d0e5f3134a4d9364d3a6a32aaa0c9023c8a72350aa9eb25526a91ce77c6cb9",
+     "size": 696,
+     "sha256": "0dd2992eb37ca81e4f02099ee931b1c2920b261eb1542c01928459d158899c97",
      "rel": "library-2"
     },
     "econ": {
      "name": "furia-vs-mouz-m1-cache.v2.cs2econ",
-     "size": 727,
-     "sha256": "9faa9079612f21ddf1547a120912c8cdeb47b8dc1574e792adf9ffb64a885aae",
+     "size": 744,
+     "sha256": "fcb9ec428945b81abde71a53cbba6f96ac39ec465883b2c037537b7bace9b5c8",
      "rel": "library-2"
     }
    }
@@ -13329,23 +13329,23 @@
    "files": {
     "demo": {
      "name": "parivision-vs-big-m2-mirage.v2.cs2lib",
-     "size": 1467529,
-     "sha256": "d7babe1327415f780e4da1a4054f7f9c5a006f81fe970455988a0b72a3909fe3"
+     "size": 1523752,
+     "sha256": "2f9d8c657c67d362408ba0780b63ee163eef943bc20c02110d94e3977d737aeb"
     },
     "nades": {
      "name": "parivision-vs-big-m2-mirage.v2.cs2nades",
-     "size": 261590,
-     "sha256": "35e19dada5def99613399f0e6a77990cb8356fd108839b9429264f3afd6373f3"
+     "size": 261609,
+     "sha256": "b54acb9d5bc09875f4756125caff39c1e1e8ca9b1664fc6418014dfca805e928"
     },
     "stats": {
      "name": "parivision-vs-big-m2-mirage.v2.cs2stats",
-     "size": 722,
-     "sha256": "7c72342ed20ce65f6f979ea4e58d67fb2edd62968ed50300fba72deacb8a56b4"
+     "size": 736,
+     "sha256": "b14c3c4df05a0c336d9c8161d358c7fa61206da849f4e3d18482d1fdf2c32fba"
     },
     "econ": {
      "name": "parivision-vs-big-m2-mirage.v2.cs2econ",
-     "size": 758,
-     "sha256": "59441925afc74863f6d89c4d5c0ec7499e4b4496159dac31f51b2e86c37399e1",
+     "size": 775,
+     "sha256": "a158acfc5d44e1317220cd64b6a035012660ff6637e2f46895742c3c01cb5127",
      "rel": "library-2"
     }
    }
@@ -16275,8 +16275,8 @@
    "files": {
     "demo": {
      "name": "vitality-vs-faze-m2-mirage.v2.cs2lib",
-     "size": 1566392,
-     "sha256": "08e9fc5df36623fd2a95c16d53edc29621b91b0fce2889958abecc445a29ccfd"
+     "size": 1618582,
+     "sha256": "8b8f9bb24e6df734657af77678602f373364ccaf589227588ec7536090ab5594"
     },
     "nades": {
      "name": "vitality-vs-faze-m2-mirage.v2.cs2nades",
@@ -16285,13 +16285,13 @@
     },
     "stats": {
      "name": "vitality-vs-faze-m2-mirage.v2.cs2stats",
-     "size": 775,
-     "sha256": "b59679663e98308970a7a7a293a58ae8b8cb0cf9d74f7a81de0b61dad5ff6ab8"
+     "size": 803,
+     "sha256": "2c7447fa50ebbd1da610bc43783e5e244122a3f3013884abe10f286b5ed1bc87"
     },
     "econ": {
      "name": "vitality-vs-faze-m2-mirage.v2.cs2econ",
-     "size": 864,
-     "sha256": "a0cff7fc06c576a61c831a3b5afa4c34444fb33e470253fe72d699a85ef74bfb",
+     "size": 884,
+     "sha256": "c6aa7b341abdb58c01e6f8f57d61fa66c604655385608ea58a1187339d4d9e45",
      "rel": "library-2"
     }
    }
