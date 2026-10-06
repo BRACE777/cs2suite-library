@@ -1,371 +1,936 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791207614,
+ "updated": 1791282115,
  "ranks": {
   "spirit": 1,
-  "mouz": 2,
-  "falcons": 3,
-  "fut": 4,
-  "vitality": 5,
-  "legacy": 6,
+  "legacy": 2,
+  "vitality": 3,
+  "mouz": 4,
+  "g2": 5,
+  "falcons": 6,
   "furia": 7,
-  "g2": 8,
-  "9z": 9,
-  "faze": 10,
-  "natus-vincere": 11,
-  "aurora": 12,
+  "fut": 8,
+  "aurora": 9,
+  "astralis": 10,
+  "betboom": 11,
+  "mibr": 12,
   "b8": 13,
-  "inner-circle": 14,
-  "betboom": 15,
-  "big": 16,
-  "liquid": 17,
-  "parivision": 18,
-  "the-mongolz": 19,
-  "astralis": 20,
-  "mibr": 21,
-  "alliance": 22,
+  "nemiga": 14,
+  "heroic": 15,
+  "luminosity": 16,
+  "9z": 17,
+  "ninjas-in-pyjamas": 18,
+  "liquid": 19,
+  "inner-circle": 20,
+  "3dmax": 21,
+  "m80": 22,
   "magic": 23,
-  "heroic": 24,
-  "hotu": 25,
-  "tyloo": 26,
-  "100-thieves": 27,
-  "gamerlegion": 28,
-  "ninjas-in-pyjamas": 29,
-  "betclic": 30,
-  "1win": 31,
-  "jijiehao": 32,
-  "fnatic": 33,
-  "dendele": 34,
-  "3dmax": 35,
-  "eyeballers": 36,
-  "k27": 37,
-  "bc-game": 38,
-  "lynn-vision": 39,
-  "virtus-pro": 40,
-  "m80": 41,
-  "pain": 42,
-  "nuclear-tigeres": 43,
-  "luminosity": 44,
-  "nemesis": 45,
-  "acend": 46,
-  "infinite": 47,
-  "sashi": 48,
-  "nemiga": 49,
-  "nrg": 50,
-  "fokus": 51,
-  "flyquest": 52,
-  "bbl": 53,
-  "wildcard": 54,
-  "omega": 55,
-  "jam": 56,
-  "inox-division": 57,
-  "sinners": 58,
-  "depo": 59,
-  "color": 60,
-  "iberian-soul": 61,
-  "metizport": 62,
-  "phantom": 63,
-  "ww": 64,
-  "imperial": 65,
-  "ex-ruby": 66,
-  "ruby": 66,
-  "eternal-fire": 67,
-  "genone": 68,
-  "sportsbetexpert": 69,
-  "butterfly": 70,
-  "9ine": 71,
-  "fluxo": 72,
-  "astral": 73,
-  "brute": 74,
-  "rune-eaters": 75,
-  "ex-zero-tenacity": 76,
-  "zero-tenacity": 76,
-  "thunder-downunder": 77,
-  "cybershoke": 78,
-  "novaq": 79,
-  "quazar": 80,
-  "eac": 81,
-  "og": 82,
-  "upgrade": 83,
-  "galorys": 84,
-  "bestia": 85,
-  "basement-boys": 86,
-  "lag": 87,
-  "bushido-wildcats": 88,
-  "bet-m": 89,
-  "black-phoenix": 90,
-  "kolesie": 91,
-  "voca": 92,
-  "unity": 93,
-  "walczaki": 94,
-  "nexus": 95,
-  "sparta": 96,
-  "shinden": 97,
-  "ex-rustec": 98,
-  "rustec": 98,
-  "forze-reload": 99,
+  "alliance": 24,
+  "big": 25,
+  "faze": 26,
+  "gamerlegion": 27,
+  "100-thieves": 28,
+  "nemesis": 29,
+  "jijiehao": 30,
+  "hotu": 31,
+  "k27": 32,
+  "eternal-fire": 33,
+  "natus-vincere": 34,
+  "fnatic": 35,
+  "parivision": 36,
+  "bbl": 37,
+  "1win": 38,
+  "dendele": 39,
+  "sangal": 40,
+  "sinners": 41,
+  "saw": 42,
+  "eyeballers": 43,
+  "tyloo": 44,
+  "betclic": 45,
+  "nuclear-tigeres": 46,
+  "nrg": 47,
+  "fokus": 48,
+  "the-mongolz": 49,
+  "bc-game": 50,
+  "virtus-pro": 51,
+  "imperial": 52,
+  "metizport": 53,
+  "pain": 54,
+  "fluxo": 55,
+  "infinite": 56,
+  "color": 57,
+  "wildcard": 58,
+  "iberian-soul": 59,
+  "wbt": 60,
+  "cybershoke": 61,
+  "sportsbetexpert": 62,
+  "acend": 63,
+  "lynn-vision": 64,
+  "bestia": 65,
+  "genone": 66,
+  "upgrade": 67,
+  "voca": 68,
+  "unity": 69,
+  "nt": 70,
+  "bet-m": 71,
+  "phantom": 72,
+  "sashi": 73,
+  "shinden": 74,
+  "brute": 75,
+  "black-phoenix": 76,
+  "aimclub": 77,
+  "lazer-cats": 78,
+  "9ine": 79,
+  "5star": 80,
+  "rune-eaters": 81,
+  "inox-division": 82,
+  "omega": 83,
+  "forze-reload": 84,
+  "galorys": 85,
+  "flyquest": 86,
+  "chinggis-warriors": 87,
+  "butterfly": 88,
+  "quazar": 89,
+  "lp": 90,
+  "astral": 91,
+  "ex-rustec": 92,
+  "rustec": 92,
+  "ex-zero-tenacity": 93,
+  "zero-tenacity": 93,
+  "inner-circle-academy": 94,
+  "private": 95,
+  "bounty-hunters": 96,
+  "sparta": 97,
+  "turma-do-pagode": 98,
+  "johnny-speeds": 99,
   "baks": 100,
-  "lp": 101,
-  "arcred": 102,
-  "state": 103,
-  "ground-zero": 104,
-  "marsborne": 105,
-  "johnny-speeds": 106,
-  "g2-ares": 107,
-  "the-last-resort": 108,
-  "inner-circle-academy": 109,
-  "just-players": 110,
+  "depo": 101,
+  "basement-boys": 102,
+  "eac": 103,
+  "without-a-roof": 104,
+  "ence": 105,
+  "rbls": 106,
+  "og": 107,
+  "ww": 108,
+  "lag": 109,
+  "6yubojlbl": 110,
+  "nexus": 111,
   "leo": 112,
-  "lavked": 114,
-  "psychoface": 115,
-  "spirit-academy": 116,
-  "havu": 117,
-  "bounty-hunters": 118,
-  "chicken-coop": 119,
-  "entropy": 120,
-  "5star": 121,
-  "ence": 122,
-  "azuolas": 123,
-  "nordic-partners": 124,
-  "enjoy": 125,
-  "rbls": 126,
-  "navi-junior": 127,
-  "mellren": 128,
-  "rethink": 129,
-  "masonic": 130,
-  "oddik": 131,
-  "wbt": 133,
-  "hyperspirit": 134,
-  "lazer-cats": 135,
-  "nexvoid": 136,
-  "pcific": 138,
-  "keyd-stars": 139,
-  "washed": 140,
-  "endless-journey": 141,
-  "rare-atom": 142,
-  "isurus": 143,
-  "honv-d": 144,
-  "alter-ego": 145,
-  "fisher-college": 146,
-  "for-fun": 147,
-  "benched-gods": 148,
-  "passion-ua": 149,
-  "without-a-roof": 150,
+  "nexvoid": 113,
+  "bushido-wildcats": 114,
+  "spirit-academy": 115,
+  "marsborne": 116,
+  "nordic-partners": 117,
+  "just-players": 118,
+  "thunder-downunder": 119,
+  "walczaki": 120,
+  "ex-ruby": 121,
+  "ruby": 121,
+  "the-huns": 122,
+  "state": 123,
+  "havu": 124,
+  "mellren": 125,
+  "the-last-resort": 126,
+  "6666": 127,
+  "navi-junior": 128,
+  "g2-ares": 129,
+  "wbt-academy": 130,
+  "fire-flux": 131,
+  "kolesie": 132,
+  "rare-atom": 133,
+  "misa": 134,
+  "vexar": 135,
+  "ground-zero": 136,
+  "mouz-nxt": 137,
+  "enjoy": 138,
+  "pcific": 139,
+  "azuolas": 140,
+  "illyrians": 141,
+  "paqt": 142,
+  "lavked": 143,
+  "ex-keyd-stars": 144,
+  "keyd-stars": 144,
+  "lph": 145,
+  "desi-boyz": 146,
+  "yawara": 147,
+  "drama": 148,
+  "procyon": 149,
+  "saw-youngsters": 150,
   "noir-verse": 151,
-  "chinggis-warriors": 152,
-  "alka": 153,
-  "sinqu": 154,
-  "drip-too-hard": 155,
-  "vexar": 156,
-  "fire-flux": 157,
-  "turma-do-pagode": 158,
-  "yawara": 159,
-  "lph": 160,
-  "dragonclaw": 161,
-  "atreides": 162,
-  "permitta": 163,
-  "regain": 164,
-  "the-huns": 165,
-  "mibr-fe": 166,
-  "fake-do-biru": 167,
-  "roamsfiest": 168,
-  "6666": 169,
-  "misa": 170,
-  "ex-mibr-academy": 171,
-  "mibr-academy": 171,
-  "gaimin-gladiators": 172,
-  "strael-bora": 173,
-  "uno-mille": 174,
-  "illwill": 175,
-  "the-unit": 177,
-  "berg": 178,
-  "overtake-sector": 179,
-  "red-canids": 180,
-  "am": 181,
-  "aimclub": 182,
-  "peladona": 183,
-  "falcons-force": 184,
-  "mai-tai": 185,
-  "saw-youngsters": 186,
-  "rooster": 187,
-  "kaleido": 188,
-  "new-vision": 189,
-  "bebop": 190,
-  "mindfreak": 191,
-  "ex-mana": 192,
-  "mana": 192,
-  "fortress": 193,
-  "algo": 194,
-  "mouz-nxt": 195,
-  "sangal": 196,
-  "abyssal": 197,
-  "megoshort": 198,
-  "donstu": 199,
-  "just-swing": 200,
-  "hashiras": 202,
-  "borracheiros": 203,
-  "villainous": 204,
-  "nutorious": 206,
-  "iowa-stormboar": 207,
-  "semperfi": 208,
-  "zomblers": 209,
-  "vitalem-aerem": 210,
-  "aaa": 211,
-  "ex-sashi-academy": 212,
-  "sashi-academy": 212,
-  "maybe": 214,
+  "psychoface": 153,
+  "prestige": 154,
+  "alter-ego": 155,
+  "entropy": 156,
+  "benched-gods": 157,
+  "saint-sinners": 158,
+  "regain": 159,
+  "megoshort": 160,
+  "falcons-force": 161,
+  "hyperspirit": 162,
+  "alka": 163,
+  "banda-chuya": 165,
+  "arcred": 166,
+  "lilmix": 167,
+  "ex-oddik": 168,
+  "oddik": 168,
+  "honv-d": 169,
+  "iowa-stormboar": 170,
+  "phantom-academy": 172,
+  "isurus": 173,
+  "pure": 174,
+  "infurity": 175,
+  "low-cortisol-br": 176,
+  "overtake-sector": 177,
+  "masonic": 178,
+  "maybe": 180,
+  "kaleido": 181,
+  "washed": 182,
+  "sinqu": 184,
+  "berg": 185,
+  "uno-mille": 186,
+  "kuusamo": 187,
+  "chicken-coop": 188,
+  "kamui": 189,
+  "brazylijski-luz": 190,
+  "farmville": 191,
+  "spirit-academy-green": 192,
+  "four-magic": 193,
+  "drip-too-hard": 194,
+  "abyssal": 195,
+  "dragonclaw": 196,
+  "donstu": 197,
+  "mibr-fe": 198,
+  "young-tigeres": 199,
+  "detonate": 200,
+  "just-swing": 201,
+  "roamsfiest": 202,
+  "quintess-ncia": 203,
+  "vitalem-aerem": 204,
+  "rooster": 205,
+  "mira": 206,
+  "ryvex": 207,
+  "fisher-college": 208,
+  "borracheiros": 209,
+  "fake-do-biru": 210,
+  "gothic": 211,
+  "bebop": 212,
+  "ex-sashi-academy": 214,
+  "sashi-academy": 214,
   "bestia-academy": 215,
-  "brazylijski-luz": 216,
-  "tdk": 218,
-  "wazabi": 220,
-  "young-ninjas": 222,
-  "tnc": 223,
-  "oldboys-pl": 224,
-  "favbet": 225,
-  "detonate": 228,
-  "phantom-academy": 229,
-  "heroic-academy": 232,
-  "haunted-house": 233,
-  "empire": 234,
-  "ryvex": 236,
+  "glitch": 216,
+  "strael-bora": 217,
+  "endless-journey": 219,
+  "villainous": 221,
+  "nas": 222,
+  "passion-ua": 223,
+  "ehisto-base": 224,
+  "the-unit": 225,
+  "algo": 226,
+  "meia-noite": 227,
+  "dark-moon": 228,
+  "empire": 229,
+  "famalic-o": 230,
+  "abt": 231,
+  "am": 232,
+  "tnc": 233,
+  "optibet": 234,
+  "metanoia-wolves": 235,
+  "revenge": 236,
   "club-333": 237,
-  "lilmix": 238,
-  "ex-aether": 239,
-  "aether": 239,
-  "meia-noite": 240,
-  "revise": 241,
-  "big-academy": 242,
-  "arcade": 244,
-  "fengda": 245,
-  "wanted-goons": 246,
-  "ecstatic": 247,
-  "train-launcher": 248,
-  "altay": 249,
-  "farmville": 251,
-  "privateer": 252,
-  "boss": 253,
-  "clutchain-fe": 254,
-  "struggletony": 255,
-  "b8-academy": 256,
-  "pain-academy": 257,
-  "quintess-ncia": 259,
-  "insane-players": 260,
-  "change-the-game": 262,
-  "boring-players": 265,
-  "shishka": 266,
-  "kuusamo": 270,
-  "shimmer": 271,
-  "procyon": 275,
-  "invicta": 276,
-  "esuba": 278,
-  "banzai": 279,
-  "dark-moon": 280,
-  "eternal-premium": 281,
-  "subtop-de-france": 282,
-  "cirahvi": 283,
-  "reign-above": 284,
-  "rounds": 285,
-  "raccoons": 286,
-  "metanoia-wolves": 287,
-  "xi": 288,
-  "bankapepsi": 289,
-  "zotix": 290,
-  "back-to-back": 291,
-  "bmz": 292,
-  "dnk": 293,
-  "markandlarry": 294,
-  "ding-cuts": 295,
-  "atrix": 296,
-  "festina-lente": 297,
-  "jumprava": 299,
-  "drama": 300,
-  "quantumx": 302,
-  "a-great-chaos": 303,
-  "arch": 304,
-  "partizan": 305,
-  "900fpsvseco": 306,
-  "julie-and-cie": 307,
-  "olybet": 308,
-  "wingman": 309,
-  "lfo-8": 310,
-  "ex-kr": 311,
-  "kr": 311,
-  "crashers": 312,
-  "legam": 314,
-  "sensation": 315,
-  "gr-mio": 317,
-  "atputies": 318,
-  "vasco": 319,
-  "players": 320,
-  "elusive": 321,
-  "trainwrecks": 323,
-  "romania": 324,
-  "gamerslab": 326,
-  "xcity": 327,
-  "pugdesonesto": 328,
-  "your-end": 329,
-  "wampirki": 330,
-  "younglings": 331,
-  "aurora-young-blud": 332,
-  "olympus": 333,
-  "m1x-ks": 334,
-  "acrobats": 335,
-  "nas": 336,
-  "new-legends": 337,
-  "tricksters": 338,
-  "basement-bobs": 339,
-  "mtx": 340,
-  "yngods": 341,
-  "sementes-do-mal": 342,
-  "playersclub": 343,
-  "young-tigeres": 344,
-  "famalic-o": 345,
-  "incognito": 346,
-  "xdm": 347,
-  "nsn": 348,
-  "persona-grata": 349,
-  "clutchain": 350,
-  "fury": 352,
-  "rottweilers": 353,
-  "r2": 354,
-  "chicanery": 355,
-  "girl-kissers": 360,
-  "legion": 361,
-  "magicos": 363,
-  "ec-banga": 364,
-  "idopieca": 365,
-  "coalesce": 366,
-  "damajuana": 367,
-  "blitzkrieg": 369,
-  "vp-prodigy": 370,
-  "guara": 371,
-  "raisedbypixels": 373,
-  "mans-o-maromba": 375,
-  "bbbmbcbs": 376,
-  "charrados": 377,
-  "zetta": 378,
-  "home": 379,
-  "spirit-hu": 380,
-  "aimhaus": 382,
-  "pure": 383,
-  "unreal-nightmare": 384,
-  "unitronics": 385,
-  "wachoskys": 386,
-  "z7": 388,
-  "grindas": 389,
-  "ur": 391,
-  "fuzos": 392,
-  "furia-fe": 393,
-  "arise": 394,
-  "big-equipa": 395,
-  "aka-hero-kajo": 396,
-  "skele": 397,
-  "overknight": 398,
-  "herewegoagain": 399,
-  "time-waves": 400,
-  "gameharmony": 401
+  "hashiras": 238,
+  "fortress": 239,
+  "mai-tai": 240,
+  "new-vision": 241,
+  "gr-mio": 242,
+  "red-canids": 243,
+  "revise": 245,
+  "clutchain-fe": 246,
+  "5dads": 247,
+  "altay": 248,
+  "haunted-house": 250,
+  "ex-aether": 251,
+  "aether": 251,
+  "dripmen": 252,
+  "faze-up-next": 253,
+  "zomblers": 254,
+  "illwill": 255,
+  "shimmer": 256,
+  "train-launcher": 257,
+  "mindfreak": 258,
+  "oldboys-pl": 260,
+  "b8-academy": 261,
+  "teletubisie": 262,
+  "mibr-academy": 263,
+  "xdm": 264,
+  "raccoons": 265,
+  "wanted-goons": 267,
+  "shishka": 268,
+  "cirahvi": 269,
+  "invicta": 270,
+  "privateer": 271,
+  "festina-lente": 273,
+  "banger-gang": 274,
+  "zotix": 275,
+  "los-kogutos": 276,
+  "esuba": 277,
+  "nutorious": 278,
+  "lfo-8": 279,
+  "big-academy": 280,
+  "insane-players": 281,
+  "pain-academy": 283,
+  "lfo-7": 285,
+  "eternal-premium": 287,
+  "dnk": 288,
+  "ding-cuts": 289,
+  "mtx": 291,
+  "wazabi": 294,
+  "your-end": 295,
+  "lfo-9": 297,
+  "markandlarry": 298,
+  "next-up": 299,
+  "ex-arcade": 300,
+  "arcade": 300,
+  "beyond-limits": 301,
+  "olympus": 302,
+  "vexa": 303,
+  "fafo": 304,
+  "a-great-chaos": 306,
+  "reign-above": 307,
+  "xi": 308,
+  "vasco": 309,
+  "rounds": 310,
+  "xcity": 312,
+  "gamerslab": 313,
+  "aaa": 314,
+  "wingman": 315,
+  "legion": 316,
+  "young-ninjas": 317,
+  "madlikewizards": 318,
+  "favbet": 319,
+  "overtime": 321,
+  "havens": 322,
+  "tricksters": 323,
+  "heroic-academy": 324,
+  "younglings": 325,
+  "aurora-young-blud": 326,
+  "semperfi": 327,
+  "arch": 328,
+  "patsanvision": 330,
+  "the-knockoutx": 332,
+  "boring-players": 333,
+  "incognito": 334,
+  "revenix": 335,
+  "trafficpills": 337,
+  "playersclub": 341,
+  "new-legends": 342,
+  "fury": 343,
+  "sementes-do-mal": 344,
+  "ex-vp-prodigy": 345,
+  "vp-prodigy": 345,
+  "bmz": 346,
+  "subtop-de-france": 348,
+  "m1x-ks": 349,
+  "ecstatic": 350,
+  "gamehunters": 351,
+  "olybet": 352,
+  "clutchain": 353,
+  "ec-banga": 354,
+  "raisedbypixels": 355,
+  "damajuana": 356,
+  "zetta": 357,
+  "guara": 358,
+  "eac-extra": 359,
+  "exodia": 361,
+  "ex-kr": 362,
+  "kr": 362,
+  "bojong": 363,
+  "coalesce": 364,
+  "trainwrecks": 365,
+  "1337": 366,
+  "spirit-hu": 367,
+  "aimhaus": 369,
+  "mans-o-maromba": 370,
+  "blight-blue": 371,
+  "r2": 372,
+  "unreal-nightmare": 374,
+  "julie-and-cie": 375,
+  "bankapepsi": 376,
+  "players": 377,
+  "crashers": 378,
+  "quantumx": 379,
+  "fruju": 380
  },
  "demos": [
+  {
+   "stem": "aurora-vs-betboom-m3-anubis",
+   "teams": [
+    "aurora",
+    "betboom"
+   ],
+   "map": "anubis",
+   "date": 1791231143,
+   "rank": 9,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-betboom-m3-anubis.v2.cs2lib",
+     "size": 1722949,
+     "sha256": "b9ba8edaab94fe2f367deb2497d72ac88e8536285ef14f5fb2a30c8b21889abd",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-betboom-m3-anubis.v2.cs2nades",
+     "size": 300751,
+     "sha256": "4d19c151f3c19c6639cb3a1125edc7c2ac6615667c18ba60b6559d223100e390",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-betboom-m3-anubis.v2.cs2stats",
+     "size": 839,
+     "sha256": "d97e6aceed3105a9394db4fcbc6fe2940df25481139c9de4208e2b517e04edf0",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-betboom-m3-anubis.v2.cs2econ",
+     "size": 879,
+     "sha256": "9bba729ec49b68ba56e6e0bf28eafe3f2008bb4161a8520194fe02e565c170f1",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-falcons-m3-mirage",
+   "teams": [
+    "vitality",
+    "falcons"
+   ],
+   "map": "mirage",
+   "date": 1791227879,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-falcons-m3-mirage.v2.cs2lib",
+     "size": 1626412,
+     "sha256": "de1c552768c37061abfedfcc217a2b6efefe6b109f5386e9d5070d446d593c09",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "vitality-vs-falcons-m3-mirage.v2.cs2nades",
+     "size": 277311,
+     "sha256": "9098c47284867662cf90f1ffb8678a96bdb313ff83c35a7384e0e7d666223cff",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "vitality-vs-falcons-m3-mirage.v2.cs2stats",
+     "size": 825,
+     "sha256": "77e913d956a5f9af156ae78fa34e49736de5c1c56f9d8a3545686f470a8bd272",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-falcons-m3-mirage.v2.cs2econ",
+     "size": 897,
+     "sha256": "a0b65c95419aae47a6f6d8e4f9a280072524014009fbbc29f73a5ad11342146b",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-betboom-m2-nuke",
+   "teams": [
+    "aurora",
+    "betboom"
+   ],
+   "map": "nuke",
+   "date": 1791227125,
+   "rank": 9,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-betboom-m2-nuke.v2.cs2lib",
+     "size": 1463651,
+     "sha256": "aed8a0d313283cdaf3e269c0747776269f40de22e6cc6dfc2d9ee7849904fa1e",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-betboom-m2-nuke.v2.cs2nades",
+     "size": 247332,
+     "sha256": "9e603bdbd4a023c0df6df3d29bec3ead8567c9fe1060bb22249cf29322662a6a",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-betboom-m2-nuke.v2.cs2stats",
+     "size": 784,
+     "sha256": "db9292092c85653b6086b066831ea1cd4d65f01deee1f69b6d1d1db92dd02f63",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-betboom-m2-nuke.v2.cs2econ",
+     "size": 830,
+     "sha256": "1e3b596685ee060db63c0d62e11711d4c98e087f3a679ef2581e4716833a539c",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-falcons-m2-dust2",
+   "teams": [
+    "vitality",
+    "falcons"
+   ],
+   "map": "dust2",
+   "date": 1791224220,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-falcons-m2-dust2.v2.cs2lib",
+     "size": 1375805,
+     "sha256": "fa451c5e3efe767ea7853b7d497333cc12292d0a493199e8e419f9cbfd7b31eb",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "vitality-vs-falcons-m2-dust2.v2.cs2nades",
+     "size": 227435,
+     "sha256": "4b6b0341456cc823112917468fabc072f1598a879172eec9e5155e8b04e1bd93",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "vitality-vs-falcons-m2-dust2.v2.cs2stats",
+     "size": 697,
+     "sha256": "746dc3637b47918c28f57bc52e79a3b7b7e1be96726413ff24b795aec3e8b199",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-falcons-m2-dust2.v2.cs2econ",
+     "size": 762,
+     "sha256": "ab617a58d7e5d80d9b469c60fd170e1d4c874a0aff17dd12a568eb8823ac7b18",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-betboom-m1-mirage",
+   "teams": [
+    "aurora",
+    "betboom"
+   ],
+   "map": "mirage",
+   "date": 1791223398,
+   "rank": 9,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-betboom-m1-mirage.v2.cs2lib",
+     "size": 1344114,
+     "sha256": "3bf1486a5e38d88036de383d68bfad286cf1a66cf35e17052cd52532bf3d2023",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "aurora-vs-betboom-m1-mirage.v2.cs2nades",
+     "size": 226256,
+     "sha256": "4b10ec21351c6075ef14507edc0cfaebd7cc688d3ea85b41f0862136f117da2b",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "aurora-vs-betboom-m1-mirage.v2.cs2stats",
+     "size": 730,
+     "sha256": "4c72939fb4bbb5364c4b5a00ecb3d02fab1255728ceb9ea439d5b6342c98fdfb",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "aurora-vs-betboom-m1-mirage.v2.cs2econ",
+     "size": 714,
+     "sha256": "d48668db4896ad07c2cacc3a36812fe2c1eeb4e745b2c241778c779c31600edc",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-falcons-m1-anubis",
+   "teams": [
+    "vitality",
+    "falcons"
+   ],
+   "map": "anubis",
+   "date": 1791220976,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-falcons-m1-anubis.v2.cs2lib",
+     "size": 1762826,
+     "sha256": "37b999dc925e253bd4ad9139df3c85905dee43fa50afbbad91601e8657aa548d",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "vitality-vs-falcons-m1-anubis.v2.cs2nades",
+     "size": 298525,
+     "sha256": "a6aecdde0d8de52c2d62c0778ed32201dbed737210499ca868fb9fe151101380",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "vitality-vs-falcons-m1-anubis.v2.cs2stats",
+     "size": 833,
+     "sha256": "e505e27dfa8b6e8e3a135144697b10b6ad001dd54b6dfe34982b7781f91daac8",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "vitality-vs-falcons-m1-anubis.v2.cs2econ",
+     "size": 913,
+     "sha256": "402f187e732b126abbf022a9249da81a3bccc60dc458e236a7275e306eb13d26",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "m80-vs-tyloo-m3-anubis",
+   "teams": [
+    "m80",
+    "tyloo"
+   ],
+   "map": "anubis",
+   "date": 1791219753,
+   "rank": 22,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "m80-vs-tyloo-m3-anubis.v2.cs2lib",
+     "size": 1501848,
+     "sha256": "dd066102f28904611f066989cd9fc5bd30f9c8430a238e82a35ee9351e3279c6",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "m80-vs-tyloo-m3-anubis.v2.cs2nades",
+     "size": 266257,
+     "sha256": "b08fe4f2b6f6d240efd2efa05d04d68a3fe2ecf4bd0c9a51bcc4a0540ade9118",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "m80-vs-tyloo-m3-anubis.v2.cs2stats",
+     "size": 813,
+     "sha256": "d650ede17dbb3c18fc4ba34af09a732898e79573679275def87f4cf825320fe0",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "m80-vs-tyloo-m3-anubis.v2.cs2econ",
+     "size": 878,
+     "sha256": "ed955399963a503d75744bec8accaf3f4c3b3c7e27d822d15f74cb4351e283bc",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-mouz-m2-mirage__esl-pro-league-season-24",
+   "teams": [
+    "spirit",
+    "mouz"
+   ],
+   "map": "mirage",
+   "date": 1791216523,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-mouz-m2-mirage__esl-pro-league-season-24.v2.cs2lib",
+     "size": 1654793,
+     "sha256": "2ac9f4f6a3709447dba2ffef26ae991e78a5d8859bb02581d74e2bb0aeb842f7",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "spirit-vs-mouz-m2-mirage__esl-pro-league-season-24.v2.cs2nades",
+     "size": 294791,
+     "sha256": "bf12d19f2618a64b961ab74b17a8b4e8055fdc1cc8618f71a6920917aa01b089",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "spirit-vs-mouz-m2-mirage__esl-pro-league-season-24.v2.cs2stats",
+     "size": 920,
+     "sha256": "ba2d34341bc1d0588d9ef934f916d4f2b8266f86c4c3a8e1f6239c8a572f196f",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "spirit-vs-mouz-m2-mirage__esl-pro-league-season-24.v2.cs2econ",
+     "size": 989,
+     "sha256": "eb990344a6d44a0229791dca0dcfca5fa9b570bbaf698279b91fa7d6a486801b",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "m80-vs-tyloo-m2-cache",
+   "teams": [
+    "m80",
+    "tyloo"
+   ],
+   "map": "cache",
+   "date": 1791215966,
+   "rank": 22,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "m80-vs-tyloo-m2-cache.v2.cs2lib",
+     "size": 1390006,
+     "sha256": "bec0082bb86567bf65b26da73a19632e8126602b748e94ce0904509af558d8ad",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "m80-vs-tyloo-m2-cache.v2.cs2nades",
+     "size": 250930,
+     "sha256": "a8f183c578c6d726959de121ff28b11d8421af603976ea7b5e713b8e5cfb0e06",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "m80-vs-tyloo-m2-cache.v2.cs2stats",
+     "size": 762,
+     "sha256": "c2608ae7401bb886f7cca4fad679d10d2e2e6aeff2b72ab23c4669d6a06212cf",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "m80-vs-tyloo-m2-cache.v2.cs2econ",
+     "size": 860,
+     "sha256": "6c14c763ffc8c97c3ec37fd112e0d31b4d61128059ca06eda55be76b00172dbd",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-mouz-m1-dust2__esl-pro-league-season-24",
+   "teams": [
+    "spirit",
+    "mouz"
+   ],
+   "map": "dust2",
+   "date": 1791212658,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-mouz-m1-dust2__esl-pro-league-season-24.v2.cs2lib",
+     "size": 1399938,
+     "sha256": "8e0fac6446baee16c7f5eaab9a64e1a50bc5a4b5f98fcd257717f9915f769c8d",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "spirit-vs-mouz-m1-dust2__esl-pro-league-season-24.v2.cs2nades",
+     "size": 235187,
+     "sha256": "cd8ccc54de76bb782d1eb4f993b0976ad387f0ef9130424dc263bc539ba12174",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "spirit-vs-mouz-m1-dust2__esl-pro-league-season-24.v2.cs2stats",
+     "size": 749,
+     "sha256": "99b8b8389782c38c324ff67e4feca7774228bc88a4fac45b8dcedab49a58073c",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "spirit-vs-mouz-m1-dust2__esl-pro-league-season-24.v2.cs2econ",
+     "size": 801,
+     "sha256": "b068e00d50899653d3813aef0dbdfb3863a31d282cbebcbb9eae94f86d399e92",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "m80-vs-tyloo-m1-mirage",
+   "teams": [
+    "m80",
+    "tyloo"
+   ],
+   "map": "mirage",
+   "date": 1791212275,
+   "rank": 22,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "m80-vs-tyloo-m1-mirage.v2.cs2lib",
+     "size": 1677042,
+     "sha256": "d0f49f2223c56b5e5adbbfbeb71c733824a17cdcbad2259a3409c5f07f1f0129",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "m80-vs-tyloo-m1-mirage.v2.cs2nades",
+     "size": 295270,
+     "sha256": "5920270511c29f224dea654cdd248c58c79dfa73bf718e00ecff4b0ede86a7db",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "m80-vs-tyloo-m1-mirage.v2.cs2stats",
+     "size": 836,
+     "sha256": "b6ad0b707f31e37ced4af9bc7bce54ce24be415b49cf8c78d5381acab9ae4812",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "m80-vs-tyloo-m1-mirage.v2.cs2econ",
+     "size": 949,
+     "sha256": "7d6315e02ca6db9bf36b5c066d19104e5be1a8aaa075acb9156e6170279a8665",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-natus-vincere-m2-cache",
+   "teams": [
+    "9z",
+    "natus-vincere"
+   ],
+   "map": "cache",
+   "date": 1791208988,
+   "rank": 17,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-natus-vincere-m2-cache.v2.cs2lib",
+     "size": 1482931,
+     "sha256": "caefe2e6f1f36f2923ece936d83313cb1d951006979fd1ac967441ced1c1f608",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "9z-vs-natus-vincere-m2-cache.v2.cs2nades",
+     "size": 254543,
+     "sha256": "8cf4a0c79e6eedcf00527ff83f23fb60cd54d9bf568d16eee2578041da78fe64",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "9z-vs-natus-vincere-m2-cache.v2.cs2stats",
+     "size": 777,
+     "sha256": "4e3e02b1afdced2f0b31c6957bd1d3131821b4f0369209e7697ebb84e189ec60",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "9z-vs-natus-vincere-m2-cache.v2.cs2econ",
+     "size": 844,
+     "sha256": "c004c6a4e8880c837afd4c90252002550364cf01591a587fcad06a214524c82e",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-1win-m2-ancient",
+   "teams": [
+    "legacy",
+    "1win"
+   ],
+   "map": "ancient",
+   "date": 1791206441,
+   "rank": 2,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-1win-m2-ancient.v2.cs2lib",
+     "size": 1740814,
+     "sha256": "cba5bef54845aaea95010c45102b57054e303c3c7a3b46164d4fa8386bf6d044",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-1win-m2-ancient.v2.cs2nades",
+     "size": 301758,
+     "sha256": "bea881bca96e20dabe0a93e8ac24910983f455b20b2882c08c81277df9379503",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-1win-m2-ancient.v2.cs2stats",
+     "size": 802,
+     "sha256": "f11b689492a5ec81ad1a3f98f9d80ee11e8a71191daf3f075694447fe618ef25",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-1win-m2-ancient.v2.cs2econ",
+     "size": 871,
+     "sha256": "d5b044abfa2d046b5e1464d11c12492c45ee0db35e211088a54456d9fb0e2871",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-natus-vincere-m1-nuke",
+   "teams": [
+    "9z",
+    "natus-vincere"
+   ],
+   "map": "nuke",
+   "date": 1791205419,
+   "rank": 17,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-natus-vincere-m1-nuke.v2.cs2lib",
+     "size": 1331157,
+     "sha256": "4efb5792cbc81ee3f7d57bcc0f2325b5d422d43558eeab44d03f44e77df4066c",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "9z-vs-natus-vincere-m1-nuke.v2.cs2nades",
+     "size": 223091,
+     "sha256": "08aa3f3d1e9f98df414b474e69be893dae64148b9097fbac9d14207528a392c6",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "9z-vs-natus-vincere-m1-nuke.v2.cs2stats",
+     "size": 732,
+     "sha256": "300de3ea0e098c5411fb8e0ef22f8e827a2a1698f3ba711c36295783092a209c",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "9z-vs-natus-vincere-m1-nuke.v2.cs2econ",
+     "size": 817,
+     "sha256": "8e4480a56ccda97d27f4339b6930bb56c2eb2dbc052e20a32b0791a549ea14b5",
+     "rel": "library-2"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-1win-m1-dust2",
+   "teams": [
+    "legacy",
+    "1win"
+   ],
+   "map": "dust2",
+   "date": 1791202646,
+   "rank": 2,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-1win-m1-dust2.v2.cs2lib",
+     "size": 1674826,
+     "sha256": "87ee2344eb2155b21174a12cb42305634c5f168f9ff3c4ad017a5373678abae0",
+     "rel": "library-2"
+    },
+    "nades": {
+     "name": "legacy-vs-1win-m1-dust2.v2.cs2nades",
+     "size": 283014,
+     "sha256": "80428d6f0f08f0ff08ef323a921e5eaad2b7dc181084dafbc1acd401b76ca306",
+     "rel": "library-2"
+    },
+    "stats": {
+     "name": "legacy-vs-1win-m1-dust2.v2.cs2stats",
+     "size": 781,
+     "sha256": "78559dc778810e6d4bf296bfff902c54369bd20f6e11fe71b9921298949ec199",
+     "rel": "library-2"
+    },
+    "econ": {
+     "name": "legacy-vs-1win-m1-dust2.v2.cs2econ",
+     "size": 881,
+     "sha256": "a73b64fb4010c1dde22553e1215ac759bedf7edd5885e61b14ea28fb349b9805",
+     "rel": "library-2"
+    }
+   }
+  },
   {
    "stem": "parivision-vs-furia-m3-inferno",
    "teams": [
@@ -450,7 +1015,7 @@
    ],
    "map": "ancient",
    "date": 1791197184,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -526,7 +1091,7 @@
    ],
    "map": "dust2",
    "date": 1791193511,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -564,7 +1129,7 @@
    ],
    "map": "anubis",
    "date": 1791141904,
-   "rank": 15,
+   "rank": 11,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -602,7 +1167,7 @@
    ],
    "map": "mirage",
    "date": 1791140517,
-   "rank": 5,
+   "rank": 3,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -640,7 +1205,7 @@
    ],
    "map": "cache",
    "date": 1791137759,
-   "rank": 15,
+   "rank": 11,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -678,7 +1243,7 @@
    ],
    "map": "nuke",
    "date": 1791137303,
-   "rank": 5,
+   "rank": 3,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -716,7 +1281,7 @@
    ],
    "map": "anubis",
    "date": 1791134036,
-   "rank": 5,
+   "rank": 3,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -754,7 +1319,7 @@
    ],
    "map": "mirage",
    "date": 1791132628,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -792,7 +1357,7 @@
    ],
    "map": "mirage",
    "date": 1791129480,
-   "rank": 2,
+   "rank": 4,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -830,7 +1395,7 @@
    ],
    "map": "ancient",
    "date": 1791128974,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -868,7 +1433,7 @@
    ],
    "map": "cache",
    "date": 1791125955,
-   "rank": 2,
+   "rank": 4,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -906,7 +1471,7 @@
    ],
    "map": "dust2",
    "date": 1791125952,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -950,7 +1515,7 @@
    ],
    "map": "dust2",
    "date": 1791123629,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -988,7 +1553,7 @@
    ],
    "map": "dust2",
    "date": 1791122481,
-   "rank": 3,
+   "rank": 6,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1026,7 +1591,7 @@
    ],
    "map": "mirage",
    "date": 1791119248,
-   "rank": 9,
+   "rank": 17,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1064,7 +1629,7 @@
    ],
    "map": "mirage",
    "date": 1791118649,
-   "rank": 3,
+   "rank": 6,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1102,7 +1667,7 @@
    ],
    "map": "nuke",
    "date": 1791116515,
-   "rank": 9,
+   "rank": 17,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1216,7 +1781,7 @@
    ],
    "map": "mirage",
    "date": 1791111277,
-   "rank": 6,
+   "rank": 2,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1292,7 +1857,7 @@
    ],
    "map": "nuke",
    "date": 1791107526,
-   "rank": 6,
+   "rank": 2,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1336,7 +1901,7 @@
    ],
    "map": "nuke",
    "date": 1791106276,
-   "rank": 6,
+   "rank": 2,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1412,7 +1977,7 @@
    ],
    "map": "inferno",
    "date": 1791051378,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1494,7 +2059,7 @@
    ],
    "map": "inferno",
    "date": 1791050609,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1532,7 +2097,7 @@
    ],
    "map": "cache",
    "date": 1791048098,
-   "rank": 8,
+   "rank": 5,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1570,7 +2135,7 @@
    ],
    "map": "mirage",
    "date": 1791047811,
-   "rank": 2,
+   "rank": 4,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1608,7 +2173,7 @@
    ],
    "map": "cache",
    "date": 1791044064,
-   "rank": 2,
+   "rank": 4,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1880,7 +2445,7 @@
    ],
    "map": "cache",
    "date": 1791032377,
-   "rank": 5,
+   "rank": 3,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1918,7 +2483,7 @@
    ],
    "map": "dust2",
    "date": 1791029005,
-   "rank": 5,
+   "rank": 3,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1956,7 +2521,7 @@
    ],
    "map": "ancient",
    "date": 1791027975,
-   "rank": 6,
+   "rank": 2,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -1994,7 +2559,7 @@
    ],
    "map": "anubis",
    "date": 1791024616,
-   "rank": 3,
+   "rank": 6,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -2032,7 +2597,7 @@
    ],
    "map": "inferno",
    "date": 1791023442,
-   "rank": 6,
+   "rank": 2,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -2070,7 +2635,7 @@
    ],
    "map": "mirage",
    "date": 1791021260,
-   "rank": 3,
+   "rank": 6,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -2108,7 +2673,7 @@
    ],
    "map": "dust2",
    "date": 1791020443,
-   "rank": 6,
+   "rank": 2,
    "event": "esl-pro-league-season-24",
    "cache_version": 2,
    "files": {
@@ -2260,7 +2825,7 @@
    ],
    "map": "nuke",
    "date": 1790883983,
-   "rank": 20,
+   "rank": 10,
    "event": "stake-ranked-episode-4",
    "cache_version": 2,
    "files": {
@@ -2298,7 +2863,7 @@
    ],
    "map": "inferno",
    "date": 1790881105,
-   "rank": 20,
+   "rank": 10,
    "event": "stake-ranked-episode-4",
    "cache_version": 2,
    "files": {
@@ -2336,7 +2901,7 @@
    ],
    "map": "cache",
    "date": 1790881095,
-   "rank": 20,
+   "rank": 10,
    "event": "stake-ranked-episode-4",
    "cache_version": 2,
    "files": {
@@ -2374,7 +2939,7 @@
    ],
    "map": "dust2",
    "date": 1790159383,
-   "rank": 52,
+   "rank": 86,
    "event": "esl-challenger-league-season-52-oceania-cup-2",
    "cache_version": 2,
    "files": {
@@ -2412,7 +2977,7 @@
    ],
    "map": "cache",
    "date": 1790159382,
-   "rank": 52,
+   "rank": 86,
    "event": "esl-challenger-league-season-52-oceania-cup-2",
    "cache_version": 2,
    "files": {
@@ -2450,7 +3015,7 @@
    ],
    "map": "cache",
    "date": 1789930228,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2488,7 +3053,7 @@
    ],
    "map": "inferno",
    "date": 1789929417,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2526,7 +3091,7 @@
    ],
    "map": "anubis",
    "date": 1789929411,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2564,7 +3129,7 @@
    ],
    "map": "mirage",
    "date": 1789929407,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2602,7 +3167,7 @@
    ],
    "map": "anubis",
    "date": 1789911628,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2640,7 +3205,7 @@
    ],
    "map": "cache",
    "date": 1789911023,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2754,7 +3319,7 @@
    ],
    "map": "nuke",
    "date": 1789842129,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2792,7 +3357,7 @@
    ],
    "map": "anubis",
    "date": 1789842053,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2830,7 +3395,7 @@
    ],
    "map": "inferno",
    "date": 1789842052,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2868,7 +3433,7 @@
    ],
    "map": "mirage",
    "date": 1789831125,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2906,7 +3471,7 @@
    ],
    "map": "nuke",
    "date": 1789831119,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2944,7 +3509,7 @@
    ],
    "map": "cache",
    "date": 1789831114,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -2982,7 +3547,7 @@
    ],
    "map": "inferno",
    "date": 1789817782,
-   "rank": 21,
+   "rank": 12,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3020,7 +3585,7 @@
    ],
    "map": "cache",
    "date": 1789817780,
-   "rank": 21,
+   "rank": 12,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3058,7 +3623,7 @@
    ],
    "map": "dust2",
    "date": 1789763518,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3096,7 +3661,7 @@
    ],
    "map": "mirage",
    "date": 1789762869,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3134,7 +3699,7 @@
    ],
    "map": "mirage",
    "date": 1789756654,
-   "rank": 12,
+   "rank": 9,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3172,7 +3737,7 @@
    ],
    "map": "cache",
    "date": 1789755904,
-   "rank": 12,
+   "rank": 9,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3210,7 +3775,7 @@
    ],
    "map": "mirage",
    "date": 1789747150,
-   "rank": 21,
+   "rank": 12,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3248,7 +3813,7 @@
    ],
    "map": "inferno",
    "date": 1789747146,
-   "rank": 21,
+   "rank": 12,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3286,7 +3851,7 @@
    ],
    "map": "ancient",
    "date": 1789747138,
-   "rank": 21,
+   "rank": 12,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3324,7 +3889,7 @@
    ],
    "map": "mirage",
    "date": 1789736558,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3362,7 +3927,7 @@
    ],
    "map": "inferno",
    "date": 1789736255,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3400,7 +3965,7 @@
    ],
    "map": "cache",
    "date": 1789732009,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3552,7 +4117,7 @@
    ],
    "map": "mirage",
    "date": 1789664211,
-   "rank": 11,
+   "rank": 9,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3590,7 +4155,7 @@
    ],
    "map": "nuke",
    "date": 1789662227,
-   "rank": 11,
+   "rank": 9,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3628,7 +4193,7 @@
    ],
    "map": "dust2",
    "date": 1789656916,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3666,7 +4231,7 @@
    ],
    "map": "mirage",
    "date": 1789654947,
-   "rank": 5,
+   "rank": 3,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3704,7 +4269,7 @@
    ],
    "map": "dust2",
    "date": 1789650107,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3742,7 +4307,7 @@
    ],
    "map": "cache",
    "date": 1789650107,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3780,7 +4345,7 @@
    ],
    "map": "inferno",
    "date": 1789650102,
-   "rank": 2,
+   "rank": 4,
    "event": "starladder-starseries-fall-2026",
    "cache_version": 2,
    "files": {
@@ -3818,7 +4383,7 @@
    ],
    "map": "dust2",
    "date": 1789320430,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -3856,7 +4421,7 @@
    ],
    "map": "mirage",
    "date": 1789316154,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -3894,7 +4459,7 @@
    ],
    "map": "ancient",
    "date": 1789312052,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -3932,7 +4497,7 @@
    ],
    "map": "inferno",
    "date": 1789269463,
-   "rank": 17,
+   "rank": 19,
    "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -3970,7 +4535,7 @@
    ],
    "map": "mirage",
    "date": 1789269411,
-   "rank": 17,
+   "rank": 19,
    "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -4008,7 +4573,7 @@
    ],
    "map": "dust2",
    "date": 1789269371,
-   "rank": 17,
+   "rank": 19,
    "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -4046,7 +4611,7 @@
    ],
    "map": "nuke",
    "date": 1789269092,
-   "rank": 17,
+   "rank": 19,
    "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -4084,7 +4649,7 @@
    ],
    "map": "cache",
    "date": 1789268955,
-   "rank": 17,
+   "rank": 19,
    "event": "pgl-masters-bucharest-2026-north-america-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -4122,7 +4687,7 @@
    ],
    "map": "ancient",
    "date": 1789216330,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4160,7 +4725,7 @@
    ],
    "map": "anubis",
    "date": 1789212342,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4198,7 +4763,7 @@
    ],
    "map": "mirage",
    "date": 1789207192,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4236,7 +4801,7 @@
    ],
    "map": "inferno",
    "date": 1789199430,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4274,7 +4839,7 @@
    ],
    "map": "ancient",
    "date": 1789194070,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4312,7 +4877,7 @@
    ],
    "map": "nuke",
    "date": 1789189528,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4350,7 +4915,7 @@
    ],
    "map": "dust2",
    "date": 1789118906,
-   "rank": 7,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4388,7 +4953,7 @@
    ],
    "map": "ancient",
    "date": 1789115432,
-   "rank": 7,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4426,7 +4991,7 @@
    ],
    "map": "cache",
    "date": 1789106590,
-   "rank": 21,
+   "rank": 12,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4464,7 +5029,7 @@
    ],
    "map": "inferno",
    "date": 1789102816,
-   "rank": 21,
+   "rank": 12,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4502,7 +5067,7 @@
    ],
    "map": "ancient",
    "date": 1789075158,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4537,7 +5102,7 @@
    ],
    "map": "inferno",
    "date": 1789072182,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4572,7 +5137,7 @@
    ],
    "map": "inferno",
    "date": 1789071576,
-   "rank": 22,
+   "rank": 23,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4610,7 +5175,7 @@
    ],
    "map": "ancient",
    "date": 1789067634,
-   "rank": 22,
+   "rank": 23,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4648,7 +5213,7 @@
    ],
    "map": "ancient",
    "date": 1789057508,
-   "rank": 22,
+   "rank": 24,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4686,7 +5251,7 @@
    ],
    "map": "inferno",
    "date": 1789052970,
-   "rank": 22,
+   "rank": 24,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4724,7 +5289,7 @@
    ],
    "map": "anubis",
    "date": 1789038294,
-   "rank": 15,
+   "rank": 11,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4759,7 +5324,7 @@
    ],
    "map": "mirage",
    "date": 1789033200,
-   "rank": 15,
+   "rank": 11,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4794,7 +5359,7 @@
    ],
    "map": "ancient",
    "date": 1789031018,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4832,7 +5397,7 @@
    ],
    "map": "cache",
    "date": 1789028142,
-   "rank": 20,
+   "rank": 10,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4867,7 +5432,7 @@
    ],
    "map": "mirage",
    "date": 1789027374,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4905,7 +5470,7 @@
    ],
    "map": "ancient",
    "date": 1789024060,
-   "rank": 20,
+   "rank": 10,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4940,7 +5505,7 @@
    ],
    "map": "inferno",
    "date": 1789022060,
-   "rank": 18,
+   "rank": 23,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -4978,7 +5543,7 @@
    ],
    "map": "inferno",
    "date": 1789021090,
-   "rank": 20,
+   "rank": 10,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5013,7 +5578,7 @@
    ],
    "map": "ancient",
    "date": 1789017042,
-   "rank": 18,
+   "rank": 23,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5051,7 +5616,7 @@
    ],
    "map": "inferno",
    "date": 1789016266,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5086,7 +5651,7 @@
    ],
    "map": "ancient",
    "date": 1789011780,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5121,7 +5686,7 @@
    ],
    "map": "dust2",
    "date": 1789007994,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5194,7 +5759,7 @@
    ],
    "map": "anubis",
    "date": 1788984992,
-   "rank": 15,
+   "rank": 10,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5267,7 +5832,7 @@
    ],
    "map": "ancient",
    "date": 1788980538,
-   "rank": 15,
+   "rank": 10,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5302,7 +5867,7 @@
    ],
    "map": "mirage",
    "date": 1788978276,
-   "rank": 26,
+   "rank": 27,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5340,7 +5905,7 @@
    ],
    "map": "ancient",
    "date": 1788973362,
-   "rank": 26,
+   "rank": 27,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5378,7 +5943,7 @@
    ],
    "map": "ancient",
    "date": 1788971360,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5413,7 +5978,7 @@
    ],
    "map": "mirage",
    "date": 1788966954,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5448,7 +6013,7 @@
    ],
    "map": "dust2",
    "date": 1788964728,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5486,7 +6051,7 @@
    ],
    "map": "cache",
    "date": 1788962952,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5521,7 +6086,7 @@
    ],
    "map": "inferno",
    "date": 1788959794,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5559,7 +6124,7 @@
    ],
    "map": "nuke",
    "date": 1788957694,
-   "rank": 9,
+   "rank": 12,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5594,7 +6159,7 @@
    ],
    "map": "cache",
    "date": 1788955734,
-   "rank": 10,
+   "rank": 23,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5629,7 +6194,7 @@
    ],
    "map": "mirage",
    "date": 1788953948,
-   "rank": 9,
+   "rank": 12,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5664,7 +6229,7 @@
    ],
    "map": "dust2",
    "date": 1788949762,
-   "rank": 10,
+   "rank": 23,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5699,7 +6264,7 @@
    ],
    "map": "nuke",
    "date": 1788948874,
-   "rank": 19,
+   "rank": 49,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5734,7 +6299,7 @@
    ],
    "map": "ancient",
    "date": 1788945324,
-   "rank": 10,
+   "rank": 23,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5769,7 +6334,7 @@
    ],
    "map": "inferno",
    "date": 1788944842,
-   "rank": 19,
+   "rank": 49,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5804,7 +6369,7 @@
    ],
    "map": "inferno",
    "date": 1788910660,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5839,7 +6404,7 @@
    ],
    "map": "mirage",
    "date": 1788906908,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5909,7 +6474,7 @@
    ],
    "map": "ancient",
    "date": 1788900976,
-   "rank": 8,
+   "rank": 5,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -5979,7 +6544,7 @@
    ],
    "map": "ancient",
    "date": 1788894696,
-   "rank": 18,
+   "rank": 36,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6049,7 +6614,7 @@
    ],
    "map": "inferno",
    "date": 1788891072,
-   "rank": 18,
+   "rank": 36,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6084,7 +6649,7 @@
    ],
    "map": "nuke",
    "date": 1788887926,
-   "rank": 15,
+   "rank": 11,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6119,7 +6684,7 @@
    ],
    "map": "cache",
    "date": 1788883632,
-   "rank": 15,
+   "rank": 11,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6154,7 +6719,7 @@
    ],
    "map": "nuke",
    "date": 1788882584,
-   "rank": 9,
+   "rank": 17,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6189,7 +6754,7 @@
    ],
    "map": "nuke",
    "date": 1788880052,
-   "rank": 10,
+   "rank": 24,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6224,7 +6789,7 @@
    ],
    "map": "cache",
    "date": 1788879396,
-   "rank": 9,
+   "rank": 17,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6259,7 +6824,7 @@
    ],
    "map": "inferno",
    "date": 1788876006,
-   "rank": 19,
+   "rank": 12,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6294,7 +6859,7 @@
    ],
    "map": "ancient",
    "date": 1788875678,
-   "rank": 10,
+   "rank": 24,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6329,7 +6894,7 @@
    ],
    "map": "mirage",
    "date": 1788871124,
-   "rank": 19,
+   "rank": 12,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6364,7 +6929,7 @@
    ],
    "map": "mirage",
    "date": 1788869938,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6399,7 +6964,7 @@
    ],
    "map": "ancient",
    "date": 1788867296,
-   "rank": 19,
+   "rank": 12,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6434,7 +6999,7 @@
    ],
    "map": "dust2",
    "date": 1788864732,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6472,7 +7037,7 @@
    ],
    "map": "ancient",
    "date": 1788850157,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6509,7 +7074,7 @@
    ],
    "map": "ancient",
    "date": 1788850013,
-   "rank": 6,
+   "rank": 2,
    "event": "fissure-playground-3",
    "cache_version": 2,
    "files": {
@@ -6693,7 +7258,7 @@
    ],
    "map": "dust2",
    "date": 1788633872,
-   "rank": 2,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -6728,7 +7293,7 @@
    ],
    "map": "mirage",
    "date": 1788633865,
-   "rank": 2,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -6833,7 +7398,7 @@
    ],
    "map": "dust2",
    "date": 1788551643,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -6868,7 +7433,7 @@
    ],
    "map": "cache",
    "date": 1788549653,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -6903,7 +7468,7 @@
    ],
    "map": "nuke",
    "date": 1788545372,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -6938,7 +7503,7 @@
    ],
    "map": "dust2",
    "date": 1788538001,
-   "rank": 3,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -6973,7 +7538,7 @@
    ],
    "map": "inferno",
    "date": 1788534779,
-   "rank": 3,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7008,7 +7573,7 @@
    ],
    "map": "anubis",
    "date": 1788208244,
-   "rank": 4,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7043,7 +7608,7 @@
    ],
    "map": "dust2",
    "date": 1788207898,
-   "rank": 4,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7078,7 +7643,7 @@
    ],
    "map": "inferno",
    "date": 1788199237,
-   "rank": 2,
+   "rank": 4,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7113,7 +7678,7 @@
    ],
    "map": "nuke",
    "date": 1788198846,
-   "rank": 2,
+   "rank": 4,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7148,7 +7713,7 @@
    ],
    "map": "ancient",
    "date": 1788198754,
-   "rank": 2,
+   "rank": 4,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7183,7 +7748,7 @@
    ],
    "map": "inferno",
    "date": 1788188455,
-   "rank": 8,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7218,7 +7783,7 @@
    ],
    "map": "mirage",
    "date": 1788188330,
-   "rank": 8,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7253,7 +7818,7 @@
    ],
    "map": "anubis",
    "date": 1788188255,
-   "rank": 8,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7358,7 +7923,7 @@
    ],
    "map": "dust2",
    "date": 1788121798,
-   "rank": 5,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7393,7 +7958,7 @@
    ],
    "map": "mirage",
    "date": 1788119226,
-   "rank": 5,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7428,7 +7993,7 @@
    ],
    "map": "nuke",
    "date": 1788113983,
-   "rank": 5,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7463,7 +8028,7 @@
    ],
    "map": "nuke",
    "date": 1788108160,
-   "rank": 4,
+   "rank": 8,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7498,7 +8063,7 @@
    ],
    "map": "mirage",
    "date": 1788103791,
-   "rank": 4,
+   "rank": 8,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7533,7 +8098,7 @@
    ],
    "map": "inferno",
    "date": 1788090776,
-   "rank": 8,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7568,7 +8133,7 @@
    ],
    "map": "ancient",
    "date": 1788090770,
-   "rank": 8,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7603,7 +8168,7 @@
    ],
    "map": "dust2",
    "date": 1788032087,
-   "rank": 3,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7638,7 +8203,7 @@
    ],
    "map": "ancient",
    "date": 1788029118,
-   "rank": 3,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7673,7 +8238,7 @@
    ],
    "map": "mirage",
    "date": 1788024988,
-   "rank": 3,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7708,7 +8273,7 @@
    ],
    "map": "ancient",
    "date": 1788019730,
-   "rank": 4,
+   "rank": 8,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7743,7 +8308,7 @@
    ],
    "map": "anubis",
    "date": 1788017115,
-   "rank": 4,
+   "rank": 8,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7778,7 +8343,7 @@
    ],
    "map": "dust2",
    "date": 1788015473,
-   "rank": 4,
+   "rank": 8,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7813,7 +8378,7 @@
    ],
    "map": "mirage",
    "date": 1788009378,
-   "rank": 2,
+   "rank": 4,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7848,7 +8413,7 @@
    ],
    "map": "ancient",
    "date": 1788009352,
-   "rank": 2,
+   "rank": 4,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -7883,7 +8448,7 @@
    ],
    "map": "dust2",
    "date": 1788008176,
-   "rank": 187,
+   "rank": 205,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -7918,7 +8483,7 @@
    ],
    "map": "mirage",
    "date": 1788008172,
-   "rank": 187,
+   "rank": 205,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -7953,7 +8518,7 @@
    ],
    "map": "inferno",
    "date": 1788008167,
-   "rank": 187,
+   "rank": 205,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -7988,7 +8553,7 @@
    ],
    "map": "nuke",
    "date": 1787999734,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8023,7 +8588,7 @@
    ],
    "map": "dust2",
    "date": 1787999730,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8128,7 +8693,7 @@
    ],
    "map": "mirage",
    "date": 1787934855,
-   "rank": 11,
+   "rank": 34,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8163,7 +8728,7 @@
    ],
    "map": "nuke",
    "date": 1787931553,
-   "rank": 11,
+   "rank": 34,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8268,7 +8833,7 @@
    ],
    "map": "mirage",
    "date": 1787915409,
-   "rank": 12,
+   "rank": 9,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8303,7 +8868,7 @@
    ],
    "map": "cache",
    "date": 1787915397,
-   "rank": 12,
+   "rank": 9,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8338,7 +8903,7 @@
    ],
    "map": "nuke",
    "date": 1787914025,
-   "rank": 294,
+   "rank": 279,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -8373,7 +8938,7 @@
    ],
    "map": "mirage",
    "date": 1787914012,
-   "rank": 294,
+   "rank": 279,
    "event": "esl-challenger-league-season-52-oceania-cup-1",
    "cache_version": 2,
    "files": {
@@ -8408,7 +8973,7 @@
    ],
    "map": "dust2",
    "date": 1787861244,
-   "rank": 3,
+   "rank": 6,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8443,7 +9008,7 @@
    ],
    "map": "ancient",
    "date": 1787859279,
-   "rank": 3,
+   "rank": 6,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8478,7 +9043,7 @@
    ],
    "map": "inferno",
    "date": 1787855282,
-   "rank": 3,
+   "rank": 6,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8513,7 +9078,7 @@
    ],
    "map": "dust2",
    "date": 1787848576,
-   "rank": 4,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8548,7 +9113,7 @@
    ],
    "map": "ancient",
    "date": 1787847495,
-   "rank": 4,
+   "rank": 2,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8583,7 +9148,7 @@
    ],
    "map": "cache",
    "date": 1787838982,
-   "rank": 2,
+   "rank": 4,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8618,7 +9183,7 @@
    ],
    "map": "nuke",
    "date": 1787838979,
-   "rank": 2,
+   "rank": 4,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8653,7 +9218,7 @@
    ],
    "map": "cache",
    "date": 1787828996,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8688,7 +9253,7 @@
    ],
    "map": "anubis",
    "date": 1787828330,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8793,7 +9358,7 @@
    ],
    "map": "inferno",
    "date": 1787764972,
-   "rank": 11,
+   "rank": 22,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8828,7 +9393,7 @@
    ],
    "map": "mirage",
    "date": 1787764508,
-   "rank": 11,
+   "rank": 22,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8863,7 +9428,7 @@
    ],
    "map": "anubis",
    "date": 1787764503,
-   "rank": 11,
+   "rank": 22,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -8968,7 +9533,7 @@
    ],
    "map": "anubis",
    "date": 1787743105,
-   "rank": 8,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -9003,7 +9568,7 @@
    ],
    "map": "inferno",
    "date": 1787738683,
-   "rank": 8,
+   "rank": 5,
    "event": "blast-open-porto-2026",
    "cache_version": 2,
    "files": {
@@ -9038,7 +9603,7 @@
    ],
    "map": "inferno",
    "date": 1787638739,
-   "rank": 27,
+   "rank": 28,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -9073,7 +9638,7 @@
    ],
    "map": "inferno",
    "date": 1787638281,
-   "rank": 38,
+   "rank": 50,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -9353,7 +9918,7 @@
    ],
    "map": "inferno",
    "date": 1787158681,
-   "rank": 8,
+   "rank": 5,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9388,7 +9953,7 @@
    ],
    "map": "dust2",
    "date": 1787154758,
-   "rank": 8,
+   "rank": 5,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9423,7 +9988,7 @@
    ],
    "map": "ancient",
    "date": 1787151261,
-   "rank": 8,
+   "rank": 5,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9458,7 +10023,7 @@
    ],
    "map": "inferno",
    "date": 1786909389,
-   "rank": 6,
+   "rank": 2,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9493,7 +10058,7 @@
    ],
    "map": "cache",
    "date": 1786905720,
-   "rank": 20,
+   "rank": 10,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9528,7 +10093,7 @@
    ],
    "map": "nuke",
    "date": 1786905514,
-   "rank": 6,
+   "rank": 2,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9563,7 +10128,7 @@
    ],
    "map": "inferno",
    "date": 1786902129,
-   "rank": 20,
+   "rank": 10,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9598,7 +10163,7 @@
    ],
    "map": "nuke",
    "date": 1786897968,
-   "rank": 20,
+   "rank": 10,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9633,7 +10198,7 @@
    ],
    "map": "inferno",
    "date": 1786893317,
-   "rank": 2,
+   "rank": 4,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9668,7 +10233,7 @@
    ],
    "map": "dust2",
    "date": 1786888713,
-   "rank": 2,
+   "rank": 4,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9703,7 +10268,7 @@
    ],
    "map": "inferno",
    "date": 1786883449,
-   "rank": 5,
+   "rank": 3,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9738,7 +10303,7 @@
    ],
    "map": "dust2",
    "date": 1786880136,
-   "rank": 5,
+   "rank": 3,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9878,7 +10443,7 @@
    ],
    "map": "anubis",
    "date": 1786818779,
-   "rank": 12,
+   "rank": 9,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9913,7 +10478,7 @@
    ],
    "map": "mirage",
    "date": 1786815496,
-   "rank": 12,
+   "rank": 9,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9954,7 +10519,7 @@
    ],
    "map": "mirage",
    "date": 1786813956,
-   "rank": 12,
+   "rank": 9,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -9989,7 +10554,7 @@
    ],
    "map": "nuke",
    "date": 1786734092,
-   "rank": 21,
+   "rank": 12,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10024,7 +10589,7 @@
    ],
    "map": "dust2",
    "date": 1786733821,
-   "rank": 18,
+   "rank": 28,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10059,7 +10624,7 @@
    ],
    "map": "cache",
    "date": 1786730466,
-   "rank": 21,
+   "rank": 12,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10094,7 +10659,7 @@
    ],
    "map": "anubis",
    "date": 1786730417,
-   "rank": 18,
+   "rank": 28,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10129,7 +10694,7 @@
    ],
    "map": "dust2",
    "date": 1786725106,
-   "rank": 5,
+   "rank": 3,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10164,7 +10729,7 @@
    ],
    "map": "mirage",
    "date": 1786724997,
-   "rank": 2,
+   "rank": 4,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10199,7 +10764,7 @@
    ],
    "map": "inferno",
    "date": 1786721815,
-   "rank": 5,
+   "rank": 3,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10234,7 +10799,7 @@
    ],
    "map": "nuke",
    "date": 1786721176,
-   "rank": 2,
+   "rank": 4,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10269,7 +10834,7 @@
    ],
    "map": "mirage",
    "date": 1786717640,
-   "rank": 5,
+   "rank": 3,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10304,7 +10869,7 @@
    ],
    "map": "ancient",
    "date": 1786716582,
-   "rank": 2,
+   "rank": 4,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10339,7 +10904,7 @@
    ],
    "map": "inferno",
    "date": 1786711514,
-   "rank": 26,
+   "rank": 44,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10374,7 +10939,7 @@
    ],
    "map": "nuke",
    "date": 1786708269,
-   "rank": 26,
+   "rank": 44,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10409,7 +10974,7 @@
    ],
    "map": "dust2",
    "date": 1786646183,
-   "rank": 3,
+   "rank": 6,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10444,7 +11009,7 @@
    ],
    "map": "mirage",
    "date": 1786646049,
-   "rank": 6,
+   "rank": 2,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10479,7 +11044,7 @@
    ],
    "map": "cache",
    "date": 1786642384,
-   "rank": 6,
+   "rank": 2,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10514,7 +11079,7 @@
    ],
    "map": "ancient",
    "date": 1786641852,
-   "rank": 3,
+   "rank": 6,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10555,7 +11120,7 @@
    ],
    "map": "ancient",
    "date": 1786639798,
-   "rank": 3,
+   "rank": 6,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10590,7 +11155,7 @@
    ],
    "map": "inferno",
    "date": 1786638350,
-   "rank": 8,
+   "rank": 5,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10625,7 +11190,7 @@
    ],
    "map": "inferno",
    "date": 1786636668,
-   "rank": 12,
+   "rank": 9,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10666,7 +11231,7 @@
    ],
    "map": "inferno",
    "date": 1786635229,
-   "rank": 12,
+   "rank": 9,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10701,7 +11266,7 @@
    ],
    "map": "ancient",
    "date": 1786633932,
-   "rank": 8,
+   "rank": 5,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10736,7 +11301,7 @@
    ],
    "map": "dust2",
    "date": 1786632471,
-   "rank": 12,
+   "rank": 9,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10771,7 +11336,7 @@
    ],
    "map": "cache",
    "date": 1786629524,
-   "rank": 8,
+   "rank": 5,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10806,7 +11371,7 @@
    ],
    "map": "ancient",
    "date": 1786627457,
-   "rank": 28,
+   "rank": 27,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10841,7 +11406,7 @@
    ],
    "map": "dust2",
    "date": 1786627438,
-   "rank": 28,
+   "rank": 27,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -10987,7 +11552,7 @@
    ],
    "map": "dust2",
    "date": 1786565728,
-   "rank": 2,
+   "rank": 4,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11022,7 +11587,7 @@
    ],
    "map": "nuke",
    "date": 1786562974,
-   "rank": 5,
+   "rank": 3,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11057,7 +11622,7 @@
    ],
    "map": "inferno",
    "date": 1786557465,
-   "rank": 11,
+   "rank": 21,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11092,7 +11657,7 @@
    ],
    "map": "inferno",
    "date": 1786554596,
-   "rank": 20,
+   "rank": 10,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11162,7 +11727,7 @@
    ],
    "map": "nuke",
    "date": 1786550333,
-   "rank": 10,
+   "rank": 11,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11197,7 +11762,7 @@
    ],
    "map": "dust2",
    "date": 1786545350,
-   "rank": 3,
+   "rank": 6,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11232,7 +11797,7 @@
    ],
    "map": "cache",
    "date": 1786543142,
-   "rank": 6,
+   "rank": 2,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11267,7 +11832,7 @@
    ],
    "map": "mirage",
    "date": 1786541370,
-   "rank": 8,
+   "rank": 5,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11337,7 +11902,7 @@
    ],
    "map": "mirage",
    "date": 1786534245,
-   "rank": 4,
+   "rank": 8,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11372,7 +11937,7 @@
    ],
    "map": "cache",
    "date": 1786529719,
-   "rank": 12,
+   "rank": 9,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11407,7 +11972,7 @@
    ],
    "map": "nuke",
    "date": 1786528702,
-   "rank": 28,
+   "rank": 16,
    "event": "esports-world-cup-2026",
    "cache_version": 2,
    "files": {
@@ -11442,7 +12007,7 @@
    ],
    "map": "nuke",
    "date": 1786288791,
-   "rank": 27,
+   "rank": 28,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11477,7 +12042,7 @@
    ],
    "map": "anubis",
    "date": 1786288743,
-   "rank": 27,
+   "rank": 28,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11512,7 +12077,7 @@
    ],
    "map": "cache",
    "date": 1786274636,
-   "rank": 38,
+   "rank": 50,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11547,7 +12112,7 @@
    ],
    "map": "nuke",
    "date": 1786191061,
-   "rank": 82,
+   "rank": 107,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11582,7 +12147,7 @@
    ],
    "map": "mirage",
    "date": 1786191059,
-   "rank": 82,
+   "rank": 107,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11617,7 +12182,7 @@
    ],
    "map": "cache",
    "date": 1786191050,
-   "rank": 82,
+   "rank": 107,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11652,7 +12217,7 @@
    ],
    "map": "mirage",
    "date": 1786190316,
-   "rank": 46,
+   "rank": 47,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11687,7 +12252,7 @@
    ],
    "map": "inferno",
    "date": 1786190132,
-   "rank": 46,
+   "rank": 47,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11722,7 +12287,7 @@
    ],
    "map": "cache",
    "date": 1786190116,
-   "rank": 46,
+   "rank": 47,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11757,7 +12322,7 @@
    ],
    "map": "inferno",
    "date": 1786187080,
-   "rank": 17,
+   "rank": 19,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11792,7 +12357,7 @@
    ],
    "map": "cache",
    "date": 1786186803,
-   "rank": 17,
+   "rank": 19,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11827,7 +12392,7 @@
    ],
    "map": "dust2",
    "date": 1786113199,
-   "rank": 31,
+   "rank": 38,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11862,7 +12427,7 @@
    ],
    "map": "cache",
    "date": 1786113187,
-   "rank": 31,
+   "rank": 38,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -11897,7 +12462,7 @@
    ],
    "map": "inferno",
    "date": 1786104776,
-   "rank": 197,
+   "rank": 195,
    "event": "dfrag-open-series-6",
    "cache_version": 2,
    "files": {
@@ -11932,7 +12497,7 @@
    ],
    "map": "mirage",
    "date": 1786104765,
-   "rank": 197,
+   "rank": 195,
    "event": "dfrag-open-series-6",
    "cache_version": 2,
    "files": {
@@ -11967,7 +12532,7 @@
    ],
    "map": "cache",
    "date": 1786104534,
-   "rank": 81,
+   "rank": 42,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -12002,7 +12567,7 @@
    ],
    "map": "inferno",
    "date": 1786104527,
-   "rank": 81,
+   "rank": 42,
    "event": "esports-world-cup-2026-open-qualifier",
    "cache_version": 2,
    "files": {
@@ -12037,7 +12602,7 @@
    ],
    "map": "nuke",
    "date": 1785960094,
-   "rank": 17,
+   "rank": 19,
    "event": "stake-pulse-beat-i",
    "cache_version": 2,
    "files": {
@@ -12072,7 +12637,7 @@
    ],
    "map": "anubis",
    "date": 1785960029,
-   "rank": 17,
+   "rank": 19,
    "event": "stake-pulse-beat-i",
    "cache_version": 2,
    "files": {
@@ -12107,7 +12672,7 @@
    ],
    "map": "cache",
    "date": 1785959975,
-   "rank": 17,
+   "rank": 19,
    "event": "stake-pulse-beat-i",
    "cache_version": 2,
    "files": {
@@ -12142,7 +12707,7 @@
    ],
    "map": "anubis",
    "date": 1785857603,
-   "rank": 17,
+   "rank": 19,
    "event": "stake-pulse-beat-i",
    "cache_version": 2,
    "files": {
@@ -12177,7 +12742,7 @@
    ],
    "map": "cache",
    "date": 1785857525,
-   "rank": 17,
+   "rank": 19,
    "event": "stake-pulse-beat-i",
    "cache_version": 2,
    "files": {
@@ -12317,7 +12882,7 @@
    ],
    "map": "cache",
    "date": 1785493111,
-   "rank": 38,
+   "rank": 50,
    "event": "elisa-esports-breakout-series-1",
    "cache_version": 2,
    "files": {
@@ -12352,7 +12917,7 @@
    ],
    "map": "cache",
    "date": 1785083000,
-   "rank": 12,
+   "rank": 9,
    "event": "starladder-starseries-fall-2026-europe-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -12387,7 +12952,7 @@
    ],
    "map": "mirage",
    "date": 1785082989,
-   "rank": 12,
+   "rank": 9,
    "event": "starladder-starseries-fall-2026-europe-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -12422,7 +12987,7 @@
    ],
    "map": "anubis",
    "date": 1785082986,
-   "rank": 12,
+   "rank": 9,
    "event": "starladder-starseries-fall-2026-europe-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -12457,7 +13022,7 @@
    ],
    "map": "cache",
    "date": 1784983473,
-   "rank": 10,
+   "rank": 26,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12492,7 +13057,7 @@
    ],
    "map": "mirage",
    "date": 1784979955,
-   "rank": 10,
+   "rank": 26,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12527,7 +13092,7 @@
    ],
    "map": "nuke",
    "date": 1784975963,
-   "rank": 10,
+   "rank": 26,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12708,7 +13273,7 @@
    ],
    "map": "nuke",
    "date": 1784915765,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12743,7 +13308,7 @@
    ],
    "map": "anubis",
    "date": 1784911670,
-   "rank": 5,
+   "rank": 3,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12778,7 +13343,7 @@
    ],
    "map": "dust2",
    "date": 1784907666,
-   "rank": 19,
+   "rank": 15,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12813,7 +13378,7 @@
    ],
    "map": "cache",
    "date": 1784904005,
-   "rank": 19,
+   "rank": 15,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12848,7 +13413,7 @@
    ],
    "map": "nuke",
    "date": 1784900186,
-   "rank": 19,
+   "rank": 15,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12883,7 +13448,7 @@
    ],
    "map": "dust2",
    "date": 1784811028,
-   "rank": 12,
+   "rank": 9,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12918,7 +13483,7 @@
    ],
    "map": "nuke",
    "date": 1784811021,
-   "rank": 12,
+   "rank": 9,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12953,7 +13518,7 @@
    ],
    "map": "cache",
    "date": 1784804741,
-   "rank": 12,
+   "rank": 9,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -12988,7 +13553,7 @@
    ],
    "map": "nuke",
    "date": 1784649127,
-   "rank": 35,
+   "rank": 21,
    "event": "starladder-starseries-fall-2026-europe-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -13023,7 +13588,7 @@
    ],
    "map": "cache",
    "date": 1784649028,
-   "rank": 35,
+   "rank": 21,
    "event": "starladder-starseries-fall-2026-europe-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -13058,7 +13623,7 @@
    ],
    "map": "inferno",
    "date": 1784649004,
-   "rank": 35,
+   "rank": 21,
    "event": "starladder-starseries-fall-2026-europe-closed-qualifier",
    "cache_version": 2,
    "files": {
@@ -13093,7 +13658,7 @@
    ],
    "map": "cache",
    "date": 1784647866,
-   "rank": 20,
+   "rank": 10,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -13128,7 +13693,7 @@
    ],
    "map": "ancient",
    "date": 1784644839,
-   "rank": 20,
+   "rank": 10,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -13163,7 +13728,7 @@
    ],
    "map": "nuke",
    "date": 1784644811,
-   "rank": 20,
+   "rank": 10,
    "event": "blast-bounty-2026-season-2",
    "cache_version": 2,
    "files": {
@@ -13198,7 +13763,7 @@
    ],
    "map": "ancient",
    "date": 1783810336,
-   "rank": 10,
+   "rank": 26,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13233,7 +13798,7 @@
    ],
    "map": "dust2",
    "date": 1783804024,
-   "rank": 10,
+   "rank": 26,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13268,7 +13833,7 @@
    ],
    "map": "cache",
    "date": 1783795940,
-   "rank": 10,
+   "rank": 26,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13303,7 +13868,7 @@
    ],
    "map": "ancient",
    "date": 1783735748,
-   "rank": 85,
+   "rank": 65,
    "event": "res-showdown-4-south-america-blast-premier-rising-event",
    "cache_version": 2,
    "files": {
@@ -13338,7 +13903,7 @@
    ],
    "map": "cache",
    "date": 1783735745,
-   "rank": 85,
+   "rank": 65,
    "event": "res-showdown-4-south-america-blast-premier-rising-event",
    "cache_version": 2,
    "files": {
@@ -13373,7 +13938,7 @@
    ],
    "map": "mirage",
    "date": 1783735739,
-   "rank": 85,
+   "rank": 65,
    "event": "res-showdown-4-south-america-blast-premier-rising-event",
    "cache_version": 2,
    "files": {
@@ -13408,7 +13973,7 @@
    ],
    "map": "ancient",
    "date": 1783711034,
-   "rank": 10,
+   "rank": 11,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13443,7 +14008,7 @@
    ],
    "map": "cache",
    "date": 1783707820,
-   "rank": 10,
+   "rank": 11,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13478,7 +14043,7 @@
    ],
    "map": "ancient",
    "date": 1783701068,
-   "rank": 16,
+   "rank": 25,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13513,7 +14078,7 @@
    ],
    "map": "mirage",
    "date": 1783697362,
-   "rank": 16,
+   "rank": 25,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13548,7 +14113,7 @@
    ],
    "map": "cache",
    "date": 1783693810,
-   "rank": 16,
+   "rank": 25,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13583,7 +14148,7 @@
    ],
    "map": "inferno",
    "date": 1783587230,
-   "rank": 9,
+   "rank": 17,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13618,7 +14183,7 @@
    ],
    "map": "mirage",
    "date": 1783583536,
-   "rank": 9,
+   "rank": 17,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13653,7 +14218,7 @@
    ],
    "map": "nuke",
    "date": 1783579908,
-   "rank": 9,
+   "rank": 17,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13688,7 +14253,7 @@
    ],
    "map": "cache",
    "date": 1783290202,
-   "rank": 10,
+   "rank": 26,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13723,7 +14288,7 @@
    ],
    "map": "mirage",
    "date": 1783286964,
-   "rank": 10,
+   "rank": 26,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13758,7 +14323,7 @@
    ],
    "map": "ancient",
    "date": 1783282068,
-   "rank": 10,
+   "rank": 26,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13793,7 +14358,7 @@
    ],
    "map": "cache",
    "date": 1783055566,
-   "rank": 26,
+   "rank": 43,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13828,7 +14393,7 @@
    ],
    "map": "nuke",
    "date": 1783051984,
-   "rank": 26,
+   "rank": 43,
    "event": "xse-pro-league-guangzhou-2026",
    "cache_version": 2,
    "files": {
@@ -13863,7 +14428,7 @@
    ],
    "map": "anubis",
    "date": 1781470998,
-   "rank": 3,
+   "rank": 6,
    "event": "iem-cologne-major-2026",
    "cache_version": 2,
    "files": {
@@ -13904,7 +14469,7 @@
    ],
    "map": "anubis",
    "date": 1781469649,
-   "rank": 3,
+   "rank": 6,
    "event": "iem-cologne-major-2026",
    "cache_version": 2,
    "files": {
@@ -13939,7 +14504,7 @@
    ],
    "map": "mirage",
    "date": 1781464875,
-   "rank": 3,
+   "rank": 6,
    "event": "iem-cologne-major-2026",
    "cache_version": 2,
    "files": {
@@ -13974,7 +14539,7 @@
    ],
    "map": "dust2",
    "date": 1781461279,
-   "rank": 3,
+   "rank": 6,
    "event": "iem-cologne-major-2026",
    "cache_version": 2,
    "files": {
@@ -14079,7 +14644,7 @@
    ],
    "map": "inferno",
    "date": 1780938041,
-   "rank": 9,
+   "rank": 17,
    "event": "iem-cologne-major-2026-stage-2",
    "cache_version": 2,
    "files": {
@@ -14114,7 +14679,7 @@
    ],
    "map": "overpass",
    "date": 1780934369,
-   "rank": 9,
+   "rank": 17,
    "event": "iem-cologne-major-2026-stage-2",
    "cache_version": 2,
    "files": {
@@ -14149,7 +14714,7 @@
    ],
    "map": "anubis",
    "date": 1780850217,
-   "rank": 42,
+   "rank": 54,
    "event": "iem-cologne-major-2026-stage-2",
    "cache_version": 2,
    "files": {
@@ -14184,7 +14749,7 @@
    ],
    "map": "nuke",
    "date": 1780846124,
-   "rank": 42,
+   "rank": 54,
    "event": "iem-cologne-major-2026-stage-2",
    "cache_version": 2,
    "files": {
@@ -14219,7 +14784,7 @@
    ],
    "map": "nuke",
    "date": 1780837847,
-   "rank": 20,
+   "rank": 10,
    "event": "iem-cologne-major-2026-stage-2",
    "cache_version": 2,
    "files": {
@@ -14254,7 +14819,7 @@
    ],
    "map": "inferno",
    "date": 1780675611,
-   "rank": 17,
+   "rank": 19,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14289,7 +14854,7 @@
    ],
    "map": "anubis",
    "date": 1780671855,
-   "rank": 17,
+   "rank": 19,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14324,7 +14889,7 @@
    ],
    "map": "anubis",
    "date": 1780584450,
-   "rank": 26,
+   "rank": 44,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14359,7 +14924,7 @@
    ],
    "map": "inferno",
    "date": 1780580831,
-   "rank": 52,
+   "rank": 86,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14394,7 +14959,7 @@
    ],
    "map": "inferno",
    "date": 1780580522,
-   "rank": 26,
+   "rank": 44,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14429,7 +14994,7 @@
    ],
    "map": "anubis",
    "date": 1780577726,
-   "rank": 52,
+   "rank": 86,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14464,7 +15029,7 @@
    ],
    "map": "nuke",
    "date": 1780577139,
-   "rank": 26,
+   "rank": 44,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14499,7 +15064,7 @@
    ],
    "map": "mirage",
    "date": 1780493031,
-   "rank": 50,
+   "rank": 47,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14534,7 +15099,7 @@
    ],
    "map": "dust2",
    "date": 1780431411,
-   "rank": 15,
+   "rank": 11,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14569,7 +15134,7 @@
    ],
    "map": "nuke",
    "date": 1780422810,
-   "rank": 21,
+   "rank": 12,
    "event": "iem-cologne-major-2026-stage-1",
    "cache_version": 2,
    "files": {
@@ -14604,7 +15169,7 @@
    ],
    "map": "nuke",
    "date": 1780153432,
-   "rank": 10,
+   "rank": 18,
    "event": "stake-ranked-episode-2",
    "cache_version": 2,
    "files": {
@@ -14639,7 +15204,7 @@
    ],
    "map": "ancient",
    "date": 1780153222,
-   "rank": 10,
+   "rank": 18,
    "event": "stake-ranked-episode-2",
    "cache_version": 2,
    "files": {
@@ -14674,7 +15239,7 @@
    ],
    "map": "nuke",
    "date": 1779984130,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-finals",
    "cache_version": 2,
    "files": {
@@ -14709,7 +15274,7 @@
    ],
    "map": "mirage",
    "date": 1779984004,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-finals",
    "cache_version": 2,
    "files": {
@@ -14744,7 +15309,7 @@
    ],
    "map": "inferno",
    "date": 1779983961,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-finals",
    "cache_version": 2,
    "files": {
@@ -14779,7 +15344,7 @@
    ],
    "map": "nuke",
    "date": 1779900712,
-   "rank": 10,
+   "rank": 24,
    "event": "stake-ranked-episode-2",
    "cache_version": 2,
    "files": {
@@ -14814,7 +15379,7 @@
    ],
    "map": "anubis",
    "date": 1779900709,
-   "rank": 10,
+   "rank": 24,
    "event": "stake-ranked-episode-2",
    "cache_version": 2,
    "files": {
@@ -14849,7 +15414,7 @@
    ],
    "map": "nuke",
    "date": 1779540552,
-   "rank": 2,
+   "rank": 4,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -14884,7 +15449,7 @@
    ],
    "map": "dust2",
    "date": 1779536774,
-   "rank": 2,
+   "rank": 4,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -14919,7 +15484,7 @@
    ],
    "map": "mirage",
    "date": 1779532786,
-   "rank": 2,
+   "rank": 4,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -14954,7 +15519,7 @@
    ],
    "map": "ancient",
    "date": 1779420092,
-   "rank": 13,
+   "rank": 12,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -14989,7 +15554,7 @@
    ],
    "map": "mirage",
    "date": 1779417408,
-   "rank": 13,
+   "rank": 12,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15024,7 +15589,7 @@
    ],
    "map": "inferno",
    "date": 1779413468,
-   "rank": 13,
+   "rank": 12,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15059,7 +15624,7 @@
    ],
    "map": "ancient",
    "date": 1779303746,
-   "rank": 6,
+   "rank": 2,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15094,7 +15659,7 @@
    ],
    "map": "ancient",
    "date": 1779300516,
-   "rank": 3,
+   "rank": 6,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15129,7 +15694,7 @@
    ],
    "map": "overpass",
    "date": 1779299124,
-   "rank": 6,
+   "rank": 2,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15164,7 +15729,7 @@
    ],
    "map": "inferno",
    "date": 1779296642,
-   "rank": 3,
+   "rank": 6,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15199,7 +15764,7 @@
    ],
    "map": "dust2",
    "date": 1779254922,
-   "rank": 3,
+   "rank": 6,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15234,7 +15799,7 @@
    ],
    "map": "inferno",
    "date": 1779249954,
-   "rank": 2,
+   "rank": 4,
    "event": "cs-asia-championships-2026",
    "cache_version": 2,
    "files": {
@@ -15374,7 +15939,7 @@
    ],
    "map": "inferno",
    "date": 1778891942,
-   "rank": 5,
+   "rank": 3,
    "event": "iem-atlanta-2026",
    "cache_version": 2,
    "files": {
@@ -15409,7 +15974,7 @@
    ],
    "map": "anubis",
    "date": 1778888438,
-   "rank": 5,
+   "rank": 3,
    "event": "iem-atlanta-2026",
    "cache_version": 2,
    "files": {
@@ -15444,7 +16009,7 @@
    ],
    "map": "dust2",
    "date": 1778883660,
-   "rank": 5,
+   "rank": 3,
    "event": "iem-atlanta-2026",
    "cache_version": 2,
    "files": {
@@ -15479,7 +16044,7 @@
    ],
    "map": "dust2",
    "date": 1778875513,
-   "rank": 3,
+   "rank": 6,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15514,7 +16079,7 @@
    ],
    "map": "nuke",
    "date": 1778871908,
-   "rank": 3,
+   "rank": 6,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15549,7 +16114,7 @@
    ],
    "map": "mirage",
    "date": 1778867409,
-   "rank": 3,
+   "rank": 6,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15584,7 +16149,7 @@
    ],
    "map": "mirage",
    "date": 1778583891,
-   "rank": 3,
+   "rank": 6,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15619,7 +16184,7 @@
    ],
    "map": "inferno",
    "date": 1778582299,
-   "rank": 3,
+   "rank": 6,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15654,7 +16219,7 @@
    ],
    "map": "dust2",
    "date": 1778582293,
-   "rank": 3,
+   "rank": 6,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15689,7 +16254,7 @@
    ],
    "map": "mirage",
    "date": 1778538506,
-   "rank": 11,
+   "rank": 34,
    "event": "iem-atlanta-2026",
    "cache_version": 2,
    "files": {
@@ -15724,7 +16289,7 @@
    ],
    "map": "anubis",
    "date": 1778535201,
-   "rank": 11,
+   "rank": 34,
    "event": "iem-atlanta-2026",
    "cache_version": 2,
    "files": {
@@ -15759,7 +16324,7 @@
    ],
    "map": "ancient",
    "date": 1778504761,
-   "rank": 2,
+   "rank": 4,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15794,7 +16359,7 @@
    ],
    "map": "nuke",
    "date": 1778504742,
-   "rank": 2,
+   "rank": 4,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15829,7 +16394,7 @@
    ],
    "map": "inferno",
    "date": 1778504735,
-   "rank": 2,
+   "rank": 4,
    "event": "pgl-astana-2026",
    "cache_version": 2,
    "files": {
@@ -15864,7 +16429,7 @@
    ],
    "map": "overpass",
    "date": 1777825182,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-cup-4",
    "cache_version": 2,
    "files": {
@@ -15899,7 +16464,7 @@
    ],
    "map": "inferno",
    "date": 1777825170,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-cup-4",
    "cache_version": 2,
    "files": {
@@ -15934,7 +16499,7 @@
    ],
    "map": "ancient",
    "date": 1777825152,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-cup-4",
    "cache_version": 2,
    "files": {
@@ -15969,7 +16534,7 @@
    ],
    "map": "mirage",
    "date": 1777564674,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-cup-4",
    "cache_version": 2,
    "files": {
@@ -16004,7 +16569,7 @@
    ],
    "map": "ancient",
    "date": 1777564664,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-cup-4",
    "cache_version": 2,
    "files": {
@@ -16039,7 +16604,7 @@
    ],
    "map": "overpass",
    "date": 1777564659,
-   "rank": 26,
+   "rank": 44,
    "event": "esl-challenger-league-season-51-asia-pacific-cup-4",
    "cache_version": 2,
    "files": {
@@ -16074,7 +16639,7 @@
    ],
    "map": "nuke",
    "date": 1777458962,
-   "rank": 104,
+   "rank": 136,
    "event": "esl-challenger-league-season-51-oceania-cup-4",
    "cache_version": 2,
    "files": {
@@ -16109,7 +16674,7 @@
    ],
    "map": "mirage",
    "date": 1777458954,
-   "rank": 104,
+   "rank": 136,
    "event": "esl-challenger-league-season-51-oceania-cup-4",
    "cache_version": 2,
    "files": {
@@ -16144,7 +16709,7 @@
    ],
    "map": "nuke",
    "date": 1775399204,
-   "rank": 26,
+   "rank": 44,
    "event": "xse-gangkui-cup-season-2-finals",
    "cache_version": 2,
    "files": {
@@ -16179,7 +16744,7 @@
    ],
    "map": "anubis",
    "date": 1775394902,
-   "rank": 26,
+   "rank": 44,
    "event": "xse-gangkui-cup-season-2-finals",
    "cache_version": 2,
    "files": {
@@ -16214,7 +16779,7 @@
    ],
    "map": "mirage",
    "date": 1775372322,
-   "rank": 26,
+   "rank": 44,
    "event": "xse-gangkui-cup-season-2-finals",
    "cache_version": 2,
    "files": {
@@ -16249,7 +16814,7 @@
    ],
    "map": "inferno",
    "date": 1775034616,
-   "rank": 26,
+   "rank": 44,
    "event": "xse-gangkui-cup-season-2-finals",
    "cache_version": 2,
    "files": {
@@ -16284,7 +16849,7 @@
    ],
    "map": "ancient",
    "date": 1775034613,
-   "rank": 26,
+   "rank": 44,
    "event": "xse-gangkui-cup-season-2-finals",
    "cache_version": 2,
    "files": {
@@ -16319,7 +16884,7 @@
    ],
    "map": "inferno",
    "date": 1771238989,
-   "rank": 10,
+   "rank": 26,
    "event": "pgl-cluj-napoca-2026",
    "cache_version": 2,
    "files": {
@@ -16354,7 +16919,7 @@
    ],
    "map": "ancient",
    "date": 1771237387,
-   "rank": 10,
+   "rank": 26,
    "event": "pgl-cluj-napoca-2026",
    "cache_version": 2,
    "files": {
@@ -16389,7 +16954,7 @@
    ],
    "map": "mirage",
    "date": 1771237366,
-   "rank": 10,
+   "rank": 26,
    "event": "pgl-cluj-napoca-2026",
    "cache_version": 2,
    "files": {
@@ -16424,7 +16989,7 @@
    ],
    "map": "anubis",
    "date": 1734088002,
-   "rank": 5,
+   "rank": 3,
    "event": "perfect-world-shanghai-major-2024",
    "cache_version": 2,
    "files": {
@@ -16459,7 +17024,7 @@
    ],
    "map": "mirage",
    "date": 1734084636,
-   "rank": 5,
+   "rank": 3,
    "event": "perfect-world-shanghai-major-2024",
    "cache_version": 2,
    "files": {
@@ -16494,7 +17059,7 @@
    ],
    "map": "nuke",
    "date": 1734080870,
-   "rank": 5,
+   "rank": 3,
    "event": "perfect-world-shanghai-major-2024",
    "cache_version": 2,
    "files": {
@@ -16739,7 +17304,7 @@
    ],
    "map": "ancient",
    "date": 1733477682,
-   "rank": 19,
+   "rank": 15,
    "event": "perfect-world-shanghai-major-2024",
    "cache_version": 2,
    "files": {
@@ -16774,7 +17339,7 @@
    ],
    "map": "anubis",
    "date": 1733474330,
-   "rank": 19,
+   "rank": 15,
    "event": "perfect-world-shanghai-major-2024",
    "cache_version": 2,
    "files": {
@@ -16809,7 +17374,7 @@
    ],
    "map": "mirage",
    "date": 1733468076,
-   "rank": 19,
+   "rank": 15,
    "event": "perfect-world-shanghai-major-2024",
    "cache_version": 2,
    "files": {
