@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791458687,
+ "updated": 1791464293,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -361,6 +361,126 @@
   "fruju": 380
  },
  "demos": [
+  {
+   "stem": "spirit-vs-m80-m2-cache-p2",
+   "teams": [
+    "spirit",
+    "m80"
+   ],
+   "map": "cache",
+   "date": 1791403812,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-m80-m2-cache-p2.v2.cs2lib",
+     "size": 1310005,
+     "sha256": "10797fd9e5422d51cf9bf6728bc2fe387c80077e39e97831e8d812bcedcc573f",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "spirit-vs-m80-m2-cache-p2.v2.cs2nades",
+     "size": 239619,
+     "sha256": "6317ad132d906069fbc97b22787ab589a8930b1ef8560f3b45c9de1b1fb7190a",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "spirit-vs-m80-m2-cache-p2.v2.cs2stats",
+     "size": 721,
+     "sha256": "f3f4e3231185ea253a34294c0dfc05fe51b7c6e08baadf15792b32ba88679a4d",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "spirit-vs-m80-m2-cache-p2.v2.cs2econ",
+     "size": 810,
+     "sha256": "50f340f9fddef70544f0d33c7a33ce401402ed849f497c1e747470bdaa04d0bc",
+     "rel": "library-3"
+    }
+   },
+   "part": {
+    "n": 2,
+    "first": 6,
+    "t": 1,
+    "ct": 4
+   }
+  },
+  {
+   "stem": "spirit-vs-m80-m2-cache-p1",
+   "teams": [
+    "spirit",
+    "m80"
+   ],
+   "map": "cache",
+   "date": 1791400694,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-m80-m2-cache-p1.v2.cs2lib",
+     "size": 332110,
+     "sha256": "9a43e760a063e89e41c18f2b13ba340e6128f6fce2c61816e14c762d275b1701",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "spirit-vs-m80-m2-cache-p1.v2.cs2nades",
+     "size": 60756,
+     "sha256": "b15f13f945dd61980b6ca7901da2e683dd015263f7f519e348593d1cfeaa4f4d",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "spirit-vs-m80-m2-cache-p1.v2.cs2stats",
+     "size": 368,
+     "sha256": "c4fa060f25a5fca1c34a37efc0407cddf4fe930d78717a38ba1b54fe45d0b60f",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "spirit-vs-m80-m2-cache-p1.v2.cs2econ",
+     "size": 356,
+     "sha256": "4bbe96efa41cf6beadd67561a00da7424cca06567946ae302a04d286c99355bd",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-m80-m1-dust2",
+   "teams": [
+    "spirit",
+    "m80"
+   ],
+   "map": "dust2",
+   "date": 1791399169,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-m80-m1-dust2.v2.cs2lib",
+     "size": 1570446,
+     "sha256": "2814371c877364e16b6fc3365448c05632fc3b5e9fa078bf63c156e3f7f56ac9",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "spirit-vs-m80-m1-dust2.v2.cs2nades",
+     "size": 268372,
+     "sha256": "d0b99b630592ea449796c47362e3366be226e1471c51603c4e907aba8836a3af",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "spirit-vs-m80-m1-dust2.v2.cs2stats",
+     "size": 769,
+     "sha256": "53181d8ccca04f4f222463673429b1dad0560a1c7ce75c086318decc8e0aaf83",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "spirit-vs-m80-m1-dust2.v2.cs2econ",
+     "size": 827,
+     "sha256": "112a61b15809af340ab92a89f6f82a866798602c6384ca496553afe4c2f2d221",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "parivision-vs-natus-vincere-m3-mirage",
    "teams": [
