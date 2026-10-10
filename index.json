@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791662020,
+ "updated": 1791669400,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -361,6 +361,120 @@
   "fruju": 380
  },
  "demos": [
+  {
+   "stem": "mouz-vs-spirit-m3-nuke",
+   "teams": [
+    "mouz",
+    "spirit"
+   ],
+   "map": "nuke",
+   "date": 1791665184,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-spirit-m3-nuke.v2.cs2lib",
+     "size": 1797469,
+     "sha256": "8901069d8977c576fcb263a2daafa93ab888f0f8834ad9836a2014719f7bad94",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-spirit-m3-nuke.v2.cs2nades",
+     "size": 317030,
+     "sha256": "c8ca7cf37533ac0ce91c2f26fab7979b98c1ce3454995aed4d528642e69b8551",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-spirit-m3-nuke.v2.cs2stats",
+     "size": 850,
+     "sha256": "a7c0e5c663715633fcde1d0a4efe89567fc73885899891b32368347e28255537",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-spirit-m3-nuke.v2.cs2econ",
+     "size": 984,
+     "sha256": "a1e0807d59eaa38338103781b1bbe904dde2f9c6c550586047c037c83d93619d",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-spirit-m2-mirage__esl-pro-league-season-24",
+   "teams": [
+    "mouz",
+    "spirit"
+   ],
+   "map": "mirage",
+   "date": 1791660783,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-spirit-m2-mirage__esl-pro-league-season-24.v2.cs2lib",
+     "size": 1300571,
+     "sha256": "48a3053f2c4fec10990b6b21627f98f856756a0e664fc23f487f3a0caa75a1cf",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-spirit-m2-mirage__esl-pro-league-season-24.v2.cs2nades",
+     "size": 227729,
+     "sha256": "8cfa349f399f5f3968ca66ebcc923d3670550f3d6ec2a513bf162b27972f76b8",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-spirit-m2-mirage__esl-pro-league-season-24.v2.cs2stats",
+     "size": 757,
+     "sha256": "9f560594fcac5ef836da46520a2b5bc7776ae7fe91f673ef884cd44ea122b7d8",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-spirit-m2-mirage__esl-pro-league-season-24.v2.cs2econ",
+     "size": 787,
+     "sha256": "87523714bd82e6c766fad1f274124eec419369cb9750aa96824fffed3a9a5c48",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-spirit-m1-dust2",
+   "teams": [
+    "mouz",
+    "spirit"
+   ],
+   "map": "dust2",
+   "date": 1791657273,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-spirit-m1-dust2.v2.cs2lib",
+     "size": 1650626,
+     "sha256": "648049d9e11b267fa72f7f694335757018f16c828e750887fe244efaf72acfd8",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-spirit-m1-dust2.v2.cs2nades",
+     "size": 279010,
+     "sha256": "a28ddf6ab61cba6c692d8f9da44389bf1e8f898f0bdc83121fd38d121cf623ea",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-spirit-m1-dust2.v2.cs2stats",
+     "size": 778,
+     "sha256": "437a9086f26ddc981145e03ee2b556fd368da67aa0f6a8f790773619284abb79",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-spirit-m1-dust2.v2.cs2econ",
+     "size": 860,
+     "sha256": "733c135c2d73a60f9b814d75546033f4fce15f7aeb53442914280761b830d57b",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "aurora-vs-vitality-m3-mirage__esl-pro-league-season-24",
    "teams": [
