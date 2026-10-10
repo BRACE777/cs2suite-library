@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791647587,
+ "updated": 1791654944,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -361,6 +361,120 @@
   "fruju": 380
  },
  "demos": [
+  {
+   "stem": "aurora-vs-vitality-m3-mirage__esl-pro-league-season-24",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "mirage",
+   "date": 1791650837,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m3-mirage__esl-pro-league-season-24.v2.cs2lib",
+     "size": 1621294,
+     "sha256": "c88a43063ca3fa14ab0c24bc7cef7e82630b9760aa2185629ae151f0a6fbad65",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m3-mirage__esl-pro-league-season-24.v2.cs2nades",
+     "size": 280326,
+     "sha256": "05d8ae5827a6a0ef980a48fcb489c1d72efa3a61c336b22cb6192c84802711fb",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m3-mirage__esl-pro-league-season-24.v2.cs2stats",
+     "size": 826,
+     "sha256": "3c1bdeda93b318c7601c7bfe908f513c245c462e47a598b38383d261f095fc7c",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m3-mirage__esl-pro-league-season-24.v2.cs2econ",
+     "size": 915,
+     "sha256": "d4c59fb59a07210b73fe55cca2c474ecac0f189ce061d3d3e72fa748e4741417",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-vitality-m2-cache",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "cache",
+   "date": 1791646802,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m2-cache.v2.cs2lib",
+     "size": 1567937,
+     "sha256": "085587690c5e21eed71a6d8d6843f7063e89c2e115ca173a6c733853961cfb09",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m2-cache.v2.cs2nades",
+     "size": 274775,
+     "sha256": "5826bc770ebb1c9b1d964c0199ff4c4a6a1ebff53f3e87f8bb41cc0f5612a34a",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m2-cache.v2.cs2stats",
+     "size": 819,
+     "sha256": "87f0314516b7045e0127b17b2e807c619965db4192fb045876733a393d08b204",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m2-cache.v2.cs2econ",
+     "size": 846,
+     "sha256": "15aa634fd806e142bd5d936789e66990d2eaf03425c840933f66ec020ca52f08",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-vitality-m1-anubis__esl-pro-league-season-24",
+   "teams": [
+    "aurora",
+    "vitality"
+   ],
+   "map": "anubis",
+   "date": 1791642913,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-vitality-m1-anubis__esl-pro-league-season-24.v2.cs2lib",
+     "size": 1561632,
+     "sha256": "2c414fd576ddaaf5d1dcd08697e88fd773f52b3e4823a055bacb8e368c5e72dc",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-vitality-m1-anubis__esl-pro-league-season-24.v2.cs2nades",
+     "size": 274103,
+     "sha256": "ba72028892fad0005c326e1c43263bcfbe3451ebf6a55a2f71cfe340239411f0",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-vitality-m1-anubis__esl-pro-league-season-24.v2.cs2stats",
+     "size": 832,
+     "sha256": "6707cc368391edbb6367c343b662223e90f9bfcf4aa101d2b45958702e513d84",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-vitality-m1-anubis__esl-pro-league-season-24.v2.cs2econ",
+     "size": 887,
+     "sha256": "058236a8067eca7527dac48bb008243c80860e618bd2b7872220702048967bfd",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "flyquest-vs-madlikewizards-dust2",
    "teams": [
