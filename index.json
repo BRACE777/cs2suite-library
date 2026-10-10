@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791464293,
+ "updated": 1791640816,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -361,6 +361,392 @@
   "fruju": 380
  },
  "demos": [
+  {
+   "stem": "flyquest-vs-madlikewizards-dust2",
+   "teams": [
+    "flyquest",
+    "madlikewizards"
+   ],
+   "map": "dust2",
+   "date": 1791613348,
+   "rank": 86,
+   "event": "anzc-locals-brisbane-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "flyquest-vs-madlikewizards-dust2.v2.cs2lib",
+     "size": 1699592,
+     "sha256": "2edb560bb82acff4b8e8e4c6379be396a47663d42f31906f25bfa5a6812f1827",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "flyquest-vs-madlikewizards-dust2.v2.cs2nades",
+     "size": 282529,
+     "sha256": "c91365c492bcb1397a9cc516b0d0d7f34261f668516c221cd1249570e29796b3",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "flyquest-vs-madlikewizards-dust2.v2.cs2stats",
+     "size": 804,
+     "sha256": "9bf2b89433bf227425e0b04c74d879575ad3b47114dccc4b66955c9e53044074",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "flyquest-vs-madlikewizards-dust2.v2.cs2econ",
+     "size": 882,
+     "sha256": "1dc94b67a87cca9cb59dd40701a899fadc52769586080115e576377368bd72dc",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "falcons-vs-spirit-m2-anubis",
+   "teams": [
+    "falcons",
+    "spirit"
+   ],
+   "map": "anubis",
+   "date": 1791572852,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-spirit-m2-anubis.v2.cs2lib",
+     "size": 1754684,
+     "sha256": "016e15c5b7a1fc378616d28eada02388b3bf464d110fe0a22abbe32f1c79f59d",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "falcons-vs-spirit-m2-anubis.v2.cs2nades",
+     "size": 306719,
+     "sha256": "0084d9a11f121235f7ed93f23d2633e64b45a452613087ceedc738dd83d8523d",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "falcons-vs-spirit-m2-anubis.v2.cs2stats",
+     "size": 868,
+     "sha256": "3519baaa3745e036989125e557d3bc0388353eded65dfcbccd9007b2c189191c",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "falcons-vs-spirit-m2-anubis.v2.cs2econ",
+     "size": 953,
+     "sha256": "3f2fad94fa906ab875a3776df4a739118b367b4fea71b1c7bd78c0f2efacd66a",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "falcons-vs-spirit-m1-mirage",
+   "teams": [
+    "falcons",
+    "spirit"
+   ],
+   "map": "mirage",
+   "date": 1791568627,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "falcons-vs-spirit-m1-mirage.v2.cs2lib",
+     "size": 1769476,
+     "sha256": "e40523263e1e8edd336a054e654a4a699fafb972618cc90cc974f5ccc1006251",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "falcons-vs-spirit-m1-mirage.v2.cs2nades",
+     "size": 305743,
+     "sha256": "c5884b2d227945456dbcf290210ce68524df96799cfbc87c2f5c98032bfe1dbb",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "falcons-vs-spirit-m1-mirage.v2.cs2stats",
+     "size": 812,
+     "sha256": "1593a29b0a392fb08b9f7e4a7de76254e76f3dc17de9a37c3ae0ed8aaf567a6b",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "falcons-vs-spirit-m1-mirage.v2.cs2econ",
+     "size": 891,
+     "sha256": "a7b56c3397119fcb291554f4ab4ed0c76fc4b29559e2cce7a14762ef78d9579d",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-mouz-m2-inferno",
+   "teams": [
+    "furia",
+    "mouz"
+   ],
+   "map": "inferno",
+   "date": 1791562188,
+   "rank": 4,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-mouz-m2-inferno.v2.cs2lib",
+     "size": 1484631,
+     "sha256": "40fd79d0c7bc2e45734375b8a04c8b80a036071d1221ceebdccf7e81526dabc5",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "furia-vs-mouz-m2-inferno.v2.cs2nades",
+     "size": 257303,
+     "sha256": "90e3e05528c8b1fc0df0bf152edeaff5dc543053462e76fcd92b0ec719705ee8",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "furia-vs-mouz-m2-inferno.v2.cs2stats",
+     "size": 780,
+     "sha256": "3c2c8a69eb506ef3a3aea055d99464d3590b6270f129906e8a1052163308544d",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "furia-vs-mouz-m2-inferno.v2.cs2econ",
+     "size": 822,
+     "sha256": "d1483fa5985ca41ce7dc70c427f3a4955e3e1a61a672be5705bc9a8264795e19",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-mouz-m1-nuke",
+   "teams": [
+    "furia",
+    "mouz"
+   ],
+   "map": "nuke",
+   "date": 1791558393,
+   "rank": 4,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-mouz-m1-nuke.v2.cs2lib",
+     "size": 1531397,
+     "sha256": "5338bc30a8abdd3bd555ca34d1c7f348bf22c185b00db68ed393f992ecc08d84",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "furia-vs-mouz-m1-nuke.v2.cs2nades",
+     "size": 258604,
+     "sha256": "6ad92ea0a5e2267375ada6652d9bfc6a3106fe765614914b9e30f78b91a0a8cd",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "furia-vs-mouz-m1-nuke.v2.cs2stats",
+     "size": 859,
+     "sha256": "50cd28f0426df976101e0d13970e3da6b05e5cb18de81c9d1895f6fcc88d02bc",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "furia-vs-mouz-m1-nuke.v2.cs2econ",
+     "size": 966,
+     "sha256": "594da6ce769a97efb93e30435eeb40a7a2b93f080a1ac255bf72dfcb8ae2056c",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-parivision-m2-dust2",
+   "teams": [
+    "vitality",
+    "parivision"
+   ],
+   "map": "dust2",
+   "date": 1791552065,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-parivision-m2-dust2.v2.cs2lib",
+     "size": 1970765,
+     "sha256": "d3e925230e85ac0ea8701dd1ec30e6ad7927d7500919b0c6b6833f8ba046220b",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "vitality-vs-parivision-m2-dust2.v2.cs2nades",
+     "size": 327480,
+     "sha256": "aba5dd0f5c9cf5c2e108d34e179132f5d5a7895bcdc6fe29fb3f60fb9744c73f",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "vitality-vs-parivision-m2-dust2.v2.cs2stats",
+     "size": 844,
+     "sha256": "219d5ae8df78ee1d5beb2a4e36050e44c46a8e06306335ed13f32fefecabc7bb",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "vitality-vs-parivision-m2-dust2.v2.cs2econ",
+     "size": 971,
+     "sha256": "9d2d517099b5be034e88406750dd08ece813a58c7d5bf1f05d8f74f9f24a8f0d",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-parivision-m1-inferno",
+   "teams": [
+    "vitality",
+    "parivision"
+   ],
+   "map": "inferno",
+   "date": 1791547744,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-parivision-m1-inferno.v2.cs2lib",
+     "size": 1232812,
+     "sha256": "4da3b9eaf69f8498aa0c2e96a14f54e2d092a9b0e256bebfa53ae210ac7c6a97",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "vitality-vs-parivision-m1-inferno.v2.cs2nades",
+     "size": 208832,
+     "sha256": "9363da5248481874fb775a0157ca59df9f028d04fe8b508c2bf751fb81600df7",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "vitality-vs-parivision-m1-inferno.v2.cs2stats",
+     "size": 670,
+     "sha256": "fa7d7a1fd96acc10f99e31f132f87c74df8f6ba0422b4499df8e015b24a5dc6e",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "vitality-vs-parivision-m1-inferno.v2.cs2econ",
+     "size": 710,
+     "sha256": "cc897bd44423c3b211b607799463167d6e56ed8371bc0250f59113665b143892",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "1win-vs-aurora-m2-anubis-p2",
+   "teams": [
+    "1win",
+    "aurora"
+   ],
+   "map": "anubis",
+   "date": 1791541992,
+   "rank": 9,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "1win-vs-aurora-m2-anubis-p2.v2.cs2lib",
+     "size": 1015332,
+     "sha256": "1282a72595107d1af2e447a0efdb2e32b3f4e31f1908029e875f736d52b79f04",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "1win-vs-aurora-m2-anubis-p2.v2.cs2nades",
+     "size": 180314,
+     "sha256": "015b0747f85799f0efc49e68011cbdd83a8dbdf52fc753f4f6071ef557ef9c37",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "1win-vs-aurora-m2-anubis-p2.v2.cs2stats",
+     "size": 602,
+     "sha256": "3f92e527f459e78afb194f7630cc3f18af0f46edadc47014fbf2c4650dc84a69",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "1win-vs-aurora-m2-anubis-p2.v2.cs2econ",
+     "size": 597,
+     "sha256": "718f1c7fc5090412bf4f97453518f34299622f04cf7134f5bcad6da490582839",
+     "rel": "library-3"
+    }
+   },
+   "part": {
+    "n": 2,
+    "first": 10,
+    "t": 2,
+    "ct": 7
+   }
+  },
+  {
+   "stem": "1win-vs-aurora-m2-anubis-p1",
+   "teams": [
+    "1win",
+    "aurora"
+   ],
+   "map": "anubis",
+   "date": 1791540140,
+   "rank": 9,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "1win-vs-aurora-m2-anubis-p1.v2.cs2lib",
+     "size": 585012,
+     "sha256": "4a8703bf0077bb1b1d90c8c64ae60f7577d07e225bba531830da83f8d3bb9345",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "1win-vs-aurora-m2-anubis-p1.v2.cs2nades",
+     "size": 101196,
+     "sha256": "e25add644b6e6d609b6ddf0b851575a2647186f8f3b2ffbdb89bdb42fda29771",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "1win-vs-aurora-m2-anubis-p1.v2.cs2stats",
+     "size": 488,
+     "sha256": "215433215b70797e1661db4997df1425590f16d1d5e105d3df696822ffa985c8",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "1win-vs-aurora-m2-anubis-p1.v2.cs2econ",
+     "size": 485,
+     "sha256": "7b3f8ba7daba6dc4f123787c58735b0e55fbc14403a12c4766ff8a142bb7674d",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "1win-vs-aurora-m1-dust2",
+   "teams": [
+    "1win",
+    "aurora"
+   ],
+   "map": "dust2",
+   "date": 1791537874,
+   "rank": 9,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "1win-vs-aurora-m1-dust2.v2.cs2lib",
+     "size": 1878248,
+     "sha256": "c421a933c12a16d08109a46634d7799ca6baddbb0c6355f27248ff85e1a3b5ca",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "1win-vs-aurora-m1-dust2.v2.cs2nades",
+     "size": 318045,
+     "sha256": "34bb6073048b94346651607eb767e6f0845a0b8cd0d9b784ae2662c8bb380818",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "1win-vs-aurora-m1-dust2.v2.cs2stats",
+     "size": 829,
+     "sha256": "10a8bfbc69c9be34abc6163c8eff7345373bd0f3d64fb00f9d324c46413c58a5",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "1win-vs-aurora-m1-dust2.v2.cs2econ",
+     "size": 918,
+     "sha256": "a415bf4b4c241aa65c5350a4557f0d95584657304422452705440fa06245209e",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "spirit-vs-m80-m2-cache-p2",
    "teams": [
