@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791813523,
+ "updated": 1791814528,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -361,6 +361,120 @@
   "fruju": 380
  },
  "demos": [
+  {
+   "stem": "vitality-vs-mouz-m3-dust2",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "dust2",
+   "date": 1791742276,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m3-dust2.v2.cs2lib",
+     "size": 2263261,
+     "sha256": "946b8d0095b39a2db9ebd2330b001130b1be033fca5b88d85849cb2886b7ad23",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m3-dust2.v2.cs2nades",
+     "size": 384315,
+     "sha256": "6c4f16837c15d2db58fc9df4948fcb89725501117c6c8bb58db2bc12572c3bd7",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m3-dust2.v2.cs2stats",
+     "size": 983,
+     "sha256": "a8c2a48f42e5d1a0f2754dd6d07e5bf5a52bf23519f8afb917b39b96a5ffbb95",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m3-dust2.v2.cs2econ",
+     "size": 1108,
+     "sha256": "b2da4cb90c92a8db1100eb7fbd0a6ff7f30a7ac466df369c3195ac9d8a6f0000",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-mouz-m2-inferno",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "inferno",
+   "date": 1791737389,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m2-inferno.v2.cs2lib",
+     "size": 1573358,
+     "sha256": "3446588fafadc099047b8a4c1348d5e0184a711f1006d0284a7bb9dd627b2977",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m2-inferno.v2.cs2nades",
+     "size": 269132,
+     "sha256": "883deeda0eabed8fbd987cbd9863973a0571720366ea9788af93f2ef7c42c588",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m2-inferno.v2.cs2stats",
+     "size": 816,
+     "sha256": "9aef6a63e47917bdc0a58016e03444f1faa167b891f436e0dfa7082c22bdde31",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m2-inferno.v2.cs2econ",
+     "size": 887,
+     "sha256": "0b6d2b75aa77dd8d079dc0f86d15034b31b77a3e863a8170cb769eef063f1c3f",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-mouz-m1-cache",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "cache",
+   "date": 1791733636,
+   "rank": 3,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m1-cache.v2.cs2lib",
+     "size": 1485077,
+     "sha256": "a5b204bd722f6bfee238883c585c2d9a5a2e9434ab9e43cde5169528c1bbf739",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m1-cache.v2.cs2nades",
+     "size": 260149,
+     "sha256": "002d64feccbb75392cd0e7f2991a98964a2da611e3defd5282d7971cef8b213f",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m1-cache.v2.cs2stats",
+     "size": 813,
+     "sha256": "386d0e0495a282abb52f0b0b26420f9c8255dc419a196e04a4916d70c29f8074",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m1-cache.v2.cs2econ",
+     "size": 876,
+     "sha256": "9b642b408757f7e8766d18366e8099af0ca873a11f4a2f9741b0128ee6b68e97",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "aurora-vs-spirit-m2-anubis",
    "teams": [
