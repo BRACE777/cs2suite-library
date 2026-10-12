@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1791726935,
+ "updated": 1791776182,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -361,6 +361,82 @@
   "fruju": 380
  },
  "demos": [
+  {
+   "stem": "aurora-vs-spirit-m2-anubis",
+   "teams": [
+    "aurora",
+    "spirit"
+   ],
+   "map": "anubis",
+   "date": 1791725320,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-spirit-m2-anubis.v2.cs2lib",
+     "size": 1382868,
+     "sha256": "4a526ad72b75aa0ccb285c4b32acf6ae03568d7c78f67415056e4ed446494d28",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-spirit-m2-anubis.v2.cs2nades",
+     "size": 240178,
+     "sha256": "e3de96de47056ac6fa291a29a6637575fceae6a237daed119a75300ba3841473",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-spirit-m2-anubis.v2.cs2stats",
+     "size": 767,
+     "sha256": "f9171f16988e896b6e53601c308b397b98b807b5c586e74e8cc507922a45307f",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-spirit-m2-anubis.v2.cs2econ",
+     "size": 803,
+     "sha256": "cef701f8cdd582ca41676ac2346772c8d085c854a5c30b91e27a370e4be77970",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-spirit-m1-mirage",
+   "teams": [
+    "aurora",
+    "spirit"
+   ],
+   "map": "mirage",
+   "date": 1791721716,
+   "rank": 1,
+   "event": "esl-pro-league-season-24",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-spirit-m1-mirage.v2.cs2lib",
+     "size": 1737501,
+     "sha256": "9f3d8aca553557bc4f0ffe7d093612e6ad3f5cd2ecbee99527f589edae691061",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-spirit-m1-mirage.v2.cs2nades",
+     "size": 302676,
+     "sha256": "d817632dc2d33e061eda26b78575cd992f4890977da0e7da53ac664490b7b831",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-spirit-m1-mirage.v2.cs2stats",
+     "size": 849,
+     "sha256": "9e6be77eebfbd8747aff1de800f8a0f8c122ac95c0f14a97e6b3f857ff8f31c1",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-spirit-m1-mirage.v2.cs2econ",
+     "size": 916,
+     "sha256": "22e6db26a982d610873ef5e3e04415df35a753f635f1b85225a8f3c59b02e7b7",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "mouz-vs-spirit-m3-nuke",
    "teams": [
