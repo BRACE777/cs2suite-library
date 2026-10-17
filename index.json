@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1792143250,
+ "updated": 1792203590,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -361,6 +361,196 @@
   "fruju": 380
  },
  "demos": [
+  {
+   "stem": "betboom-vs-legacy-m3-mirage",
+   "teams": [
+    "betboom",
+    "legacy"
+   ],
+   "map": "mirage",
+   "date": 1792182694,
+   "rank": 2,
+   "event": "thunderpick-world-championship-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "betboom-vs-legacy-m3-mirage.v2.cs2lib",
+     "size": 1898891,
+     "sha256": "734c5caea522fca84098b02f5bfb603d80d4a01074b5c813ed37c592ce52fd7b",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "betboom-vs-legacy-m3-mirage.v2.cs2nades",
+     "size": 330141,
+     "sha256": "8da944d31873b250cdd77982f7fe97f34034bb253edb552f50c152b56a49face",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "betboom-vs-legacy-m3-mirage.v2.cs2stats",
+     "size": 881,
+     "sha256": "9414ff08c1e56fccc347ad44e7c34244f3b8d0c8e8ab45ca8e3d7f9690824070",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "betboom-vs-legacy-m3-mirage.v2.cs2econ",
+     "size": 995,
+     "sha256": "8c23bf68ca0d32f7b304147f65f1c510047538aca56adf0d3f977a6619bdcd09",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "betboom-vs-legacy-m1-nuke",
+   "teams": [
+    "betboom",
+    "legacy"
+   ],
+   "map": "nuke",
+   "date": 1792179081,
+   "rank": 2,
+   "event": "thunderpick-world-championship-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "betboom-vs-legacy-m1-nuke.v2.cs2lib",
+     "size": 1946287,
+     "sha256": "0fcd5e7e3cb10866ea8aa6b98aafabc86adf5e65308b305dd45092d205852321",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "betboom-vs-legacy-m1-nuke.v2.cs2nades",
+     "size": 331778,
+     "sha256": "4226e29ba3dddc6b33417138bfb763a16815d07edc16609b3bf982a57fa9f8f5",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "betboom-vs-legacy-m1-nuke.v2.cs2stats",
+     "size": 974,
+     "sha256": "62aa52d8528ce1c14d068ad4ce213fb7d703acb3fa7a875eabaf55241d9c3a56",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "betboom-vs-legacy-m1-nuke.v2.cs2econ",
+     "size": 1162,
+     "sha256": "026025f4aeadcc06911c9f1c140a612b5174bf24479827bbb03260a3c2a697ed",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "betboom-vs-legacy-m2-dust2",
+   "teams": [
+    "betboom",
+    "legacy"
+   ],
+   "map": "dust2",
+   "date": 1792179076,
+   "rank": 2,
+   "event": "thunderpick-world-championship-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "betboom-vs-legacy-m2-dust2.v2.cs2lib",
+     "size": 2018671,
+     "sha256": "4c0311ca303985b359be0ce28f2d926534ceda330426b6f34b6c17ff03bdfa63",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "betboom-vs-legacy-m2-dust2.v2.cs2nades",
+     "size": 339260,
+     "sha256": "1f91fefd61116f7b0d0e67d2387c70f9dea2d9622a557bda6431a40e8697aa1c",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "betboom-vs-legacy-m2-dust2.v2.cs2stats",
+     "size": 869,
+     "sha256": "9b96969d3cfe59b2f8ad42f69e4aa5fc91f99a47e2892155b5b39ae8e087aa1b",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "betboom-vs-legacy-m2-dust2.v2.cs2econ",
+     "size": 989,
+     "sha256": "cf451bf5ac2f63cc865994215b7388e22aff87cb0a20da7e4f2b543c6a214796",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-9z-m1-cache",
+   "teams": [
+    "aurora",
+    "9z"
+   ],
+   "map": "cache",
+   "date": 1792167035,
+   "rank": 9,
+   "event": "thunderpick-world-championship-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-9z-m1-cache.v2.cs2lib",
+     "size": 1890889,
+     "sha256": "551da613eace443c747214c118a560832d93491e691b12d5831b2479faf67ac8",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-9z-m1-cache.v2.cs2nades",
+     "size": 334937,
+     "sha256": "06f263c98e9c64c1a28a9425b740a4627b9a92ff7febd66090a620673c14a653",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-9z-m1-cache.v2.cs2stats",
+     "size": 868,
+     "sha256": "5334a03ff09f369e1fca48bc6ece21976d028feff2888be77e44a9e8919b8dde",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-9z-m1-cache.v2.cs2econ",
+     "size": 977,
+     "sha256": "d9de1d3d76d9011ad2babbe76d09d67dd5fe6fd84c8d549d38c25ba941e2a967",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-9z-m2-inferno",
+   "teams": [
+    "aurora",
+    "9z"
+   ],
+   "map": "inferno",
+   "date": 1792167030,
+   "rank": 9,
+   "event": "thunderpick-world-championship-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-9z-m2-inferno.v2.cs2lib",
+     "size": 1372123,
+     "sha256": "34d65dc6502fcafc969c5b424d86f81e841b111e4d66852fefd82ee95246481e",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-9z-m2-inferno.v2.cs2nades",
+     "size": 234676,
+     "sha256": "7d0d21a6eb6be25ca89313121c6a2989532f2a8673348fa074898e0fc75a2a23",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-9z-m2-inferno.v2.cs2stats",
+     "size": 701,
+     "sha256": "701e6c9ee9ece69cf326395beb080a7b8ec3c8936ba27057b4a7b748d533d806",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-9z-m2-inferno.v2.cs2econ",
+     "size": 724,
+     "sha256": "f5dfe0152a219c764fada1829265e59ae587718abce6415ebbc41fe696b43f41",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "legacy-vs-furia-m3-mirage",
    "teams": [
