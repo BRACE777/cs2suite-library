@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1793527734,
+ "updated": 1793534011,
  "ranks": {
   "spirit": 1,
   "legacy": 2,
@@ -362,6 +362,462 @@
  },
  "demos": [
   {
+   "stem": "nemiga-vs-furia-m4-mirage",
+   "teams": [
+    "nemiga",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1793461430,
+   "rank": 7,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nemiga-vs-furia-m4-mirage.v2.cs2lib",
+     "size": 1853076,
+     "sha256": "9c078ca4944fa80e46b2a8df26b7e3e3a797e81218cfb062c8d8505cbbc87fa1",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "nemiga-vs-furia-m4-mirage.v2.cs2nades",
+     "size": 327122,
+     "sha256": "c42f03f9d07a352aa930ff7aa55f1f3bcbd0b67b55ba6c38e716a9ad00ac6569",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "nemiga-vs-furia-m4-mirage.v2.cs2stats",
+     "size": 876,
+     "sha256": "4778fa17169ccb31231ec55588026c8e7661cc287d16ff7a5a261f47faf4a4a3",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "nemiga-vs-furia-m4-mirage.v2.cs2econ",
+     "size": 1000,
+     "sha256": "48cf6209f54866ee978cb53f1e6e31c7f7fc884e55f5b5d2cb12e44360d3b329",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "nemiga-vs-furia-m5-nuke",
+   "teams": [
+    "nemiga",
+    "furia"
+   ],
+   "map": "nuke",
+   "date": 1793461428,
+   "rank": 7,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nemiga-vs-furia-m5-nuke.v2.cs2lib",
+     "size": 1284780,
+     "sha256": "3b046e7f7ebd9b3e54fb2ab09687acbd1b440b2be8135bfcfdb68a262dbc41d2",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "nemiga-vs-furia-m5-nuke.v2.cs2nades",
+     "size": 220247,
+     "sha256": "e754af5dcdc25282585b146973ed28d15ae279fa06e0bba7472d53b35d1fed7b",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "nemiga-vs-furia-m5-nuke.v2.cs2stats",
+     "size": 728,
+     "sha256": "f92ff60313ba419b42c9d5bec60bb9d0d845e1f71433c25da418495026ad1f39",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "nemiga-vs-furia-m5-nuke.v2.cs2econ",
+     "size": 812,
+     "sha256": "4c27bcf00093bcdb1a0eb423da9cc8fb8d56d218c9b799d7f51efc038065405f",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "nemiga-vs-furia-m2-dust2",
+   "teams": [
+    "nemiga",
+    "furia"
+   ],
+   "map": "dust2",
+   "date": 1793461419,
+   "rank": 7,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nemiga-vs-furia-m2-dust2.v2.cs2lib",
+     "size": 1434277,
+     "sha256": "d6446a0bc5b69870a640bbba901ac82ded288b27d21b1ed17f84871addd86eb9",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "nemiga-vs-furia-m2-dust2.v2.cs2nades",
+     "size": 238441,
+     "sha256": "449a5cadac2c7006f028edaa9902702d928fe8a370c4c3b264ad71e4749465ec",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "nemiga-vs-furia-m2-dust2.v2.cs2stats",
+     "size": 728,
+     "sha256": "cc4ebec989217e93dcf71a29200b30df3571f15a3d2780202cee7202d549e4c0",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "nemiga-vs-furia-m2-dust2.v2.cs2econ",
+     "size": 775,
+     "sha256": "2682bc4c212307195df236b9c0af80f72bc9b7eeeb24c076b0146b85f4671315",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "nemiga-vs-furia-m3-cache",
+   "teams": [
+    "nemiga",
+    "furia"
+   ],
+   "map": "cache",
+   "date": 1793461419,
+   "rank": 7,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nemiga-vs-furia-m3-cache.v2.cs2lib",
+     "size": 949976,
+     "sha256": "7775ac750b5aeb6e57efa9392f7028f00aca5e2611ccbda75bdde43794d110be",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "nemiga-vs-furia-m3-cache.v2.cs2nades",
+     "size": 168857,
+     "sha256": "03a0408a0efcd24bf3101739d510374dc9bc78b12126ef1224c52743b4da50c9",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "nemiga-vs-furia-m3-cache.v2.cs2stats",
+     "size": 654,
+     "sha256": "a0036e3f1d7e7b24e21de30493ae8589849fa7c829c8dd73f94ea255407bb1a3",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "nemiga-vs-furia-m3-cache.v2.cs2econ",
+     "size": 689,
+     "sha256": "b362a882a0ff6d80af8e3056d2073bb5c3a0158a68a77df978dbc0172ebdd025",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "nemiga-vs-furia-m1-ancient",
+   "teams": [
+    "nemiga",
+    "furia"
+   ],
+   "map": "ancient",
+   "date": 1793461415,
+   "rank": 7,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nemiga-vs-furia-m1-ancient.v2.cs2lib",
+     "size": 1164614,
+     "sha256": "fc100ee4be3d904f1d0772ce71b95d72ef8e22d1dde642c4c56dc33c1ad890eb",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "nemiga-vs-furia-m1-ancient.v2.cs2nades",
+     "size": 201477,
+     "sha256": "fb1577c530c3012ffc38daa2f25b3e68107ac925a7d6b42d4b1cfcdd535533c0",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "nemiga-vs-furia-m1-ancient.v2.cs2stats",
+     "size": 665,
+     "sha256": "d66d8b2645fc898d02cc6a2b510c6230a9e3cf0509fd5f7dd82b3173d098dd3b",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "nemiga-vs-furia-m1-ancient.v2.cs2econ",
+     "size": 695,
+     "sha256": "164450f6c547334eadd137794af640bb442f564ce411b2331e41bca82c73eb77",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-mouz-m2-inferno__pgl-masters-bucharest-2026",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "inferno",
+   "date": 1793440152,
+   "rank": 3,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m2-inferno__pgl-masters-bucharest-2026.v2.cs2lib",
+     "size": 1503367,
+     "sha256": "d0d242d5d3471c9a2e1c00f0b0dde95063d2a40074cfe1cfcd78a5268f213847",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m2-inferno__pgl-masters-bucharest-2026.v2.cs2nades",
+     "size": 256936,
+     "sha256": "1691a29742e3fd1f7959a051dc3ff613f63f43873cab8702fb6fecc961007a58",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m2-inferno__pgl-masters-bucharest-2026.v2.cs2stats",
+     "size": 828,
+     "sha256": "0fe9496ef7eb8e6e1f69eac7a5ba6af7f5e80f1b0ac7cf118eeea47d2221f368",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m2-inferno__pgl-masters-bucharest-2026.v2.cs2econ",
+     "size": 879,
+     "sha256": "a89975196da0a30946b1487c464b1af5f3cac64227b9249538ce7794898666a4",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-mouz-m1-nuke",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "nuke",
+   "date": 1793438118,
+   "rank": 3,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m1-nuke.v2.cs2lib",
+     "size": 1369388,
+     "sha256": "75bb7c2c0de18faa2ed2dd6f397902beffb2baad7062a586d338c9101274b451",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m1-nuke.v2.cs2nades",
+     "size": 231159,
+     "sha256": "ba3c4454283c84089e649c2a3a208a96b0884f6a55adcc9209468b52e9f81bd3",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m1-nuke.v2.cs2stats",
+     "size": 761,
+     "sha256": "69a5f923a674bce114f28c9f5cda0fcca2667bfa17512534464b0983be2d3363",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m1-nuke.v2.cs2econ",
+     "size": 846,
+     "sha256": "36669fa860025b9de262fab1476039ac8503a27c9b98776783b108c807c21ce3",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-furia-m3-cache",
+   "teams": [
+    "mouz",
+    "furia"
+   ],
+   "map": "cache",
+   "date": 1793382795,
+   "rank": 4,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-furia-m3-cache.v2.cs2lib",
+     "size": 1553815,
+     "sha256": "b82e8b54755ac70df51c2143a6faf9fb473ca1a11412884dc44291d21cffc9a0",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-furia-m3-cache.v2.cs2nades",
+     "size": 279375,
+     "sha256": "5988c6c8935f4faee4f665735b0a85fc8c07e2b0f5f2a461b550e86b90aefba8",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-furia-m3-cache.v2.cs2stats",
+     "size": 848,
+     "sha256": "6c01ab9f1c8818c2056f269265a5c55078f25dfb1b52b1e1ceabb012df34396f",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-furia-m3-cache.v2.cs2econ",
+     "size": 910,
+     "sha256": "5150f52a4ca543b5a1c7a5a6302796ae02d6a0d53ca78e2f5cd16ab3f167f3ac",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-furia-m2-mirage__pgl-masters-bucharest-2026",
+   "teams": [
+    "mouz",
+    "furia"
+   ],
+   "map": "mirage",
+   "date": 1793382288,
+   "rank": 4,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-furia-m2-mirage__pgl-masters-bucharest-2026.v2.cs2lib",
+     "size": 1557008,
+     "sha256": "26e0562ac74bf91438b3ef314b34e27e392eb171d5aefa27e8a0400d4e3ac7e7",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-furia-m2-mirage__pgl-masters-bucharest-2026.v2.cs2nades",
+     "size": 277664,
+     "sha256": "09254ccbdd4baef550f7639168507d340a563ff23ef5a38453cb39f58403c4b2",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-furia-m2-mirage__pgl-masters-bucharest-2026.v2.cs2stats",
+     "size": 852,
+     "sha256": "d680ba0c90f74e5e0c176aa186805b3bfbfe961a8d26fcc32c98ab4628d93eb8",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-furia-m2-mirage__pgl-masters-bucharest-2026.v2.cs2econ",
+     "size": 941,
+     "sha256": "82f26c644e38bb42ba44cfa8f957b283cb7f84c36c8608f64288d807d5b59ad6",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-furia-m1-dust2",
+   "teams": [
+    "mouz",
+    "furia"
+   ],
+   "map": "dust2",
+   "date": 1793375830,
+   "rank": 4,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-furia-m1-dust2.v2.cs2lib",
+     "size": 1466778,
+     "sha256": "03e0210ce5a692cd170667996390c4638ff924d9df5b48a7ee1a4d2ba47e412b",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-furia-m1-dust2.v2.cs2nades",
+     "size": 249674,
+     "sha256": "1bc9c001b26c4503f87ba06c5fb9ea705bc3a5b4cec5eef2a41604e571ada7d8",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-furia-m1-dust2.v2.cs2stats",
+     "size": 763,
+     "sha256": "bc4e1cf93b5a310524db3b6bf11259f50d3fea71db1dacdfac4d1a4c231df3de",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-furia-m1-dust2.v2.cs2econ",
+     "size": 833,
+     "sha256": "f163f84bf7d65c23e4a54ce9411a57c16f594ac93b72b27ca8d4d451f81c223b",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "nemiga-vs-vitality-m2-dust2",
+   "teams": [
+    "nemiga",
+    "vitality"
+   ],
+   "map": "dust2",
+   "date": 1793368834,
+   "rank": 3,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nemiga-vs-vitality-m2-dust2.v2.cs2lib",
+     "size": 1904565,
+     "sha256": "95942536e42e40cde8ffaa253da7fd61039db1823cff6629332910d50d7557ba",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "nemiga-vs-vitality-m2-dust2.v2.cs2nades",
+     "size": 320077,
+     "sha256": "1e0cca66cbd8469bf219d80ffb2fd61608c72aa0c69b357146d3f5def73c2503",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "nemiga-vs-vitality-m2-dust2.v2.cs2stats",
+     "size": 894,
+     "sha256": "28f894d1511aa25a71ae40a0f84e74ca9b9b2dabfd2a1535c9d8514db9fbb118",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "nemiga-vs-vitality-m2-dust2.v2.cs2econ",
+     "size": 969,
+     "sha256": "b893ff26b600d72644f4913fb97db6f92aeb15838172cfdc29c0bbdd7a4f775e",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "nemiga-vs-vitality-m1-cache",
+   "teams": [
+    "nemiga",
+    "vitality"
+   ],
+   "map": "cache",
+   "date": 1793368828,
+   "rank": 3,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "nemiga-vs-vitality-m1-cache.v2.cs2lib",
+     "size": 1479141,
+     "sha256": "dd16d71a6103dc33b25630cc2f650dcf54821f0f98c33c3793adde0ed673f977",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "nemiga-vs-vitality-m1-cache.v2.cs2nades",
+     "size": 256776,
+     "sha256": "0a72e238ac9099e9d68c1138db72b41b36963e1813326bf0fea977f524c4ef2c",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "nemiga-vs-vitality-m1-cache.v2.cs2stats",
+     "size": 812,
+     "sha256": "32d55e6f1b29491308cc2fc93b3a41306ca006d6d6bcaa5d8725069bee22dc65",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "nemiga-vs-vitality-m1-cache.v2.cs2econ",
+     "size": 860,
+     "sha256": "fe550034f2d65849e4f7d4f572c592380332139b6b9ed2458ea503fe1e9159e9",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "betboom-vs-furia-m2-cache",
    "teams": [
     "betboom",
@@ -623,6 +1079,82 @@
      "name": "vitality-vs-natus-vincere-m1-cache.v2.cs2econ",
      "size": 816,
      "sha256": "ef716a03853c2b16807ffaa7ca3bd04de65052cceb70ff0f6de12471a99ada8c",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "fut-vs-nemiga-m2-dust2",
+   "teams": [
+    "fut",
+    "nemiga"
+   ],
+   "map": "dust2",
+   "date": 1793268306,
+   "rank": 8,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "fut-vs-nemiga-m2-dust2.v2.cs2lib",
+     "size": 1854735,
+     "sha256": "852f6dd53ee268522612fa6d1294ed6ce6c310c4591e1b8f8b4984ac45b6b89c",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "fut-vs-nemiga-m2-dust2.v2.cs2nades",
+     "size": 310907,
+     "sha256": "786108b75f0c8dd10b899663d9f4d91f000209693d32c6efb8fa2d2bec4eaa76",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "fut-vs-nemiga-m2-dust2.v2.cs2stats",
+     "size": 819,
+     "sha256": "82d895b437f18775b45ea3cfb9e0757b6a8cf9671d14be5de40fdae1cd251214",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "fut-vs-nemiga-m2-dust2.v2.cs2econ",
+     "size": 875,
+     "sha256": "9c2593ab18462673049479280b1c761bc2c7fe99e06285240554962cf59332c3",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "fut-vs-nemiga-m1-nuke",
+   "teams": [
+    "fut",
+    "nemiga"
+   ],
+   "map": "nuke",
+   "date": 1793264766,
+   "rank": 8,
+   "event": "pgl-masters-bucharest-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "fut-vs-nemiga-m1-nuke.v2.cs2lib",
+     "size": 1718557,
+     "sha256": "a565b6b1cb2b4b4946b9174916bfc4c018e53698c55ed5d7c8320cd3ddf50f6b",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "fut-vs-nemiga-m1-nuke.v2.cs2nades",
+     "size": 296666,
+     "sha256": "fc5c5b75eb12b22a48c69428543f2e1452df78029bda2954bf1db0829d2a1251",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "fut-vs-nemiga-m1-nuke.v2.cs2stats",
+     "size": 873,
+     "sha256": "eee51217f6a7ddc9322575da8cd2c79b1c3f5a709172c17feaeeb7137cfcf08b",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "fut-vs-nemiga-m1-nuke.v2.cs2econ",
+     "size": 988,
+     "sha256": "0a31fccd2382a657455b22fad8f914113d610e355b89bfbff08845d99c91d793",
      "rel": "library-3"
     }
    }
