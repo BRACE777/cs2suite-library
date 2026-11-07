@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1793796353,
+ "updated": 1794016572,
  "ranks": {
   "mouz": 1,
   "vitality": 2,
@@ -359,6 +359,310 @@
  },
  "demos": [
   {
+   "stem": "natus-vincere-vs-falcons-m3-mirage",
+   "teams": [
+    "natus-vincere",
+    "falcons"
+   ],
+   "map": "mirage",
+   "date": 1793797384,
+   "rank": 7,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-falcons-m3-mirage.v2.cs2lib",
+     "size": 1295970,
+     "sha256": "74db03044495c268ca76a831945b00a91764b8ac6e117898b31de34fa6fac6a9",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-falcons-m3-mirage.v2.cs2nades",
+     "size": 219803,
+     "sha256": "152d66fa094f68c476aa742e8da07ffb790eeddac26c15fc6361a2eb9cdbd0f4",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-falcons-m3-mirage.v2.cs2stats",
+     "size": 684,
+     "sha256": "c47430795c3d790c3c4b3ea4b27f5566eaba7559656871332f07b8ba3523415d",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-falcons-m3-mirage.v2.cs2econ",
+     "size": 743,
+     "sha256": "e048e1bd953fe0ea322380924a4a9dda7d2e5ea4d793027bb1659342f978e20a",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-furia-m3-dust2",
+   "teams": [
+    "the-mongolz",
+    "furia"
+   ],
+   "map": "dust2",
+   "date": 1793796115,
+   "rank": 3,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-furia-m3-dust2.v2.cs2lib",
+     "size": 2162594,
+     "sha256": "abc58807a76ea48cd140abedfdd22dc156c0f9e9dd2c7cd461664df9ee177895",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-furia-m3-dust2.v2.cs2nades",
+     "size": 359142,
+     "sha256": "bdfcd690a21e2e7069026bd1abd58f3be00b5ded469b2c7e0b221e0febf2eb0e",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-furia-m3-dust2.v2.cs2stats",
+     "size": 904,
+     "sha256": "fa6c701716ef3397c84d88703bfc06aebe25d6dafe9cf62818125dbdbf31f6d5",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-furia-m3-dust2.v2.cs2econ",
+     "size": 955,
+     "sha256": "69ee54a49079303693afd844c88ff0927fa4f331452a42f0cfd291a9d32684d5",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "natus-vincere-vs-falcons-m2-inferno",
+   "teams": [
+    "natus-vincere",
+    "falcons"
+   ],
+   "map": "inferno",
+   "date": 1793794182,
+   "rank": 7,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-falcons-m2-inferno.v2.cs2lib",
+     "size": 1370768,
+     "sha256": "1704f4353345e9d19ba2b8c9f6fe39a5e73a50f6c90e33190664b2383e3dded9",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-falcons-m2-inferno.v2.cs2nades",
+     "size": 235896,
+     "sha256": "62b95a1b8dedd625b3c5217799434ac7dc4260fccfa2b2cd71040793bfbeb344",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-falcons-m2-inferno.v2.cs2stats",
+     "size": 734,
+     "sha256": "981b33988a9a3eddf9dbcf0c328f58d8c2ca2044f574c326643ac2154a72bde6",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-falcons-m2-inferno.v2.cs2econ",
+     "size": 770,
+     "sha256": "29e6de283f20e4b1f87f54c2f18bb84ae82a1b8abde816a7140e86a357640d40",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-furia-m2-cache",
+   "teams": [
+    "the-mongolz",
+    "furia"
+   ],
+   "map": "cache",
+   "date": 1793791755,
+   "rank": 3,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-furia-m2-cache.v2.cs2lib",
+     "size": 1530901,
+     "sha256": "467fd2d1e265e954cd165e12d11fd687d4315a42f818d84c16fb81cb43927b27",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-furia-m2-cache.v2.cs2nades",
+     "size": 269184,
+     "sha256": "d16e034e5147764079f8886bbb156944c07c3ad14fe14682c08767d844bc014f",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-furia-m2-cache.v2.cs2stats",
+     "size": 836,
+     "sha256": "365220f6ff7c7a43280443b3039e010a24855737abb0d05de0226a1c9aef0a5c",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-furia-m2-cache.v2.cs2econ",
+     "size": 876,
+     "sha256": "7daeee7dc2fc2e4051f529b1f4dbbeee66f8fa10d19b68f3a4f9640d0714c8dc",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "natus-vincere-vs-falcons-m1-ancient__iem-beijing-2026-nov04",
+   "teams": [
+    "natus-vincere",
+    "falcons"
+   ],
+   "map": "ancient",
+   "date": 1793790866,
+   "rank": 7,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "natus-vincere-vs-falcons-m1-ancient__iem-beijing-2026-nov04.v2.cs2lib",
+     "size": 1975864,
+     "sha256": "89c72a98bf94e813ac28a2f55ca3cc12b69052e189c6efa405313f4ce57b6fdf",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "natus-vincere-vs-falcons-m1-ancient__iem-beijing-2026-nov04.v2.cs2nades",
+     "size": 340779,
+     "sha256": "e1c7d63a1a0ecb6f355ab475750ba1d4989fffbc97469b65e54583af11d6ce08",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "natus-vincere-vs-falcons-m1-ancient__iem-beijing-2026-nov04.v2.cs2stats",
+     "size": 928,
+     "sha256": "35d1675bebab9688a0d00f779bfe195d4073eb63b3ec8f8d09744f82735d9f74",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "natus-vincere-vs-falcons-m1-ancient__iem-beijing-2026-nov04.v2.cs2econ",
+     "size": 989,
+     "sha256": "144d9b0a14117be6228bf77a4d4935554f3824ec30e1eed89bec4c0283462c1d",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-furia-m1-inferno",
+   "teams": [
+    "the-mongolz",
+    "furia"
+   ],
+   "map": "inferno",
+   "date": 1793788062,
+   "rank": 3,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-furia-m1-inferno.v2.cs2lib",
+     "size": 1856561,
+     "sha256": "726080cdc79c189ebcbf87627d8aaf06bb83a3f4332d6108d86f3b93947e724f",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-furia-m1-inferno.v2.cs2nades",
+     "size": 316134,
+     "sha256": "b0c9384cb350ef37b5b6d4247d3fbca8357c4b0e320aad6685cc03b675157a98",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-furia-m1-inferno.v2.cs2stats",
+     "size": 893,
+     "sha256": "018af52fd247ee2267927ae192e606ba67ca003d02d6364a07fa58d449c567f4",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-furia-m1-inferno.v2.cs2econ",
+     "size": 934,
+     "sha256": "967e9833e503174a3163597155b5fe6688f36be7af150e78f045f3ad8d532ad4",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-mouz-m2-mirage",
+   "teams": [
+    "parivision",
+    "mouz"
+   ],
+   "map": "mirage",
+   "date": 1793781904,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-mouz-m2-mirage.v2.cs2lib",
+     "size": 1786273,
+     "sha256": "a77bb1e26a121907f7183e75f7d29c7ef93e17c7417dc70306ee2ab5e14fcaf3",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "parivision-vs-mouz-m2-mirage.v2.cs2nades",
+     "size": 308978,
+     "sha256": "8b30ad18284d5d417250c4fc847ef64051367e1bda96dcd9444621e93bd1d254",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "parivision-vs-mouz-m2-mirage.v2.cs2stats",
+     "size": 836,
+     "sha256": "f9c043c672140d053feaeacb4b444ff49fdf70d76a3376e80793432d448627d2",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "parivision-vs-mouz-m2-mirage.v2.cs2econ",
+     "size": 900,
+     "sha256": "12ab641177418bb41d730a8c8c088653a1d5f33ffb105c820f616ec37cd172c7",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-mouz-m1-ancient",
+   "teams": [
+    "parivision",
+    "mouz"
+   ],
+   "map": "ancient",
+   "date": 1793777838,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-mouz-m1-ancient.v2.cs2lib",
+     "size": 1176965,
+     "sha256": "64ba63d738a88e076d3d16f448d2fbd54c3abd0c8ea08d76cbe320397b61ce90",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "parivision-vs-mouz-m1-ancient.v2.cs2nades",
+     "size": 202687,
+     "sha256": "2ddeca333046d4374e391e059d127e0dcf3172d75719a10ce505bf057e8bc50a",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "parivision-vs-mouz-m1-ancient.v2.cs2stats",
+     "size": 665,
+     "sha256": "72bf3d3327b9439478a3a1d62bb0cfab50082f6ba9cfce28c66a5eea7c7fe132",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "parivision-vs-mouz-m1-ancient.v2.cs2econ",
+     "size": 686,
+     "sha256": "376ac18e66077249df40191a9c26e56e68d58e297d97c7bfd1b21981c0b936f3",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "natus-vincere-vs-b8-m2-dust2",
    "teams": [
     "natus-vincere",
@@ -549,6 +853,44 @@
    }
   },
   {
+   "stem": "furia-vs-natus-vincere-m3-cache",
+   "teams": [
+    "furia",
+    "natus-vincere"
+   ],
+   "map": "cache",
+   "date": 1793713133,
+   "rank": 3,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-natus-vincere-m3-cache.v2.cs2lib",
+     "size": 1604134,
+     "sha256": "e41ab3f4f568e3a59c5ee4d524478ed7b12fca3beedcd247e334e1a05d9b995b",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "furia-vs-natus-vincere-m3-cache.v2.cs2nades",
+     "size": 284252,
+     "sha256": "26cef0e85e2bd999d4e8f945e53eba8af3228cf55dbccba16732b85420f851ae",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "furia-vs-natus-vincere-m3-cache.v2.cs2stats",
+     "size": 874,
+     "sha256": "0bdba19326e30504a6bbb6f5dece58862bcd474028031a88d74efba5d29d70a7",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "furia-vs-natus-vincere-m3-cache.v2.cs2econ",
+     "size": 963,
+     "sha256": "012b00075fb2bd7afeb7cd6f744f04795f47ce170e7372b9f5dd0c3768382bfc",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "legacy-vs-b8-m2-cache",
    "teams": [
     "legacy",
@@ -582,6 +924,44 @@
      "name": "legacy-vs-b8-m2-cache.v2.cs2econ",
      "size": 790,
      "sha256": "59d4095cc669a5e0c8b7fb1cf146fb8b7056c8f775fb938e416b7a5434f5deff",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-natus-vincere-m2-nuke",
+   "teams": [
+    "furia",
+    "natus-vincere"
+   ],
+   "map": "nuke",
+   "date": 1793709374,
+   "rank": 3,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-natus-vincere-m2-nuke.v2.cs2lib",
+     "size": 2184883,
+     "sha256": "9c5b065bc79ce8a2bdafa443522af66ea9c785c3bd717c1bf5bcaaa8b1f46f08",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "furia-vs-natus-vincere-m2-nuke.v2.cs2nades",
+     "size": 382759,
+     "sha256": "4fb9c1d16a29b7a7d101dddc72fe131e3d500e3bf11dffe8c49eda7f0926380c",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "furia-vs-natus-vincere-m2-nuke.v2.cs2stats",
+     "size": 995,
+     "sha256": "aafc21214271570a2271efa76b3b3061c81f0b767bb05efce6e9d5228188814a",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "furia-vs-natus-vincere-m2-nuke.v2.cs2econ",
+     "size": 1145,
+     "sha256": "be676a0834f0ad621f8b4056f2efe592fd405e4c7966d5d85b3c9442b418ee1d",
      "rel": "library-3"
     }
    }
@@ -625,6 +1005,44 @@
    }
   },
   {
+   "stem": "furia-vs-natus-vincere-m1-ancient__iem-beijing-2026",
+   "teams": [
+    "furia",
+    "natus-vincere"
+   ],
+   "map": "ancient",
+   "date": 1793704616,
+   "rank": 3,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-natus-vincere-m1-ancient__iem-beijing-2026.v2.cs2lib",
+     "size": 2168704,
+     "sha256": "239fcfa4389de0593dfe3c5a9ab13f6d002cc983d27794f3c4a35027ae9a1a74",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "furia-vs-natus-vincere-m1-ancient__iem-beijing-2026.v2.cs2nades",
+     "size": 385614,
+     "sha256": "d59e4d79810e691c1f40d23051cb9f97662e6dad2024f2d7e16d8aa56039b5c8",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "furia-vs-natus-vincere-m1-ancient__iem-beijing-2026.v2.cs2stats",
+     "size": 1017,
+     "sha256": "f8eee0e4a05865b24f9b6d5b0b38c07d4afec423590e1e3a355f4556ac9ccdeb",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "furia-vs-natus-vincere-m1-ancient__iem-beijing-2026.v2.cs2econ",
+     "size": 1141,
+     "sha256": "aa5a9ead691dd3c117156d3b1f8edb84ebb3e9774eaf9938bda94191846a433d",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "the-mongolz-vs-heroic-m2-nuke",
    "teams": [
     "the-mongolz",
@@ -663,6 +1081,44 @@
    }
   },
   {
+   "stem": "faze-vs-falcons-m3-mirage",
+   "teams": [
+    "faze",
+    "falcons"
+   ],
+   "map": "mirage",
+   "date": 1793699591,
+   "rank": 7,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-falcons-m3-mirage.v2.cs2lib",
+     "size": 1808282,
+     "sha256": "d7c04aea544ec829f979f6ff2470ce3774e147f0dc0470775f1cfbe38742820e",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "faze-vs-falcons-m3-mirage.v2.cs2nades",
+     "size": 314445,
+     "sha256": "a0cb1d4fe7b429f0d858f8b5b2f4ca5b6d3df927c86d23b62a45badf1ad7574a",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "faze-vs-falcons-m3-mirage.v2.cs2stats",
+     "size": 791,
+     "sha256": "a784efb8d407c674185e3f6cedf574a6c1fc7b42d0bbfdd728b11f13d7ce40bc",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "faze-vs-falcons-m3-mirage.v2.cs2econ",
+     "size": 846,
+     "sha256": "297fee1d7cb56a114d7ce5f4d287fda8f1282eeaf1dd6493d3da2d5b778fa25e",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "the-mongolz-vs-heroic-m1-inferno",
    "teams": [
     "the-mongolz",
@@ -696,6 +1152,310 @@
      "name": "the-mongolz-vs-heroic-m1-inferno.v2.cs2econ",
      "size": 870,
      "sha256": "8a03ba60ab9e35b2047c89ea386a63aee9739074e2b6525568fc05b181f9ad0e",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "faze-vs-falcons-m2-anubis",
+   "teams": [
+    "faze",
+    "falcons"
+   ],
+   "map": "anubis",
+   "date": 1793695573,
+   "rank": 7,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-falcons-m2-anubis.v2.cs2lib",
+     "size": 1928269,
+     "sha256": "d38afd29f6a579480a631f90ab5843cd728f355d5a072fdbd2948d695f80e7b9",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "faze-vs-falcons-m2-anubis.v2.cs2nades",
+     "size": 332904,
+     "sha256": "7bf07923d66c1606ef7f18e31dd8aa28e9eb5494fd4e8472069e2d9c901f7e8a",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "faze-vs-falcons-m2-anubis.v2.cs2stats",
+     "size": 861,
+     "sha256": "fd804fbe72abd3c850d5c454cc028ce2bdb3f0fd8bf0a1b46885def93d3af4e5",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "faze-vs-falcons-m2-anubis.v2.cs2econ",
+     "size": 951,
+     "sha256": "0d7fa05c8ab9dcb7337d3a86b2ca00b96b4bcc488436df46bd0d1c78950776bd",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-betboom-m2-mirage",
+   "teams": [
+    "mouz",
+    "betboom"
+   ],
+   "map": "mirage",
+   "date": 1793692303,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-betboom-m2-mirage.v2.cs2lib",
+     "size": 2035277,
+     "sha256": "36de229177d15468ee50e62f3f2d313da7c1d927d65480d7ea4ec770c576364a",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-betboom-m2-mirage.v2.cs2nades",
+     "size": 355943,
+     "sha256": "eb9eee064e44e6071a5d9ee4bbb00aaa6dbf15d15e1e077dc3da41c7408f5007",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-betboom-m2-mirage.v2.cs2stats",
+     "size": 1036,
+     "sha256": "0ddb57fd0fb22418ec00d7b9ba00217de260c5571f1fc984f6aef19554185385",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-betboom-m2-mirage.v2.cs2econ",
+     "size": 1202,
+     "sha256": "7b5242b513386112183f0ce407ff4f926b6769d86ae8fa75cf640f604af368bb",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "faze-vs-falcons-m1-ancient",
+   "teams": [
+    "faze",
+    "falcons"
+   ],
+   "map": "ancient",
+   "date": 1793691399,
+   "rank": 7,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "faze-vs-falcons-m1-ancient.v2.cs2lib",
+     "size": 1226398,
+     "sha256": "ca60c6ec5b32e841a2de375f8eba155b8bc6a30d1d0b3d5a5625d89cbabbfb7f",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "faze-vs-falcons-m1-ancient.v2.cs2nades",
+     "size": 214647,
+     "sha256": "44618d129d3979a5fd27034ee60f445ac95cfb52b9959ecad9c41a7869560eb4",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "faze-vs-falcons-m1-ancient.v2.cs2stats",
+     "size": 687,
+     "sha256": "02d78cf4cea65aec9fd4ee561ddce29189ef8a37989d0b4a9d4bb6dd473d462a",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "faze-vs-falcons-m1-ancient.v2.cs2econ",
+     "size": 711,
+     "sha256": "423d74a6e0a05f233bf8bb4d714d50448b309e76f55bf1a9e8242659fc088009",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-betboom-m1-ancient",
+   "teams": [
+    "mouz",
+    "betboom"
+   ],
+   "map": "ancient",
+   "date": 1793687850,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-betboom-m1-ancient.v2.cs2lib",
+     "size": 1383711,
+     "sha256": "92343221055e734ae165c076f2c5edbbaf3f3e1d2c97ef4782d56e2d946121b4",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-betboom-m1-ancient.v2.cs2nades",
+     "size": 246865,
+     "sha256": "f2076e6b4c55587ea175c51426bcc04865576685d89f00a90625ef2bbc41e8a4",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-betboom-m1-ancient.v2.cs2stats",
+     "size": 759,
+     "sha256": "1b41c7abffb45d705ec0298ba49b1bb7a0f4ee72601405336a8cf07a009ee262",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-betboom-m1-ancient.v2.cs2econ",
+     "size": 822,
+     "sha256": "4665171fb3eb03cb2b3e1af5b1345df356a2ec880de4ea4b7e170a1d1ebcac72",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "tyloo-vs-9z-m2-cache",
+   "teams": [
+    "tyloo",
+    "9z"
+   ],
+   "map": "cache",
+   "date": 1793687293,
+   "rank": 24,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "tyloo-vs-9z-m2-cache.v2.cs2lib",
+     "size": 1981688,
+     "sha256": "50459f51aeed703485792a80e369da125eb1408498a587c4ecf2701876c75dab",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "tyloo-vs-9z-m2-cache.v2.cs2nades",
+     "size": 362758,
+     "sha256": "38abeb2cc1a887459fead6dfd2a74794828e5cb6804d775301213e7a803a596f",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "tyloo-vs-9z-m2-cache.v2.cs2stats",
+     "size": 990,
+     "sha256": "fcfb3679291e61d96a60eb4f11c875cb949d8ebc29e7577328c9dc96babd4874",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "tyloo-vs-9z-m2-cache.v2.cs2econ",
+     "size": 1139,
+     "sha256": "85ffa1a1fda27283726a1bf5d692189c60701a33bdd91a525904d2ac7718bfd2",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "tyloo-vs-9z-m1-inferno",
+   "teams": [
+    "tyloo",
+    "9z"
+   ],
+   "map": "inferno",
+   "date": 1793682780,
+   "rank": 24,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "tyloo-vs-9z-m1-inferno.v2.cs2lib",
+     "size": 1343299,
+     "sha256": "c30780ffb7e20db8879241a9f9446f7a169c7c908f1478c7654b3a834aad21f5",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "tyloo-vs-9z-m1-inferno.v2.cs2nades",
+     "size": 232019,
+     "sha256": "ad8f5ffe5f91634da91816cb3a5932c1254724dcafeaf13c4e29a43a366104f8",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "tyloo-vs-9z-m1-inferno.v2.cs2stats",
+     "size": 731,
+     "sha256": "482ae6138ccf6d04be025f51a4c191d71e09e6e9bafad9fb833e677168694fdc",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "tyloo-vs-9z-m1-inferno.v2.cs2econ",
+     "size": 795,
+     "sha256": "f41728becce27a75e4a9e5e5c087ee0da17d1c5858cd0567cd5118c00fa4b187",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "liquid-vs-parivision-m2-inferno",
+   "teams": [
+    "liquid",
+    "parivision"
+   ],
+   "map": "inferno",
+   "date": 1793678439,
+   "rank": 16,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "liquid-vs-parivision-m2-inferno.v2.cs2lib",
+     "size": 1804274,
+     "sha256": "dff7756cbc3a8a4eb6b3351429a62b290f4fa6b79e40891276d63d12200d23d2",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "liquid-vs-parivision-m2-inferno.v2.cs2nades",
+     "size": 307242,
+     "sha256": "316e7c1831d538b1bb89cc49999c6db6c28cc2e881fe961979759170da0140ac",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "liquid-vs-parivision-m2-inferno.v2.cs2stats",
+     "size": 855,
+     "sha256": "6bb693e0636f9f01a7ac85547bf2e923bb2609f167589382046694147b84060b",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "liquid-vs-parivision-m2-inferno.v2.cs2econ",
+     "size": 915,
+     "sha256": "dabba6a778ecd2d1ae31ed2e2d7eb183974ce62af732a2c174d740c2e241cb92",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "liquid-vs-parivision-m1-ancient",
+   "teams": [
+    "liquid",
+    "parivision"
+   ],
+   "map": "ancient",
+   "date": 1793674307,
+   "rank": 16,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "liquid-vs-parivision-m1-ancient.v2.cs2lib",
+     "size": 1774967,
+     "sha256": "420b8f48a63ad45e8ed86132bc911165dec819ca4ddacc9399e6335d742a5a86",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "liquid-vs-parivision-m1-ancient.v2.cs2nades",
+     "size": 305824,
+     "sha256": "4669d7f75170ef68b80da8c169cda25b8679c602cec08e08c783688b2a861688",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "liquid-vs-parivision-m1-ancient.v2.cs2stats",
+     "size": 802,
+     "sha256": "701de04153b3138d5302abe84cb37e0cf74dc07ffc5d6f736128040931a73eab",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "liquid-vs-parivision-m1-ancient.v2.cs2econ",
+     "size": 868,
+     "sha256": "1413c9289c28c7fc71f36c98aeeda99e080df76a6cbde0013f52ec9281471a76",
      "rel": "library-3"
     }
    }
@@ -777,6 +1537,44 @@
    }
   },
   {
+   "stem": "mouz-vs-tyloo-m2-nuke",
+   "teams": [
+    "mouz",
+    "tyloo"
+   ],
+   "map": "nuke",
+   "date": 1793620746,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-tyloo-m2-nuke.v2.cs2lib",
+     "size": 1365650,
+     "sha256": "e3267d075b43d12c862d6a0fdc985b63d54d147bb170105dd66aa1970bf99399",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-tyloo-m2-nuke.v2.cs2nades",
+     "size": 235663,
+     "sha256": "075a5955bc9ecf823f419411c8c04a935de01c6b3881725deb801701963a3683",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-tyloo-m2-nuke.v2.cs2stats",
+     "size": 766,
+     "sha256": "fa08bef90ce2f6c59b9bc03500f92f00d5e08842aa5737e364fd246b59b08d10",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-tyloo-m2-nuke.v2.cs2econ",
+     "size": 855,
+     "sha256": "88e06a668ac6e3b4e8d82dd47df929e225112429e14c254c626b7d7f1d034d47",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "furia-vs-faze-m3-cache",
    "teams": [
     "furia",
@@ -810,6 +1608,44 @@
      "name": "furia-vs-faze-m3-cache.v2.cs2econ",
      "size": 743,
      "sha256": "8706829e031f06d3f3bc498b1b5d3627bcdedc6e8ee5c63bcbf8ceccf9ee2cc9",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-tyloo-m1-inferno",
+   "teams": [
+    "mouz",
+    "tyloo"
+   ],
+   "map": "inferno",
+   "date": 1793617161,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-tyloo-m1-inferno.v2.cs2lib",
+     "size": 1421871,
+     "sha256": "32c9916392ea680fcfdfd5535d04931d10ced1f46e144fd454fb0182db440333",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-tyloo-m1-inferno.v2.cs2nades",
+     "size": 253063,
+     "sha256": "13514b2d323d61bb3b801d2425c5c95c8de96085a6dec99375561772d97eee30",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-tyloo-m1-inferno.v2.cs2stats",
+     "size": 759,
+     "sha256": "fdcab4487c7f155dc1f0f36a4209d3eb28a82ca66df44826876730dfa50f26d4",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-tyloo-m1-inferno.v2.cs2econ",
+     "size": 830,
+     "sha256": "a6529c72506b77f540c5a1daed23df0a7a662915f927cd72edebbd3eef816e72",
      "rel": "library-3"
     }
    }
@@ -853,6 +1689,44 @@
    }
   },
   {
+   "stem": "9z-vs-betboom-m3-mirage",
+   "teams": [
+    "9z",
+    "betboom"
+   ],
+   "map": "mirage",
+   "date": 1793613401,
+   "rank": 6,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-betboom-m3-mirage.v2.cs2lib",
+     "size": 1554237,
+     "sha256": "485cb021765ddf865825a6e5aa98a633ac4bac23e925b8d95ac0d6ed2f492b08",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "9z-vs-betboom-m3-mirage.v2.cs2nades",
+     "size": 272200,
+     "sha256": "64fbf9ecbbe4ad2819aeed949e4545a28e142693029114f9df54f0f6dfbe3887",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "9z-vs-betboom-m3-mirage.v2.cs2stats",
+     "size": 828,
+     "sha256": "3134fb4a42a7a44dab06ef360b9c56cdd2259784aa594ba6ce6a771c61fb0014",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "9z-vs-betboom-m3-mirage.v2.cs2econ",
+     "size": 930,
+     "sha256": "5bd074e3f1da2920a61a57a49af24264110515e5a839a8c2b9cd6c6c959c2b97",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "furia-vs-faze-m1-ancient",
    "teams": [
     "furia",
@@ -891,6 +1765,234 @@
    }
   },
   {
+   "stem": "9z-vs-betboom-m2-ancient",
+   "teams": [
+    "9z",
+    "betboom"
+   ],
+   "map": "ancient",
+   "date": 1793609784,
+   "rank": 6,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-betboom-m2-ancient.v2.cs2lib",
+     "size": 1400213,
+     "sha256": "20c039f37ef7febeed6a5eccb3d49eaf38eb134337b3ff3e865b6bb2c29c964b",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "9z-vs-betboom-m2-ancient.v2.cs2nades",
+     "size": 246366,
+     "sha256": "54de1d01d54716811bf44855fc7ab99bed5274167c6a1bbd380aae6b3ced2508",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "9z-vs-betboom-m2-ancient.v2.cs2stats",
+     "size": 775,
+     "sha256": "b0d365723b9ea23b3ae23a1cc89b9110fe2d1b5e2df5d7e15ba2e384b1c79477",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "9z-vs-betboom-m2-ancient.v2.cs2econ",
+     "size": 838,
+     "sha256": "f35ab0b674df0dfbe8cd39f6511080b1794f21ee29738eaf81a14db5c9a75007",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-g2-m3-ancient",
+   "teams": [
+    "parivision",
+    "g2"
+   ],
+   "map": "ancient",
+   "date": 1793608227,
+   "rank": 11,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-g2-m3-ancient.v2.cs2lib",
+     "size": 1685943,
+     "sha256": "c50352ca1e51244154255c2b610b289b3acfab4d6214d69097a2beb665258267",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "parivision-vs-g2-m3-ancient.v2.cs2nades",
+     "size": 296529,
+     "sha256": "f2d632d45db471dd0fde2990e01ed6b21ff7b2a550f0659361c0f81389f10859",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "parivision-vs-g2-m3-ancient.v2.cs2stats",
+     "size": 838,
+     "sha256": "42955df8a8daf0367067625d939c6a9da941c7395a1c37739ec455b1debecfa5",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "parivision-vs-g2-m3-ancient.v2.cs2econ",
+     "size": 950,
+     "sha256": "e493a10b7b8394f94e81e3a6a35063c25955766f46c278e095ff7533af8d0061",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "9z-vs-betboom-m1-dust2__iem-beijing-2026",
+   "teams": [
+    "9z",
+    "betboom"
+   ],
+   "map": "dust2",
+   "date": 1793606447,
+   "rank": 6,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "9z-vs-betboom-m1-dust2__iem-beijing-2026.v2.cs2lib",
+     "size": 1601463,
+     "sha256": "1965db5edd3d94c007a5bc332f02ab6ec72668dee686877e6657c8458cfaf4d9",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "9z-vs-betboom-m1-dust2__iem-beijing-2026.v2.cs2nades",
+     "size": 272159,
+     "sha256": "248f077afa963aef435b3a31ceb3cfd44999322aac6c6277be13f120fb465e7b",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "9z-vs-betboom-m1-dust2__iem-beijing-2026.v2.cs2stats",
+     "size": 817,
+     "sha256": "ad8f6748a29ec97104c2b520804a660a7b0592379c6b45c678f5ddf179ff7c2e",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "9z-vs-betboom-m1-dust2__iem-beijing-2026.v2.cs2econ",
+     "size": 903,
+     "sha256": "f5bd82924debbce61ea2c0dc9a2bbf82f698cb100606f1e2186f3fc93c308c6f",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-g2-m2-anubis",
+   "teams": [
+    "parivision",
+    "g2"
+   ],
+   "map": "anubis",
+   "date": 1793604436,
+   "rank": 11,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-g2-m2-anubis.v2.cs2lib",
+     "size": 1704561,
+     "sha256": "71e92ef6856dfa2c68973250072e5ee854680c3615e97da20b8937dc92de6dcf",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "parivision-vs-g2-m2-anubis.v2.cs2nades",
+     "size": 292975,
+     "sha256": "5a2bdd6e509dad92f9d192876c96e2c6e84e029af386fdc81dff422677b8c2b4",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "parivision-vs-g2-m2-anubis.v2.cs2stats",
+     "size": 783,
+     "sha256": "c69533acbb82f25c180efaaec338da32d9a7c66642059d2e06b75f62a51a4ccd",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "parivision-vs-g2-m2-anubis.v2.cs2econ",
+     "size": 831,
+     "sha256": "6f5cd6d0271ee14735e1544b22812e1f5691637572c9572028e864a34c354d34",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "parivision-vs-g2-m1-dust2",
+   "teams": [
+    "parivision",
+    "g2"
+   ],
+   "map": "dust2",
+   "date": 1793600581,
+   "rank": 11,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "parivision-vs-g2-m1-dust2.v2.cs2lib",
+     "size": 1923427,
+     "sha256": "5a434dac91bcfdf3ffacf352ac7c492fd87af99ef5fcfa34cbeb07953171befd",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "parivision-vs-g2-m1-dust2.v2.cs2nades",
+     "size": 323455,
+     "sha256": "c2284b9f76750f6af2d041e145ce092e53001cfc0c4217d1246bbfec9000de04",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "parivision-vs-g2-m1-dust2.v2.cs2stats",
+     "size": 830,
+     "sha256": "b023592921a750760106fd95b4897161b608c7e7e76c31efc3695677cfcd0b67",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "parivision-vs-g2-m1-dust2.v2.cs2econ",
+     "size": 922,
+     "sha256": "0f89a84c88382ecd6d0c66f101cbf6918f3e063d21cc03fb12c4252c5c91e13e",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-liquid-m2-anubis",
+   "teams": [
+    "aurora",
+    "liquid"
+   ],
+   "map": "anubis",
+   "date": 1793599396,
+   "rank": 4,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-liquid-m2-anubis.v2.cs2lib",
+     "size": 1280243,
+     "sha256": "0fddb89751366c90f858fc748c8730312ff015f01ef8f52953d779fd181a1fb4",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-liquid-m2-anubis.v2.cs2nades",
+     "size": 220800,
+     "sha256": "88f125cf6a7389156ee80233cea1859cd5ec00a5828062a351e32cd2e0ef7ec2",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-liquid-m2-anubis.v2.cs2stats",
+     "size": 714,
+     "sha256": "513ae7b0b1e18de477c8d520d7359e5d385ae1fb2e2b51efe045dfb9c147e4c5",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-liquid-m2-anubis.v2.cs2econ",
+     "size": 776,
+     "sha256": "c835c28c36d77640bfe9e4292ad52e47c1ff5854f49a728809c7bb74863078ac",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
    "stem": "legacy-vs-the-mongolz-m3-ancient",
    "teams": [
     "legacy",
@@ -924,6 +2026,44 @@
      "name": "legacy-vs-the-mongolz-m3-ancient.v2.cs2econ",
      "size": 897,
      "sha256": "bd28dfd8a18fda958b1f8e7123bc92b8838a3ca23cdf7e2a563bc7d474ed9f2e",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "aurora-vs-liquid-m1-inferno",
+   "teams": [
+    "aurora",
+    "liquid"
+   ],
+   "map": "inferno",
+   "date": 1793596171,
+   "rank": 4,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "aurora-vs-liquid-m1-inferno.v2.cs2lib",
+     "size": 1226221,
+     "sha256": "2cee4627d069f1388f895834fa1686f7e6386d5380a77486e92fadd79c0e9049",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "aurora-vs-liquid-m1-inferno.v2.cs2nades",
+     "size": 209741,
+     "sha256": "cd63c0527ded48c2a8124fe65326b2f009476ca3843d2e46c1c996babb420033",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "aurora-vs-liquid-m1-inferno.v2.cs2stats",
+     "size": 709,
+     "sha256": "d224d5d2b3055e8f6829a6905e74e1088f7c110df65e38dd5e5dc9f6cce32c7f",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "aurora-vs-liquid-m1-inferno.v2.cs2econ",
+     "size": 718,
+     "sha256": "b4585fa7702eaceecf2ae02ae1f05296ecf344fa3f8f573154bad9c02384f6e3",
      "rel": "library-3"
     }
    }
