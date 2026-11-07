@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1794051007,
+ "updated": 1794058139,
  "ranks": {
   "mouz": 1,
   "vitality": 2,
@@ -358,6 +358,82 @@
   "exodia": 376
  },
  "demos": [
+  {
+   "stem": "mouz-vs-betboom-m2-mirage__iem-beijing-2026-nov07",
+   "teams": [
+    "mouz",
+    "betboom"
+   ],
+   "map": "mirage",
+   "date": 1794051316,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-betboom-m2-mirage__iem-beijing-2026-nov07.v2.cs2lib",
+     "size": 1474566,
+     "sha256": "f75b8c68b265b999e4afbb39e79f03b73d24049415c56e473e70247c4eb2bcbc",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-betboom-m2-mirage__iem-beijing-2026-nov07.v2.cs2nades",
+     "size": 258033,
+     "sha256": "ea72110fcb0423b10f6fa7dc3b8a130bb310a754adaffe7783929d9b0240611a",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-betboom-m2-mirage__iem-beijing-2026-nov07.v2.cs2stats",
+     "size": 833,
+     "sha256": "3a557dedd30dacdb54bf95dac1014279306a3f9e3372364bde9a63a93a00ec12",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-betboom-m2-mirage__iem-beijing-2026-nov07.v2.cs2econ",
+     "size": 909,
+     "sha256": "131954155894751fd848bcf3d1008e63c8781798735109e50f43db1f5f6fb78a",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "mouz-vs-betboom-m1-ancient__iem-beijing-2026-nov07",
+   "teams": [
+    "mouz",
+    "betboom"
+   ],
+   "map": "ancient",
+   "date": 1794047702,
+   "rank": 1,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "mouz-vs-betboom-m1-ancient__iem-beijing-2026-nov07.v2.cs2lib",
+     "size": 1577718,
+     "sha256": "3257fb772fae1efd5006d94c637a74fa531902216b793dafc5842669944f8883",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "mouz-vs-betboom-m1-ancient__iem-beijing-2026-nov07.v2.cs2nades",
+     "size": 274662,
+     "sha256": "436c3abcd944dfcdbff6c431b8ebf2d3da760c5cb8a8d3b237410cf0ba61e47b",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "mouz-vs-betboom-m1-ancient__iem-beijing-2026-nov07.v2.cs2stats",
+     "size": 839,
+     "sha256": "a8b685b338f59db74285cdde80a2b155d46f16aabcfdf66744b29d01b16d39fe",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "mouz-vs-betboom-m1-ancient__iem-beijing-2026-nov07.v2.cs2econ",
+     "size": 881,
+     "sha256": "af9f0e578955d125bb14ffa0be2b0a7044dc6d8a9baccc60647c816f7e625245",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "the-mongolz-vs-natus-vincere-m2-inferno__iem-beijing-2026",
    "teams": [
