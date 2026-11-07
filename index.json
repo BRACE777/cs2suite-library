@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1794043554,
+ "updated": 1794051007,
  "ranks": {
   "mouz": 1,
   "vitality": 2,
@@ -358,6 +358,82 @@
   "exodia": 376
  },
  "demos": [
+  {
+   "stem": "the-mongolz-vs-natus-vincere-m2-inferno__iem-beijing-2026",
+   "teams": [
+    "the-mongolz",
+    "natus-vincere"
+   ],
+   "map": "inferno",
+   "date": 1794041184,
+   "rank": 13,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-natus-vincere-m2-inferno__iem-beijing-2026.v2.cs2lib",
+     "size": 1995032,
+     "sha256": "2ee5ba03299f850e76e4abd94dc1cc6500ef1ca936afaffe70367c86cc864581",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-natus-vincere-m2-inferno__iem-beijing-2026.v2.cs2nades",
+     "size": 337255,
+     "sha256": "a6005d4e438e9e51fa083b102a4d6e6373d6c0758e7711051a23bafe569ad816",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-natus-vincere-m2-inferno__iem-beijing-2026.v2.cs2stats",
+     "size": 923,
+     "sha256": "14a66865310ea9be5727ff9fcf6ddf7f1b4b1fd5bced9dbcc5d14d51b970bba0",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-natus-vincere-m2-inferno__iem-beijing-2026.v2.cs2econ",
+     "size": 1022,
+     "sha256": "c55b39c91e454c17e50b58574dc6f5f6bc9ccdf57209867bfe0e84089519004e",
+     "rel": "library-3"
+    }
+   }
+  },
+  {
+   "stem": "the-mongolz-vs-natus-vincere-m1-cache",
+   "teams": [
+    "the-mongolz",
+    "natus-vincere"
+   ],
+   "map": "cache",
+   "date": 1794036769,
+   "rank": 13,
+   "event": "iem-beijing-2026",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "the-mongolz-vs-natus-vincere-m1-cache.v2.cs2lib",
+     "size": 1917958,
+     "sha256": "99bb90732a4514714d06820864c17778675301e0103440094e30747b7fa744ac",
+     "rel": "library-3"
+    },
+    "nades": {
+     "name": "the-mongolz-vs-natus-vincere-m1-cache.v2.cs2nades",
+     "size": 330651,
+     "sha256": "8507bec81883c704aefc4a1172da5cd9e3e83b951462d0ffdd76439f077deeb4",
+     "rel": "library-3"
+    },
+    "stats": {
+     "name": "the-mongolz-vs-natus-vincere-m1-cache.v2.cs2stats",
+     "size": 894,
+     "sha256": "39a0e4fdbc7d6c1d299924483b23613ee13c5ad244b4a6e705f0c4732e18ad24",
+     "rel": "library-3"
+    },
+    "econ": {
+     "name": "the-mongolz-vs-natus-vincere-m1-cache.v2.cs2econ",
+     "size": 950,
+     "sha256": "f5f7defbe622b48a98b98757acd885a71911a03f621328a8c3ff9153c1dbad7d",
+     "rel": "library-3"
+    }
+   }
+  },
   {
    "stem": "furia-vs-betboom-m3-nuke__iem-beijing-2026",
    "teams": [
