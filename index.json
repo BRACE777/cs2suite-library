@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1794573846,
+ "updated": 1794628469,
  "ranks": {
   "mouz": 1,
   "vitality": 2,
@@ -358,6 +358,652 @@
   "exodia": 376
  },
  "demos": [
+  {
+   "stem": "g2-vs-falcons-m1-dust2",
+   "teams": [
+    "g2",
+    "falcons"
+   ],
+   "map": "dust2",
+   "date": 1794579114,
+   "rank": 7,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-falcons-m1-dust2.v2.cs2lib",
+     "size": 2170701,
+     "sha256": "80e149ec185a55afae6cfd451ca381788b3ae391d8ed19fd6cb898b20eb9d703",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "g2-vs-falcons-m1-dust2.v2.cs2nades",
+     "size": 370509,
+     "sha256": "ddd728e10e31d130f319db3a2baf10f36bcce6d7dd6a3f0fee67d7db77916e31",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "g2-vs-falcons-m1-dust2.v2.cs2stats",
+     "size": 867,
+     "sha256": "ac5c7a2be072a21474d91a758d6b5071c7020d7dac77a47e969d28349b9112c0",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "g2-vs-falcons-m1-dust2.v2.cs2econ",
+     "size": 966,
+     "sha256": "f572f0779c534f3dc7cee55570c89511cfeade65ffddf2d6108a6150c29ac58a",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-falcons-m3-anubis",
+   "teams": [
+    "g2",
+    "falcons"
+   ],
+   "map": "anubis",
+   "date": 1794579098,
+   "rank": 7,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-falcons-m3-anubis.v2.cs2lib",
+     "size": 1693919,
+     "sha256": "6804f96d67f2c8dc558b37884c640ef3a9521366f8dc9320753d3a63bd503f50",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "g2-vs-falcons-m3-anubis.v2.cs2nades",
+     "size": 296958,
+     "sha256": "72ff2130c9f0ee5964f16523f25fda47d1a8576108c79e8102d9a9902daa8502",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "g2-vs-falcons-m3-anubis.v2.cs2stats",
+     "size": 790,
+     "sha256": "93f1f60b27e6cf2a2a7c9b09493515863f0757a4b94291b422d12c1942001444",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "g2-vs-falcons-m3-anubis.v2.cs2econ",
+     "size": 873,
+     "sha256": "3fa694b3e4d5d893d9bfe2d448f0a36c7d4ebe19e4abea68c033f46a042789dd",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "g2-vs-falcons-m2-mirage",
+   "teams": [
+    "g2",
+    "falcons"
+   ],
+   "map": "mirage",
+   "date": 1794579082,
+   "rank": 7,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "g2-vs-falcons-m2-mirage.v2.cs2lib",
+     "size": 1055257,
+     "sha256": "71539ef6a0bc46acbe941c6262f05c43a81734228563dbc9e68b29fbc1f1a59d",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "g2-vs-falcons-m2-mirage.v2.cs2nades",
+     "size": 185558,
+     "sha256": "6dc51d64f698359c86ed7da273dfd4e3008b5a1509837afacbcb26ab3ae2e1e8",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "g2-vs-falcons-m2-mirage.v2.cs2stats",
+     "size": 638,
+     "sha256": "c1b15406b73e94906d91dc802c1af3525ce0abf797347dbf306d90008e4b007d",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "g2-vs-falcons-m2-mirage.v2.cs2econ",
+     "size": 674,
+     "sha256": "920e6367fe66fc68e48224f1b503fbdff505d20713ba3978ef3ca816e7ca60ed",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-mouz-m2-cache",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "cache",
+   "date": 1794564639,
+   "rank": 1,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m2-cache.v2.cs2lib",
+     "size": 2007374,
+     "sha256": "e4290c84d2bab718cb164ade66c798c640159b14e44985a5f797e1244af3d555",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m2-cache.v2.cs2nades",
+     "size": 355711,
+     "sha256": "623d98b56421e455aeb35db66c9ba59b20bb7627aa9d812a8bde08a2fd20f709",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m2-cache.v2.cs2stats",
+     "size": 1038,
+     "sha256": "d37638baad38d3c3ffd9155c378b6e7d41a774c7fde09df9829632b5b95cb7b8",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m2-cache.v2.cs2econ",
+     "size": 1171,
+     "sha256": "538657a20363dba32bfb640fbdcd84cf6506ea16bae4827eda2912244908d10c",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-mouz-m1-mirage",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "mirage",
+   "date": 1794561429,
+   "rank": 1,
+   "event": "iem-rio-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2lib",
+     "size": 1627495,
+     "sha256": "6e8ddf8be840bdb2e8c6cf48730f4cf227128afbaa9086e97bac09c909be73bd",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2nades",
+     "size": 283152,
+     "sha256": "915e60464cd25453d8442d1dea48fb2a569c77d785596f36b769fcc1ea400191",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2stats",
+     "size": 815,
+     "sha256": "67aca18f10a6abec1588d619457f426e97aed7cf67bb34f279e49c347bc42214",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2econ",
+     "size": 891,
+     "sha256": "ac2cd88a2cdae61b14356ff42b1a1b42f4595067640e12e8d75ef24686ca4122",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "vitality-vs-mouz-m1-mirage__blast-rivals-2026-season-2",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "mirage",
+   "date": 1794561429,
+   "rank": 1,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m1-mirage__blast-rivals-2026-season-2.v2.cs2lib",
+     "size": 1627560,
+     "sha256": "3a90ea0664833d160c02b26072caec762549c42fb3ebd840127b39ee7a59a7ce",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m1-mirage__blast-rivals-2026-season-2.v2.cs2nades",
+     "size": 283182,
+     "sha256": "bba41c272159542251827c93aae6e557e36bafe26649c32a6a38d38349ed78bd",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m1-mirage__blast-rivals-2026-season-2.v2.cs2stats",
+     "size": 838,
+     "sha256": "4f6daecf236d6aec32dc0fe9952c58f04d353d07e6f3138dbbd9eaa54b2fba9d",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m1-mirage__blast-rivals-2026-season-2.v2.cs2econ",
+     "size": 915,
+     "sha256": "66937ff9b7dd1478ec471cf5d84811ac275858a7c1039783dd78b8fe6263bcf5",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-g2-m1-mirage",
+   "teams": [
+    "spirit",
+    "g2"
+   ],
+   "map": "mirage",
+   "date": 1794491417,
+   "rank": 5,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-g2-m1-mirage.v2.cs2lib",
+     "size": 1628345,
+     "sha256": "9b8f1f04bc6cb16fbd54507b76364ff119c47e4668c1a78e7fc39968c3e07a0d",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "spirit-vs-g2-m1-mirage.v2.cs2nades",
+     "size": 284875,
+     "sha256": "0f183c89d42cb055c28097bc8e6b1913759b9786949147cc71644d10775d972b",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "spirit-vs-g2-m1-mirage.v2.cs2stats",
+     "size": 802,
+     "sha256": "bec4850b60af6c96f41981f4f3c578eb37b73129105828cbb388fc244641abd7",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "spirit-vs-g2-m1-mirage.v2.cs2econ",
+     "size": 887,
+     "sha256": "0ac6636baabc1f90cc96bfd41d57f881ff5c0e32afdcdb044ea57669e123d56b",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-g2-m2-nuke",
+   "teams": [
+    "spirit",
+    "g2"
+   ],
+   "map": "nuke",
+   "date": 1794491413,
+   "rank": 5,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-g2-m2-nuke.v2.cs2lib",
+     "size": 1308458,
+     "sha256": "5d14a217b479dfae0c6c31c6c805d29bf91e6b6cfcae05366e31fb20257819f2",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "spirit-vs-g2-m2-nuke.v2.cs2nades",
+     "size": 232107,
+     "sha256": "4f1802741d4c6e5233b2a9602956aa01390e5137b86813ffac8778c8b993173a",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "spirit-vs-g2-m2-nuke.v2.cs2stats",
+     "size": 728,
+     "sha256": "fd4980282804a1b63cdab7a86f690599ca83aba5bdaf8698e0cb3614011a66e2",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "spirit-vs-g2-m2-nuke.v2.cs2econ",
+     "size": 822,
+     "sha256": "b6c19409497ade035ee42f4ffd1b6e0491cb8b6fec3f0a9589f23c6984000b44",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "spirit-vs-g2-m3-ancient",
+   "teams": [
+    "spirit",
+    "g2"
+   ],
+   "map": "ancient",
+   "date": 1794491410,
+   "rank": 5,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "spirit-vs-g2-m3-ancient.v2.cs2lib",
+     "size": 1307086,
+     "sha256": "81c0305b1e9f361458afa7d2ecdab92e07e704c6996c1c28bb47cf468161ca7e",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "spirit-vs-g2-m3-ancient.v2.cs2nades",
+     "size": 231886,
+     "sha256": "aa3238edcf8ba0a14d96f18fa757ba310d68fff7dc2538af5d43e88e94e7cb27",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "spirit-vs-g2-m3-ancient.v2.cs2stats",
+     "size": 707,
+     "sha256": "083ac2fabda030a75739e66861755238f411afdaa541765b9441a9f12e6de8d1",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "spirit-vs-g2-m3-ancient.v2.cs2econ",
+     "size": 779,
+     "sha256": "ccae35bc43491e2222b07f35fc2022d1510dd7ce4a62aed77aad4865498d648f",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "fut-vs-mouz-m3-nuke",
+   "teams": [
+    "fut",
+    "mouz"
+   ],
+   "map": "nuke",
+   "date": 1794479685,
+   "rank": 1,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "fut-vs-mouz-m3-nuke.v2.cs2lib",
+     "size": 1199753,
+     "sha256": "a2a55be484b1227b12c9587552270dcc452ca6403f4b4d4e26fc0b9967cf8242",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "fut-vs-mouz-m3-nuke.v2.cs2nades",
+     "size": 205542,
+     "sha256": "823d59fc69095016b5ff1503026d4ab9c70a51b151ddaddb791e162436889fb3",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "fut-vs-mouz-m3-nuke.v2.cs2stats",
+     "size": 663,
+     "sha256": "957cfa19df9e6a5099b5f682275c3b05eddf60de364818b666a730d662417cd2",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "fut-vs-mouz-m3-nuke.v2.cs2econ",
+     "size": 747,
+     "sha256": "5fcaad7370f864892094d6d876e8e9a7dc2fec1446439597bbcbb7f3ca2f36c8",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "fut-vs-mouz-m1-cache",
+   "teams": [
+    "fut",
+    "mouz"
+   ],
+   "map": "cache",
+   "date": 1794479320,
+   "rank": 1,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "fut-vs-mouz-m1-cache.v2.cs2lib",
+     "size": 2437329,
+     "sha256": "6eb952155bbc6ea52b55e4ecfce666b83cbb3887f9b776b509f9d3876842d621",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "fut-vs-mouz-m1-cache.v2.cs2nades",
+     "size": 444771,
+     "sha256": "0c43744c04055ae41f5a6630625600b4501bbfae278aa3465cfedaa9a440baa7",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "fut-vs-mouz-m1-cache.v2.cs2stats",
+     "size": 1121,
+     "sha256": "db25b43bef0351bcbca1514a8bf2d166beb59d9bfcb08df9ae6341bfa3e2f0d0",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "fut-vs-mouz-m1-cache.v2.cs2econ",
+     "size": 1316,
+     "sha256": "a38f5f4f1a6e9d50c117b1894771e0cd534b2039bf75a6761df6ede00332e7b0",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "fut-vs-mouz-m2-mirage",
+   "teams": [
+    "fut",
+    "mouz"
+   ],
+   "map": "mirage",
+   "date": 1794479319,
+   "rank": 1,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "fut-vs-mouz-m2-mirage.v2.cs2lib",
+     "size": 2056325,
+     "sha256": "a20ca6e2087b4494ce4d0e03b5416ec66febbe2b07695f0633fd66e995a46f86",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "fut-vs-mouz-m2-mirage.v2.cs2nades",
+     "size": 367253,
+     "sha256": "5ffa8a6644807c1284b7458687f08ddca77374c3cc215fea9219eee9c3d40ea7",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "fut-vs-mouz-m2-mirage.v2.cs2stats",
+     "size": 1009,
+     "sha256": "14e3180cb97ca7eb528b5517bdbd91ab167bcd08a6b3cc2835d86d17ae1a1cca",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "fut-vs-mouz-m2-mirage.v2.cs2econ",
+     "size": 1176,
+     "sha256": "edfd423bff9f13782061cf68bba660b95f1e1e76828d2ff412892555c67e2757",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-vitality-m1-inferno",
+   "teams": [
+    "furia",
+    "vitality"
+   ],
+   "map": "inferno",
+   "date": 1794466897,
+   "rank": 2,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-vitality-m1-inferno.v2.cs2lib",
+     "size": 1409887,
+     "sha256": "2ff6c1ba81508780a9692f31db7d63908c9bf2c5185a50b8750d24055f3149ca",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "furia-vs-vitality-m1-inferno.v2.cs2nades",
+     "size": 241511,
+     "sha256": "3e9926050f5e9f0d576ae4b558f33e3d529ad1e63d110ab18032d99d85cb0c11",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "furia-vs-vitality-m1-inferno.v2.cs2stats",
+     "size": 747,
+     "sha256": "def0b2098ba65f7efc73ff8100b0548cbc80ad763e8651b85d2a78feffc5da90",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "furia-vs-vitality-m1-inferno.v2.cs2econ",
+     "size": 796,
+     "sha256": "cb2dcd0bd7c5a463862509dd6dfac1de7c2214cc37ae19a341ed667ef4d5c70b",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-vitality-m2-dust2",
+   "teams": [
+    "furia",
+    "vitality"
+   ],
+   "map": "dust2",
+   "date": 1794466895,
+   "rank": 2,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-vitality-m2-dust2.v2.cs2lib",
+     "size": 1906068,
+     "sha256": "3afaaa0e00295f32c16c35a2b255cff716b59dafcbfb5a3e276e78afeb51a9ee",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "furia-vs-vitality-m2-dust2.v2.cs2nades",
+     "size": 321963,
+     "sha256": "3ee99fce155dc68d082a0852ed26d433df89a8eca64ac3961e8601ebb00e9e97",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "furia-vs-vitality-m2-dust2.v2.cs2stats",
+     "size": 861,
+     "sha256": "e0fa6305e6aa251ba6f67f4aa71aa40221efeace17502d195084274030869c30",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "furia-vs-vitality-m2-dust2.v2.cs2econ",
+     "size": 951,
+     "sha256": "15e3c45e5cbd6bae2efd43bbfcbbd13bfc6e3d8782f435c8d71f3360f8a15f74",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "furia-vs-vitality-m3-mirage",
+   "teams": [
+    "furia",
+    "vitality"
+   ],
+   "map": "mirage",
+   "date": 1794466886,
+   "rank": 2,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "furia-vs-vitality-m3-mirage.v2.cs2lib",
+     "size": 886188,
+     "sha256": "830d2860d1e45b2015622ba4a23cddc4e4c41ac14c59136e6a042db07a34f242",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "furia-vs-vitality-m3-mirage.v2.cs2nades",
+     "size": 156925,
+     "sha256": "77670acde9a84bdfc1f99f9c3bc134cf935f354a906fe12bc3a94edb5af76179",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "furia-vs-vitality-m3-mirage.v2.cs2stats",
+     "size": 598,
+     "sha256": "a514c6bddf8b51132cb5823cb53ce827d002f9185c138c304b2f4bca0416c210",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "furia-vs-vitality-m3-mirage.v2.cs2econ",
+     "size": 609,
+     "sha256": "213682d524b0b150275925088f16e5bca49a587cc56b09b0ec250723f4cb3dc3",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-falcons-m2-mirage",
+   "teams": [
+    "legacy",
+    "falcons"
+   ],
+   "map": "mirage",
+   "date": 1794457189,
+   "rank": 7,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-falcons-m2-mirage.v2.cs2lib",
+     "size": 1338899,
+     "sha256": "37c1bee2095cdf42fc477f1093f3bb3b05facc02cc4fe2af9ceb4b0085a88b12",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "legacy-vs-falcons-m2-mirage.v2.cs2nades",
+     "size": 230444,
+     "sha256": "0d192802875d2ce6d62407b40677e904d39182c26fad3cb64998eecf68cb898b",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "legacy-vs-falcons-m2-mirage.v2.cs2stats",
+     "size": 746,
+     "sha256": "2632da21f2bb054f9e727c8529165586fdf447926f428a80edc819710ff38988",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "legacy-vs-falcons-m2-mirage.v2.cs2econ",
+     "size": 807,
+     "sha256": "47251ef398f5911355fbc74ea755712627f344aa2a70e8140708ac3561c3d0c2",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
+   "stem": "legacy-vs-falcons-m1-dust2",
+   "teams": [
+    "legacy",
+    "falcons"
+   ],
+   "map": "dust2",
+   "date": 1794457180,
+   "rank": 7,
+   "event": "blast-rivals-2026-season-2",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "legacy-vs-falcons-m1-dust2.v2.cs2lib",
+     "size": 1745460,
+     "sha256": "432618716e7a177f37471aa1a55ae81a87e0275c66a53f3123d5d8e25bd0e1ad",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "legacy-vs-falcons-m1-dust2.v2.cs2nades",
+     "size": 292006,
+     "sha256": "e02996e8b52fb37480236c3274d4dbc1f2ed21dd81d8e516a33e8c4ccdfb0245",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "legacy-vs-falcons-m1-dust2.v2.cs2stats",
+     "size": 788,
+     "sha256": "6982c34ae7a493d075b3929f177225c221a3563d7930ad51ef78c4830103bc75",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "legacy-vs-falcons-m1-dust2.v2.cs2econ",
+     "size": 918,
+     "sha256": "5176ec08605a06f40a75812628195df00a9c55ca61a2a89129eb53a738884eb3",
+     "rel": "library-4"
+    }
+   }
+  },
   {
    "stem": "mouz-vs-g2-m2-ancient__blast-rivals-2026-season-2",
    "teams": [
