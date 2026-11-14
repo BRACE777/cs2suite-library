@@ -1,6 +1,6 @@
 {
  "format": "cs2suite-library-index",
- "updated": 1794628469,
+ "updated": 1794634934,
  "ranks": {
   "mouz": 1,
   "vitality": 2,
@@ -359,6 +359,44 @@
  },
  "demos": [
   {
+   "stem": "vitality-vs-mouz-m1-mirage",
+   "teams": [
+    "vitality",
+    "mouz"
+   ],
+   "map": "mirage",
+   "date": 1794628335,
+   "rank": 1,
+   "event": "iem-rio-2024",
+   "cache_version": 2,
+   "files": {
+    "demo": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2lib",
+     "size": 1627495,
+     "sha256": "6e8ddf8be840bdb2e8c6cf48730f4cf227128afbaa9086e97bac09c909be73bd",
+     "rel": "library-4"
+    },
+    "nades": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2nades",
+     "size": 283152,
+     "sha256": "915e60464cd25453d8442d1dea48fb2a569c77d785596f36b769fcc1ea400191",
+     "rel": "library-4"
+    },
+    "stats": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2stats",
+     "size": 815,
+     "sha256": "67aca18f10a6abec1588d619457f426e97aed7cf67bb34f279e49c347bc42214",
+     "rel": "library-4"
+    },
+    "econ": {
+     "name": "vitality-vs-mouz-m1-mirage.v2.cs2econ",
+     "size": 891,
+     "sha256": "ac2cd88a2cdae61b14356ff42b1a1b42f4595067640e12e8d75ef24686ca4122",
+     "rel": "library-4"
+    }
+   }
+  },
+  {
    "stem": "g2-vs-falcons-m1-dust2",
    "teams": [
     "g2",
@@ -506,44 +544,6 @@
      "name": "vitality-vs-mouz-m2-cache.v2.cs2econ",
      "size": 1171,
      "sha256": "538657a20363dba32bfb640fbdcd84cf6506ea16bae4827eda2912244908d10c",
-     "rel": "library-4"
-    }
-   }
-  },
-  {
-   "stem": "vitality-vs-mouz-m1-mirage",
-   "teams": [
-    "vitality",
-    "mouz"
-   ],
-   "map": "mirage",
-   "date": 1794561429,
-   "rank": 1,
-   "event": "iem-rio-2024",
-   "cache_version": 2,
-   "files": {
-    "demo": {
-     "name": "vitality-vs-mouz-m1-mirage.v2.cs2lib",
-     "size": 1627495,
-     "sha256": "6e8ddf8be840bdb2e8c6cf48730f4cf227128afbaa9086e97bac09c909be73bd",
-     "rel": "library-4"
-    },
-    "nades": {
-     "name": "vitality-vs-mouz-m1-mirage.v2.cs2nades",
-     "size": 283152,
-     "sha256": "915e60464cd25453d8442d1dea48fb2a569c77d785596f36b769fcc1ea400191",
-     "rel": "library-4"
-    },
-    "stats": {
-     "name": "vitality-vs-mouz-m1-mirage.v2.cs2stats",
-     "size": 815,
-     "sha256": "67aca18f10a6abec1588d619457f426e97aed7cf67bb34f279e49c347bc42214",
-     "rel": "library-4"
-    },
-    "econ": {
-     "name": "vitality-vs-mouz-m1-mirage.v2.cs2econ",
-     "size": 891,
-     "sha256": "ac2cd88a2cdae61b14356ff42b1a1b42f4595067640e12e8d75ef24686ca4122",
      "rel": "library-4"
     }
    }
